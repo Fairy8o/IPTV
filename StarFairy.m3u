@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 ,====== 🦄线路1,#genre# ======
 http://0/0.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-1 综合
+#EXTINF:-1 ,CCTV-1 综合
 http://60.205.114.16/ysp/cctv1.m3u8
-#EXTINF:-1 group-title="央视频道",CCTV-2 综合
+#EXTINF:-1 ,CCTV-2 财经
 http://60.205.114.16/ysp/cctv2.m3u8
 #EXTINF:-1 ,CCTV-3 综艺
 http://60.205.114.16/ysp/cctv3.m3u8
