@@ -3,6 +3,92 @@
 #EXT-X-APTV-TYPE remote
 #EXT-X-SUB-URL https://cccimg.com/down.php/73e7e245da2d6bd4693aea0eee859984.txt
 
+
+#EXTINF:-1 group-title="🦄线路0.5",CCTV-1 综合
+http://112.132.181.221:9988/hls/1/index.m3u8
+#EXTINF:-1 group-title="🦄线路0.5",CCTV-2 财经
+http://112.132.181.221:9988/hls/2/index.m3u8
+#EXTINF:-1 group-title="🦄线路0.5",CCTV-3 综艺
+http://112.132.181.221:9988/hls/3/index.m3u8
+#EXTINF:-1 group-title="🦄线路0.5",CCTV-4 中文国际
+http://112.132.181.221:9988/hls/4/index.m3u8
+#EXTINF:-1 group-title="🦄线路0.5",CCTV-5 体育
+http://112.132.181.221:9988/hls/5/index.m3u8
+#EXTINF:-1 group-title="🦄线路0.5",CCTV-5+ 体育赛事
+http://112.132.181.221:9988/hls/6/index.m3u8
+#EXTINF:-1 group-title="🦄线路0.5",CCTV-6 电影
+http://112.132.181.221:9988/hls/7/index.m3u8
+#EXTINF:-1 group-title="🦄线路0.5",CCTV-7 国防军事
+http://112.132.181.221:9988/hls/8/index.m3u8
+#EXTINF:-1 group-title="🦄线路0.5",CCTV-8 电视剧
+http://112.132.181.221:9988/hls/9/index.m3u8
+#EXTINF:-1 group-title="🦄线路0.5",CCTV-9 纪录
+http://112.132.181.221:9988/hls/10/index.m3u8
+#EXTINF:-1 group-title="🦄线路0.5",CCTV-10 科教
+http://112.132.181.221:9988/hls/11/index.m3u8
+#EXTINF:-1 group-title="🦄线路0.5",CCTV-11 戏曲
+http://112.132.181.221:9988/hls/12/index.m3u8
+#EXTINF:-1 group-title="🦄线路0.5",CCTV-12 社会与法
+http://112.132.181.221:9988/hls/13/index.m3u8
+#EXTINF:-1 group-title="🦄线路0.5",CCTV-13 新闻
+http://112.132.181.221:9988/hls/14/index.m3u8
+#EXTINF:-1 group-title="🦄线路0.5",CCTV-14 少儿
+http://112.132.181.221:9988/hls/15/index.m3u8
+#EXTINF:-1 group-title="🦄线路0.5",CCTV-15 音乐
+http://112.132.181.221:9988/hls/16/index.m3u8
+
+
+#EXTINF:-1 group-title="🦄线路1",北京卫视
+http://112.132.181.221:9988/hls/24/index.m3u8
+#EXTINF:-1 group-title="🦄线路1",东方卫视
+http://60.205.114.16/ysp/dfws.m3u8
+#EXTINF:-1 group-title="🦄线路1",天津卫视
+http://60.205.114.16/ysp/tjws.m3u8
+#EXTINF:-1 group-title="🦄线路1",重庆卫视
+http://60.205.114.16/ysp/cqws.m3u8
+#EXTINF:-1 group-title="🦄线路1",黑龙江卫视
+http://60.205.114.16/ysp/hljws.m3u8
+#EXTINF:-1 group-title="🦄线路1",辽宁卫视
+http://60.205.114.16/ysp/lnws.m3u8
+#EXTINF:-1 group-title="🦄线路1",河北卫视
+http://60.205.114.16/ysp/hbws.m3u8
+#EXTINF:-1 group-title="🦄线路1",山东卫视
+http://60.205.114.16/ysp/sdws.m3u8
+#EXTINF:-1 group-title="🦄线路1",安徽卫视
+http://60.205.114.16/ysp/ahws.m3u8
+#EXTINF:-1 group-title="🦄线路1",河南卫视
+http://60.205.114.16/ysp/hnws.m3u8
+#EXTINF:-1 group-title="🦄线路1",湖北卫视
+http://60.205.114.16/ysp/hubws.m3u8
+#EXTINF:-1 group-title="🦄线路1",湖南卫视
+http://60.205.114.16/ysp/hunws.m3u8
+#EXTINF:-1 group-title="🦄线路1",江西卫视
+http://60.205.114.16/ysp/jxws.m3u8
+#EXTINF:-1 group-title="🦄线路1",江苏卫视
+http://60.205.114.16/ysp/jsws.m3u8
+#EXTINF:-1 group-title="🦄线路1",浙江卫视
+http://60.205.114.16/ysp/zjws.m3u8
+#EXTINF:-1 group-title="🦄线路1",东南卫视
+http://60.205.114.16/ysp/dnws.m3u8
+#EXTINF:-1 group-title="🦄线路1",广东卫视
+http://60.205.114.16/ysp/gdws.m3u8
+#EXTINF:-1 group-title="🦄线路1",深圳卫视
+http://60.205.114.16/ysp/szws.m3u8
+#EXTINF:-1 group-title="🦄线路1",广西卫视
+http://60.205.114.16/ysp/gxws.m3u8
+#EXTINF:-1 group-title="🦄线路1",贵州卫视
+http://60.205.114.16/ysp/gzws.m3u8
+#EXTINF:-1 group-title="🦄线路1",四川卫视
+http://60.205.114.16/ysp/scws.m3u8
+#EXTINF:-1 group-title="🦄线路1",新疆卫视
+http://60.205.114.16/ysp/xjws.m3u8
+#EXTINF:-1 group-title="🦄线路1",海南卫视
+http://60.205.114.16/ysp/hinws.m3u8
+
+
+
+
+
 #EXTINF:-1 group-title="🦄线路1",CCTV-1 综合
 http://60.205.114.16/ysp/cctv1.m3u8
 #EXTINF:-1 group-title="🦄线路1",CCTV-2 财经
