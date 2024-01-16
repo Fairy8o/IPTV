@@ -3,6 +3,8 @@
 http://222.223.119.21:8888/newlive/live/hls/20/live.m3u8
 #EXTINF:-1 ,东方卫视-移动线路
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
+#EXTINF:-1 ,CCTV-6
+http://112.132.181.221:9988/hls/7/index.m3u8
 #EXTINF:-1 ,CCTV-6-移动线路
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 #EXTINF:-1 ,日本BS台
