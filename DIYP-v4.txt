@@ -2875,17 +2875,17 @@ XJYY影院,http://39.134.66.66/PLTV/88888888/224/3221225521/index.m3u8
 「上海」上海五星体育,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 「上海」上海五星体育,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000007/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
 🦄广东频道,#genre#
-「广东」卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225966/index.m3u8
-「广东」卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001032/index.m3u8
-「广东」卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001032/index.m3u8?
-「广东」卫视,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001032/1.m3u8
-「广东」少儿,http://www.namewee.xyz/gudou.php?id=1457
-「广东」少儿,http://www.namewee.xyz/gudou.php?id=1457_4500
-「广东」嘉佳卡通,http://www.namewee.xyz/gudou.php?id=1459_4500
-「广东」体育,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8
-「广东」珠江,http://218.13.170.98:9901/tsfile/live/1000_1.m3u8
-「广东」珠江,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000033/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000033&livemode=1&stbId=3
-「广东」珠江,http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011655/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3
+「广东」广东卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225966/index.m3u8
+「广东」广东卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001032/index.m3u8
+「广东」广东卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001032/index.m3u8?
+「广东」广东卫视,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001032/1.m3u8
+「广东」广东少儿,http://www.namewee.xyz/gudou.php?id=1457
+「广东」广东少儿,http://www.namewee.xyz/gudou.php?id=1457_4500
+「广东」广东嘉佳卡通,http://www.namewee.xyz/gudou.php?id=1459_4500
+「广东」广东体育,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8
+「广东」广东珠江,http://218.13.170.98:9901/tsfile/live/1000_1.m3u8
+「广东」广东珠江,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000033/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000033&livemode=1&stbId=3
+「广东」广东珠江,http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011655/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3
 「广东」广东珠江,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/1.m3u8
 「广东」广东珠江,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000033/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000033&livemode=1&stbId=3
 「广东」广东珠江,http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011655/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3
@@ -2895,9 +2895,41 @@ XJYY影院,http://39.134.66.66/PLTV/88888888/224/3221225521/index.m3u8
 「广东」广州南国都市,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzngds
 「广东」深圳卫视,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/PLTV/1/224/3221230637/1.m3u8
 「广东」深圳卫视,http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/PLTV/1/224/3221230637/1.m3u8
+「广东」大湾区卫视,blob:https://www.gdtv.cn/84a93c43-a071-4010-bf3c-639136193bcc
+「广东」大湾区卫视,http://222.85.207.79:9901/hls/45/index.m3u8
+「广东」大湾区卫视,http://ys.rgood.xyz:8899/udp/239.77.0.215:5146
+「广东」广东新闻,http://ys.rgood.xyz:8899/udp/239.77.0.173:5146
+「广东」广东公共,http://ys.rgood.xyz:8899/udp/239.77.0.225:5146
+「广东」广东体育,http://ys.rgood.xyz:8899/udp/239.77.0.112:5146
+「广东」广东体育,http://ys.rgood.xyz:8899/udp/239.77.0.168:5146
+「广东」经济科教,http://ys.rgood.xyz:8899/udp/239.77.0.85:5146
+「广东」经济科教,http://ys.rgood.xyz:8899/udp/239.77.0.167:5146
+「广东」南方卫视,http://ys.rgood.xyz:8899/udp/239.77.0.215:5146
+「广东」广东影视,http://ys.rgood.xyz:8899/udp/239.77.0.217:5146
+「广东」广东少儿,http://ys.rgood.xyz:8899/udp/239.77.0.250:5146
+「广东」嘉佳卡通,http://ys.rgood.xyz:8899/udp/239.77.0.179:5146
+「广东」广东综艺 4K,http://ys.rgood.xyz:8899/udp/239.77.1.236:5146
+「广东」广东综艺 4K,http://ys.rgood.xyz:8899/udp/239.77.1.237:5146
+「广东」广东综艺 4k,http://ys.rgood.xyz:8899/udp/239.77.0.244:5146
+「广东」广东综艺 4k,http://ys.rgood.xyz:8899/udp/239.77.0.245:5146
+「广东」广东综艺 4k,http://ys.rgood.xyz:8899/udp/239.77.0.252:5146
 「广东」深圳都市,http://livepull-tcyzb.sztv.com.cn/showto_live/dushi01.m3u8
 「广东」广州综合,http://www.namewee.xyz/gudou.php?id=1432_4500
 「广东」广州新闻,http://www.namewee.xyz/gudou.php?id=1433_4500
+「广东」广州综合,http://ys.rgood.xyz:8899/udp/239.253.43.71:5146
+「广东」广州新闻,http://ys.rgood.xyz:8899/udp/239.253.43.72:5146
+「广东」广州影视,http://ys.rgood.xyz:8899/udp/239.253.43.73:5146
+「广东」广州法治,http://ys.rgood.xyz:8899/udp/239.253.43.74:5146
+「广东」广州竞赛,http://ys.rgood.xyz:8899/udp/239.253.43.75:5146
+「广东」广州影视,http://ys.rgood.xyz:8899/udp/239.77.0.217:5146
+「广东」广东新闻,http://ys.rgood.xyz:8899/udp/239.77.0.173:5146
+「广东」经济科教,http://ys.rgood.xyz:8899/udp/239.77.0.85:5146
+「广东」经济科教,https://pili-live-hls.kingsmedia.cn/metoo-live/e06829f1a4374c4cb7f72cd99c7c636d.m3u8
+「广东」广东公共,http://ys.rgood.xyz:8899/udp/239.77.0.225:5146
+「广东」广东体育,http://120.197.112.28:9901/tsfile/live/1021_1.m3u8
+「广东」广东体育,http://ys.rgood.xyz:8899/udp/239.77.0.112:5146
+「广东」广东体育,http://ys.rgood.xyz:8899/udp/239.77.0.168:5146
+「广东」广东综艺,http://ys.rgood.xyz:8899/udp/239.77.1.237:5146
 「广东」东莞新闻综合,http://www.namewee.xyz/gudou.php?id=2121
 「广东」潮州民生,http://www.namewee.xyz/gudou.php?id=3132
 「广东」茂名综合,http://www.namewee.xyz/gudou.php?id=3012_4500
@@ -2905,7 +2937,7 @@ XJYY影院,http://39.134.66.66/PLTV/88888888/224/3221225521/index.m3u8
 「广东」汕尾文化生活,http://www.namewee.xyz/gudou.php?id=shanweigonggongHD
 「广东」廉江综合,http://www.namewee.xyz/gudou.php?id=3209
 「广东」增城台,http://www.namewee.xyz/gudou.php?id=2079
-「广东」珠海2,http://www.namewee.xyz/gudou.php?id=zhuhaiHD2_4500
+「广东」广东珠海,http://www.namewee.xyz/gudou.php?id=zhuhaiHD2_4500
 「广东」博罗综合,http://www.namewee.xyz/gudou.php?id=2305
 「广东」饶平台,http://www.namewee.xyz/gudou.php?id=raopingtaiHD
 「广东」江门综合,http://www.namewee.xyz/gudou.php?id=jiangmenzongheHD
@@ -2923,10 +2955,11 @@ XJYY影院,http://39.134.66.66/PLTV/88888888/224/3221225521/index.m3u8
 「广东」阳江2,https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_b3628000.m3u8?zguangd
 「广东」韶关公共,https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/live.m3u8?zguangd
 「广东」韶关综合,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8?zguangd
-「广东」 韶关综合台,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
+「广东」韶关综合,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
 「广东」阳江1,https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_b3628000.m3u8?zguangd
 「广东」阳江综合,https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_b1152000.m3u8?zguangd
-「广东」广州南国都市.1080P,http://r.jdshipin.com/nWaZO
+「广东」广州南国都市,http://ys.rgood.xyz:8899/udp/239.253.43.99:5146
+「广东」广州南国都市,http://r.jdshipin.com/nWaZO
 「广东」广州塔与海心桥视角,http://gctxyc.liveplay.myqcloud.com/gc/ztb_1_md.m3u8
 「广东」潮州民生,http://time-vod-qhlive.sobeylive.com/czbtv2019/czggpd.m3u8
 「广东」汕头小公园,https://gctxyc.liveplay.myqcloud.com/gc/bsszjs_1/index.m3u8?contentid=2820180516001
@@ -2948,7 +2981,6 @@ Bestv导视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001162/ind
 Bestv赛事直播1,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001359/index.m3u8
 Bestv赛事直播2,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001388/index.m3u8
 Bestv赛事直播3,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001149/index.m3u8
-Bestv赛事直播4,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001153/index.m3u8
 爱尔达体育2,http://198.16.100.90:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
 纬来体育,https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 纬来体育 FHD,http://ali.hlspull.yximgs.com/live/7qvlzZeiRYNkx1Dwn6mLv3PM8GERr19J.flv
