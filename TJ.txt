@@ -1,4 +1,4 @@
-
+🦄天津频道,#genre#
 天津滨海综艺,http://traffic.jbh.tjbh.com/live/bhtv2/playlist.m3u8
 天津滨海新闻,http://traffic.jbh.tjbh.com/live/bhtv1/playlist.m3u8
 天津滨海影视,http://traffic.jbh.tjbh.com/live/bhtv3/playlist.m3u8
@@ -8,9 +8,8 @@
 天津滨海新闻,http://traffic.jbh.tjbh.com/live/bhtv1/playlist.m3u8
 天津滨海综艺,http://traffic.jbh.tjbh.com/live/bhtv2/playlist.m3u8
 天津滨海影视,http://traffic.jbh.tjbh.com/live/bhtv3/playlist.m3u8
-天津津南一套,http://play.jinnantv.top/live/JNTV1.m3u8
 西青新闻综合,http://221.238.209.44:81/hls/live1.m3u8
-武清综合频道https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8
+武清综合频道,https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8
 
 🦄央视频道「多线路」,#genre#
 CCTV1,http://112.132.181.221:9988/hls/1/index.m3u8
