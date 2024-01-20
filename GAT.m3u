@@ -3,6 +3,9 @@
 #EXT-X-APTV-TYPE remote
 #EXT-X-SUB-URL https://cccimg.com/down.php/1770396ae3b220fdfbc307595952b4c6.m3u
 
+
+#EXTINF:-1 tvg-id="105176" tvg-name="CNN 新闻" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVB1.png" group-title="綜合",CNN新闻
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/f93b9a949a4a8651dd5a2f42e3a2b6f9.m3u8
 #EXTINF:-1 tvg-id="105176" tvg-name="TVB 翡翠台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVB1.png" group-title="綜合",TVB 翡翠台
 https://fake-stream.livednow.com/mdvb/jade?token=321b0a36ca2aed06ebaa85d8012df385&user_id=1254950701&user_token=9f7ce824f2caceacca70a2fc1cd96236
 #EXTINF:-1 tvg-id="105326" tvg-name="TVB 明珠台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/TVB2.png" group-title="綜合",TVB 明珠台
