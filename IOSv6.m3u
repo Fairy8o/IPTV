@@ -3,6 +3,9 @@
 #EXT-X-APTV-TYPE remote
 #EXT-X-SUB-URL https://cccimg.com/down.php/7e1eb6f9c8d04a5988104bb580ebd007.txt
 
+
+#EXTINF:-1 group-title="🦄线路1-IPV6",直播中国-唯一微信号:-Star-Fairy_
+https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="🦄线路1-IPV6",直播中国
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="🦄线路1-IPV6",CCTV-1 综合
