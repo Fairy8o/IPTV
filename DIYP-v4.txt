@@ -1,5 +1,5 @@
 🦄央视频道「多线路」,#genre#
-
+直播中国-唯一微信号:-Star-Fairy_,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 CCTV1,http://112.132.181.221:9988/hls/1/index.m3u8
 CCTV2,http://112.132.181.221:9988/hls/2/index.m3u8
 CCTV3,http://112.132.181.221:9988/hls/3/index.m3u8
