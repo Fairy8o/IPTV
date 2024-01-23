@@ -1981,6 +1981,109 @@ CGTN France,http://livefr.cgtn.com/1000f/prog_index.m3u8
 出水芙蓉,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/28f9967b04984830b3a1f6fb27561000/850.m3u8
 桂河大桥,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b125a3edccb34637b336cb867e8a5d5d/850.m3u8
 Soda东南亚之旅,https://vdse.bdstatic.com//b6295e9776c2cd347716fc2447e27fac.mp4
+
+#EXTINF:-1 tvg-name="CNN HD" tvg-logo="https://epg.112114.xyz/logo/CNN.png" group-title="🦄国际频道「需魔法」",CNN新闻
+https://d30x5vsa85tvmd.cloudfront.net/index_5.m3u8
+#EXTINF:-1 tvg-id="12188" tvg-name="bbc news" tvg-logo="https://epg.112114.xyz/logo/uk/bbc-world-news.png" group-title="🦄国际频道「需魔法」",BBC新闻
+https://epg.pw/stream/a6cbddde9b44bf2d5c0d0b08a4b48dc86da793a9bef40c18b1f616782744db4c.m3u8
+#EXTINF:-1 tvg-id="nbcnews" tvg-name="nbcnews" tvg-logo="https://epg.112114.xyz/logo/NBCNEWS.png" group-title="🦄国际频道「需魔法」",NBC新闻
+http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2580.ts
+#EXTINF:-1 tvg-id="FoxHD" tvg-name="FoxHD" tvg-logo="https://epg.112114.xyz/logo/FOXNEWS.png" group-title="🦄国际频道「需魔法」",Fox新闻
+http://38.96.178.201:80/live/FOXHD/index.m3u8
+#EXTINF:-1 tvg-id="BBC America" tvg-name="BBC America" tvg-logo="https://epg.112114.xyz/logo/BBCAMERICA.png" group-title="🦄国际频道「需魔法」",BBC美洲
+http://38.96.178.201:80/live/BBCAmerica/index.m3u8
+#EXTINF:-1 tvg-id="ABC NEWS" tvg-name="ABC NEWS" tvg-logo="https://epg.112114.xyz/logo/ABCNEWS.png" group-title="🦄国际频道「需魔法」",ABC新闻
+http://38.96.178.201:80/live/ABCHD/index.m3u8
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://epg.112114.xyz/logo/TNT.png" group-title="🦄国际频道「需魔法」",TNT
+http://38.96.178.201:80/live/TNTHD/index.m3u8
+#EXTINF:-1 tvg-id="USA" tvg-name="USA" tvg-logo="https://epg.112114.xyz/logo/USA.png" group-title="🦄国际频道「需魔法」",USA
+http://38.96.178.201:80/live/USA/index.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",HBO
+http://41.205.93.154/HBO/index.m3u8
+#EXTINF:-1 tvg-id="NBA TV" tvg-name="NBA TV" tvg-logo="https://epg.112114.xyz/logo/NBA.png" group-title="🦄国际频道「需魔法」",NBA
+http://38.96.178.201/live/NBA/index.m3u8
+#EXTINF:-1 tvg-id="KBS World" tvg-name="KBS World" tvg-logo="https://epg.112114.xyz/logo/KBSNEWS.png" group-title="🦄国际频道「需魔法」",KBS世界
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+#EXTINF:-1 tvg-id="ESPN News" tvg-name="ESPN News" tvg-logo="https://epg.112114.xyz/logo/ESPNNEWS.png" group-title="🦄国际频道「需魔法」",ESPN新闻
+http://38.96.178.201:80/live/ESPNews/index.m3u8
+#EXTINF:-1 tvg-id="CBS News" tvg-name="CBS News" tvg-logo="https://epg.112114.xyz/logo/CBSNEWS.png" group-title="🦄国际频道「需魔法」",CBS新闻
+http://38.96.178.201:80/live/CBS/index.m3u8
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="https://epg.112114.xyz/logo/TB.png" group-title="🦄国际频道「需魔法」",TBS
+http://38.96.178.201:80/live/TBS/index.m3u8
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-name="Tennis Channel" tvg-logo="https://epg.112114.xyz/logo/TENNISCHANNEL.png" group-title="🦄国际频道「需魔法」",Tennis Channel
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://epg.112114.xyz/logo/ANIMAL.png" group-title="🦄国际频道「需魔法」",Animal Planet
+http://38.96.178.201:80/live/AnimalPlanet/index.m3u8
+#EXTINF:-1 tvg-id="LoveNature" tvg-name="LoveNature" tvg-logo="https://epg.112114.xyz/logo/Love Nature.png" group-title="🦄国际频道「需魔法」",Love Nature
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://epg.112114.xyz/logo/COMEDY.png" group-title="🦄国际频道「需魔法」",Comedy Central
+http://38.96.178.201:80/live/ComedyCentral/index.m3u8
+#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" tvg-logo="https://epg.112114.xyz/logo/FOOD.png" group-title="🦄国际频道「需魔法」",Food Network
+http://38.96.178.201:80/live/FoodNetwork/index.m3u8
+#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://epg.112114.xyz/logo/discovery.png" group-title="🦄国际频道「需魔法」",Discovery Channel
+http://38.96.178.201:80/live/Discovery/index.m3u8
+#EXTINF:-1 tvg-id="PBSKids" tvg-name="PBSKids" tvg-logo="https://epg.112114.xyz/logo/PK.png" group-title="🦄国际频道「需魔法」",PBS Kids
+http://38.96.178.201:80/live/PBSKIDS/index.m3u8
+#EXTINF:-1 tvg-id="Disney" tvg-name="Disney" tvg-logo="https://epg.112114.xyz/logo/disney.png" group-title="🦄国际频道「需魔法」",Disney Channel
+http://38.96.178.201:80/live/Disney/index.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",Cartoon Network
+http://38.96.178.201:80/live/CartoonNetwork/index.m3u8
+#EXTINF:-1,tvg-id="Disney,XD",tvg-name="Disney,XD",tvg-logo="https://epg.112114.xyz/logo/disneyxd.png",group-title="🦄国际频道「需魔法」",Disney,XD
+http://38.96.178.201:80/live/DisneyXD/index.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",Fashion TV
+http://91.247.68.229:8000/play/Fashion/index.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",Cinemax
+http://94.156.33.91:80/Cinemax/index.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/SM.png" group-title="🦄国际频道「需魔法」",Star Movies
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
+#EXTINF:-1 tvg-logo="https://epg.112114.xyz/logo/MT.png" group-title="🦄国际频道「需魔法」",MyTime Movie
+https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="History" tvg-logo="https://epg.112114.xyz/logo/history.png" group-title="🦄国际频道「需魔法」",History
+http://38.96.178.201:80/live/History/index.m3u8
+#EXTINF:-1 tvg-id="MTV" tvg-logo="https://live.fanmingming.com/tv/MTV.png" group-title="🦄国际频道「需魔法」",MTV
+http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2062.ts
+#EXTINF:-1 tvg-id="SYFY" tvg-logo="https://epg.112114.xyz/logo/SYFY.png" group-title="🦄国际频道「需魔法」",SYFY
+http://38.96.178.201:80/live/SYFYHD/index.m3u8
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="🦄国际频道「需魔法」",凤凰中文
+http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="🦄国际频道「需魔法」",凤凰资讯
+http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="🦄国际频道「需魔法」",凤凰香港
+http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
+#EXTINF:-1 tvg-id="7183" tvg-name="aljazeeraEnglish" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/半岛新闻.png" group-title="🦄国际频道「需魔法」",半岛新闻
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CNA-NEWS.png" group-title="🦄国际频道「需魔法」",CNA新闻
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-id="CBNNews.us" tvg-name="CBNNews" tvg-logo="https://epg.112114.xyz/logo/CBNNEWS.png" group-title="🦄国际频道「需魔法」",CBN新闻
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+#EXTINF:-1 tvg-id="NHK" tvg-name="NHK" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/NHK日本.png" group-title="🦄国际频道「需魔法」",NHK世界
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+#EXTINF:-1 tvg-id="GBNews.uk" tvg-name="GB News" tvg-logo="https://epg.112114.xyz/logo/GB-NEWS.png" group-title="🦄国际频道「需魔法」",GB新闻
+https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
+#EXTINF:-1 tvg-id="RTNews" tvg-name="RTNEWS" tvg-logo="https://epg.112114.xyz/logo/ru/rt.png" group-title="🦄国际频道「需魔法」",RT新闻
+https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-id="RTDoc" tvg-name="RTDoc" tvg-logo="https://live.fanmingming.com/tv/RTDoc.png" group-title="🦄国际频道「需魔法」",RT纪录
+https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-id="TVBrics" tvg-name="TVBrics" tvg-logo="https://epg.112114.xyz/logo/BRICS.png" group-title="🦄国际频道「需魔法」",金砖中文
+http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="TVBrics" tvg-name="TVBrics" tvg-logo="https://epg.112114.xyz/logo/BRICS.png" group-title="🦄国际频道「需魔法」",金砖英文
+http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="TalkTV.uk" tvg-name="TalkTV" tvg-logo="https://epg.112114.xyz/logo/TALKTV.png" group-title="🦄国际频道「需魔法」",TalkTV
+https://live-talktv-ssai.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/talktv-live/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/TRT_World.jpg" group-title="🦄国际频道「需魔法」",TRT世界
+https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/trial/m3u/main/logo/Taiwan_Plus.jpg" group-title="🦄国际频道「需魔法」",台湾Plus
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+#EXTINF:-1 tvg-id="StartSports1" tvg-name="StartSports1" tvg-logo="https://live.fanmingming.com/tv/starsports.png" group-title="🦄国际频道「需魔法」",Star Sports
+http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2292.ts
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",Fox Sports
+http://38.96.178.201:80/live/FOXSPORTS2/index.m3u8
+#EXTINF:-1 tvg-id="nationalgeographic" tvg-name="nationalgeographic" tvg-logo="https://live.fanmingming.com/tv/natgeo.png" group-title="🦄国际频道「需魔法」",国家地理
+http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2037.ts
+#EXTINF:-1 tvg-id="nationalgeographicwild" tvg-name="nationalgeographicwild" tvg-logo="https://live.fanmingming.com/tv/natgeowild.png" group-title="🦄国际频道「需魔法」",国地野生
+http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2047.ts
+
+
 🦄海外频道1,#genre#
 CNN新闻,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/f93b9a949a4a8651dd5a2f42e3a2b6f9.m3u8
 翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
