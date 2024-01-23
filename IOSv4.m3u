@@ -4,6 +4,8 @@
 #EXT-X-SUB-URL https://cccimg.com/down.php/73e7e245da2d6bd4693aea0eee859984.txt
 
 
+#EXTINF:-1 group-title="🦄线路0.5",直播中国-唯一微信号:-Star-Fairy_
+https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="🦄线路0.5",CCTV-1 综合
 http://112.132.181.221:9988/hls/1/index.m3u8
 #EXTINF:-1 group-title="🦄线路0.5",CCTV-2 财经
