@@ -1,6 +1,6 @@
 
 🦄央视频道,#genre#
-直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+直播中国-唯一微信号:-Star-Fairy_,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw3964344116_67852184/ott.mobaibox.com/PLTV/3/224/3221227675/index.m3u8?icpid=3&RTS=1674379784&from=40&ocs=2_2409:8087:2001:20:2800:0:df6e:eb0f_80&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
 CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw1925441929_1417964840/ott.mobaibox.com/PLTV/3/224/3221227467/index.m3u8?icpid=3&RTS=1674386335&from=40&ocs=2_2409:8087:2004:20:2800:0:df6e:ec0d_80&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
 CCTV2,http://[2409:8087:2001:20:2800:0:df6e:eb0d]:80/wh7f454c46tw1528922594_677066330/ott.mobaibox.com/PLTV/3/224/3221227708/index.m3u8?icpid=3&RTS=1674385939&from=40&popid=40&hms_devid=2040&prioritypopid=40&vqe=3
@@ -1461,6 +1461,96 @@ CGTN France,http://livefr.cgtn.com/1000f/prog_index.m3u8
 出水芙蓉,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/28f9967b04984830b3a1f6fb27561000/850.m3u8
 桂河大桥,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b125a3edccb34637b336cb867e8a5d5d/850.m3u8
 Soda东南亚之旅,https://vdse.bdstatic.com//b6295e9776c2cd347716fc2447e27fac.mp4
+
+🦄国际频道「需魔法」,#genre#
+CNN新闻,https://d30x5vsa85tvmd.cloudfront.net/index_5.m3u8
+BBC新闻,https://epg.pw/stream/a6cbddde9b44bf2d5c0d0b08a4b48dc86da793a9bef40c18b1f616782744db4c.m3u8
+NBC新闻,http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2580.ts
+Fox新闻,http://38.96.178.201:80/live/FOXHD/index.m3u8
+BBC美洲,http://38.96.178.201:80/live/BBCAmerica/index.m3u8
+ABC新闻,http://38.96.178.201:80/live/ABCHD/index.m3u8
+TNT,http://38.96.178.201:80/live/TNTHD/index.m3u8
+USA,http://38.96.178.201:80/live/USA/index.m3u8
+HBO,http://41.205.93.154/HBO/index.m3u8
+NBA,http://38.96.178.201/live/NBA/index.m3u8
+KBS世界,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
+ESPN新闻,http://38.96.178.201:80/live/ESPNews/index.m3u8
+CBS新闻,http://38.96.178.201:80/live/CBS/index.m3u8
+TBS,http://38.96.178.201:80/live/TBS/index.m3u8
+Tennis Channel,https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+Animal Planet,http://38.96.178.201:80/live/AnimalPlanet/index.m3u8
+Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+Comedy Central,http://38.96.178.201:80/live/ComedyCentral/index.m3u8
+Food Network,http://38.96.178.201:80/live/FoodNetwork/index.m3u8
+Discovery Channel,http://38.96.178.201:80/live/Discovery/index.m3u8
+PBS Kids,http://38.96.178.201:80/live/PBSKIDS/index.m3u8
+Disney Channel,http://38.96.178.201:80/live/Disney/index.m3u8
+Cartoon Network,http://38.96.178.201:80/live/CartoonNetwork/index.m3u8
+Disney-XD,http://38.96.178.201:80/live/DisneyXD/index.m3u8
+Boomerang,https://edge1.laotv.la/live/Boomerang/index.m3u8
+Fashion TV,http://91.247.68.229:8000/play/Fashion/index.m3u8
+Cinemax,http://94.156.33.91:80/Cinemax/index.m3u8
+Star Movies,http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
+MyTime Movie,https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
+History,http://38.96.178.201:80/live/History/index.m3u8
+MTV,http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2062.ts
+SYFY,http://38.96.178.201:80/live/SYFYHD/index.m3u8
+CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+CBN新闻,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+NHK世界,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+GB新闻,https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
+RT新闻,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+RT纪录,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+OAN,https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/oan_720p/playlist.m3u8
+Newsmax,https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
+Euronews,https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8
+Russia Today,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+Al Jazeera新闻,https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+Deutsche Welle,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+ABC 新闻,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+CGTN,https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+中央社新闻,https://mediacorp-videosbclive.akamaized.net/f4abbc22204c49e2b337203b0ebbf14b/ap-southeast-1/6057994443001/playlist.m3u8
+Yahoo Finance,https://d1ewctnvcwvvvu.cloudfront.net/playlist1080pl.m3u8
+News 12 New York,https://lnc-news12.tubi.video/index.m3u8
+ABC News New York,https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
+CBS News New York,https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master_22.m3u8
+CBS News Colorado,https://cbsn-den.cbsnstream.cbsnews.com/out/v1/2e49baf2906244ecb01b07d9885fbe7a/master.m3u8
+ABS News Los Angeles,https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
+CBS News Los Angeles,https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
+CBN News,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/us-east-1/734546207001/profile_2/chunklist.m3u8
+EWTN,https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
+Court TV,https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
+香港RHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
+无线财经台,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+翡翠台 超清,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+TVB星河台,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
+有线新闻台,https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
+明珠台,https://cdn.ggapk.net/live/tv?id=9fb8bQTEWRl0TQAEYCkwCVXeWJ8CspOw3GeWIl0GrGpcM--9FqhlhJpjoTOXwDuZ2Upnyjj3xwPfoX7hyacFrlS1jfSUaPYLLfLTeogiBSjzBPn6pNzfeJYbF3B8FQ7NRmWvgJxLkqH1wmqPnphlSSAxJaE9mTpuSwk8GUSFvN0JihQ2zhuMp0u2PCZnbLVMI7tWSRDFHhBwd0gufjebtbk7fnjQPkZCW6YgGu8feMCzXg334M-1D6yV7HfvVOgPE7hwkAT7L84YBi1x9GPo22DUcKfCnPIg0KLOgveo-yC-ry7U2utozZh_Bw
+无线新闻台,https://cdn.ggapk.net/live/tv?id=be3afTKIU4hBJAipj1g8ddV-mcsA_1BHEGdR8rE-ebux8GGk8PvMW2Z-w2VKsm0ktnq1e0e5-qvfYk3ouzVzt8d3S1uIB3q5ECoM9h3i_gbeX2xoXTLGjafavnCPcmOqoHKbzzUJJgBBjTc-96zj7Ah8kl98pKKeLl8-71P7jklOJtVUJnUGywTk37lFV0bu_mqDrZsOCu_1xYHhOish6YFmks9BbWB5W2GOxTeu7_OtoA4yWyhD9vZflTfBq7jKQXBQEF9ZWzOYpxEEAW09SxNhAmEOexGVjaokE9o7tiwBq6sJwkcB9Jn7Q78vN4O393qEDtIlRgJvJeWdbO5024BsUE8RNM2cYOwUyRtp7nnyWVi8h1GNs6N-XBU
+J2台,https://cdn.ggapk.net/live/tv?id=d430hvKyWlEd4te7Ax6DivSDLDSgRLPB4jGmhHa66OePkPOrwT8VLEC5Fc41FKMuWXKR5MASN7tKkv-g1kaQ5XSw94TvWGnEXojPEcUp3P-8xPtVly08BMHfRFjGxNNomnOh3Ej_MAdzxAQTid2sfIJen1MJX2ZeHJ0swkcRxzZ9HJEMP7x4wXdMk767Pg7dK2nh8_6iGn42c9JzJsaajU51kgfnJNtdqDspIsjpD9gaNzj_oslQ--5bnlglt_n-F1lSYhVXrnxbeIL6URst-TdjsaVmnE1prKaNM-GY183YXo-eALAppJVy7nIlEN3U8xNbVlEC3HO-xkk0O5pP4Reo9iSrStp9sacQuwCut-HKvXFT1nRDghVBfBc
+Now新闻,https://cdn.ggapk.net/live/tv?id=a94aseVHi7FvOnQFxZ4-t0YONazHZExZk7vjwMQZkZgGT0SeizDRvjd7kxaUeRzdeCRFvSHfE0RaBFItxP4wi8ZLZdlddn4-WzGE2_9B1Mdo2_E5N4lFrVy74ZjGNZYkojMV3pfTKZL0osyWKc3FI9RYQNtpIzRMgsU6fyFQPHX4XZY075GRmnWrwslrso-UDbVh0ZhvkFP0vC3LWaUr6yctH-rLrguMPrhKCQR0juzvJ11CtgRPYViFJ0yJWS2ZnljfPMHt-Jm07C9d8ptgQduX-ou4Bdu6iaCSQoO8-LZ4PjSO6KG88uU_DRPXN5EOlMaDGKHKVNE9yXFshKYrhibiBkNd9x6ELQQYOKWYH52LjoOMG8ZGYIPQ_7U
+台湾台视,https://cdn.ggapk.net/live/tv?id=6b16NUug3pTT7ql1RH1RCtanDXCESINYSQVqD3Sif39-TYLNTzi0geC5ULx6JSfHDFgKu7tvP6pAT-Giow8D38hwMIZop9ycmjlfdgcrrdoJMRBF8KdzTdRVl1s8suDEDuJYF92VK76VzMUYV8LNlBcQHLR3iuX7H3JG-y3ay_5XPfMMO9LWJyS20eWc3KRLR1dD9fvlVdcK-W0m0ZfoqnMs6_1jMXtl2SNRqhU3sV3HJAuwq-qYEI_kFYcrXHiUcGMK_jkkFm6_CrjPSeP_Cm_W2Hh427A6xNXoLTSISd_HQ7PrMIW9vUXxIcEly3cH1dZNULs4AC8iv08WoGHAEsUR-Q7RvWRP1rQAMtYk-kfcCbIxQGJSyBh9324
+中天新闻台,https://cdn.ggapk.net/live/tv?id=a15eEJ3RgVWSVJRvC-9CjxKvPsRATdquHpEpRmQPKqhEYr1Cde0mBbeo84y_NBixkCbrZhiKHOJn4fMjKNkECNkml5OWCwzG9i77BiEZNUQKKRn1At_yhFDLPhOMcLbZlBklLuuv1GuxTIh-cJI2TDC3GqbupfXGxDsqXRF14XwekiREiZzoMSwXtjsXDzM7Bwp8dQdryAJTMFNlZc0_kj8xmB2GbwpVljzC5PgM94p-cbmowHKo7CcCFlBbml-6ux77-fxxU0H10E_UJJXDnzxUez0AdiQVsnRATdsmXTy41Zo-6sm_qVXp5TtNOTsRQmVv1iaxPMeMtAETjveZPkR6h_7tGSoh6H1L1DX1AdZ3m0mF86JDdJ27LsY
+东森新闻台,https://cdn.ggapk.net/live/tv?id=ba6brClPgkS4YwmRHWNvyWk8GuRbLMDDPJYYk2lKhbWThmnOcEIjkKKhjyZvKxLi_cv5QFF_-4PKBzbo0jtrV_fqxyUVT78Jq5GnwBQBzMsKS91DGuMxlgx0pRLMJRdxQL9gzdTY6jzI3GVMo6b87a5rUzszC2S6vjEZCyfp_noc5fmZwc3Gy68YQr953xSdRU_oK_ODHBT5fb2EoVGj6vdtx0sOizx1-3xdY2S-a1qgKhTk-3a_mvxOmBmA-Ynhe5KZr7Ba_Iq_XMtlm03QZrFiz6M9mR7JW8HQQO8Eu0EqD64QFfRy0dadOOnFpaFa5YIMPR-7uYpAS-3FXX6vsoaty9BvMZO5Ocl-_C28-aJZMHKBsopq5zRgEtM
+TVBS新闻台,https://cdn.ggapk.net/live/tv?id=60c4IftsayO0UzqlmgUX93EDc5O1tccuZoEu34DCB94zGn0km8gz5aTDxme9DB3cUjlY9inQOo_QSgRa8EAJdaorGfyiM_XRihijxR90nBATNtJ8v4tGS2Vdj8wBNADux7uBD0zMmoby0A-8NLdRh4s6sMMnZW9uD7pV2sskpcYM1u5_78UrNtqxhPfFLDXtXN7a2biYhsd9Z94z2uQdvn2KkgylqShpMUYt9FPE8YJJ_dK0zWd-bBvICXIo31m3c6E-cULdVxNi6X5WTel2gZ0_4dlu3YONlFPJh8NJ5wSR0VsVm02FdJrzEf48fbbMQ_Qv7gfUZ4vONP5KYw53VMumnhat9cOy6eFgcqsasxHWKnjLKeQ1GLcYkRo
+东森幼幼台,https://cdn.ggapk.net/live/tv?id=481acOVi1bOezhQUrRHaay6ySvrE7CS5AOf-cXoR-HrVs19SrjObr9ZwTFnllEQ_j0DM4HS4gebbYxN0mGBxbWiMFkLI5xH1b9tdfzdpLvDFQvn6ktd0qVU0b0kF8ix1t6WpNX9gR7WFBpVU-OEuQDq31HXeTb7AG6f2OjMBCYlmfJ4obsO33Ga0R4nhoSN1lk2C-N1pj4s6iTtJBHvhw7J9mchcYVN4_GxQQJKH37FQXflT8IV1HdBAXRcIedAwMiR8ojrRkC6aqIUymz_9-FA6Scafr71NFIBmpA1oTmnvwsOPiQhdLU1MhcYg8E9pc_uVLlZblF5ygIqVSoATaCdUZjEQdPfKU-ouGo3WTnG4pZXw0bhVXf96zWA
+东森财经新闻台,https://cdn.ggapk.net/live/tv?id=552fNz0ue4_Dc3r0FNhgb1kcoGWoJBQMzDZZVKBOV80UxKFXuL2A48KV3rqUHWu9cSOAjyyC9src8_A0vsJlqC-YYFE-lPkZB4mgmTZjIet14L95tv06gykfOMXxxgFZl84ECYP__9vVx3AujKNu3-q60OOd1frgb1r-DdwxFa84aB8jt17oNXJdR-k9M0_Ip_iuW8oC_saaO4OARWugVGd1q8dXktpl82P5zdQGavb1vmme_q2nzom0Jav6XOIaVJh1Bev3lHoiGB6SvMrtW3BgQQOH7zGKveTAmBH7-76IM63Xta1t10HdW-S_eoFMfLCL4Z9JnNZKk5XKflf6T6d7Z7t-y8l9agj-fpmnJlaE2QZonUoZmztp9VI
+澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+凤凰中文-ipv6,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+凤凰咨询-ipv6,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+凤凰香港-ipv6,http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
+半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+金砖中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+金砖英文,http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
+TalkTV,https://live-talktv-ssai.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/talktv-live/index.m3u8
+TRT世界,https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
+台湾Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+Star Sports,http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2292.ts
+Fox Sports,http://38.96.178.201:80/live/FOXSPORTS2/index.m3u8
+国家地理,http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2037.ts
+国地野生,http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2047.ts
+
+
 🦄海外频道1,#genre#
 有线新闻,http://61.10.2.146/live_freedirect/freehd209_h.live/playlist.m3u8
 有线新闻,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/chunklist_w1949275579.m3u8
