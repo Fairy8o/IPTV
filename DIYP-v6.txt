@@ -2046,7 +2046,6 @@ CCTV16 4K 「IPV6」•支持回看,http://[2409:8087:2001:20:2800:0:df6e:eb18]/
 SiTV欢笑剧场4K 「IPV6」,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV4K 「IPV6」•支持回看,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4259108076_496521789/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 
-
 🦄体育频道,#genre#
 Bestv导视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001162/index.m3u8
 Bestv赛事直播1,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001359/index.m3u8
@@ -2060,10 +2059,11 @@ Bestv赛事直播4,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001
 CCTV5-,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 BRTV体育休闲,http://111.20.35.103:6610/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 辽宁-体育,http://42.176.185.28:9901/tsfile/live/1007_1.m3u8
-beIN Sports 1,https://p2p.cdn-domain.com/hls/live/2000341/test/level_2.m3u8
 体育1,https://edge1.laotv.la/live/Bsport1/index.m3u8
 体育2,https://edge1.laotv.la/live/Bsport1/sc-gaFECQ/v0_index.m3u8
 体育3,https://edge1.laotv.la/live/Bsport1/sc-gaFECQ/a0_index.m3u8
+beIN SPORTS 1,https://edge1.laotv.la/live/Bsport1/index.m3u8
+beIN SPORTS 1,https://p2p.cdn-domain.com/hls/live/2000341/test/level_2.m3u8
 beIN SPORTS 2,https://edge2.laotv.la/live/Bsport2/index.m3u8
 beIN SPORTS 2,https://edge2.laotv.la/live/Bsport2/sc-gaFECQ/v0_index.m3u8
 beIN SPORTS 2,https://edge2.laotv.la/live/Bsport2/sc-gaFECQ/a0_index.m3u8
