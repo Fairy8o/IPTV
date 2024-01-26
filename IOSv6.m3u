@@ -6,166 +6,188 @@
 
 #EXTINF:-1 group-title="🦄线路1-IPV6",直播中国-唯一微信号:-Star-Fairy_
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="🦄线路1-IPV6",直播中国
-https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="🦄线路1-IPV6",CCTV-1 综合
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",CCTV-2 财经
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001220/index.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",CCTV-3 综艺
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001186/index.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",CCTV-4 中文国际
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001221/index.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",CCTV-5 体育
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001187/index.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
+#EXTINF:-1 group-title="🦄线路1-IPV6",CCTV-5+ 体育赛事
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",CCTV-5+ 体育赛事
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001334/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="🦄线路1-IPV6",CCTV-6 电影
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001188/index.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226011/1.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",CCTV-7 国防军事
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001236/index.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",CCTV-8 电视剧
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001189/index.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",CCTV-9 纪录
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001237/index.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",CCTV-10 科教
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001238/index.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",CCTV-11 戏曲
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001309/index.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226240/1.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",CCTV-12 社会与法
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001239/index.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226190/1.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",CCTV-13 新闻
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001328/index.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",CCTV-14 少儿
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001240/index.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",CCTV-15 音乐
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001338/index.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",CCTV-16 奥林匹克
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001248/index.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",CCTV-17 农业农村
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001241/index.m3u8
-#EXTINF:-1 group-title="🦄线路1-IPV6",CCTV-16 奥林匹克 4K
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001258/index.m3u8
-#EXTINF:-1 group-title="🦄线路1-IPV6",CCTV-4K 超高清
-http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
-#EXTINF:-1 group-title="🦄线路1-IPV6",CCTV-8K 超高清
-http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_105918260/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1681529690&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/1.m3u8
+#EXTINF:-1 group-title="🦄线路1-IPV6",CHC动作电影
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
+#EXTINF:-1 group-title="🦄线路1-IPV6",CHC家庭影院
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
+#EXTINF:-1 group-title="🦄线路1-IPV6",CHC高清电影
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
+#EXTINF:-1 group-title="🦄线路1-IPV6",凤凰中文
+http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+#EXTINF:-1 group-title="🦄线路1-IPV6",凤凰资讯
+http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+#EXTINF:-1 group-title="🦄线路1-IPV6",凤凰香港
+http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",北京卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001029/index.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225796/1.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",湖南卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001026/index.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225799/1.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",东方卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001013/index.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225797/1.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",四川卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001130/index.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",天津卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001036/index.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226204/1.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",安徽卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001037/index.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226196/1.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",山东卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001028/index.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226209/1.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",广东卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001032/index.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225803/1.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",广西卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001224/index.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",江苏卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001033/index.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225800/1.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",江西卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001034/index.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",河北卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001229/index.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",河南卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001222/index.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",浙江卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001023/index.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225798/1.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",海南卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001183/index.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",深圳卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001030/index.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225801/1.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",湖北卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001027/index.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226206/1.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",山西卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001070/index.m3u8
+http://[2409:8087:1a01:df::7005]:80//ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",东南卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001201/index.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",贵州卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001184/index.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",辽宁卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001035/index.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226201/1.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",重庆卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001129/index.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226202/1.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",黑龙江卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001031/index.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226010/1.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",内蒙古卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001068/index.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",宁夏卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001074/index.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",陕西卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001067/index.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",甘肃卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001298/index.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",吉林卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001225/index.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",云南卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001223/index.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",三沙卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001185/index.m3u8
+http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?
 #EXTINF:-1 group-title="🦄线路1-IPV6",青海卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001450/index.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",新疆卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001065/index.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",西藏卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001072/index.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226212/1.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",兵团卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001066/index.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",延边卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001470/index.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
+#EXTINF:-1 group-title="🦄线路1-IPV6",大湾区卫视
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8
+#EXTINF:-1 group-title="🦄线路1-IPV6",安多卫视
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",厦门卫视
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8
+#EXTINF:-1 group-title="🦄线路1-IPV6",康巴卫视
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",CETV-1
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001020/index.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",CETV-2
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001226/index.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
+#EXTINF:-1 group-title="🦄线路1-IPV6",CETV-3
+http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="🦄线路1-IPV6",CETV-4
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001348/index.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",金色学堂
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001194/index.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226994/1.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",纪实人文
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001019/index.m3u8
-#EXTINF:-1 group-title="🦄线路1-IPV6",生活时尚
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001199/index.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
+#EXTINF:-1 group-title="🦄线路1-IPV6",第一财经
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226966/1.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",乐游频道
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001200/index.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226580/1.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",都市剧场
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001203/index.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226581/1.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",欢笑剧场
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001193/index.m3u8
-#EXTINF:-1 group-title="🦄线路1-IPV6",北京纪实科教
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226582/1.m3u8
+#EXTINF:-1 group-title="🦄线路1-IPV6",纪实科教
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",卡酷少儿
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001245/index.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",金鹰纪实
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001230/index.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226351/1.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",金鹰卡通
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001460/index.m3u8
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",茶友频道
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001234/index.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226808/1.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",快乐垂钓
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001235/index.m3u8
-#EXTINF:-1 group-title="🦄线路1-IPV6",嘉佳卡通
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001227/index.m3u8
-#EXTINF:-1 group-title="🦄线路1-IPV6",动漫秀场
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001196/index.m3u8
-#EXTINF:-1 group-title="🦄线路1-IPV6",哈哈炫动
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001232/index.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226805/1.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",游戏风云
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001192/index.m3u8
-#EXTINF:-1 group-title="🦄线路1-IPV6",家庭理财
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001278/index.m3u8
-#EXTINF:-1 group-title="🦄线路1-IPV6",财富天下
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001219/index.m3u8
-#EXTINF:-1 group-title="🦄线路1-IPV6",中国天气
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001102/index.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226579/1.m3u8
+#EXTINF:-1 group-title="🦄线路1-IPV6",优漫卡通
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
+#EXTINF:-1 group-title="🦄线路1-IPV6",哈哈炫动
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
+#EXTINF:-1 group-title="🦄线路1-IPV6",哒啵电竞
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226951/1.m3u8
+#EXTINF:-1 group-title="🦄线路1-IPV6",哒啵赛事
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226954/1.m3u8
+#EXTINF:-1 group-title="🦄线路1-IPV6",黑莓电影
+http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8
+#EXTINF:-1 group-title="🦄线路1-IPV6",黑莓动画
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
+#EXTINF:-1 group-title="🦄线路1-IPV6",梨园频道
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
+#EXTINF:-1 group-title="🦄线路1-IPV6",弈坛春秋
+http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001322/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="🦄线路1-IPV6",老故事
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
+#EXTINF:-1 group-title="🦄线路1-IPV6",置业频道
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226241/index.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",兵器科技
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",怀旧剧场
@@ -190,26 +212,48 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",电视指南
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
-#EXTINF:-1 group-title="🦄线路1-IPV6",上海新闻
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001014/index.m3u8
-#EXTINF:-1 group-title="🦄线路1-IPV6",上海都市
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001015/index.m3u8
-#EXTINF:-1 group-title="🦄线路1-IPV6",上海ICS
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001128/index.m3u8
-#EXTINF:-1 group-title="🦄线路1-IPV6",七彩戏剧
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001308/index.m3u8
-#EXTINF:-1 group-title="🦄线路1-IPV6",上海教育
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001268/index.m3u8
-#EXTINF:-1 group-title="🦄线路1-IPV6",五星体育
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
-#EXTINF:-1 group-title="🦄线路1-IPV6",东方影视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001016/index.m3u8
-#EXTINF:-1 group-title="🦄线路1-IPV6",东方财经
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001318/index.m3u8
-#EXTINF:-1 group-title="🦄线路1-IPV6",法治天地
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001195/index.m3u8
-#EXTINF:-1 group-title="🦄线路1-IPV6",第一财经
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001017/index.m3u8
+#EXTINF:-1 group-title="🦄线路1-IPV6",浙江公共新闻
+https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+#EXTINF:-1 group-title="🦄线路1-IPV6",浙江国际
+https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1 group-title="🦄线路1-IPV6",浙江少儿
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 group-title="🦄线路1-IPV6",浙江教科影视
+https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 group-title="🦄线路1-IPV6",浙江数码时代
+https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 group-title="🦄线路1-IPV6",浙江民生休闲
+https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1 group-title="🦄线路1-IPV6",浙江经济生活
+https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 group-title="🦄线路1-IPV6",浙江钱江频道
+https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1 group-title="🦄线路1-IPV6",陕西新闻资讯
+http://[2409:8087:7001:20:3::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/1.m3u8
+#EXTINF:-1 group-title="🦄线路1-IPV6",陕西都市青春
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226358/1.m3u8
+#EXTINF:-1 group-title="🦄线路1-IPV6",陕西生活频道
+http://[2409:8087:7001:20:3::6]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226359/1.m3u8
+#EXTINF:-1 group-title="🦄线路1-IPV6",陕西影视频道
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226360/1.m3u8
+#EXTINF:-1 group-title="🦄线路1-IPV6",陕西公共频道
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226361/1.m3u8
+#EXTINF:-1 group-title="🦄线路1-IPV6",陕西体育休闲
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226363/1.m3u8
+#EXTINF:-1 group-title="🦄线路1-IPV6",陕西西部电影
+http://[2409:8087:7001:20:3::9]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226364/1.m3u8
+#EXTINF:-1 group-title="🦄线路1-IPV6",西安新闻综合
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226366/1.m3u8
+#EXTINF:-1 group-title="🦄线路1-IPV6",西安都市频道
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226367/1.m3u8
+#EXTINF:-1 group-title="🦄线路1-IPV6",西安商务资讯
+http://[2409:8087:7001:20:3::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226368/1.m3u8
+#EXTINF:-1 group-title="🦄线路1-IPV6",西安影视频道
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226369/1.m3u8
+#EXTINF:-1 group-title="🦄线路1-IPV6",西安丝路频道
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226370/1.m3u8
+#EXTINF:-1 group-title="🦄线路1-IPV6",西安教育频道
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226371/index.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",求索记录
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
 #EXTINF:-1 group-title="🦄线路1-IPV6",求索动物
@@ -222,6 +266,8 @@ http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226009/index.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",超级体育
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1 group-title="🦄线路1-IPV6",超级电影
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",超级电视剧
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",武博世界
@@ -251,27 +297,20 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 group-title="🦄线路1-IPV6",欢乐剧场
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",CGTN英语
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001058/index.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225745/1.m3u8
 #EXTINF:-1 group-title="🦄线路1-IPV6",CGTN记录
-https://livedoc.cgtn.com/500d/prog_index.m3u8
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002905/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="🦄线路1-IPV6",CGTN俄语
-https://liveru.cgtn.com/1000r/prog_index.m3u8
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002883/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="🦄线路1-IPV6",CGTN法语
-https://livefr.cgtn.com/1000f/prog_index.m3u8
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002827/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="🦄线路1-IPV6",CGTN西语
-https://livees.cgtn.com/1000e/prog_index.m3u8
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002716/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="🦄线路1-IPV6",CGTN阿语
-https://livear.cgtn.com/1000a/prog_index.m3u8
-#EXTINF:-1 group-title="🦄线路1-IPV6",Bestv赛事1
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001151/index.m3u8
-#EXTINF:-1 group-title="🦄线路1-IPV6",Bestv赛事2
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001359/index.m3u8
-#EXTINF:-1 group-title="🦄线路1-IPV6",Bestv赛事3
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001388/index.m3u8
-#EXTINF:-1 group-title="🦄线路1-IPV6",Bestv赛事4
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001149/index.m3u8
-#EXTINF:-1 group-title="🦄线路1-IPV6",Bestv赛事5
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001153/index.m3u8
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002826/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+
+
 #EXTINF:-1 group-title="🦄线路2-IPV6",CCTV1
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="🦄线路2-IPV6",CCTV2
@@ -303,7 +342,7 @@ http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001292/index.m3
 #EXTINF:-1 group-title="🦄线路2-IPV6",CCTV15
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001020/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="🦄线路2-IPV6",CCTV16
-http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001258/1.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
 #EXTINF:-1 group-title="🦄线路2-IPV6",CCTV17
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="🦄线路2-IPV6",CCTV5+
@@ -322,92 +361,6 @@ https://live.cgtn.com/1000/prog_index.m3u8
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:-1 group-title="🦄线路2-IPV6",CCTV世界地理
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002485/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="🦄线路2-IPV6",北京卫视
-http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001335/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="🦄线路2-IPV6",北京卫视
-http://live.sjsrm.com/bjsjs/sd/live.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",东方卫视
-http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001336/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="🦄线路2-IPV6",重庆卫视
-https://sjlivecdn9.cbg.cn/204912315959/app_2/_definst_/ls_2.stream/chunklist.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",天津卫视
-http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001037/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="🦄线路2-IPV6",黑龙江卫视
-http://cyz32.livehbindex.hbcatv.cn/live/50000020281749ed995f2824759051fa.m3u8?bitrate=2300&pt=5
-#EXTINF:-1 group-title="🦄线路2-IPV6",辽宁卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226210/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",吉林卫视
-http://cyz32.livehbindex.hbcatv.cn/live/500000205c15461b956f19f9b6896ad6.m3u8?bitrate=2300&pt=5
-#EXTINF:-1 group-title="🦄线路2-IPV6",河北卫视
-http://cyz32.livehbindex.hbcatv.cn/live/50000020d6be4c4ba70a4e3261b14544.m3u8?bitrate=2300&pt=5
-#EXTINF:-1 group-title="🦄线路2-IPV6",河北农民
-http://cyz32.livehbindex.hbcatv.cn/live/500000202fa64c9bac01e09eaf06afd8.m3u8?bitrate=2300&pt=5
-#EXTINF:-1 group-title="🦄线路2-IPV6",河南卫视
-http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226614/1.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",山东卫视
-http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225952/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",山西卫视
-http://cyz32.livehbindex.hbcatv.cn/live/50000020ed0a4b74afc7e496c1bcc45c.m3u8?bitrate=2300&pt=5
-#EXTINF:-1 group-title="🦄线路2-IPV6",湖北卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001027/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",湖南卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226211/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",浙江卫视
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",江苏卫视
-http://cyz32.livehbindex.hbcatv.cn/live/500000201708473e9f4e1dbb0361de6b.m3u8?bitrate=2300&pt=5
-#EXTINF:-1 group-title="🦄线路2-IPV6",江西卫视
-http://cyz32.livehbindex.hbcatv.cn/live/50000020728a439baf65ce94f8cf3e30.m3u8?bitrate=2300&pt=5
-#EXTINF:-1 group-title="🦄线路2-IPV6",安徽卫视
-http://cyz32.livehbindex.hbcatv.cn/live/50000020d0ab40578faaa8a023ce4d5c.m3u8?bitrate=2300&pt=5
-#EXTINF:-1 group-title="🦄线路2-IPV6",广东卫视
-http://cyz32.livehbindex.hbcatv.cn/live/500000206bc6413cb38dc9ca586ffe3f.m3u8?bitrate=2300&pt=5
-#EXTINF:-1 group-title="🦄线路2-IPV6",深圳卫视
-http://cyz32.livehbindex.hbcatv.cn/live/50000020289041678b7585eb32637331.m3u8?bitrate=2300&pt=5
-#EXTINF:-1 group-title="🦄线路2-IPV6",大湾区卫视
-http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001305/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="🦄线路2-IPV6",荔枝台
-http://glive.grtn.cn/live/lizhi.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",广西卫视
-http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001054/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="🦄线路2-IPV6",云南卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001223/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",贵州卫视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001184/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",四川卫视
-http://cyz32.livehbindex.hbcatv.cn/live/50000020407a4a109f5dfc6f26dbf5eb.m3u8?bitrate=2300&pt=5
-#EXTINF:-1 group-title="🦄线路2-IPV6",东南卫视
-http://cyz32.livehbindex.hbcatv.cn/live/50000020c18c4f03a2107aa78ced8fff.m3u8?bitrate=2300&pt=5
-#EXTINF:-1 group-title="🦄线路2-IPV6",海峡卫视
-http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/hxwshd4m/4000000/mnf.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",厦门卫视
-http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000193/index.m3u8?fmmv6
-#EXTINF:-1 group-title="🦄线路2-IPV6",海南卫视
-http://cyz32.livehbindex.hbcatv.cn/live/50000020741c4046820cd89d5ecbd401.m3u8?bitrate=2300&pt=5
-#EXTINF:-1 group-title="🦄线路2-IPV6",三沙卫视
-https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",内蒙古卫视
-http://cyz32.livehbindex.hbcatv.cn/live/50000020eeba44449d4f4913a2897e4e.m3u8?bitrate=2300&pt=5
-#EXTINF:-1 group-title="🦄线路2-IPV6",陕西卫视
-http://cyz32.livehbindex.hbcatv.cn/live/5000002019984c0fa29ae0d57380da3a.m3u8?bitrate=2300&pt=5
-#EXTINF:-1 group-title="🦄线路2-IPV6",农林卫视
-http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",甘肃卫视
-http://cyz32.livehbindex.hbcatv.cn/live/500000206da44fde810a98a3d7848f82.m3u8?bitrate=2300&pt=5
-#EXTINF:-1 group-title="🦄线路2-IPV6",宁夏卫视
-http://cyz32.livehbindex.hbcatv.cn/live/500000205dfa4e06bf7243e30e5182c8.m3u8?bitrate=2300&pt=5
-#EXTINF:-1 group-title="🦄线路2-IPV6",新疆卫视
-http://cyz32.livehbindex.hbcatv.cn/live/500000201e484cbeb064a31201e3dd05.m3u8?bitrate=2300&pt=5
-#EXTINF:-1 group-title="🦄线路2-IPV6",青海卫视
-http://stream.qhbtv.com/qhws/sd/live.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",安多卫视
-http://stream.qhbtv.com/adws/sd/live.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",西藏卫视
-http://cyz32.livehbindex.hbcatv.cn/live/50000020816449349b10593cfdde8311.m3u8?bitrate=2300&pt=5
-#EXTINF:-1 group-title="🦄线路2-IPV6",延边卫视
-http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",兵团卫视
-http://cyz32.livehbindex.hbcatv.cn/live/500000200a7e4caf973012bf85f33406.m3u8?bitrate=2300&pt=5
 #EXTINF:-1 group-title="🦄线路2-IPV6",人间卫视
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 #EXTINF:-1 group-title="🦄线路2-IPV6",香港卫视
@@ -418,160 +371,11 @@ http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
 https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 #EXTINF:-1 group-title="🦄线路2-IPV6",纬来体育
 https://cloud.yumixiu768.com/tmp/123.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",五星体育
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",CETV-1
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001020/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",CETV-2
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001226/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",CETV-4
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001348/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",金色学堂
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001194/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",纪实人文
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001019/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",生活时尚
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001199/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",乐游频道
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001200/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",都市剧场
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001203/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",欢笑剧场
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001193/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",北京纪实科教
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="🦄线路2-IPV6",卡酷少儿
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001245/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",金鹰纪实
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001230/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",金鹰卡通
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001460/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",茶友频道
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001234/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",快乐垂钓
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001235/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",嘉佳卡通
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001227/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",动漫秀场
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001196/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",哈哈炫动
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001232/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",游戏风云
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001192/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",家庭理财
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001278/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",财富天下
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001219/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",中国天气
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001102/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",兵器科技
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",怀旧剧场
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",世界地理
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",文化精品
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",央视台球
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",央视高网
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",风云剧场
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",风云音乐
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",第一剧场
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",女性时尚
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",风云足球
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",电视指南
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",上海新闻
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001014/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",上海都市
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001015/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",上海ICS
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001128/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",七彩戏剧
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001308/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",上海教育
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001268/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",五星体育
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",东方影视
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001016/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",东方财经
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001318/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",法治天地
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001195/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",第一财经
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001017/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",求索记录
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
-#EXTINF:-1 group-title="🦄线路2-IPV6",求索动物
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
-#EXTINF:-1 group-title="🦄线路2-IPV6",求索科学
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
-#EXTINF:-1 group-title="🦄线路2-IPV6",求索生活
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
-#EXTINF:-1 group-title="🦄线路2-IPV6",超级综艺
-http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226009/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",超级体育
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",超级电影
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",超级电视剧
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",武博世界
-http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw2554338791_49940138/ott.mobaibox.com/PLTV/3/224/3221227533/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",中国功夫
-http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw1934355864_2070028581/ott.mobaibox.com/PLTV/3/224/3221227530/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",军旅剧场
-http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw1807611386_-262631246/ott.mobaibox.com/PLTV/3/224/3221227603/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",炫舞未来
-http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/wh7f454c46tw2582593423_1721070986/ott.mobaibox.com/PLTV/3/224/3221227475/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",潮妈辣婆
-http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw1705588260_46164741/ott.mobaibox.com/PLTV/3/224/3221227527/index.m3u8
 #EXTINF:-1 group-title="🦄线路2-IPV6",精品体育
 http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/wh7f454c46tw2797725038_-2054878207/ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",精品纪录
-http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw2837435881_530071425/ott.mobaibox.com/PLTV/3/224/3221227547/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",家庭剧场
-http://[2409:8087:2001:20:2800:0:df6e:eb06]:80/wh7f454c46tw3441504651_1879058580/ott.mobaibox.com/PLTV/3/224/3221227600/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",精品大剧
-http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw2817459161_-1430429466/ott.mobaibox.com/PLTV/3/224/3221227618/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",军事评论
-http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw3373254713_-1111569189/ott.mobaibox.com/PLTV/3/224/3221227544/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",明星大片
-http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw2856695654_946966165/ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",东北热剧
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",欢乐剧场
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",CGTN英语
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001058/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",CGTN记录
-https://livedoc.cgtn.com/500d/prog_index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",CGTN俄语
-https://liveru.cgtn.com/1000r/prog_index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",CGTN法语
-https://livefr.cgtn.com/1000f/prog_index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",CGTN西语
-https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",CGTN阿语
-https://livear.cgtn.com/1000a/prog_index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",Bestv赛事1
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001151/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",Bestv赛事2
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001359/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",Bestv赛事3
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001388/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",Bestv赛事4
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001149/index.m3u8
-#EXTINF:-1 group-title="🦄线路2-IPV6",Bestv赛事5
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001153/index.m3u8
+
+
+
 #EXTINF:-1 group-title="🦄线路3-IPV6",CCTV1「IPV6」
 http://[2409:8087:2001:20:2800:0:df6e:eb07]/wh7f454c46tw3252572940_-481357165/ott.mobaibox.com/PLTV/3/224/3221227467/index.m3u8
 #EXTINF:-1 group-title="🦄线路3-IPV6",CCTV2「IPV6」
@@ -684,6 +488,8 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001102/index.m3u8
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001234/index.m3u8
 #EXTINF:-1 group-title="🦄线路3-IPV6",华数高清「IPV6」
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
+
+
 #EXTINF:-1 group-title="🦄线路4-IPV6",CCTV1
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="🦄线路4-IPV6",CCTV1
@@ -848,8 +654,8 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="🦄线路4-IPV6",CHC高清电影
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="🦄线路5-IPV6",直播中国
-https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+
+
 #EXTINF:-1 group-title="🦄线路5-IPV6",CCTV1
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="🦄线路5-IPV6",CCTV2
@@ -1044,6 +850,8 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002375/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002108/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="🦄线路5-IPV6",佛坪
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001929/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+
+
 #EXTINF:-1 group-title="🦄百视TV频道",百视TV1
 https://bp-caster.bestv.com.cn/954/3/video.m3u8
 #EXTINF:-1 group-title="🦄百视TV频道",百视TV2
@@ -1082,6 +890,8 @@ https://bp-caster.bestv.com.cn/944/3/video.m3u8
 https://bp-caster.bestv.com.cn/723/3/video.m3u8
 #EXTINF:-1 group-title="🦄百视TV频道",独家直播
 https://bp-caster.bestv.com.cn/936/3/video.m3u8
+
+
 #EXTINF:-1 group-title="🦄电影频道",CHC动作电影
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="🦄电影频道",CHC家庭影院
@@ -1144,6 +954,8 @@ https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
 https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
 #EXTINF:-1 group-title="🦄电影频道",绍兴影院✪
 http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+
+
 
 #EXTINF:-1 group-title="🦄国际频道「需魔法」",CNN新闻
 https://d30x5vsa85tvmd.cloudfront.net/index_5.m3u8
@@ -1474,6 +1286,8 @@ http://198.16.100.90:8278/jingtianintl_twn/playlist.m3u8?tid=MC7C415380614153806
 https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
 #EXTINF:-1 group-title="🦄海外频道1",耀才财经
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000?zgangd
+
+
 #EXTINF:-1 group-title="🦄海外频道2",凤凰中文
 http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/1.m3u8
 #EXTINF:-1 group-title="🦄海外频道2",凤凰资讯
