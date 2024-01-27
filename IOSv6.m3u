@@ -1125,7 +1125,6 @@ https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
 http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 
 
-
 #EXTINF:-1 group-title="🦄国际频道「需魔法」",CNN新闻
 https://d30x5vsa85tvmd.cloudfront.net/index_5.m3u8
 #EXTINF:-1 group-title="🦄国际频道「需魔法」",BBC新闻
@@ -1138,6 +1137,10 @@ http://38.96.178.201:80/live/FOXHD/index.m3u8
 http://38.96.178.201:80/live/BBCAmerica/index.m3u8
 #EXTINF:-1 group-title="🦄国际频道「需魔法」",ABC新闻
 http://38.96.178.201:80/live/ABCHD/index.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",CNBC-US
+http://23.237.98.42:8080/USA_CNBC/index.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",CNBC-US
+http://23.237.98.42:8080/USA_CNBC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🦄国际频道「需魔法」",TNT
 http://38.96.178.201:80/live/TNTHD/index.m3u8
 #EXTINF:-1 group-title="🦄国际频道「需魔法」",USA
