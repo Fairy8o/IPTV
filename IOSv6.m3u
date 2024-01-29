@@ -2279,7 +2279,7 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3
 #EXTINF:-1 group-title="🦄4K8K频道",CCTV4K 「IPV6」•支持回看
 http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw4259108076_496521789/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 
-#EXTINF:-1 group-title="🦄体育频道",广东体育超清
+#EXTINF:-1 group-title="🦄体育频道",广东体育
 http://ddns.gzbody.com:85/rtp/239.77.0.168:5146
 #EXTINF:-1 group-title="🦄体育频道",Bestv导视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001162/index.m3u8
