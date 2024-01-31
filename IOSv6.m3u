@@ -3986,90 +3986,28 @@ http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000034/index.
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="🦄iHOT频道",CHC高清电影
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="🦄SITV频道",SITV动漫秀场
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001196/index.m3u8
-#EXTINF:-1 group-title="🦄SITV频道",SITV游戏风云
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001192/index.m3u8
-#EXTINF:-1 group-title="🦄SITV频道",SITV法治天地
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001195/index.m3u8
-#EXTINF:-1 group-title="🦄SITV频道",SITV金色学堂
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001194/index.m3u8
-#EXTINF:-1 group-title="🦄SITV频道",SITV欢笑剧场
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001193/index.m3u8
-#EXTINF:-1 group-title="🦄SITV频道",SITV七彩戏剧
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001308/index.m3u8
-#EXTINF:-1 group-title="🦄SITV频道",SITV生活时尚
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001199/index.m3u8
 #EXTINF:-1 group-title="🦄SITV频道",SITV乐游
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001200/index.m3u8
-#EXTINF:-1 group-title="🦄SITV频道",SITV都市剧场
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001203/index.m3u8
-#EXTINF:-1 group-title="🦄SITV频道",SITV东方财经
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001318/index.m3u8
-#EXTINF:-1 group-title="🦄SITV频道",SITV动漫秀场
-http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001196/index.m3u8
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002157/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="🦄SITV频道",SITV游戏风云
-http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001192/index.m3u8
-#EXTINF:-1 group-title="🦄SITV频道",SITV法治天地
-http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001195/index.m3u8
-#EXTINF:-1 group-title="🦄SITV频道",SITV金色学堂
-http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001194/index.m3u8
-#EXTINF:-1 group-title="🦄SITV频道",SITV欢笑剧场
-http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001193/index.m3u8
-#EXTINF:-1 group-title="🦄SITV频道",SITV七彩戏剧
-http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001308/index.m3u8
-#EXTINF:-1 group-title="🦄SITV频道",SITV生活时尚
-http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001199/index.m3u8
-#EXTINF:-1 group-title="🦄SITV频道",SITV乐游
-http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001200/index.m3u8
-#EXTINF:-1 group-title="🦄SITV频道",SITV都市剧场
-http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001203/index.m3u8
-#EXTINF:-1 group-title="🦄SITV频道",SITV东方财经
-http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001318/index.m3u8
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226579/index.m3u8
+#EXTINF:-1 group-title="🦄SITV频道",SITV欢笑剧场4K
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="🦄SITV频道",SITV动漫秀场
 http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000009/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000009&livemode=1&stbId=3
-#EXTINF:-1 group-title="🦄SITV频道",SITV动漫秀场
-http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000023636/1.m3u8?channel-id=bestzb&Contentid=5000000002000023636&livemode=1&stbId=3
-#EXTINF:-1 group-title="🦄SITV频道",SITV动漫秀场
-http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031113/1.m3u8?channel-id=bestzb&Contentid=5000000011000031113&livemode=1&stbId=3
-#EXTINF:-1 group-title="🦄SITV频道",SITV游戏风云
-http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000011/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000011&livemode=1&stbId=3
-#EXTINF:-1 group-title="🦄SITV频道",SITV游戏风云
-http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000027005/1.m3u8?channel-id=bestzb&Contentid=5000000002000027005&livemode=1&stbId=3
 #EXTINF:-1 group-title="🦄SITV频道",SITV游戏风云
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031114/1.m3u8?channel-id=bestzb&Contentid=5000000011000031114&livemode=1&stbId=3
 #EXTINF:-1 group-title="🦄SITV频道",SITV法治天地
 http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000014/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000014&livemode=1&stbId=3
-#EXTINF:-1 group-title="🦄SITV频道",SITV法治天地
-http://zteres.sn.chinamobile.com:6060/000000001000/9001547084732463424/1.m3u8?channel-id=bestzb&Contentid=9001547084732463424&livemode=1&stbId=3
 #EXTINF:-1 group-title="🦄SITV频道",SITV魅力足球
 http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000068/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000068&livemode=1&stbId=3
-#EXTINF:-1 group-title="🦄SITV频道",SITV魅力足球
-http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031207/1.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3
-#EXTINF:-1 group-title="🦄SITV频道",SITV欢笑剧场
-http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000016/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000016&livemode=1&stbId=3
-#EXTINF:-1 group-title="🦄SITV频道",SITV欢笑剧场
-http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000009455/1.m3u8?channel-id=bestzb&Contentid=5000000002000009455&livemode=1&stbId=3
-#EXTINF:-1 group-title="🦄SITV频道",SITV欢笑剧场
-http://zteres.sn.chinamobile.com:6060/000000001000/5000000007000010001/1.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=3
 #EXTINF:-1 group-title="🦄SITV频道",SITV七彩戏剧
 http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000010/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000010&livemode=1&stbId=3
-#EXTINF:-1 group-title="🦄SITV频道",SITV七彩戏剧
-http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031116/1.m3u8?channel-id=bestzb&Contentid=5000000011000031116&livemode=1&stbId=3
 #EXTINF:-1 group-title="🦄SITV频道",SITV生活时尚
 http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000006/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000006&livemode=1&stbId=3
-#EXTINF:-1 group-title="🦄SITV频道",SITV生活时尚
-http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000019634/1.m3u8?channel-id=bestzb&Contentid=5000000002000019634&livemode=1&stbId=3
 #EXTINF:-1 group-title="🦄SITV频道",SITV都市剧场
 http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000015/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000015&livemode=1&stbId=3
-#EXTINF:-1 group-title="🦄SITV频道",SITV都市剧场
-http://zteres.sn.chinamobile.com:6060/000000001000/5000000002000004412/1.m3u8?channel-id=bestzb&Contentid=5000000002000004412&livemode=1&stbId=3
-#EXTINF:-1 group-title="🦄SITV频道",SITV都市剧场
-http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031111/1.m3u8?channel-id=bestzb&Contentid=5000000011000031111&livemode=1&stbId=3
 #EXTINF:-1 group-title="🦄SITV频道",SITV东方财经
 http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000090/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000090&livemode=1&stbId=3
-#EXTINF:-1 group-title="🦄SITV频道",SITV东方财经
-http://zteres.sn.chinamobile.com:6060/000000001000/5000000007000010003/1.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=3
 #EXTINF:-1 group-title="🦄NewTV频道",爱情喜剧
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000010/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000010&livemode=1&stbId=3
 #EXTINF:-1 group-title="🦄NewTV频道",超级电视剧
