@@ -1,5 +1,29 @@
 🦄央视频道「多线路」,#genre#
 直播中国-唯一微信号:Star-Fairy6,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+
+
+CCTV-1 综合,http://8.130.35.211/ysp/?id=cctv1
+CCTV-2 财经,http://8.130.35.211/ysp/?id=cctv2
+CCTV-3 综艺,http://8.130.35.211/ysp/?id=cctv3
+CCTV-4 中文国际,http://8.130.35.211/ysp/?id=cctv4
+CCTV-5 体育,http://8.130.35.211/ysp/?id=cctv5
+CCTV-5+ 体育赛事,http://8.130.35.211/ysp/?id=cctv5p
+CCTV-6 电影,http://148.135.93.213:81/sxg.php?id=CCTV-6H265_4000
+CCTV-7 国防军事,http://8.130.35.211/ysp/?id=cctv7
+CCTV-8 电视剧,http://8.130.35.211/ysp/?id=cctv8
+CCTV-9 纪录,http://8.130.35.211/ysp/?id=cctv9
+CCTV-10 科教,http://8.130.35.211/ysp/?id=cctv10
+CCTV-11 戏曲,http://8.130.35.211/ysp/?id=cctv11
+CCTV-12 社会与法,http://8.130.35.211/ysp/?id=cctv12
+CCTV-13 新闻,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+CCTV-14 少儿,http://8.130.35.211/ysp/?id=cctv14
+CCTV-15 音乐,http://8.130.35.211/ysp/?id=cctv15
+CCTV-16 奥林匹克,http://8.130.35.211/ysp/?id=cctv16
+CCTV-16 奥林匹克 4K,http://8.130.35.211/ysp/?id=cctv16-4k
+CCTV-17 农业农村,http://8.130.35.211/ysp/?id=cctv17
+CCTV-4K 超高清,http://8.130.35.211/ysp/?id=cctv4k
+CCTV-8K 超高清,http://8.130.35.211/ysp/?id=cctv8k
+
 CCTV1,http://www.biaozhun114.com/dl/dl668/ysp1.php?cctv1
 CCTV2,http://www.biaozhun114.com/dl/dl668/ysp1.php?cctv2
 CCTV3,http://www.biaozhun114.com/dl/dl668/ysp1.php?cctv3
@@ -557,6 +581,27 @@ CCTV16,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 CCTV17,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
 
 
+CCTV兵器科技,http://8.130.35.211/ysp/?id=bqkj
+CCTV第一剧场,http://8.130.35.211/ysp/?id=dyjc
+CCTV怀旧剧场,http://8.130.35.211/ysp/?id=hjjc
+CCTV风云剧场,http://8.130.35.211/ysp/?id=fyjc
+CCTV风云音乐,http://8.130.35.211/ysp/?id=fyyy
+CCTV风云足球,http://8.130.35.211/ysp/?id=fyzq
+CCTV电视指南,http://8.130.35.211/ysp/?id=dszn
+CCTV女性时尚,http://8.130.35.211/ysp/?id=nxss
+CCTV央视文化精品,http://8.130.35.211/ysp/?id=whjp
+CCTV世界地理,http://8.130.35.211/ysp/?id=sjdl
+CCTV高尔夫网球,http://8.130.35.211/ysp/?id=gefwq
+CCTV央视台球,http://8.130.35.211/ysp/?id=ystq
+CCTV卫生健康,http://8.130.35.211/ysp/?id=wsjk
+CGTN英语,http://8.130.35.211/ysp/?id=cgtn
+CGTN纪录,http://8.130.35.211/ysp/?id=cgtnjl
+CGTN西语,http://8.130.35.211/ysp/?id=cgtne
+CGTN法语,http://8.130.35.211/ysp/?id=cgtnf
+CGTN阿语,http://8.130.35.211/ysp/?id=cgtna
+CGTN俄语,http://8.130.35.211/ysp/?id=cgtnr
+
+欢笑剧场4K,http://148.135.93.213:81/sxg.php?id=hxjc-4k_8000
 新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 CCTV风云音乐,http://60.205.114.16/ysp/dszn.m3u8
 CCTV风云音乐,http://117.59.80.3/__cl/cg:live/__c/fyyyHD/__op/default/__f/index.m3u8
@@ -665,6 +710,34 @@ SiTV全纪实,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226580/inde
 
 
 🦄卫视频道「多线路」,#genre#
+
+凤凰中文,http://148.135.93.213:81/sxg.php?id=test1_4000
+凤凰资讯,http://148.135.93.213:81/sxg.php?id=test2_4000
+北京卫视,http://8.130.35.211/ysp/?id=bjws
+东方卫视,http://8.130.35.211/ysp/?id=dfws
+天津卫视,http://8.130.35.211/ysp/?id=tjws
+重庆卫视,http://8.130.35.211/ysp/?id=cqws
+黑龙江卫视,http://8.130.35.211/ysp/?id=hljws
+辽宁卫视,http://8.130.35.211/ysp/?id=lnws
+河北卫视,http://8.130.35.211/ysp/?id=hbws
+山东卫视,http://8.130.35.211/ysp/?id=sdws
+安徽卫视,http://8.130.35.211/ysp/?id=ahws
+河南卫视,http://8.130.35.211/ysp/?id=hnws
+湖北卫视,http://8.130.35.211/ysp/?id=hubws
+湖南卫视,http://8.130.35.211/ysp/?id=hunws
+江西卫视,http://8.130.35.211/ysp/?id=jxws
+江苏卫视,http://8.130.35.211/ysp/?id=jsws
+浙江卫视,http://8.130.35.211/ysp/?id=zjws
+东南卫视,http://8.130.35.211/ysp/?id=dnws
+广东卫视,http://8.130.35.211/ysp/?id=gdws
+深圳卫视,http://8.130.35.211/ysp/?id=szws
+广西卫视,http://8.130.35.211/ysp/?id=gxws
+贵州卫视,http://8.130.35.211/ysp/?id=gzws
+四川卫视,http://8.130.35.211/ysp/?id=scws
+新疆卫视,http://8.130.35.211/ysp/?id=xjws
+海南卫视,http://8.130.35.211/ysp/?id=hinws
+
+
 北京卫视,http://www.biaozhun114.com/dl/dl668/ysp1.php?bjws
 东方卫视,http://www.biaozhun114.com/dl/dl668/ysp1.php?dfws
 天津卫视,http://www.biaozhun114.com/dl/dl668/ysp1.php?tjws
