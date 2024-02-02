@@ -2461,76 +2461,70 @@ XJYY影院,http://39.134.66.66/PLTV/88888888/224/3221225521/index.m3u8
 「上海」上海五星体育,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000007/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
 
 🦄广东频道,#genre#
-「广东」卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225966/index.m3u8
-「广东」卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001032/index.m3u8
-「广东」卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001032/index.m3u8?
-「广东」卫视,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001032/1.m3u8
-「广东」少儿,http://www.namewee.xyz/gudou.php?id=1457
-「广东」少儿,http://www.namewee.xyz/gudou.php?id=1457_4500
-「广东」嘉佳卡通,http://www.namewee.xyz/gudou.php?id=1459_4500
-「广东」体育,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8
-「广东」珠江,http://218.13.170.98:9901/tsfile/live/1000_1.m3u8
-「广东」珠江,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000033/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000033&livemode=1&stbId=3
-「广东」珠江 超清,http://183.11.239.36:808/hls/83/index.m3u8
-「广东」珠江,http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011655/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3
-「广东」广东珠江,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/1.m3u8
-「广东」广东珠江,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000033/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000033&livemode=1&stbId=3
-「广东」广东珠江,http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011655/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3
-「广东」广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935?zguangd
-「广东」广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1612881417-0-0-bc7ddba066481bc805fc1e800654e721?zguangd
-「广东」广州综合,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzzh
-「广东」广州南国都市,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzngds
-「广东」深圳卫视,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/PLTV/1/224/3221230637/1.m3u8
-「广东」深圳卫视,http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/PLTV/1/224/3221230637/1.m3u8
-「广东」深圳都市,http://livepull-tcyzb.sztv.com.cn/showto_live/dushi01.m3u8
-「广东」广州综合,http://www.namewee.xyz/gudou.php?id=1432_4500
-「广东」广州新闻,http://www.namewee.xyz/gudou.php?id=1433_4500
-「广东」东莞新闻综合,http://www.namewee.xyz/gudou.php?id=2121
-「广东」潮州民生,http://www.namewee.xyz/gudou.php?id=3132
-「广东」茂名综合,http://www.namewee.xyz/gudou.php?id=3012_4500
-「广东」清远文旅生活,http://www.namewee.xyz/gudou.php?id=qingyuangonggongHD
-「广东」汕尾文化生活,http://www.namewee.xyz/gudou.php?id=shanweigonggongHD
-「广东」廉江综合,http://www.namewee.xyz/gudou.php?id=3209
-「广东」增城台,http://www.namewee.xyz/gudou.php?id=2079
-「广东」珠海2,http://www.namewee.xyz/gudou.php?id=zhuhaiHD2_4500
-「广东」博罗综合,http://www.namewee.xyz/gudou.php?id=2305
-「广东」饶平台,http://www.namewee.xyz/gudou.php?id=raopingtaiHD
-「广东」江门综合,http://www.namewee.xyz/gudou.php?id=jiangmenzongheHD
-「广东」鹤山综合,http://www.namewee.xyz/gudou.php?id=3709
-「广东」梅州导视,http://www.namewee.xyz/gudou.php?id=meizhoudaoshiHD
-「广东」茂名文化生活,http://www.namewee.xyz/gudou.php?id=3013_4500
-「广东」信宜,http://www.namewee.xyz/gudou.php?id=xinyigaoqing
-「广东」云浮综合,http://www.namewee.xyz/gudou.php?id=yunfuzongheHD_4500
-「广东」河源综合,http://www.namewee.xyz/gudou.php?id=heyuanzongheHD_4500
-「广东」GRTN健康频道,http://glive.grtn.cn/live/health.m3u8
-「广东」GRTN文化频道,http://glive.grtn.cn/live/wenhua_test0203.m3u8
-「广东」GRTN生活频道,http://glive.grtn.cn/live/life.m3u8
-「广东」GRTN纪录片,http://glive.grtn.cn/live/jilupian.m3u8
-「广东」阳江1,https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_b3628000.m3u8?zguangd
-「广东」阳江2,https://live.yjtvw.com:8081/live/smil:yjtv2.smil/chunklist_b3628000.m3u8?zguangd
-「广东」韶关公共,https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/live.m3u8?zguangd
-「广东」韶关综合,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8?zguangd
-「广东」 韶关综合台,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
-「广东」阳江1,https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_b3628000.m3u8?zguangd
-「广东」阳江综合,https://live.yjtvw.com:8081/live/smil:yjtv1.smil/chunklist_b1152000.m3u8?zguangd
-「广东」广州南国都市.1080P,http://r.jdshipin.com/nWaZO
-「广东」广州塔与海心桥视角,http://gctxyc.liveplay.myqcloud.com/gc/ztb_1_md.m3u8
-「广东」潮州民生,http://time-vod-qhlive.sobeylive.com/czbtv2019/czggpd.m3u8
-「广东」汕头小公园,https://gctxyc.liveplay.myqcloud.com/gc/bsszjs_1/index.m3u8?contentid=2820180516001
-「广东」汕头小公园,https://gctxyc.liveplay.myqcloud.com/gc/bsszjs_1_md.m3u8
-「广东」深圳财经生活,http://223.109.210.41/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel48/index.m3u8
-「广东」深圳体育健康,http://223.109.210.41/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel50/index.m3u8
-「广东」深圳公共,http://223.109.210.41/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel52/index.m3u8
-「广东」深圳宜和购物,http://223.109.210.41/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel42/index.m3u8
-「广东」蛇口电视台,http://223.109.210.41/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel37/index.m3u8
-「广东」番禺电视台,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
-「广东」韶关综合,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8?zguangd
-「广东」GRTN健康频道,http://glive.grtn.cn/live/health.m3u8
-「广东」GRTN纪录片,http://glive.grtn.cn/live/jilupian.m3u8
-「广东」GRTN荔枝台,http://glive.grtn.cn/live/lizhi.m3u8
-「广东」GRTN生活频道,http://glive.grtn.cn/live/life.m3u8
-「广东」GRTN文化频道,http://glive.grtn.cn/live/wenhua_test0203.m3u8
-「广东」佛冈综合,https://r2.vzan.com/v/slowlive_763398745742339271.m3u8?zbid=1033266991&tpid=1075591638
+汕头文旅体育,http://211.97.63.3:801/hls/80/index.m3u8
+汕头综合高清,http://211.97.63.3:801/hls/81/index.m3u8
+汕头经济生活,http://211.97.63.3:801/hls/82/index.m3u8
+潮州综合频道,http://211.97.63.3:801/hls/503/index.m3u8
+大湾区卫视,http://glive.grtn.cn/live/lizhi.m3u8
+广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8
+广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
+广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
+广州竞赛,http://php.jdshipin.com:8880/gztv.php?id=jingsai
+广州影视,http://php.jdshipin.com:8880/gztv.php?id=yingshi
+广州法治,http://php.jdshipin.com:8880/gztv.php?id=fazhi
+广东体育,http://219.135.208.218:8083/tsfile/live/1000_1.m3u8
+广州南国都市,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
+广东体育,https://skype.serv00.net/itouch.php?id=gdty
+广东珠江,http://php.jdshipin.com:8880/chudian.php?id=gdzj
+大湾区卫视,http://php.jdshipin.com:8880/chudian.php?id=nfws
+广东民生,http://php.jdshipin.com:8880/chudian.php?id=gdms
+广东新闻,http://php.jdshipin.com:8880/chudian.php?id=gdxw
+广东体育,http://php.jdshipin.com:8880/chudian.php?id=gdty
+广东影视,http://php.jdshipin.com:8880/chudian.php?id=gdys
+广东国际,http://php.jdshipin.com:8880/chudian.php?id=gdgj
+广东移动,http://php.jdshipin.com:8880/chudian.php?id=gdyd
+番禺电视台,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
+深圳都市「官方」,http://livepull-tcyzb.sztv.com.cn/live/dushi01.m3u8
+东莞综合「官方」,https://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8
+东莞生活「官方」,https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8
+河源综合「官方」,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
+河源公共「官方」,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
+韶关综合「官方」,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
+韶关公共「官方」,https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/live.m3u8
+佛山综合,http://php.jdshipin.com:8880/fstv.php?id=fszh
+佛山影视,http://php.jdshipin.com:8880/fstv.php?id=fsys
+佛山公共,http://php.jdshipin.com:8880/fstv.php?id=fsgg
+佛山南海,http://php.jdshipin.com:8880/fstv.php?id=fsnh
+佛山顺德,http://php.jdshipin.com:8880/fstv.php?id=fssd
+佛山高明,http://php.jdshipin.com:8880/fstv.php?id=fsgm
+佛山三水,http://php.jdshipin.com:8880/fstv.php?id=fsss
+云浮综合,https://livestream.oeeee.com/slive/17806.m3u8
+云浮文旅,https://livestream.oeeee.com/slive/17807.m3u8
+惠东综合,http://php.jdshipin.com:8880/chudian.php?id=hdzh
+开平综合,http://php.jdshipin.com:8880/chudian.php?id=kpzh
+工布江达县广播电视台,http://php.jdshipin.com:8880/chudian.php?id=gbjd
+化州综合,http://php.jdshipin.com:8880/chudian.php?id=hzzh
+鹤山综合,http://php.jdshipin.com:8880/chudian.php?id=hszh
+普宁综合,http://php.jdshipin.com:8880/chudian.php?id=pnzh
+紫金综合,http://php.jdshipin.com:8880/chudian.php?id=zjzh
+阳春综合,http://php.jdshipin.com:8880/chudian.php?id=yczh
+怀集综合,http://php.jdshipin.com:8880/chudian.php?id=hjzh
+惠阳电视台,http://php.jdshipin.com:8880/chudian.php?id=hytv
+阳西综合,http://php.jdshipin.com:8880/chudian.php?id=yxzh
+台山台,http://php.jdshipin.com:8880/chudian.php?id=tstv
+遂溪台,http://php.jdshipin.com:8880/chudian.php?id=sxtv
+新会综合,http://php.jdshipin.com:8880/chudian.php?id=xhzh
+罗定综合,http://php.jdshipin.com:8880/chudian.php?id=ldzh
+和平综合,http://php.jdshipin.com:8880/chudian.php?id=hpzh
+东源台,http://php.jdshipin.com:8880/chudian.php?id=dytv
+吴川综合,http://php.jdshipin.com:8880/chudian.php?id=wczh
+乐昌电视台,http://php.jdshipin.com:8880/chudian.php?id=lctv
+潮安综合,http://php.jdshipin.com:8880/chudian.php?id=cazh
+深圳都市,http://livepull-tcyzb.sztv.com.cn/showto_live/dushi01.m3u8
+河源综合,https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8?_upt=f767206b1671099007
+GRTN文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1612881417-0-0-bc7ddba066481bc805fc1e800654e721
+GRTN文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935
+
 
 
 🦄地方频道,#genre#
