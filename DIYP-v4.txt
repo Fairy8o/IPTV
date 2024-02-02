@@ -2136,6 +2136,29 @@ viju+ Sport,http://135.181.115.81/russia/viasat_sport/playlist.m3u8
 凤凰资讯台,http://www.biaozhun114.com/dl/dl888/histar.php?phtv-info
 凤凰中文台,http://www.biaozhun114.com/dl/dl888/histar.php?phtv-cn
 凤凰香港台,http://www.biaozhun114.com/dl/dl888/histar.php?phtv-hk
+
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视文旅台,http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
+爆谷,http://ali.hlspull.yximgs.com/live/nowbgggggt3a888221300-cfuu78258.flv
+星影,http://ali.hlspull.yximgs.com/live/nowxyot3a888221300-cfuu78258.flv
+凤凰中文,http://hls.666888999.gay/iptv.php?id=1
+凤凰资讯,http://hls.666888999.gay/iptv.php?id=2
+香港线新闻台,http://hls.666888999.gay/iptv.php?id=3
+香港有线18台,http://hls.666888999.gay/iptv.php?id=4
+香港有线高清603台,http://hls.666888999.gay/iptv.php?id=5
+TVB无线新闻台,http://hls.666888999.gay/iptv.php?id=6
+TVB财经体育资讯台,http://hls.666888999.gay/iptv.php?id=7
+TVB翡翠台,http://hls.666888999.gay/iptv.php?id=8
+TVB华-丽翡翠台,http://hls.666888999.gay/iptv.php?id=9
+TVB明珠台,http://hls.666888999.gay/iptv.php?id=10
+TVB J2,http://hls.666888999.gay/iptv.php?id=11
+星-河频道,http://hls.666888999.gay/iptv.php?id=12
+VIUTV,http://hls.666888999.gay/iptv.php?id=13
+NOW 新闻台,http://hls.666888999.gay/iptv.php?id=15
+有线体育频道,http://hls.666888999.gay/iptv.php?id=16
+有线电视剧,http://hls.666888999.gay/iptv.php?id=17
+有线新闻台,http://hls.666888999.gay/iptv.php?id=18
+RHK32,http://hls.666888999.gay/iptv.php?id=19
 TVB 翡翠台,http://www.biaozhun114.com/dl/dl888/histar.php?feicui
 TVB 明珠台,http://www.biaozhun114.com/dl/dl888/histar.php?pearl
 TVB J2台,http://www.biaozhun114.com/dl/dl888/histar.php?j2
@@ -2250,8 +2273,16 @@ TVB J2台,https://cdn.ggapk.net/live/tv?id=d430hvKyWlEd4te7Ax6DivSDLDSgRLPB4jGmh
 澳门卫视,https://live.mastvnet.com/lsdream/MSTV/1500/live.m3u8
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 
-
 🦄湾湾频道,#genre#
+中天新闻,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivepzztvvzzzyzuuzzfvbscvzdztwzfszzszzzcvuyzemzeztxw.flv
+寰宇新闻,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivephxehmffzuxcxzvezezyhmnzzxzzhzdhnzbnxfdzfhyxw.flv
+年代新闻,http://pull-hls-hs-spe-f5.douyincdn.com/live/twliveozevdyscvbudlozlnsfzewtzudvbbzxfznzlvczdzdnzxw.flv
+东森新闻,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivemhzttuzzcvbyzuozdzzezywefzzfbxfbxxvbzzzlzzhzsxw.flv
+中视新闻,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivepnvzydstudzbszcvbfzzzszfzszwetymzldhduzocnzsxw.flv
+台视新闻,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivenczztzzudtzlzcvbcvntzzzsfwetzfvcbcxvdzbzfflvcztsxw.flv
+TVBS,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivezpzovdxzozfdezodszxcvlzzfvhnzlzzzobzzzsvhzchtvbs.flv
+中天新闻,http://hls.666888999.gay/iptv.php?id=21
+东森LIVE,http://hls.666888999.gay/iptv.php?id=22
 中视HD,http://www.biaozhun114.com/dl/dl888/histar.php?ctv-hd
 中视,http://www.biaozhun114.com/dl/dl888/histar.php?中视
 华视,http://www.biaozhun114.com/dl/dl888/histar.php?cts
