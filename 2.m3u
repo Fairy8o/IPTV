@@ -1,0 +1,22 @@
+#EXTM3U
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE local
+
+#EXTINF:-1 group-title="🦄湾湾频道",中天新闻
+http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivepzztvvzzzyzuuzzfvbscvzdztwzfszzszzzcvuyzemzeztxw.flv
+#EXTINF:-1 group-title="🦄湾湾频道",寰宇新闻
+http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivephxehmffzuxcxzvezezyhmnzzxzzhzdhnzbnxfdzfhyxw.flv
+#EXTINF:-1 group-title="🦄湾湾频道",年代新闻
+http://pull-hls-hs-spe-f5.douyincdn.com/live/twliveozevdyscvbudlozlnsfzewtzudvbbzxfznzlvczdzdnzxw.flv
+#EXTINF:-1 group-title="🦄湾湾频道",东森新闻
+http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivemhzttuzzcvbyzuozdzzezywefzzfbxfbxxvbzzzlzzhzsxw.flv
+#EXTINF:-1 group-title="🦄湾湾频道",中视新闻
+http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivepnvzydstudzbszcvbfzzzszfzszwetymzldhduzocnzsxw.flv
+#EXTINF:-1 group-title="🦄湾湾频道",台视新闻
+http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivenczztzzudtzlzcvbcvntzzzsfwetzfvcbcxvdzbzfflvcztsxw.flv
+#EXTINF:-1 group-title="🦄湾湾频道",TVBS
+http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivezpzovdxzozfdezodszxcvlzzfvhnzlzzzobzzzsvhzchtvbs.flv
+#EXTINF:-1 group-title="🦄湾湾频道",中天新闻
+http://hls.666888999.gay/iptv.php?id=21
+#EXTINF:-1 group-title="🦄湾湾频道",东森LIVE
+http://hls.666888999.gay/iptv.php?id=22
