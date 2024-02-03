@@ -71,8 +71,6 @@ http://111.59.63.32:9901/tsfile/live/1046_1.m3u8
 http://58.19.13.92:9901/tsfile/live/1025_1.m3u8
 #EXTINF:-1 group-title="🦄线路-①" tvg-id="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png",安徽卫视
 http://221.213.43.82:8888/newlive/live/hls/25/live.m3u8
-#EXTINF:-1 group-title="🦄线路-①" tvg-id="河南卫视" tvg-logo="https://live.fanmingming.com/tv/河南卫视.png",河南卫视
-https://iptv.luas.edu.cn/liverespath/4bc76db1677c6cd2176e652ed6fc1cd44d8c297b/f5ed118d09-0-0-e4cdda1425c9a6d56910f30a9bf4466d/index.m3u8
 #EXTINF:-1 group-title="🦄线路-①" tvg-id="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/湖北卫视.png",湖北卫视
 http://221.213.43.82:8888/newlive/live/hls/34/live.m3u8
 #EXTINF:-1 group-title="🦄线路-①" tvg-id="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png",湖南卫视
@@ -83,8 +81,6 @@ http://221.213.43.82:8888/newlive/live/hls/46/live.m3u8
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
 #EXTINF:-1 group-title="🦄线路-①" tvg-id="浙江卫视" tvg-logo="https://live.fanmingming.com/tv/浙江卫视.png",浙江卫视
 http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
-#EXTINF:-1 group-title="🦄线路-①" tvg-id="东南卫视" tvg-logo="https://live.fanmingming.com/tv/东南卫视.png",东南卫视
-https://iptv.luas.edu.cn/liverespath/7a202b5f39c56db4ca3ca7a3dc21b073c9bc472a/d85f0c09eb-0-0-c74ad3019019687cb5407ff2938accb6/index.m3u8
 #EXTINF:-1 group-title="🦄线路-①" tvg-id="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png",广东卫视
 http://221.2.36.34:8888/newlive/live/hls/21/live.m3u8
 #EXTINF:-1 group-title="🦄线路-①" tvg-id="深圳卫视" tvg-logo="https://live.fanmingming.com/tv/深圳卫视.png",深圳卫视
