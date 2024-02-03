@@ -1436,39 +1436,16 @@ http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226188/1.m3u8
 http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226196/1.m3u8
 #EXTINF:-1 group-title="🦄咪咕视频-「IPV6」",咪咕视频37
 http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226367/1.m3u8
+
+
 #EXTINF:-1 group-title="🦄香港频道",凤凰中文-「IPV6」
 http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 #EXTINF:-1 group-title="🦄香港频道",凤凰咨询-「IPV6」
 http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 #EXTINF:-1 group-title="🦄香港频道",凤凰香港-「IPV6」
 http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
-#EXTINF:-1 group-title="🦄香港频道",凤凰中文
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8
-#EXTINF:-1 group-title="🦄香港频道",凤凰资讯台
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8
-#EXTINF:-1 group-title="🦄香港频道",凤凰中文台
-http://www.biaozhun114.com/dl/dl888/histar.php?phtv-cn
-#EXTINF:-1 group-title="🦄香港频道",凤凰资讯台
-http://www.biaozhun114.com/dl/dl888/histar.php?phtv-info
-#EXTINF:-1 group-title="🦄香港频道",凤凰香港台
-http://www.biaozhun114.com/dl/dl888/histar.php?phtv-hk
-#EXTINF:-1 group-title="🦄香港频道",凤凰卫视台
-http://www.biaozhun114.com/dl/dl888/histar.php?phtv
-#EXTINF:-1 group-title="🦄香港频道",凤凰资讯台
-http://www.biaozhun114.com/dl/dl888/histar.php?phtv-info
-#EXTINF:-1 group-title="🦄香港频道",凤凰中文台
-http://www.biaozhun114.com/dl/dl888/histar.php?phtv-cn
-#EXTINF:-1 group-title="🦄香港频道",凤凰香港台
-http://www.biaozhun114.com/dl/dl888/histar.php?phtv-hk
-
-#EXTINF:-1 group-title="🦄香港频道",香港卫视
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 group-title="🦄香港频道",香港卫视文旅台
 http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
-#EXTINF:-1 group-title="🦄香港频道",爆谷
-http://ali.hlspull.yximgs.com/live/nowbgggggt3a888221300-cfuu78258.flv
-#EXTINF:-1 group-title="🦄香港频道",星影
-http://ali.hlspull.yximgs.com/live/nowxyot3a888221300-cfuu78258.flv
 #EXTINF:-1 group-title="🦄香港频道",凤凰中文
 http://hls.666888999.gay/iptv.php?id=1
 #EXTINF:-1 group-title="🦄香港频道",凤凰资讯
@@ -1479,19 +1456,19 @@ http://hls.666888999.gay/iptv.php?id=3
 http://hls.666888999.gay/iptv.php?id=4
 #EXTINF:-1 group-title="🦄香港频道",香港有线高清603台
 http://hls.666888999.gay/iptv.php?id=5
-#EXTINF:-1 group-title="🦄香港频道",TVB无线新闻台
+#EXTINF:-1 group-title="🦄香港频道",TVB-无线新闻台
 http://hls.666888999.gay/iptv.php?id=6
-#EXTINF:-1 group-title="🦄香港频道",TVB财经体育资讯台
+#EXTINF:-1 group-title="🦄香港频道",TVB-财经体育资讯台
 http://hls.666888999.gay/iptv.php?id=7
-#EXTINF:-1 group-title="🦄香港频道",TVB翡翠台
+#EXTINF:-1 group-title="🦄香港频道",TVB-翡翠台
 http://hls.666888999.gay/iptv.php?id=8
-#EXTINF:-1 group-title="🦄香港频道",TVB华-丽翡翠台
+#EXTINF:-1 group-title="🦄香港频道",TVB-华丽翡翠台
 http://hls.666888999.gay/iptv.php?id=9
-#EXTINF:-1 group-title="🦄香港频道",TVB明珠台
+#EXTINF:-1 group-title="🦄香港频道",TVB-明珠台
 http://hls.666888999.gay/iptv.php?id=10
-#EXTINF:-1 group-title="🦄香港频道",TVB J2
+#EXTINF:-1 group-title="🦄香港频道",TVB-J2
 http://hls.666888999.gay/iptv.php?id=11
-#EXTINF:-1 group-title="🦄香港频道",星-河频道
+#EXTINF:-1 group-title="🦄香港频道",-TVB-星河
 http://hls.666888999.gay/iptv.php?id=12
 #EXTINF:-1 group-title="🦄香港频道",VIUTV
 http://hls.666888999.gay/iptv.php?id=13
@@ -1505,162 +1482,8 @@ http://hls.666888999.gay/iptv.php?id=17
 http://hls.666888999.gay/iptv.php?id=18
 #EXTINF:-1 group-title="🦄香港频道",RHK32
 http://hls.666888999.gay/iptv.php?id=19
-#EXTINF:-1 group-title="🦄香港频道",TVB 翡翠台
-http://www.biaozhun114.com/dl/dl888/histar.php?feicui
-#EXTINF:-1 group-title="🦄香港频道",TVB 明珠台
-http://www.biaozhun114.com/dl/dl888/histar.php?pearl
-#EXTINF:-1 group-title="🦄香港频道",TVB J2台
-http://www.biaozhun114.com/dl/dl888/histar.php?j2
-#EXTINF:-1 group-title="🦄香港频道",TVB 无线新闻台
+#EXTINF:-1 group-title="🦄香港频道",TVB-无线新闻台
 http://www.biaozhun114.com/dl/dl888/histar.php?tvb-news
-#EXTINF:-1 group-title="🦄香港频道",TVB 无线财经台
-http://www.biaozhun114.com/dl/dl888/histar.php?tvb-finance
-#EXTINF:-1 group-title="🦄香港频道",TVB 千禧经典台
-http://www.biaozhun114.com/dl/dl888/histar.php?tvb-classic
-#EXTINF:-1 group-title="🦄香港频道",TVB 华语剧台
-http://www.biaozhun114.com/dl/dl888/histar.php?tvb-drama
-#EXTINF:-1 group-title="🦄香港频道",TVB 星河台
-http://www.biaozhun114.com/dl/dl888/histar.php?tvb-xinghe
-#EXTINF:-1 group-title="🦄香港频道",TVB 翡翠台
-http://www.biaozhun114.com/dl/dl888/histar.php?feicui
-#EXTINF:-1 group-title="🦄香港频道",TVB 无线新闻台
-http://www.biaozhun114.com/dl/dl888/histar.php?tvb-news
-#EXTINF:-1 group-title="🦄香港频道",TVB 黄金翡翠台
-http://www.biaozhun114.com/dl/dl888/histar.php?golden-jade
-#EXTINF:-1 group-title="🦄香港频道",TVB 黄金华剧台
-http://www.biaozhun114.com/dl/dl888/histar.php?golden-chinese-drama
-#EXTINF:-1 group-title="🦄香港频道",TVB 星河台
-http://www.biaozhun114.com/dl/dl888/histar.php?tvb-xinghe
-#EXTINF:-1 group-title="🦄香港频道",TVB 娱乐新闻台
-http://www.biaozhun114.com/dl/dl888/histar.php?TVB%20ylxw
-#EXTINF:-1 group-title="🦄香港频道",TVB 千禧经典台
-http://www.biaozhun114.com/dl/dl888/histar.php?tvb-classic
-#EXTINF:-1 group-title="🦄香港频道",TVB 无线财经体育资讯台
-http://www.biaozhun114.com/dl/dl888/histar.php?tvb-finance
-#EXTINF:-1 group-title="🦄香港频道",TVB 粤语片台
-http://www.biaozhun114.com/dl/dl888/histar.php?tvb-yueyu
-#EXTINF:-1 group-title="🦄香港频道",TVB 明珠台
-http://www.biaozhun114.com/dl/dl888/histar.php?pearl
-#EXTINF:-1 group-title="🦄香港频道",TVB 亚洲剧台
-http://www.biaozhun114.com/dl/dl888/histar.php?tvb-asia-drama
-#EXTINF:-1 group-title="🦄香港频道",TVB 华语剧台
-http://www.biaozhun114.com/dl/dl888/histar.php?tvb-drama
-#EXTINF:-1 group-title="🦄香港频道",有线新闻台
-http://www.biaozhun114.com/dl/dl888/histar.php?cable-news
-#EXTINF:-1 group-title="🦄香港频道",有线财经资讯台
-http://www.biaozhun114.com/dl/dl888/histar.php?cable
-#EXTINF:-1 group-title="🦄香港频道",有线体育台
-http://www.biaozhun114.com/dl/dl888/histar.php?icable-sports
-#EXTINF:-1 group-title="🦄香港频道",有线电影台
-http://www.biaozhun114.com/dl/dl888/histar.php?icable-movie
-#EXTINF:-1 group-title="🦄香港频道",有线18台
-http://www.biaozhun114.com/dl/dl888/histar.php?icable18
-#EXTINF:-1 group-title="🦄香港频道",ViuTV
-http://www.biaozhun114.com/dl/dl888/histar.php?viutv
-#EXTINF:-1 group-title="🦄香港频道",ViuTV6
-http://www.biaozhun114.com/dl/dl888/histar.php?viutv6
-#EXTINF:-1 group-title="🦄香港频道",天映经典
-http://www.biaozhun114.com/dl/dl888/histar.php?cccm
-#EXTINF:-1 group-title="🦄香港频道",天映频道HD
-http://www.biaozhun114.com/dl/dl888/histar.php?celestial
-#EXTINF:-1 group-title="🦄香港频道",港台电视31
-http://www.biaozhun114.com/dl/dl888/histar.php?rthk31
-#EXTINF:-1 group-title="🦄香港频道",港台电视32
-http://www.biaozhun114.com/dl/dl888/histar.php?rthk32
-#EXTINF:-1 group-title="🦄香港频道",Now新闻台
-http://www.biaozhun114.com/dl/dl888/histar.php?now-news
-#EXTINF:-1 group-title="🦄香港频道",Now直播台
-http://www.biaozhun114.com/dl/dl888/histar.php?now-331
-#EXTINF:-1 group-title="🦄香港频道",Now华剧台
-http://www.biaozhun114.com/dl/dl888/histar.php?now-hairun
-#EXTINF:-1 group-title="🦄香港频道",HOYTV
-http://www.biaozhun114.com/dl/dl888/histar.php?hoytv
-#EXTINF:-1 group-title="🦄香港频道",香港国际财经台
-http://www.biaozhun114.com/dl/dl888/histar.php?hkibc
-#EXTINF:-1 group-title="🦄香港频道",HOY资讯台
-http://www.biaozhun114.com/dl/dl888/histar.php?hoy-info
-#EXTINF:-1 group-title="🦄香港频道",澳门资讯
-http://www.biaozhun114.com/dl/dl888/histar.php?amzx
-#EXTINF:-1 group-title="🦄香港频道",澳视澳门
-http://www.biaozhun114.com/dl/dl888/histar.php?asam
-#EXTINF:-1 group-title="🦄香港频道",星空卫视
-http://www.biaozhun114.com/dl/dl888/histar.php?star-xing-kong
-#EXTINF:-1 group-title="🦄香港频道",香港卫视
-http://www.biaozhun114.com/dl/dl888/histar.php?hks
-#EXTINF:-1 group-title="🦄香港频道",HKC 18台
-http://www.biaozhun114.com/dl/dl888/histar.php?hkc18
-#EXTINF:-1 group-title="🦄香港频道",天映频道
-http://www.biaozhun114.com/dl/dl888/histar.php?celestial
-#EXTINF:-1 group-title="🦄香港频道",HOY TV
-http://www.biaozhun114.com/dl/dl888/histar.php?hoytv
-#EXTINF:-1 group-title="🦄香港频道",HOY 资讯台
-http://www.biaozhun114.com/dl/dl888/histar.php?hoy-info
-#EXTINF:-1 group-title="🦄香港频道",HOY 国际财经
-http://www.biaozhun114.com/dl/dl888/histar.php?hoy-ibc
-#EXTINF:-1 group-title="🦄香港频道",澳门卫视
-http://www.biaozhun114.com/dl/dl888/histar.php?mstv
-#EXTINF:-1 group-title="🦄香港频道",澳亚卫视
-http://www.biaozhun114.com/dl/dl888/histar.php?mastv
-#EXTINF:-1 group-title="🦄香港频道",港台电视 31
-http://www.biaozhun114.com/dl/dl888/histar.php?rthk31
-#EXTINF:-1 group-title="🦄香港频道",港台电视 32
-http://www.biaozhun114.com/dl/dl888/histar.php?rthk32
-#EXTINF:-1 group-title="🦄香港频道",美国中文电视
-http://www.biaozhun114.com/dl/dl888/histar.php?sinovision
-#EXTINF:-1 group-title="🦄香港频道",Now 直播台
-http://www.biaozhun114.com/dl/dl888/histar.php?now-direct
-#EXTINF:-1 group-title="🦄香港频道",Now 财经台
-http://www.biaozhun114.com/dl/dl888/histar.php?now-finance
-#EXTINF:-1 group-title="🦄香港频道",Now 新闻台
-http://www.biaozhun114.com/dl/dl888/histar.php?now-news
-#EXTINF:-1 group-title="🦄香港频道",Now报价台
-http://www.biaozhun114.com/dl/dl888/histar.php?now-data
-#EXTINF:-1 group-title="🦄香港频道",Now jelli紫金国际台
-http://www.biaozhun114.com/dl/dl888/histar.php?now-jelli
-#EXTINF:-1 group-title="🦄香港频道",Now华剧台
-http://www.biaozhun114.com/dl/dl888/histar.php?now-chinese-drama
-#EXTINF:-1 group-title="🦄香港频道",NowViu剧集台
-http://www.biaozhun114.com/dl/dl888/histar.php?now-viu-drama
-#EXTINF:-1 group-title="🦄香港频道",Now 星影台
-http://www.biaozhun114.com/dl/dl888/histar.php?now-baogu-superstars
-#EXTINF:-1 group-title="🦄香港频道",Now 爆谷台
-http://www.biaozhun114.com/dl/dl888/histar.php?baogu-movies
-#EXTINF:-1 group-title="🦄香港频道",Now Sports精选
-http://www.biaozhun114.com/dl/dl888/histar.php?now-sports-prime
-#EXTINF:-1 group-title="🦄香港频道",Now Sports 1
-http://www.biaozhun114.com/dl/dl888/histar.php?now-sports-1
-#EXTINF:-1 group-title="🦄香港频道",Now Sports 2
-http://www.biaozhun114.com/dl/dl888/histar.php?now-sports-2
-#EXTINF:-1 group-title="🦄香港频道",Now Sports 3
-http://www.biaozhun114.com/dl/dl888/histar.php?now-sports-3
-#EXTINF:-1 group-title="🦄香港频道",Now Sports 4
-http://www.biaozhun114.com/dl/dl888/histar.php?now-sports-4
-#EXTINF:-1 group-title="🦄香港频道",Now Sports 5
-http://www.biaozhun114.com/dl/dl888/histar.php?now-sports-5
-#EXTINF:-1 group-title="🦄香港频道",Now Sports 6
-http://www.biaozhun114.com/dl/dl888/histar.php?now-sports-6
-#EXTINF:-1 group-title="🦄香港频道",Now Sports 7
-http://www.biaozhun114.com/dl/dl888/histar.php?now-sports-7
-#EXTINF:-1 group-title="🦄香港频道",Now Sports Plus
-http://www.biaozhun114.com/dl/dl888/histar.php?now-sports-plus
-#EXTINF:-1 group-title="🦄香港频道",Now Sports 英超1
-http://www.biaozhun114.com/dl/dl888/histar.php?now-sports-premier-league1
-#EXTINF:-1 group-title="🦄香港频道",Now Sports 英超2
-http://www.biaozhun114.com/dl/dl888/histar.php?now-sports-premier-league2
-#EXTINF:-1 group-title="🦄香港频道",Now Sports 英超3
-http://www.biaozhun114.com/dl/dl888/histar.php?now-sports-premier-league3
-#EXTINF:-1 group-title="🦄香港频道",Now Sports 英超4
-http://www.biaozhun114.com/dl/dl888/histar.php?now-sports-premier-league4
-#EXTINF:-1 group-title="🦄香港频道",Now Sports 英超5
-http://www.biaozhun114.com/dl/dl888/histar.php?now-sports-premier-league5
-#EXTINF:-1 group-title="🦄香港频道",Now Sports 英超6
-http://www.biaozhun114.com/dl/dl888/histar.php?now-sports-premier-league6
-#EXTINF:-1 group-title="🦄香港频道",Now 668
-http://www.biaozhun114.com/dl/dl888/histar.php?now-668
-#EXTINF:-1 group-title="🦄香港频道",Now Golf 2
-http://www.biaozhun114.com/dl/dl888/histar.php?now-golf2
-#EXTINF:-1 group-title="🦄香港频道",Now Golf 3
-http://www.biaozhun114.com/dl/dl888/histar.php?now-golf3
 #EXTINF:-1 group-title="🦄香港频道",香港RHK32
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 #EXTINF:-1 group-title="🦄香港频道",TVB 无线财经台
@@ -1669,6 +1492,30 @@ https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 #EXTINF:-1 group-title="🦄香港频道",TVB 星河台
 https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🦄香港频道",香港文旅台
+http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
+#EXTINF:-1 group-title="🦄香港频道",爆谷(HK)
+http://ali.hlspull.yximgs.com/live/nowbgggggt3a888221300-cfuu78258.flv
+#EXTINF:-1 group-title="🦄香港频道",星影(HK)
+http://ali.hlspull.yximgs.com/live/nowxyot3a888221300-cfuu78258.flv
+#EXTINF:-1 group-title="🦄香港频道",TVB 翡翠台
+http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
+#EXTINF:-1 group-title="🦄香港频道",TVB 明珠台
+http://qwas.eatuo.com:9901/tsfile/live/1014_1.m3u8
+#EXTINF:-1 group-title="🦄香港频道",翡翠台
+https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🦄香港频道",NHK World
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+#EXTINF:-1 group-title="🦄香港频道",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="🦄香港频道",AlJazeera
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 group-title="🦄香港频道",Arirang TV
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+#EXTINF:-1 group-title="🦄香港频道",RT News
+https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1 group-title="🦄香港频道",RT Documentary
+https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 #EXTINF:-1 group-title="🦄香港频道",TVB 粤语片台
 https://cdn.ggapk.net/live/tv?id=f1a5aU6fUDVKN_d1jCHn644tSeb_PyIS4i1FO4NuE3JUJK3ry4dioC9gQiMoy8tF5wmpueHWFgufd1b_pTTJU9rgPrGv5dOSXZ1gMt9Cdt-UNhdLttFN-KYVKOZ348EvCaJCMZzG2tmeXQzAUNbYsSewA4j6xOdJq_cnMhZfkeW_CzK_Wo_-_Av8-QtlHJUf7NynPN87mbeTb3V21vjUn5aqoo9BEkvOxsGCj-042Asl0eFFZ4gOdK8iNhRK5cdLosibJzktJLDIEPwjLeZ0ANtfDk2U253j4EZe4vL8jryAq1mvQSH4AW_J_OrRTOpK1PvpSBE5mA_O0QEkYKv0GtzkpQdSacnpWK0tGqlxg_fblMe66_on7Cz9zi4
 #EXTINF:-1 group-title="🦄香港频道",TVB 亚洲剧台
@@ -1681,6 +1528,8 @@ https://cdn.ggapk.net/live/tv?id=9fb8bQTEWRl0TQAEYCkwCVXeWJ8CspOw3GeWIl0GrGpcM--
 https://cdn.ggapk.net/live/tv?id=be3afTKIU4hBJAipj1g8ddV-mcsA_1BHEGdR8rE-ebux8GGk8PvMW2Z-w2VKsm0ktnq1e0e5-qvfYk3ouzVzt8d3S1uIB3q5ECoM9h3i_gbeX2xoXTLGjafavnCPcmOqoHKbzzUJJgBBjTc-96zj7Ah8kl98pKKeLl8-71P7jklOJtVUJnUGywTk37lFV0bu_mqDrZsOCu_1xYHhOish6YFmks9BbWB5W2GOxTeu7_OtoA4yWyhD9vZflTfBq7jKQXBQEF9ZWzOYpxEEAW09SxNhAmEOexGVjaokE9o7tiwBq6sJwkcB9Jn7Q78vN4O393qEDtIlRgJvJeWdbO5024BsUE8RNM2cYOwUyRtp7nnyWVi8h1GNs6N-XBU
 #EXTINF:-1 group-title="🦄香港频道",TVB J2台
 https://cdn.ggapk.net/live/tv?id=d430hvKyWlEd4te7Ax6DivSDLDSgRLPB4jGmhHa66OePkPOrwT8VLEC5Fc41FKMuWXKR5MASN7tKkv-g1kaQ5XSw94TvWGnEXojPEcUp3P-8xPtVly08BMHfRFjGxNNomnOh3Ej_MAdzxAQTid2sfIJen1MJX2ZeHJ0swkcRxzZ9HJEMP7x4wXdMk767Pg7dK2nh8_6iGn42c9JzJsaajU51kgfnJNtdqDspIsjpD9gaNzj_oslQ--5bnlglt_n-F1lSYhVXrnxbeIL6URst-TdjsaVmnE1prKaNM-GY183YXo-eALAppJVy7nIlEN3U8xNbVlEC3HO-xkk0O5pP4Reo9iSrStp9sacQuwCut-HKvXFT1nRDghVBfBc
+
+
 #EXTINF:-1 group-title="🦄澳门频道",澳视澳门台
 http://www.biaozhun114.com/dl/dl668/top.php?id=301
 #EXTINF:-1 group-title="🦄澳门频道",澳视葡文台
