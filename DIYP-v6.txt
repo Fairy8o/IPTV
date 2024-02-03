@@ -653,6 +653,32 @@ CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 重庆卫视,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225963/index.m3u8
 
 
+东南卫视 4M1080,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/wh7f454c46tw1460673280_696172443/ott.mobaibox.com/PLTV/3/224/3221227553/index.m3u8?icpid=3&RTS=1674381576&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
+常州生活 4M1080,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw473009017_41548796/ott.mobaibox.com/PLTV/3/224/3221227816/index.m3u8?icpid=3&RTS=1674380588&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
+常州都市 4M1080,http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/wh7f454c46tw1560155170_1450198929/ott.mobaibox.com/PLTV/3/224/3221227755/index.m3u8?icpid=3&RTS=1674385970&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
+徐州1 2.5M1080,http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw1757671022_-2041154408/ott.mobaibox.com/PLTV/3/224/3221225945/index.m3u8?icpid=3&RTS=1674386168&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
+徐州2 2.5M1080,http://[2409:8087:2001:20:2800:0:df6e:eb14]:80/wh7f454c46tw1560531725_-596640011/ott.mobaibox.com/PLTV/3/224/3221225947/index.m3u8?icpid=3&RTS=1674385970&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
+徐州3 2.5M1080,http://[2409:8087:2001:20:2800:0:df6e:eb14]:80/wh7f454c46tw2056785203_516500626/ott.mobaibox.com/PLTV/3/224/3221225949/index.m3u8?icpid=3&RTS=1674386467&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
+徐州4 2.5M1080,http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/wh7f454c46tw474163189_444309667/ott.mobaibox.com/PLTV/3/224/3221225951/index.m3u8?icpid=3&RTS=1674380589&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
+江西风尚购物 4M1080,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/wh7f454c46tw1758872048_47751100/ott.mobaibox.com/PLTV/3/224/3221225956/index.m3u8?icpid=3&RTS=1674386169&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
+沛县文艺影视 2.5M1080,http://[2409:8087:2001:20:2800:0:df6e:eb0e]:80/wh7f454c46tw474358340_-934789663/ott.mobaibox.com/PLTV/3/224/3221227681/index.m3u8?icpid=3&RTS=1674380589&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
+沛县新闻综合 2.5M1080,http://[2409:8087:2001:20:2800:0:df6e:eb0e]:80/wh7f454c46tw1560895495_591076655/ott.mobaibox.com/PLTV/3/224/3221227678/index.m3u8?icpid=3&RTS=1674385971&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
+沛县经济生活 2.5M1080,http://[2409:8087:2001:20:2800:0:df6e:eb0e]:80/wh7f454c46tw474668011_70829162/ott.mobaibox.com/PLTV/3/224/3221227611/index.m3u8?icpid=3&RTS=1674380590&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
+泰州1 4M1080,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw418570204_-1506900291/ott.mobaibox.com/PLTV/3/224/3221228209/index.m3u8?icpid=3&RTS=1674380534&from=40&popid=40&hms_devid=2113&prioritypopid=40&vqe=3
+泰州2 4M1080,http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/wh7f454c46tw1561108864_-1527073542/ott.mobaibox.com/PLTV/3/224/3221228212/index.m3u8?icpid=3&RTS=1674385971&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
+泰州3 4M1080,http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw418902719_1730876297/ott.mobaibox.com/PLTV/3/224/3221228100/index.m3u8?icpid=3&RTS=1674380534&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
+盐城2,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/wh7f454c46tw2442317445_-887920187/ott.mobaibox.com/PLTV/3/224/3221228433/index.m3u8?icpid=3&RTS=1674369672&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
+睢宁三农 2.5M1080,http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/wh7f454c46tw334055523_1062550904/ott.mobaibox.com/PLTV/3/224/3221227709/index.m3u8?icpid=3&RTS=1674380449&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
+睢宁生活教育 2.5M1080,http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/wh7f454c46tw334174254_793019476/ott.mobaibox.com/PLTV/3/224/3221227701/index.m3u8?icpid=3&RTS=1674380449&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
+睢宁综合 2.5M1080,http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/wh7f454c46tw334305410_817823159/ott.mobaibox.com/PLTV/3/224/3221227706/index.m3u8?icpid=3&RTS=1674380449&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
+睢宁资讯 2.5M1080,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw1561679699_-1002487075/ott.mobaibox.com/PLTV/3/224/3221227712/index.m3u8?icpid=3&RTS=1674385972&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
+赣榆,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw1561848585_-679912230/ott.mobaibox.com/PLTV/3/224/3221228317/index.m3u8?icpid=3&RTS=1674385972&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
+连云港公共 2M1080,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw1758256819_-260476466/ott.mobaibox.com/PLTV/3/224/3221227819/index.m3u8?icpid=3&RTS=1674386168&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
+连云港新闻综合 2M1080,http://[2409:8087:2001:20:2800:0:df6e:eb0e]:80/wh7f454c46tw335074246_939160751/ott.mobaibox.com/PLTV/3/224/3221227758/index.m3u8?icpid=3&RTS=1674380450&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
+邳州综合 2.5M1080,http://[2409:8087:2001:20:2800:0:df6e:eb08]:80/wh7f454c46tw335226891_550898784/ott.mobaibox.com/PLTV/3/224/3221227576/index.m3u8?icpid=3&RTS=1674380450&from=40&popid=40&hms_devid=2037&prioritypopid=40&vqe=3
+高淳新闻 4M1080,http://[2409:8087:2001:20:2800:0:df6e:eb0d]:80/wh7f454c46tw1562239821_-577663092/ott.mobaibox.com/PLTV/3/224/3221227870/index.m3u8?icpid=3&RTS=1674385972&from=40&popid=40&hms_devid=2040&prioritypopid=40&vqe=3
+
+
 CETV1,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001063/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CETV2,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001064/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CETV3,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -680,20 +706,20 @@ CCTV兵器科技,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PL
 CCTV风云足球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 CCTV风云足球,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002499/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV文化精品,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
-足球,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
+CCTV风云足球,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225895/index.m3u8
 LBRTV,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001268/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-兵器科技,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
-怀旧剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
-世界地理,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
-文化精品,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
+CCTV兵器科技,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
+CCTV怀旧剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
+CCTV世界地理,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
+CCTV央视文化精品,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
 央视台球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
 央视高网,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
-风云.剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
-风云.音乐,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
-第一.剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
-女性.时尚,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
-风云.足球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
-电视.指南,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
+CCTV风云剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
+CCTV风云音乐,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
+CCTV第一剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
+CCTV女性时尚,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
+CCTV风云足球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
+CCTV电视指南,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
 北京体育休闲,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 纪实人文,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000365/index.m3u8?fmmv6
 
