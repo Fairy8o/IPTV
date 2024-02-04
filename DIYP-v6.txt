@@ -36,7 +36,8 @@ CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw1269761993_126
 CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/wh7f454c46tw1312175710_-1555934560/ott.mobaibox.com/PLTV/3/224/3221228144/index.m3u8?icpid=3&RTS=1674381427&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
 CCTV17,http://[2409:8087:2001:20:2800:0:df6e:eb0b]:80/wh7f454c46tw1746687450_313977963/ott.mobaibox.com/PLTV/3/224/3221227726/index.m3u8?icpid=3&RTS=1674386157&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
 CCTV17,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/wh7f454c46tw1418270804_-738667041/ott.mobaibox.com/PLTV/3/224/3221228407/index.m3u8?icpid=3&RTS=1674381533&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
-直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+
+
 CCTV1,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV2,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV3,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001598/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -312,7 +313,7 @@ CCTV17,http://[2409:8087:2001:20:2800:0:df6e:eb0b]:80/wh7f454c46tw1746687450_313
 CCTV17,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/wh7f454c46tw1418270804_-738667041/ott.mobaibox.com/PLTV/3/224/3221228407/index.m3u8?icpid=3&RTS=1674381533&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
 
 
-第一财经,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226966/index.m3u8
+CCTV第一财经,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226966/index.m3u8
 CCTV电视指南,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002545/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV第一剧场,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002498/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV怀旧剧场,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002495/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -831,30 +832,27 @@ I-Hot爱世界,http://117.148.187.83/hwltc.tv.cdn.zj.chinamobile.com/PLTV/888888
 
 🦄4K-8K频道,#genre#
 北京纪实8K,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
-CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_105918260/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1681529690&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
+CCTV8K「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_105918260/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1681529690&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 CCTV-8K 超高清,http://8.130.35.211/ysp/?id=cctv8k
 CCTV-4K 超高清,http://8.130.35.211/ysp/?id=cctv4k
-
 湖南卫视4K「IPV6」,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV3-4K「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
+CCTV5-4K「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
+CCTV6-高码版「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
 苏州4K频道「全网」,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-广东4K频道「全网」,http://119.131.240.240:8089/hls/10/index.m3u8
 咪咕4K视频「全网」,http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
 华数4K视频「移动」,http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/1.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
-
 Love4K NaTURe「官方」,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Love4K NaTURe「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
 Love4K NaTURe「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
 Fashion 4K「官方」,http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8#http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
-欢笑剧场4K,http://148.135.93.213:81/sxg.php?id=hxjc-4k_8000
-CCTV3-4K,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
-CCTV5-4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
-CCTV6-高码版,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
 CCTV4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
 CCTV16 4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
 CCTV4K,http://159.75.85.63:5679/cctv4k.php
 苏州-4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 欢笑剧场4K,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 欢笑剧场4K,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226582/index.m3u8
+欢笑剧场4K,http://148.135.93.213:81/sxg.php?id=hxjc-4k_8000
 斗鱼4K影院,http://mmitv.top/test/douyu.php?id=9249162
 斗鱼4K影院,http://epg.112114.xyz/douyu/9249162
 Love Nrture 4K「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
