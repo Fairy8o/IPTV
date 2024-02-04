@@ -802,7 +802,7 @@ CCTV3-4K「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/
 CCTV5-4K「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
 CCTV6-高码版「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
 百视通「IPV6」,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000196/index.m3u8?IAS
-BesTV4K「IPV6」,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
+BesTV-V4,https://epg.pw/stream/05bdd4d5916a4d3a5bdbaa3b5cc37bb5fa7d4d4ff26a3f5b8326dbb622e39aa1.ctv
 爱自然,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 4K超高清电影,http://159.75.85.63:5681/sxg.php
 华数4K影视「IPV6」,http://[2409:8087:7001:20:1000::96]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
