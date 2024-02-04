@@ -918,7 +918,10 @@ I-Hot爱世界,http://117.148.187.83/hwltc.tv.cdn.zj.chinamobile.com/PLTV/888888
 独家直播,https://bp-caster.bestv.com.cn/936/3/video.m3u8
 
 
+
 🦄4K-8K频道,#genre#
+Love Nrture 4K「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+Fashion 4K「时尚」,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 北京纪实8K,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 CCTV8K「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw2749731958_105918260/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1681529690&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 CCTV-8K 超高清,http://8.130.35.211/ysp/?id=cctv8k
@@ -943,8 +946,7 @@ CCTV4K,http://159.75.85.63:5679/cctv4k.php
 欢笑剧场4K,http://148.135.93.213:81/sxg.php?id=hxjc-4k_8000
 斗鱼4K影院,http://mmitv.top/test/douyu.php?id=9249162
 斗鱼4K影院,http://epg.112114.xyz/douyu/9249162
-Love Nrture 4K「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-Fashion 4K「时尚」,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+
 
 
 
