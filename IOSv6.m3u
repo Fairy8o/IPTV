@@ -1049,8 +1049,8 @@ http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/32212285
 http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
 #EXTINF:-1 group-title="🦄4K-8K频道",百视通「IPV6」
 http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000196/index.m3u8?IAS
-#EXTINF:-1 group-title="🦄4K-8K频道",BesTV4K「IPV6」
-http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
+#EXTINF:-1 group-title="🦄4K-8K频道",BesTV-4K
+https://epg.pw/stream/05bdd4d5916a4d3a5bdbaa3b5cc37bb5fa7d4d4ff26a3f5b8326dbb622e39aa1.ctv
 #EXTINF:-1 group-title="🦄4K-8K频道",爱自然
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 group-title="🦄4K-8K频道",4K超高清电影
