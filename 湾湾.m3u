@@ -1,0 +1,66 @@
+#EXTM3U
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE local
+
+#EXTINF:-1 group-title="🦄湾湾频道",中天新闻
+http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivepzztvvzzzyzuuzzfvbscvzdztwzfszzszzzcvuyzemzeztxw.flv
+#EXTINF:-1 group-title="🦄湾湾频道",寰宇新闻
+http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivephxehmffzuxcxzvezezyhmnzzxzzhzdhnzbnxfdzfhyxw.flv
+#EXTINF:-1 group-title="🦄湾湾频道",年代新闻
+http://pull-hls-hs-spe-f5.douyincdn.com/live/twliveozevdyscvbudlozlnsfzewtzudvbbzxfznzlvczdzdnzxw.flv
+#EXTINF:-1 group-title="🦄湾湾频道",东森新闻
+http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivemhzttuzzcvbyzuozdzzezywefzzfbxfbxxvbzzzlzzhzsxw.flv
+#EXTINF:-1 group-title="🦄湾湾频道",中视新闻
+http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivepnvzydstudzbszcvbfzzzszfzszwetymzldhduzocnzsxw.flv
+#EXTINF:-1 group-title="🦄湾湾频道",台视新闻
+http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivenczztzzudtzlzcvbcvntzzzsfwetzfvcbcxvdzbzfflvcztsxw.flv
+#EXTINF:-1 group-title="🦄湾湾频道",TVBS
+http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivezpzovdxzozfdezodszxcvlzzfvhnzlzzzobzzzsvhzchtvbs.flv
+#EXTINF:-1 group-title="🦄湾湾频道",大爱二台
+https://pulltv1.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道",GOOD卡通
+https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道",TVBS新闻(5G)
+http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道",东森新闻美洲
+http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道",华语电视2
+http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道",华语电视3
+http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道",美国中文
+https://cdnts.sinovision.net/livestream.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道",TVBS新闻
+http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道",创世电视
+https://cdn.deepcore.online/hlsme/ctv_hk.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道",创世电视
+https://cdn.deepcore.online/hlsme/ctv_hk_720.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道",大立
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道",半岛新闻台
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道",TalkTV
+https://live-talktv-ssai.simplestreamcdn.com/v1/master/82267e84b9e5053b3fd0ade12cb1a146df74169a/talktv-live/index.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道",TRT世界台
+https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道",台湾Plus台
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道",Star Sports
+http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2292.ts
+#EXTINF:-1 group-title="🦄湾湾频道",Fox Sports
+http://38.96.178.201:80/live/FOXSPORTS2/index.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道",Now新闻台
+https://cdn.ggapk.net/live/tv?id=a94aseVHi7FvOnQFxZ4-t0YONazHZExZk7vjwMQZkZgGT0SeizDRvjd7kxaUeRzdeCRFvSHfE0RaBFItxP4wi8ZLZdlddn4-WzGE2_9B1Mdo2_E5N4lFrVy74ZjGNZYkojMV3pfTKZL0osyWKc3FI9RYQNtpIzRMgsU6fyFQPHX4XZY075GRmnWrwslrso-UDbVh0ZhvkFP0vC3LWaUr6yctH-rLrguMPrhKCQR0juzvJ11CtgRPYViFJ0yJWS2ZnljfPMHt-Jm07C9d8ptgQduX-ou4Bdu6iaCSQoO8-LZ4PjSO6KG88uU_DRPXN5EOlMaDGKHKVNE9yXFshKYrhibiBkNd9x6ELQQYOKWYH52LjoOMG8ZGYIPQ_7U
+#EXTINF:-1 group-title="🦄湾湾频道",台视
+https://cdn.ggapk.net/live/tv?id=6b16NUug3pTT7ql1RH1RCtanDXCESINYSQVqD3Sif39-TYLNTzi0geC5ULx6JSfHDFgKu7tvP6pAT-Giow8D38hwMIZop9ycmjlfdgcrrdoJMRBF8KdzTdRVl1s8suDEDuJYF92VK76VzMUYV8LNlBcQHLR3iuX7H3JG-y3ay_5XPfMMO9LWJyS20eWc3KRLR1dD9fvlVdcK-W0m0ZfoqnMs6_1jMXtl2SNRqhU3sV3HJAuwq-qYEI_kFYcrXHiUcGMK_jkkFm6_CrjPSeP_Cm_W2Hh427A6xNXoLTSISd_HQ7PrMIW9vUXxIcEly3cH1dZNULs4AC8iv08WoGHAEsUR-Q7RvWRP1rQAMtYk-kfcCbIxQGJSyBh9324
+#EXTINF:-1 group-title="🦄湾湾频道",中天新闻台
+https://cdn.ggapk.net/live/tv?id=a15eEJ3RgVWSVJRvC-9CjxKvPsRATdquHpEpRmQPKqhEYr1Cde0mBbeo84y_NBixkCbrZhiKHOJn4fMjKNkECNkml5OWCwzG9i77BiEZNUQKKRn1At_yhFDLPhOMcLbZlBklLuuv1GuxTIh-cJI2TDC3GqbupfXGxDsqXRF14XwekiREiZzoMSwXtjsXDzM7Bwp8dQdryAJTMFNlZc0_kj8xmB2GbwpVljzC5PgM94p-cbmowHKo7CcCFlBbml-6ux77-fxxU0H10E_UJJXDnzxUez0AdiQVsnRATdsmXTy41Zo-6sm_qVXp5TtNOTsRQmVv1iaxPMeMtAETjveZPkR6h_7tGSoh6H1L1DX1AdZ3m0mF86JDdJ27LsY
+#EXTINF:-1 group-title="🦄湾湾频道",东森新闻台
+https://cdn.ggapk.net/live/tv?id=ba6brClPgkS4YwmRHWNvyWk8GuRbLMDDPJYYk2lKhbWThmnOcEIjkKKhjyZvKxLi_cv5QFF_-4PKBzbo0jtrV_fqxyUVT78Jq5GnwBQBzMsKS91DGuMxlgx0pRLMJRdxQL9gzdTY6jzI3GVMo6b87a5rUzszC2S6vjEZCyfp_noc5fmZwc3Gy68YQr953xSdRU_oK_ODHBT5fb2EoVGj6vdtx0sOizx1-3xdY2S-a1qgKhTk-3a_mvxOmBmA-Ynhe5KZr7Ba_Iq_XMtlm03QZrFiz6M9mR7JW8HQQO8Eu0EqD64QFfRy0dadOOnFpaFa5YIMPR-7uYpAS-3FXX6vsoaty9BvMZO5Ocl-_C28-aJZMHKBsopq5zRgEtM
+#EXTINF:-1 group-title="🦄湾湾频道",TVBS新闻台
+https://cdn.ggapk.net/live/tv?id=60c4IftsayO0UzqlmgUX93EDc5O1tccuZoEu34DCB94zGn0km8gz5aTDxme9DB3cUjlY9inQOo_QSgRa8EAJdaorGfyiM_XRihijxR90nBATNtJ8v4tGS2Vdj8wBNADux7uBD0zMmoby0A-8NLdRh4s6sMMnZW9uD7pV2sskpcYM1u5_78UrNtqxhPfFLDXtXN7a2biYhsd9Z94z2uQdvn2KkgylqShpMUYt9FPE8YJJ_dK0zWd-bBvICXIo31m3c6E-cULdVxNi6X5WTel2gZ0_4dlu3YONlFPJh8NJ5wSR0VsVm02FdJrzEf48fbbMQ_Qv7gfUZ4vONP5KYw53VMumnhat9cOy6eFgcqsasxHWKnjLKeQ1GLcYkRo
+#EXTINF:-1 group-title="🦄湾湾频道",东森幼幼台
+https://cdn.ggapk.net/live/tv?id=481acOVi1bOezhQUrRHaay6ySvrE7CS5AOf-cXoR-HrVs19SrjObr9ZwTFnllEQ_j0DM4HS4gebbYxN0mGBxbWiMFkLI5xH1b9tdfzdpLvDFQvn6ktd0qVU0b0kF8ix1t6WpNX9gR7WFBpVU-OEuQDq31HXeTb7AG6f2OjMBCYlmfJ4obsO33Ga0R4nhoSN1lk2C-N1pj4s6iTtJBHvhw7J9mchcYVN4_GxQQJKH37FQXflT8IV1HdBAXRcIedAwMiR8ojrRkC6aqIUymz_9-FA6Scafr71NFIBmpA1oTmnvwsOPiQhdLU1MhcYg8E9pc_uVLlZblF5ygIqVSoATaCdUZjEQdPfKU-ouGo3WTnG4pZXw0bhVXf96zWA
+#EXTINF:-1 group-title="🦄湾湾频道",东森财经新闻
+https://cdn.ggapk.net/live/tv?id=552fNz0ue4_Dc3r0FNhgb1kcoGWoJBQMzDZZVKBOV80UxKFXuL2A48KV3rqUHWu9cSOAjyyC9src8_A0vsJlqC-YYFE-lPkZB4mgmTZjIet14L95tv06gykfOMXxxgFZl84ECYP__9vVx3AujKNu3-q60OOd1frgb1r-DdwxFa84aB8jt17oNXJdR-k9M0_Ip_iuW8oC_saaO4OARWugVGd1q8dXktpl82P5zdQGavb1vmme_q2nzom0Jav6XOIaVJh1Bev3lHoiGB6SvMrtW3BgQQOH7zGKveTAmBH7-76IM63Xta1t10HdW-S_eoFMfLCL4Z9JnNZKk5XKflf6T6d7Z7t-y8l9agj-fpmnJlaE2QZonUoZmztp9VI
