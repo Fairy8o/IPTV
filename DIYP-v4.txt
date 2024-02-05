@@ -1095,9 +1095,8 @@ viju+ Sport,http://135.181.115.81/russia/viasat_sport/playlist.m3u8
 
 🦄香港频道,#genre#
 香港卫视文旅台,http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
-凤凰卫视资讯台,http://124.231.213.74:9999/tsfile/live/1105_1.m3u8?key=txiptv
-
-凤凰卫视中文台,http://124.231.213.74:9999/tsfile/live/1106_1.m3u8?key=txiptv
+凤凰卫视资讯台,https://edge2.laotv.la/live/PhoenixNews/index.m3u8
+凤凰卫视中文台,https://edge2.laotv.la/live/PhxChinese/index.m3u8
 香港线新闻台,http://hls.666888999.gay/iptv.php?id=3
 香港有线18台,http://hls.666888999.gay/iptv.php?id=4
 香港有线高清603台,http://hls.666888999.gay/iptv.php?id=5
