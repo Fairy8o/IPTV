@@ -1399,42 +1399,24 @@ http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/32212
 http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 #EXTINF:-1 group-title="🦄香港频道",香港卫视文旅台
 http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
-#EXTINF:-1 group-title="🦄香港频道",凤凰中文
-http://hls.666888999.gay/iptv.php?id=1
-#EXTINF:-1 group-title="🦄香港频道",凤凰资讯
-http://hls.666888999.gay/iptv.php?id=2
-#EXTINF:-1 group-title="🦄香港频道",香港线新闻台
-http://hls.666888999.gay/iptv.php?id=3
-#EXTINF:-1 group-title="🦄香港频道",香港有线18台
-http://hls.666888999.gay/iptv.php?id=4
-#EXTINF:-1 group-title="🦄香港频道",香港有线高清603台
-http://hls.666888999.gay/iptv.php?id=5
-#EXTINF:-1 group-title="🦄香港频道",TVB-无线新闻台
-http://hls.666888999.gay/iptv.php?id=6
-#EXTINF:-1 group-title="🦄香港频道",TVB-财经体育资讯台
-http://hls.666888999.gay/iptv.php?id=7
-#EXTINF:-1 group-title="🦄香港频道",TVB-翡翠台
-http://hls.666888999.gay/iptv.php?id=8
-#EXTINF:-1 group-title="🦄香港频道",TVB-华丽翡翠台
-http://hls.666888999.gay/iptv.php?id=9
-#EXTINF:-1 group-title="🦄香港频道",TVB-明珠台
-http://hls.666888999.gay/iptv.php?id=10
-#EXTINF:-1 group-title="🦄香港频道",TVB-J2
-http://hls.666888999.gay/iptv.php?id=11
-#EXTINF:-1 group-title="🦄香港频道",-TVB-星河
-http://hls.666888999.gay/iptv.php?id=12
-#EXTINF:-1 group-title="🦄香港频道",VIUTV
-http://hls.666888999.gay/iptv.php?id=13
-#EXTINF:-1 group-title="🦄香港频道",NOW 新闻台
-http://hls.666888999.gay/iptv.php?id=15
-#EXTINF:-1 group-title="🦄香港频道",有线体育频道
-http://hls.666888999.gay/iptv.php?id=16
-#EXTINF:-1 group-title="🦄香港频道",有线电视剧
-http://hls.666888999.gay/iptv.php?id=17
-#EXTINF:-1 group-title="🦄香港频道",有线新闻台
-http://hls.666888999.gay/iptv.php?id=18
-#EXTINF:-1 group-title="🦄香港频道",RHK32
-http://hls.666888999.gay/iptv.php?id=19
+#EXTINF:-1 group-title="🦄香港频道",红爆米花(HK)
+http://ali.hlspull.yximgs.com/live/nowbgggggt3a888221300-brschg66559.flv
+#EXTINF:-1 group-title="🦄香港频道",黄爆米花(HK),
+http://ali.hlspull.yximgs.com/live/nowxyot3a888221300-brschg66559.flv
+#EXTINF:-1 group-title="🦄香港频道",英超(HK),
+http://ali.hlspull.yximgs.com/live/nowyct3a888221300-brschg66559.flv
+#EXTINF:-1 group-title="🦄香港频道",功夫(HK),
+http://ali.hlspull.yximgs.com/live/AsiaActiont3a888221300-brschg66559.flv
+#EXTINF:-1 group-title="🦄香港频道",天映(HK),
+http://ali.hlspull.yximgs.com/live/tianyingpd3a888221300-brschg66559.flv
+#EXTINF:-1 group-title="🦄香港频道",龙华(TW),
+http://ali.hlspull.yximgs.com/live/longhuadyt3a888221300-brschg66559.flv
+#EXTINF:-1 group-title="🦄香港频道",翡翠(HK),
+http://ali.hlspull.yximgs.com/live/tvbfc264t3a888221300-brschg66559.flv
+#EXTINF:-1 group-title="🦄香港频道",NOW NEWS(HK),
+http://ali.hlspull.yximgs.com/live/nowxwrrrt3a888221300-brschg66559.flv
+#EXTINF:-1 group-title="🦄香港频道",VIU(HK),
+http://ali.hlspull.yximgs.com/live/ViuTVCHt3a888221300-brschg66559.flv
 #EXTINF:-1 group-title="🦄香港频道",TVB-无线新闻台
 http://www.biaozhun114.com/dl/dl888/histar.php?tvb-news
 #EXTINF:-1 group-title="🦄香港频道",香港RHK32
