@@ -1092,27 +1092,20 @@ viju+ Sport,http://135.181.115.81/russia/viasat_sport/playlist.m3u8
 咪咕26,http://39.135.137.209/000000001000/3000000010000015686/index.m3u8
 咪咕27,http://39.135.137.208/000000001000/3000000010000005180/index.m3u8
 
-
 🦄香港频道,#genre#
+红爆米花(HK),http://ali.hlspull.yximgs.com/live/nowbgggggt3a888221300-brschg66559.flv
+黄爆米花(HK),http://ali.hlspull.yximgs.com/live/nowxyot3a888221300-brschg66559.flv
+英超(HK),http://ali.hlspull.yximgs.com/live/nowyct3a888221300-brschg66559.flv
+功夫(HK),http://ali.hlspull.yximgs.com/live/AsiaActiont3a888221300-brschg66559.flv
+天映(HK),http://ali.hlspull.yximgs.com/live/tianyingpd3a888221300-brschg66559.flv
+龙华(TW),http://ali.hlspull.yximgs.com/live/longhuadyt3a888221300-brschg66559.flv
+翡翠(HK),http://ali.hlspull.yximgs.com/live/tvbfc264t3a888221300-brschg66559.flv
+NOW NEWS(HK),http://ali.hlspull.yximgs.com/live/nowxwrrrt3a888221300-brschg66559.flv
+VIU(HK),http://ali.hlspull.yximgs.com/live/ViuTVCHt3a888221300-brschg66559.flv
+
 香港卫视文旅台,http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
 凤凰卫视资讯台,https://edge2.laotv.la/live/PhoenixNews/index.m3u8
 凤凰卫视中文台,https://edge2.laotv.la/live/PhxChinese/index.m3u8
-香港线新闻台,http://hls.666888999.gay/iptv.php?id=3
-香港有线18台,http://hls.666888999.gay/iptv.php?id=4
-香港有线高清603台,http://hls.666888999.gay/iptv.php?id=5
-TVB-无线新闻台,http://hls.666888999.gay/iptv.php?id=6
-TVB-财经体育资讯台,http://hls.666888999.gay/iptv.php?id=7
-TVB-翡翠台,http://hls.666888999.gay/iptv.php?id=8
-TVB-华丽翡翠台,http://hls.666888999.gay/iptv.php?id=9
-TVB-明珠台,http://hls.666888999.gay/iptv.php?id=10
-TVB-J2台,http://hls.666888999.gay/iptv.php?id=11
-TVB-星河台,http://hls.666888999.gay/iptv.php?id=12
-VIUTV,http://hls.666888999.gay/iptv.php?id=13
-NOW 新闻台,http://hls.666888999.gay/iptv.php?id=15
-有线体育频道,http://hls.666888999.gay/iptv.php?id=16
-有线电视剧,http://hls.666888999.gay/iptv.php?id=17
-有线新闻台,http://hls.666888999.gay/iptv.php?id=18
-RHK32,http://hls.666888999.gay/iptv.php?id=19
 TVB-无线新闻台,http://www.biaozhun114.com/dl/dl888/histar.php?tvb-news
 香港RHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 TVB-无线财经台,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
@@ -1136,6 +1129,7 @@ TVB-千禧经典台,https://cdn.ggapk.net/live/tv?id=d7b6yCCtbkr4YsOgdCUIbfH04AF
 TVB-明珠台,https://cdn.ggapk.net/live/tv?id=9fb8bQTEWRl0TQAEYCkwCVXeWJ8CspOw3GeWIl0GrGpcM--9FqhlhJpjoTOXwDuZ2Upnyjj3xwPfoX7hyacFrlS1jfSUaPYLLfLTeogiBSjzBPn6pNzfeJYbF3B8FQ7NRmWvgJxLkqH1wmqPnphlSSAxJaE9mTpuSwk8GUSFvN0JihQ2zhuMp0u2PCZnbLVMI7tWSRDFHhBwd0gufjebtbk7fnjQPkZCW6YgGu8feMCzXg334M-1D6yV7HfvVOgPE7hwkAT7L84YBi1x9GPo22DUcKfCnPIg0KLOgveo-yC-ry7U2utozZh_Bw
 TVB-无线新闻台,https://cdn.ggapk.net/live/tv?id=be3afTKIU4hBJAipj1g8ddV-mcsA_1BHEGdR8rE-ebux8GGk8PvMW2Z-w2VKsm0ktnq1e0e5-qvfYk3ouzVzt8d3S1uIB3q5ECoM9h3i_gbeX2xoXTLGjafavnCPcmOqoHKbzzUJJgBBjTc-96zj7Ah8kl98pKKeLl8-71P7jklOJtVUJnUGywTk37lFV0bu_mqDrZsOCu_1xYHhOish6YFmks9BbWB5W2GOxTeu7_OtoA4yWyhD9vZflTfBq7jKQXBQEF9ZWzOYpxEEAW09SxNhAmEOexGVjaokE9o7tiwBq6sJwkcB9Jn7Q78vN4O393qEDtIlRgJvJeWdbO5024BsUE8RNM2cYOwUyRtp7nnyWVi8h1GNs6N-XBU
 TVB-J2台,https://cdn.ggapk.net/live/tv?id=d430hvKyWlEd4te7Ax6DivSDLDSgRLPB4jGmhHa66OePkPOrwT8VLEC5Fc41FKMuWXKR5MASN7tKkv-g1kaQ5XSw94TvWGnEXojPEcUp3P-8xPtVly08BMHfRFjGxNNomnOh3Ej_MAdzxAQTid2sfIJen1MJX2ZeHJ0swkcRxzZ9HJEMP7x4wXdMk767Pg7dK2nh8_6iGn42c9JzJsaajU51kgfnJNtdqDspIsjpD9gaNzj_oslQ--5bnlglt_n-F1lSYhVXrnxbeIL6URst-TdjsaVmnE1prKaNM-GY183YXo-eALAppJVy7nIlEN3U8xNbVlEC3HO-xkk0O5pP4Reo9iSrStp9sacQuwCut-HKvXFT1nRDghVBfBc
+
 
 
 🦄澳门频道,#genre#
