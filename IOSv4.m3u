@@ -11,8 +11,140 @@ http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/32212282
 #EXTINF:-1 group-title="🐉龍年春晚 欢度新年🐉",春晚8K台👉「IPV6」
 http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
 
-#EXTINF:-1 group-title="🦄线路-①",直播中国-唯一微信号:Star-Fairy6
+
+#EXTINF:-1 group-title="🦄全网线路",直播中国-唯一微信号:-Star-Fairy_
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="🦄全网线路",CCTV1
+http://112.132.181.221:9988/hls/1/index.m3u8
+#EXTINF:-1 group-title="🦄全网线路",CCTV2
+http://112.132.181.221:9988/hls/2/index.m3u8
+#EXTINF:-1 group-title="🦄全网线路",CCTV3
+http://175.178.236.58:8088/china/ysp.php?ch=cctv3
+#EXTINF:-1 group-title="🦄全网线路",CCTV4
+http://175.178.236.58:8088/china/ysp.php?ch=cctv4
+#EXTINF:-1 group-title="🦄全网线路",CCTV4
+http://112.132.181.221:9988/hls/4/index.m3u8
+#EXTINF:-1 group-title="🦄全网线路",CCTV5
+http://112.132.181.221:9988/hls/5/index.m3u8
+#EXTINF:-1 group-title="🦄全网线路",CCTV5+
+http://112.132.181.221:9988/hls/6/index.m3u8
+#EXTINF:-1 group-title="🦄全网线路",CCTV6
+http://112.132.181.221:9988/hls/7/index.m3u8
+#EXTINF:-1 group-title="🦄全网线路",CCTV7
+http://112.132.181.221:9988/hls/8/index.m3u8
+#EXTINF:-1 group-title="🦄全网线路",CCTV8
+http://112.132.181.221:9988/hls/9/index.m3u8
+#EXTINF:-1 group-title="🦄全网线路",CCTV9
+http://112.132.181.221:9988/hls/10/index.m3u8
+#EXTINF:-1 group-title="🦄全网线路",CCTV10
+http://112.132.181.221:9988/hls/11/index.m3u8
+#EXTINF:-1 group-title="🦄全网线路",CCTV11
+http://175.178.236.58:8088/china/ysp.php?ch=cctv11
+#EXTINF:-1 group-title="🦄全网线路",CCTV12
+http://175.178.236.58:8088/china/ysp.php?ch=cctv12
+#EXTINF:-1 group-title="🦄全网线路",CCTV13
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=357606504
+#EXTINF:-1 group-title="🦄全网线路",CCTV14
+http://175.178.236.58:8088/china/ysp.php?ch=cctv14
+#EXTINF:-1 group-title="🦄全网线路",CCTV15
+http://175.178.236.58:8088/china/ysp.php?ch=cctv15
+#EXTINF:-1 group-title="🦄全网线路",CCTV16
+http://175.178.236.58:8088/china/ysp.php?ch=cctv16
+#EXTINF:-1 group-title="🦄全网线路",CCTV16 4K
+http://175.178.236.58:8088/china/ysp.php?ch=cctv16-4k
+#EXTINF:-1 group-title="🦄全网线路",CCTV17
+https://live.goodiptv.club/api/cqyx.php?id=cctv17HD
+#EXTINF:-1 group-title="🦄全网线路",CCTV-4K 超高清
+http://175.178.236.58:8088/china/ysp.php?ch=cctv4k
+#EXTINF:-1 group-title="🦄全网线路",CCTV-8K 超高清
+http://175.178.236.58:8088/china/ysp.php?ch=cctv8k
+#EXTINF:-1 group-title="🦄全网线路",北京卫视
+http://175.178.236.58:8088/china/ysp.php?ch=bjws
+#EXTINF:-1 group-title="🦄全网线路",东方卫视
+http://175.178.236.58:8088/china/ysp.php?ch=dfws
+#EXTINF:-1 group-title="🦄全网线路",天津卫视
+http://175.178.236.58:8088/china/ysp.php?ch=tjws
+#EXTINF:-1 group-title="🦄全网线路",重庆卫视
+http://175.178.236.58:8088/china/ysp.php?ch=cqws
+#EXTINF:-1 group-title="🦄全网线路",黑龙江卫视
+http://175.178.236.58:8088/china/ysp.php?ch=hljws
+#EXTINF:-1 group-title="🦄全网线路",辽宁卫视
+http://175.178.236.58:8088/china/ysp.php?ch=lnws
+#EXTINF:-1 group-title="🦄全网线路",河北卫视
+http://175.178.236.58:8088/china/ysp.php?ch=hbws
+#EXTINF:-1 group-title="🦄全网线路",山东卫视
+http://175.178.236.58:8088/china/ysp.php?ch=sdws
+#EXTINF:-1 group-title="🦄全网线路",安徽卫视
+http://175.178.236.58:8088/china/ysp.php?ch=ahws
+#EXTINF:-1 group-title="🦄全网线路",河南卫视
+http://175.178.236.58:8088/china/ysp.php?ch=hnws
+#EXTINF:-1 group-title="🦄全网线路",湖北卫视
+http://175.178.236.58:8088/china/ysp.php?ch=hubws
+#EXTINF:-1 group-title="🦄全网线路",湖南卫视
+http://175.178.236.58:8088/china/ysp.php?ch=hunws
+#EXTINF:-1 group-title="🦄全网线路",江西卫视
+http://175.178.236.58:8088/china/ysp.php?ch=jxws
+#EXTINF:-1 group-title="🦄全网线路",江苏卫视
+http://175.178.236.58:8088/china/ysp.php?ch=jsws
+#EXTINF:-1 group-title="🦄全网线路",浙江卫视
+http://175.178.236.58:8088/china/ysp.php?ch=zjws
+#EXTINF:-1 group-title="🦄全网线路",东南卫视
+http://175.178.236.58:8088/china/ysp.php?ch=dnws
+#EXTINF:-1 group-title="🦄全网线路",广东卫视
+http://175.178.236.58:8088/china/ysp.php?ch=gdws
+#EXTINF:-1 group-title="🦄全网线路",深圳卫视
+http://175.178.236.58:8088/china/ysp.php?ch=szws
+#EXTINF:-1 group-title="🦄全网线路",广西卫视
+http://175.178.236.58:8088/china/ysp.php?ch=gxws
+#EXTINF:-1 group-title="🦄全网线路",贵州卫视
+http://175.178.236.58:8088/china/ysp.php?ch=gzws
+#EXTINF:-1 group-title="🦄全网线路",四川卫视
+http://175.178.236.58:8088/china/ysp.php?ch=scws
+#EXTINF:-1 group-title="🦄全网线路",新疆卫视
+http://175.178.236.58:8088/china/ysp.php?ch=xjws
+#EXTINF:-1 group-title="🦄全网线路",海南卫视
+http://175.178.236.58:8088/china/ysp.php?ch=hinws
+#EXTINF:-1 group-title="🦄全网线路",CCTV兵器科技
+http://175.178.236.58:8088/china/ysp.php?ch=bqkj
+#EXTINF:-1 group-title="🦄全网线路",CCTV第一剧场
+http://175.178.236.58:8088/china/ysp.php?ch=dyjc
+#EXTINF:-1 group-title="🦄全网线路",CCTV怀旧剧场
+http://175.178.236.58:8088/china/ysp.php?ch=hjjc
+#EXTINF:-1 group-title="🦄全网线路",CCTV风云剧场
+http://175.178.236.58:8088/china/ysp.php?ch=fyjc
+#EXTINF:-1 group-title="🦄全网线路",CCTV风云音乐
+http://175.178.236.58:8088/china/ysp.php?ch=fyyy
+#EXTINF:-1 group-title="🦄全网线路",CCTV风云足球
+http://175.178.236.58:8088/china/ysp.php?ch=fyzq
+#EXTINF:-1 group-title="🦄全网线路",CCTV电视指南
+http://175.178.236.58:8088/china/ysp.php?ch=dszn
+#EXTINF:-1 group-title="🦄全网线路",CCTV女性时尚
+http://175.178.236.58:8088/china/ysp.php?ch=nxss
+#EXTINF:-1 group-title="🦄全网线路",CCTV文化精品
+http://175.178.236.58:8088/china/ysp.php?ch=whjp
+#EXTINF:-1 group-title="🦄全网线路",CCTV世界地理
+http://175.178.236.58:8088/china/ysp.php?ch=sjdl
+#EXTINF:-1 group-title="🦄全网线路",CCTV高尔夫网球
+http://175.178.236.58:8088/china/ysp.php?ch=gefwq
+#EXTINF:-1 group-title="🦄全网线路",CCTV央视台球
+http://175.178.236.58:8088/china/ysp.php?ch=ystq
+#EXTINF:-1 group-title="🦄全网线路",CCTV卫生健康
+http://175.178.236.58:8088/china/ysp.php?ch=wsjk
+#EXTINF:-1 group-title="🦄全网线路",CGTN英语
+http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 group-title="🦄全网线路",CGTN纪录
+https://livedoc.cgtn.com/500d/prog_index.m3u8
+#EXTINF:-1 group-title="🦄全网线路",CGTN西语
+http://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 group-title="🦄全网线路",CGTN法语
+https://livefr.cgtn.com/1000f/prog_index.m3u8
+#EXTINF:-1 group-title="🦄全网线路",CGTN阿语
+http://livear.cgtn.com/1000a/prog_index.m3u8
+#EXTINF:-1 group-title="🦄全网线路",CGTN俄语
+http://liveru.cgtn.com/1000r/prog_index.m3u8
+
+
+
 #EXTINF:-1 group-title="🦄线路-①" tvg-id="CCTV-3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png",CCTV-3 综艺
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
 #EXTINF:-1 group-title="🦄线路-①" tvg-id="CCTV-7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png",CCTV-7 国防军事
