@@ -10,10 +10,10 @@
 
 🦄央视频道「多线路」,#genre#
 直播中国-唯一微信号:Star-Fairy6,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-
 CCTV1,http://112.132.181.221:9988/hls/1/index.m3u8
 CCTV2,http://112.132.181.221:9988/hls/2/index.m3u8
-CCTV3,http://112.132.181.221:9988/hls/3/index.m3u8
+CCTV3,http://175.178.236.58:8088/china/ysp.php?ch=cctv3
+CCTV4,http://175.178.236.58:8088/china/ysp.php?ch=cctv4
 CCTV4,http://112.132.181.221:9988/hls/4/index.m3u8
 CCTV5,http://112.132.181.221:9988/hls/5/index.m3u8
 CCTV5+,http://112.132.181.221:9988/hls/6/index.m3u8
@@ -22,6 +22,19 @@ CCTV7,http://112.132.181.221:9988/hls/8/index.m3u8
 CCTV8,http://112.132.181.221:9988/hls/9/index.m3u8
 CCTV9,http://112.132.181.221:9988/hls/10/index.m3u8
 CCTV10,http://112.132.181.221:9988/hls/11/index.m3u8
+CCTV11,http://175.178.236.58:8088/china/ysp.php?ch=cctv11
+CCTV12,http://175.178.236.58:8088/china/ysp.php?ch=cctv12
+CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=357606504
+CCTV14,http://175.178.236.58:8088/china/ysp.php?ch=cctv14
+CCTV15,http://175.178.236.58:8088/china/ysp.php?ch=cctv15
+CCTV16,http://175.178.236.58:8088/china/ysp.php?ch=cctv16
+CCTV16 4K,http://175.178.236.58:8088/china/ysp.php?ch=cctv16-4k
+CCTV17,https://live.goodiptv.club/api/cqyx.php?id=cctv17HD
+CCTV-4K 超高清,http://175.178.236.58:8088/china/ysp.php?ch=cctv4k
+CCTV-8K 超高清,http://175.178.236.58:8088/china/ysp.php?ch=cctv8k
+
+
+CCTV3,http://112.132.181.221:9988/hls/3/index.m3u8
 CCTV11,http://112.132.181.221:9988/hls/12/index.m3u8
 CCTV12,http://112.132.181.221:9988/hls/13/index.m3u8
 CCTV13,http://112.132.181.221:9988/hls/14/index.m3u8
@@ -46,7 +59,7 @@ CCTV13,https://live.goodiptv.club/api/cqyx.php?id=cctv13HD
 CCTV14,https://live.goodiptv.club/api/cqyx.php?id=cctv14HD
 CCTV15,https://live.goodiptv.club/api/cqyx.php?id=cctv15HD
 CCTV16,https://live.goodiptv.club/api/cqyx.php?id=cctv16HD
-CCTV17,https://live.goodiptv.club/api/cqyx.php?id=cctv17HD
+
 
 
 CCTV1,http://live.aishang.ctlcdn.com/00000110240127_1/playlist.m3u8?CONTENTID=00000110240127_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
@@ -338,6 +351,20 @@ CCTV14,http://222.223.119.21:8888/newlive/live/hls/16/live.m3u8
 CCTV15,http://222.223.119.21:8888/newlive/live/hls/17/live.m3u8
 
 
+
+CCTV兵器科技,http://175.178.236.58:8088/china/ysp.php?ch=bqkj
+CCTV第一剧场,http://175.178.236.58:8088/china/ysp.php?ch=dyjc
+CCTV怀旧剧场,http://175.178.236.58:8088/china/ysp.php?ch=hjjc
+CCTV风云剧场,http://175.178.236.58:8088/china/ysp.php?ch=fyjc
+CCTV风云音乐,http://175.178.236.58:8088/china/ysp.php?ch=fyyy
+CCTV风云足球,http://175.178.236.58:8088/china/ysp.php?ch=fyzq
+CCTV电视指南,http://175.178.236.58:8088/china/ysp.php?ch=dszn
+CCTV女性时尚,http://175.178.236.58:8088/china/ysp.php?ch=nxss
+CCTV文化精品,http://175.178.236.58:8088/china/ysp.php?ch=whjp
+CCTV世界地理,http://175.178.236.58:8088/china/ysp.php?ch=sjdl
+CCTV高尔夫网球,http://175.178.236.58:8088/china/ysp.php?ch=gefwq
+CCTV央视台球,http://175.178.236.58:8088/china/ysp.php?ch=ystq
+CCTV卫生健康,http://175.178.236.58:8088/china/ysp.php?ch=wsjk
 CCTV风云音乐,http://117.59.80.3/__cl/cg:live/__c/fyyyHD/__op/default/__f/index.m3u8
 CCTV风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
 CCTV风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226953/index.m3u8
@@ -379,6 +406,13 @@ CETV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 CGTN,http://222.223.119.21:8888/newlive/live/hls/18/live.m3u8
 CGTN,http://113.57.150.190:9000/tsfile/live/1002_1.m3u8
 CGTN,https://live.cgtn.com/1000/prog_index.m3u8
+
+CGTN英语,http://live.cgtn.com/1000/prog_index.m3u8
+CGTN纪录,https://livedoc.cgtn.com/500d/prog_index.m3u8
+CGTN西语,http://livees.cgtn.com/1000e/prog_index.m3u8
+CGTN法语,https://livefr.cgtn.com/1000f/prog_index.m3u8
+CGTN阿语,http://livear.cgtn.com/1000a/prog_index.m3u8
+CGTN俄语,http://liveru.cgtn.com/1000r/prog_index.m3u8
 CGTN英语,http://117.59.80.3/__cl/cg:live/__c/cgtnSD/__op/default/__f/index.m3u8
 CGTN纪录,http://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 CGTN西语,http://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
@@ -408,6 +442,30 @@ SiTV全纪实,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226580/inde
 
 
 🦄卫视频道「多线路」,#genre#
+北京卫视,http://175.178.236.58:8088/china/ysp.php?ch=bjws
+东方卫视,http://175.178.236.58:8088/china/ysp.php?ch=dfws
+天津卫视,http://175.178.236.58:8088/china/ysp.php?ch=tjws
+重庆卫视,http://175.178.236.58:8088/china/ysp.php?ch=cqws
+黑龙江卫视,http://175.178.236.58:8088/china/ysp.php?ch=hljws
+辽宁卫视,http://175.178.236.58:8088/china/ysp.php?ch=lnws
+河北卫视,http://175.178.236.58:8088/china/ysp.php?ch=hbws
+山东卫视,http://175.178.236.58:8088/china/ysp.php?ch=sdws
+安徽卫视,http://175.178.236.58:8088/china/ysp.php?ch=ahws
+河南卫视,http://175.178.236.58:8088/china/ysp.php?ch=hnws
+湖北卫视,http://175.178.236.58:8088/china/ysp.php?ch=hubws
+湖南卫视,http://175.178.236.58:8088/china/ysp.php?ch=hunws
+江西卫视,http://175.178.236.58:8088/china/ysp.php?ch=jxws
+江苏卫视,http://175.178.236.58:8088/china/ysp.php?ch=jsws
+浙江卫视,http://175.178.236.58:8088/china/ysp.php?ch=zjws
+东南卫视,http://175.178.236.58:8088/china/ysp.php?ch=dnws
+广东卫视,http://175.178.236.58:8088/china/ysp.php?ch=gdws
+深圳卫视,http://175.178.236.58:8088/china/ysp.php?ch=szws
+广西卫视,http://175.178.236.58:8088/china/ysp.php?ch=gxws
+贵州卫视,http://175.178.236.58:8088/china/ysp.php?ch=gzws
+四川卫视,http://175.178.236.58:8088/china/ysp.php?ch=scws
+新疆卫视,http://175.178.236.58:8088/china/ysp.php?ch=xjws
+海南卫视,http://175.178.236.58:8088/china/ysp.php?ch=hinws
+
 北京卫视,http://112.132.181.221:9988/hls/24/index.m3u8
 东方卫视,http://112.132.181.221:9988/hls/23/index.m3u8
 江苏卫视,http://112.132.181.221:9988/hls/17/index.m3u8
