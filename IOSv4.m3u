@@ -9,13 +9,13 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3
 #EXTINF:-1 group-title="🐉龍年春晚 欢度新年🐉",春晚4K台👉「IPV6」
 http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 
-#EXTINF:-1 tvg-id="🐉龍年春晚 欢度新年🐉" tvg-name="CCTV4K" tvg-logo="https://epg.112114.eu.org/logo/CCTV4K.png" group-title="央视IPV4",4K春晚 36M
+#EXTINF:-1 group-title="🐉龍年春晚 欢度新年🐉" tvg-name="CCTV4K" tvg-logo="https://epg.112114.eu.org/logo/CCTV4K.png" group-title="央视IPV4",4K春晚 36M
 http://1.14.131.61:5828/cctv4k.php
-#EXTINF:-1 tvg-id="🐉龍年春晚 欢度新年🐉" tvg-name="CCTV4K" tvg-logo="https://epg.112114.eu.org/logo/CCTV4K.png" group-title="央视IPV4",4K春晚 36M
+#EXTINF:-1 group-title="🐉龍年春晚 欢度新年🐉" tvg-name="CCTV4K" tvg-logo="https://epg.112114.eu.org/logo/CCTV4K.png" group-title="央视IPV4",4K春晚 36M
 http://1.14.131.61:5678/gd4k.php
-#EXTINF:-1 tvg-id="🐉龍年春晚 欢度新年🐉" tvg-name="CCTV8K" tvg-logo="https://epg.112114.eu.org/logo/CCTV8K.png" group-title="央视IPV4",8K春晚 150M
+#EXTINF:-1 group-title="🐉龍年春晚 欢度新年🐉" tvg-name="CCTV8K" tvg-logo="https://epg.112114.eu.org/logo/CCTV8K.png" group-title="央视IPV4",8K春晚 150M
 http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233652/index.m3u8
-#EXTINF:-1 tvg-id="🐉龍年春晚 欢度新年🐉" tvg-name="CCTV8K" tvg-logo="https://epg.112114.eu.org/logo/CCTV8K.png" group-title="央视IPV4",8K春晚 150M
+#EXTINF:-1 group-title="🐉龍年春晚 欢度新年🐉" tvg-name="CCTV8K" tvg-logo="https://epg.112114.eu.org/logo/CCTV8K.png" group-title="央视IPV4",8K春晚 150M
 http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221235532/index.m3u8
 
 
