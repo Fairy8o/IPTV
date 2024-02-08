@@ -8,30 +8,31 @@
 春晚8K台👉「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
 
 
+
 🦄央视频道「多线路」,#genre#
 直播中国-唯一微信号:Star-Fairy6,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-CCTV1,http://112.132.181.221:9988/hls/1/index.m3u8
-CCTV2,http://112.132.181.221:9988/hls/2/index.m3u8
-CCTV3,http://175.178.236.58:8088/china/ysp.php?ch=cctv3
-CCTV4,http://175.178.236.58:8088/china/ysp.php?ch=cctv4
-CCTV4,http://112.132.181.221:9988/hls/4/index.m3u8
-CCTV5,http://112.132.181.221:9988/hls/5/index.m3u8
-CCTV5+,http://112.132.181.221:9988/hls/6/index.m3u8
-CCTV6,http://112.132.181.221:9988/hls/7/index.m3u8
-CCTV7,http://112.132.181.221:9988/hls/8/index.m3u8
-CCTV8,http://112.132.181.221:9988/hls/9/index.m3u8
-CCTV9,http://112.132.181.221:9988/hls/10/index.m3u8
-CCTV10,http://112.132.181.221:9988/hls/11/index.m3u8
-CCTV11,http://175.178.236.58:8088/china/ysp.php?ch=cctv11
-CCTV12,http://175.178.236.58:8088/china/ysp.php?ch=cctv12
+CCTV1,http://112.132.181.221:9988/hlCCTV1
+CCTV1,http://101.43.3.246/ysp.php?ch=cctv1
+CCTV2,http://101.43.3.246/ysp.php?ch=cctv2
+CCTV3,http://101.43.3.246/ysp.php?ch=cctv3
+CCTV4,http://101.43.3.246/ysp.php?ch=cctv4
+CCTV5,http://101.43.3.246/ysp.php?ch=cctv5
+CCTV5,http://101.43.3.246/ysp.php?ch=cctv5p
+CCTV6,http://101.43.3.246/ysp.php?ch=cctv6
+CCTV7,http://101.43.3.246/ysp.php?ch=cctv7
+CCTV8,http://101.43.3.246/ysp.php?ch=cctv8
+CCTV9,http://101.43.3.246/ysp.php?ch=cctv9
+CCTV10,http://101.43.3.246/ysp.php?ch=cctv10
+CCTV11,http://101.43.3.246/ysp.php?ch=cctv11
+CCTV12,http://101.43.3.246/ysp.php?ch=cctv12
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=357606504
-CCTV14,http://175.178.236.58:8088/china/ysp.php?ch=cctv14
-CCTV15,http://175.178.236.58:8088/china/ysp.php?ch=cctv15
-CCTV16,http://175.178.236.58:8088/china/ysp.php?ch=cctv16
-CCTV16 4K,http://175.178.236.58:8088/china/ysp.php?ch=cctv16-4k
-CCTV17,https://live.goodiptv.club/api/cqyx.php?id=cctv17HD
-CCTV-4K 超高清,http://175.178.236.58:8088/china/ysp.php?ch=cctv4k
-CCTV-8K 超高清,http://175.178.236.58:8088/china/ysp.php?ch=cctv8k
+CCTV14,http://101.43.3.246/ysp.php?ch=cctv14
+CCTV15,http://101.43.3.246/ysp.php?ch=cctv15
+CCTV16,http://101.43.3.246/ysp.php?ch=cctv16
+CCTV16-4K,http://101.43.3.246/ysp.php?ch=cctv16-4k
+CCTV17,http://101.43.3.246/ysp.php?ch=cctv17
+CCTV-4K 超高清,http://101.43.3.246/ysp.php?ch=cctv4k
+CCTV-8K 超高清,http://101.43.3.246/ysp.php?ch=cctv8ks/1/index.m3u8
 
 
 CCTV3,http://112.132.181.221:9988/hls/3/index.m3u8
