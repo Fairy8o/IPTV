@@ -1614,6 +1614,47 @@ http://39.135.137.209/000000001000/3000000010000015686/index.m3u8
 http://39.135.137.208/000000001000/3000000010000005180/index.m3u8
 
 
+#EXTINF:-1 group-title="🦄香港频道",凤凰卫视中文台
+http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=1
+#EXTINF:-1 group-title="🦄香港频道",凤凰卫视资讯台
+http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=2
+#EXTINF:-1 group-title="🦄香港频道",香港有线新闻台
+http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=3
+#EXTINF:-1 group-title="🦄香港频道",香港有线18台
+http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=4
+#EXTINF:-1 group-title="🦄香港频道",香港有线高清603台
+http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=5
+#EXTINF:-1 group-title="🦄香港频道",TVB无线新闻台
+http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=6
+#EXTINF:-1 group-title="🦄香港频道",TVB财经体育资讯台
+http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=7
+#EXTINF:-1 group-title="🦄香港频道",TVB翡翠台
+http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=8
+#EXTINF:-1 group-title="🦄香港频道",TVB华丽翡翠台
+http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=9
+#EXTINF:-1 group-title="🦄香港频道",TVB明珠台
+http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=10
+#EXTINF:-1 group-title="🦄香港频道",TVB J2
+http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=11
+#EXTINF:-1 group-title="🦄香港频道",TVB星河
+http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=12
+#EXTINF:-1 group-title="🦄香港频道",ViuTV
+http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=13
+#EXTINF:-1 group-title="🦄香港频道",ViuTV6
+http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=14
+#EXTINF:-1 group-title="🦄香港频道",NOW新闻台
+http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=15
+#EXTINF:-1 group-title="🦄香港频道",香港国际财经台
+http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=16
+#EXTINF:-1 group-title="🦄香港频道",HOY TV
+http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=17
+#EXTINF:-1 group-title="🦄香港频道",HOY资讯台
+http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=18
+#EXTINF:-1 group-title="🦄香港频道",港台电视31
+http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=19
+#EXTINF:-1 group-title="🦄香港频道",港台电视32
+http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=20
+
 #EXTINF:-1 group-title="🦄香港频道",凤凰中文-「IPV6」
 http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 #EXTINF:-1 group-title="🦄香港频道",凤凰咨询-「IPV6」
@@ -1714,6 +1755,83 @@ https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8#https://live.mastvnet.c
 https://live.mastvnet.com/lsdream/MSTV/1500/live.m3u8
 #EXTINF:-1 group-title="🦄澳门频道",人间卫视
 https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+
+#EXTINF:-1 group-title="🦄湾湾频道",HOY TV
+http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=17
+#EXTINF:-1 group-title="🦄湾湾频道",HOY资讯台
+http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=18
+#EXTINF:-1 group-title="🦄湾湾频道",港台电视31
+http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=19
+#EXTINF:-1 group-title="🦄湾湾频道",港台电视32
+http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=20
+#EXTINF:-1 group-title="🦄湾湾频道",中天新闻台
+http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=21
+#EXTINF:-1 group-title="🦄湾湾频道",东森新闻台
+http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=22
+#EXTINF:-1 group-title="🦄湾湾频道",东森财经新闻台
+http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=23
+#EXTINF:-1 group-title="🦄湾湾频道",寰宇新闻台
+http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=24
+#EXTINF:-1 group-title="🦄湾湾频道",寰宇新闻台湾台
+http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=25
+#EXTINF:-1 group-title="🦄湾湾频道",台视新闻台
+http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=26
+#EXTINF:-1 group-title="🦄湾湾频道",中视新闻台
+http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=27
+#EXTINF:-1 group-title="🦄湾湾频道",华视新闻台
+http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=28
+#EXTINF:-1 group-title="🦄湾湾频道",TVBS新闻台
+http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=29
+#EXTINF:-1 group-title="🦄湾湾频道",三立新闻台
+http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=30
+#EXTINF:-1 group-title="🦄湾湾频道",三立iNEWS
+http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=31
+#EXTINF:-1 group-title="🦄湾湾频道",镜电视新闻台
+http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=32
+#EXTINF:-1 group-title="🦄湾湾频道",壹新闻
+http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=33
+#EXTINF:-1 group-title="🦄湾湾频道",公视新闻
+http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=34
+#EXTINF:-1 group-title="🦄湾湾频道",民视新闻台
+http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=35
+#EXTINF:-1 group-title="🦄湾湾频道",民视
+http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=36
+#EXTINF:-1 group-title="🦄湾湾频道",台视
+http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=37
+#EXTINF:-1 group-title="🦄湾湾频道",中视
+http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=38
+#EXTINF:-1 group-title="🦄湾湾频道",华视
+http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=39
+#EXTINF:-1 group-title="🦄湾湾频道",TVBS HD
+http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=40
+#EXTINF:-1 group-title="🦄湾湾频道",TVBS欢乐台
+http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=41
+#EXTINF:-1 group-title="🦄湾湾频道",中天亚洲台
+http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=42
+#EXTINF:-1 group-title="🦄湾湾频道",纬来体育台
+http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=43
+#EXTINF:-1 group-title="🦄湾湾频道",纬来日本台
+http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=44
+#EXTINF:-1 group-title="🦄湾湾频道",纬来育乐台
+http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=45
+#EXTINF:-1 group-title="🦄湾湾频道",ELEVEN 1
+http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=46
+#EXTINF:-1 group-title="🦄湾湾频道",ELEVEN 2
+http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=47
+#EXTINF:-1 group-title="🦄湾湾频道",爱尔达体育1台
+http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=48
+#EXTINF:-1 group-title="🦄湾湾频道",爱尔达体育2台
+http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=49
+#EXTINF:-1 group-title="🦄湾湾频道",爱尔达体育3台
+http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=50
+#EXTINF:-1 group-title="🦄湾湾频道",NBA TV
+http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=51
+#EXTINF:-1 group-title="🦄湾湾频道",MOMO综合台
+http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=52
+#EXTINF:-1 group-title="🦄湾湾频道",HBO
+http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=54
+#EXTINF:-1 group-title="🦄湾湾频道",CNN新闻频道
+http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=55
 
 #EXTINF:-1 group-title="🦄湾湾频道",中天新闻
 http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivepzztvvzzzyzuuzzfvbscvzdztwzfszzszzzcvuyzemzeztxw.flv
