@@ -15,49 +15,49 @@ http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/32212281
 #EXTINF:-1 group-title="🦄全网线路",直播中国-唯一微信号:-Star-Fairy_
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="🦄全网线路",CCTV1
-http://112.132.181.221:9988/hls/1/index.m3u8
+http://101.43.3.246/ysp.php?ch=cctv1
 #EXTINF:-1 group-title="🦄全网线路",CCTV2
-http://112.132.181.221:9988/hls/2/index.m3u8
+http://101.43.3.246/ysp.php?ch=cctv2
 #EXTINF:-1 group-title="🦄全网线路",CCTV3
-http://175.178.236.58:8088/china/ysp.php?ch=cctv3
+http://101.43.3.246/ysp.php?ch=cctv3
 #EXTINF:-1 group-title="🦄全网线路",CCTV4
 http://175.178.236.58:8088/china/ysp.php?ch=cctv4
 #EXTINF:-1 group-title="🦄全网线路",CCTV4
-http://112.132.181.221:9988/hls/4/index.m3u8
+http://101.43.3.246/ysp.php?ch=cctv4
 #EXTINF:-1 group-title="🦄全网线路",CCTV5
-http://112.132.181.221:9988/hls/5/index.m3u8
+http://101.43.3.246/ysp.php?ch=cctv5
 #EXTINF:-1 group-title="🦄全网线路",CCTV5+
-http://112.132.181.221:9988/hls/6/index.m3u8
+http://101.43.3.246/ysp.php?ch=cctv5p
 #EXTINF:-1 group-title="🦄全网线路",CCTV6
-http://112.132.181.221:9988/hls/7/index.m3u8
+http://101.43.3.246/ysp.php?ch=cctv6
 #EXTINF:-1 group-title="🦄全网线路",CCTV7
-http://112.132.181.221:9988/hls/8/index.m3u8
+http://101.43.3.246/ysp.php?ch=cctv7
 #EXTINF:-1 group-title="🦄全网线路",CCTV8
-http://112.132.181.221:9988/hls/9/index.m3u8
+http://101.43.3.246/ysp.php?ch=cctv8
 #EXTINF:-1 group-title="🦄全网线路",CCTV9
-http://112.132.181.221:9988/hls/10/index.m3u8
+http://101.43.3.246/ysp.php?ch=cctv9
 #EXTINF:-1 group-title="🦄全网线路",CCTV10
-http://112.132.181.221:9988/hls/11/index.m3u8
+http://101.43.3.246/ysp.php?ch=cctv10
 #EXTINF:-1 group-title="🦄全网线路",CCTV11
-http://175.178.236.58:8088/china/ysp.php?ch=cctv11
+http://101.43.3.246/ysp.php?ch=cctv11
 #EXTINF:-1 group-title="🦄全网线路",CCTV12
-http://175.178.236.58:8088/china/ysp.php?ch=cctv12
+http://101.43.3.246/ysp.php?ch=cctv12
 #EXTINF:-1 group-title="🦄全网线路",CCTV13
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=357606504
 #EXTINF:-1 group-title="🦄全网线路",CCTV14
-http://175.178.236.58:8088/china/ysp.php?ch=cctv14
+http://101.43.3.246/ysp.php?ch=cctv14
 #EXTINF:-1 group-title="🦄全网线路",CCTV15
-http://175.178.236.58:8088/china/ysp.php?ch=cctv15
+http://101.43.3.246/ysp.php?ch=cctv15
 #EXTINF:-1 group-title="🦄全网线路",CCTV16
-http://175.178.236.58:8088/china/ysp.php?ch=cctv16
+http://101.43.3.246/ysp.php?ch=cctv16
 #EXTINF:-1 group-title="🦄全网线路",CCTV16 4K
-http://175.178.236.58:8088/china/ysp.php?ch=cctv16-4k
+http://101.43.3.246/ysp.php?ch=cctv16-4k
 #EXTINF:-1 group-title="🦄全网线路",CCTV17
-https://live.goodiptv.club/api/cqyx.php?id=cctv17HD
+http://101.43.3.246/ysp.php?ch=cctv17
 #EXTINF:-1 group-title="🦄全网线路",CCTV-4K 超高清
-http://175.178.236.58:8088/china/ysp.php?ch=cctv4k
+http://101.43.3.246/ysp.php?ch=cctv4k
 #EXTINF:-1 group-title="🦄全网线路",CCTV-8K 超高清
-http://175.178.236.58:8088/china/ysp.php?ch=cctv8k
+http://101.43.3.246/ysp.php?ch=cctv8k
 #EXTINF:-1 group-title="🦄全网线路",北京卫视
 http://175.178.236.58:8088/china/ysp.php?ch=bjws
 #EXTINF:-1 group-title="🦄全网线路",东方卫视
