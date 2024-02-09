@@ -1097,27 +1097,6 @@ CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 
 
 🦄香港频道,#genre#
-凤凰卫视中文台,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=1
-凤凰卫视资讯台,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=2
-香港有线新闻台,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=3
-香港有线18台,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=4
-香港有线高清603台,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=5
-TVB无线新闻台,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=6
-TVB财经体育资讯台,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=7
-TVB翡翠台,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=8
-TVB华丽翡翠台,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=9
-TVB明珠台,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=10
-TVB J2,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=11
-TVB星河,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=12
-ViuTV,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=13
-ViuTV6,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=14
-NOW新闻台,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=15
-香港国际财经台,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=16
-HOY TV,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=17
-HOY资讯台,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=18
-港台卫视31,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=19
-港台电视32,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=20
-
 红爆米花(HK),http://ali.hlspull.yximgs.com/live/nowbgggggt3a888221300-brschg66559.flv
 黄爆米花(HK),http://ali.hlspull.yximgs.com/live/nowxyot3a888221300-brschg66559.flv
 英超(HK),http://ali.hlspull.yximgs.com/live/nowyct3a888221300-brschg66559.flv
