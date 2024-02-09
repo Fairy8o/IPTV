@@ -12,8 +12,8 @@ http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/32212282
 http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
 #EXTINF:-1 group-title="🐉龍年春晚 欢度新年🐉",4K春晚👉36M高码
 http://1.14.131.61:5828/cctv4k.php
-#EXTINF:-1 group-title="🐉龍年春晚 欢度新年🐉",4K春晚👉36M高码
-http://1.14.131.61:5678/gd4k.php
+#EXTINF:-1 group-title="🐉龍年春晚 欢度新年🐉",CCTV3-4K「IPV6」👉36M高码
+http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
 #EXTINF:-1 group-title="🐉龍年春晚 欢度新年🐉",8K春晚👉150M高码
 http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233652/index.m3u8
 #EXTINF:-1 group-title="🐉龍年春晚 欢度新年🐉",8K春晚👉150M高码
