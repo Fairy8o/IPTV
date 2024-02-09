@@ -1394,23 +1394,40 @@ http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/32212282
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 
 
-
-#EXTINF:-1 group-title="🦄体育频道",爱尔达体育2
-http://198.16.100.90:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
+#EXTINF:-1 group-title="🦄体育频道",纬来体育
+https://cloud.yumixiu768.com/tmp/123.m3u8
+#EXTINF:-1 group-title="🦄体育频道",超级体育
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1 group-title="🦄体育频道",精品体育
+http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/wh7f454c46tw2797725038_-2054878207/ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
+#EXTINF:-1 group-title="🦄体育频道",NBA-英文
+http://38.96.178.201/live/NBA/index.m3u8
 #EXTINF:-1 group-title="🦄体育频道",纬来体育
 https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 #EXTINF:-1 group-title="🦄体育频道",纬来体育 FHD
 http://ali.hlspull.yximgs.com/live/7qvlzZeiRYNkx1Dwn6mLv3PM8GERr19J.flv
 #EXTINF:-1 group-title="🦄体育频道",纬来体育
 https://cloud.yumixiu768.com/tmp/123.m3u8
-#EXTINF:-1 group-title="🦄体育频道",NBA-英文
-http://38.96.178.201/live/NBA/index.m3u8
-#EXTINF:-1 group-title="🦄体育频道",CCTV5-
+#EXTINF:-1 group-title="🦄体育频道",CCTV-5
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 #EXTINF:-1 group-title="🦄体育频道",BRTV体育休闲
 http://111.20.35.103:6610/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 #EXTINF:-1 group-title="🦄体育频道",辽宁-体育
 http://42.176.185.28:9901/tsfile/live/1007_1.m3u8
+#EXTINF:-1 group-title="🦄体育频道",beIN SPORTS 1
+https://edge1.laotv.la/live/Bsport1/index.m3u8
+#EXTINF:-1 group-title="🦄体育频道",beIN SPORTS 1
+https://p2p.cdn-domain.com/hls/live/2000341/test/level_2.m3u8
+#EXTINF:-1 group-title="🦄体育频道",体育2
+https://edge1.laotv.la/live/Bsport1/sc-gaFECQ/v0_index.m3u8
+#EXTINF:-1 group-title="🦄体育频道",体育3
+https://edge1.laotv.la/live/Bsport1/sc-gaFECQ/a0_index.m3u8
+#EXTINF:-1 group-title="🦄体育频道",beIN SPORTS 2
+https://edge2.laotv.la/live/Bsport2/index.m3u8
+#EXTINF:-1 group-title="🦄体育频道",beIN SPORTS 2
+https://edge2.laotv.la/live/Bsport2/sc-gaFECQ/v0_index.m3u8
+#EXTINF:-1 group-title="🦄体育频道",beIN SPORTS 2
+https://edge2.laotv.la/live/Bsport2/sc-gaFECQ/a0_index.m3u8
 #EXTINF:-1 group-title="🦄体育频道",欧洲体育2
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12048/index.m3u8
 #EXTINF:-1 group-title="🦄体育频道",欧洲体育1
@@ -1421,26 +1438,18 @@ http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/144/index.m3u8
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/530/index.m3u8
 #EXTINF:-1 group-title="🦄体育频道",拜仁体育
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6097/index.m3u8
-#EXTINF:-1 group-title="🦄体育频道",天空体育 足球
-http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7336/index.m3u8
 #EXTINF:-1 group-title="🦄体育频道",天空体育 新闻
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2477/index.m3u8
 #EXTINF:-1 group-title="🦄体育频道",天空体育 板球
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7343/index.m3u8
 #EXTINF:-1 group-title="🦄体育频道",纬来篮球
 http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
-#EXTINF:-1 group-title="🦄体育频道",广东体育
-http://218.17.196.234:9901/tsfile/live/1001_1.m3u8
 #EXTINF:-1 group-title="🦄体育频道",安徽体育
 http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
-#EXTINF:-1 group-title="🦄体育频道",CCTV16
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
 #EXTINF:-1 group-title="🦄体育频道",五星体育
 http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
 #EXTINF:-1 group-title="🦄体育频道",先锋乒羽
 http://httpdvb.slave.yqdtv.com:13164/playurl?programid=4200000116&playtype=live&protocol=hls&playtoken=31603YEQXREOPEG10&accesstoken=G79E6023V21307D1TD05FABJB53102ABM786710FEI3282697DK98BDA6.m3u8
-#EXTINF:-1 group-title="🦄体育频道",劲爆体育
-http://httpdvb.slave.shuliyun.com:13164/playurl?programid=4200000101&playtype=live&protocol=hls&accesstoken=G8E222BE4V21307D1TBC062A6JF7E607ABM7B61CDEDID068875K98BDB0&playtoken=ABCDEFGHI.m3u8
 #EXTINF:-1 group-title="🦄体育频道",国外体育6
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="🦄体育频道",小七直播不定时
@@ -1479,10 +1488,6 @@ http://103.199.161.254/Content/ddsports/Live/Channel%28DDSPORTS%29/index.m3u8
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1 group-title="🦄体育频道",DSTV (720p)
 http://79.120.178.90:1935/dstv/dstvlive/playlist.m3u8
-#EXTINF:-1 group-title="🦄体育频道",ERT Sports 1 (1080p) [Geo-blocked]
-http://cbd537474fbad4634b64787657ff6456.msvdn.net/sports1/ert_sports1_main/mainabr/playlist.m3u8
-#EXTINF:-1 group-title="🦄体育频道",ESTV (1080p)
-https://estv-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="🦄体育频道",Fight Network (1080p)
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="🦄体育频道",FightBox
@@ -1549,10 +1554,6 @@ https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 https://alpha.tv.online.tm/hls/ch004.m3u8
 #EXTINF:-1 group-title="🦄体育频道",TVMAX (720p)
 https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
-#EXTINF:-1 group-title="🦄体育频道",Unbeaten (1080p)
-https://unbeaten-tcl.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="🦄体育频道",viju+ Sport
-http://135.181.115.81/russia/viasat_sport/playlist.m3u8
 #EXTINF:-1 group-title="🦄体育频道",Астрахань.Ru Sport (720p)
 https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 #EXTINF:-1 group-title="🦄体育频道",Бокс ТВ
@@ -1561,8 +1562,8 @@ http://stream01.vnet.am/BoksTv/mono.m3u8
 https://strm.yandex.ru/kal/start/start0.m3u8
 #EXTINF:-1 group-title="🦄体育频道",Старт Триумф (1080p) [Geo-blocked]
 https://strm.yandex.ru/kal/start_triumf/start_triumf0.m3u8
-#EXTINF:-1 group-title="🦄体育频道",УТРК Спорт (720p)
-https://64e5ed58c00d4.streamlock.net/live/smil:sport.smil/playlist.m3u8
+
+
 #EXTINF:-1 group-title="🦄咪咕视频-「IPV4」",咪咕1
 http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
 #EXTINF:-1 group-title="🦄咪咕视频-「IPV4」",咪咕2
