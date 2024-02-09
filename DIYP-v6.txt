@@ -913,7 +913,6 @@ CCTV16「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PL
 
 
 
-
 🦄体育频道,#genre#
 爱尔达体育2,http://198.16.100.90:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
 NBA-英文,http://38.96.178.201/live/NBA/index.m3u8
@@ -965,8 +964,6 @@ CCTV-5 (1080p),http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/
 DD Sports (576p),http://103.199.161.254/Content/ddsports/Live/Channel%28DDSPORTS%29/index.m3u8
 DeporTV (1080p) [Not 24/7],https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 DSTV (720p),http://79.120.178.90:1935/dstv/dstvlive/playlist.m3u8
-ERT Sports 1 (1080p) [Geo-blocked],http://cbd537474fbad4634b64787657ff6456.msvdn.net/sports1/ert_sports1_main/mainabr/playlist.m3u8
-ESTV (1080p),https://estv-rakuten.amagi.tv/playlist.m3u8
 Fight Network (1080p),https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 FightBox,http://stream01.vnet.am/Fightbox/mono.m3u8
 FTV (720p),https://master.tucableip.com/ftv/index.m3u8
@@ -992,7 +989,6 @@ Real Madrid,https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
 Red Bull TV (1080p),https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 San Marino RTV Sport (720p),https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
 Ski TV (1080p) [Not 24/7],https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SynapseTV/193.m3u8
-SOS Kanal Plus (720p),https://53be5ef2d13aa.streamlock.net/soskanalplus/soskanalplus.stream/playlist.m3u8
 Swerve Sports (1080p),https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
 Teledeporte (1080p) [Geo-blocked],https://rtvelivestream.akamaized.net/rtvesec/tdp/tdp_main.m3u8
 Teletrak (720p),https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
@@ -1001,12 +997,13 @@ Trace Sports Stars,https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 Türkmenistan Sport (406p) [Not 24/7],https://alpha.tv.online.tm/hls/ch004.m3u8
 TVMAX (720p),https://bcovlive-a.akamaihd.net/74f665e9ff8447639d4de4b8b458d8ae/us-east-1/6058004209001/playlist_dvr.m3u8
 Unbeaten (1080p),https://unbeaten-tcl.amagi.tv/playlist.m3u8
-viju+ Sport,http://135.181.115.81/russia/viasat_sport/playlist.m3u8
 Астрахань.Ru Sport (720p),https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 Бокс ТВ,http://stream01.vnet.am/BoksTv/mono.m3u8
 Старт (1080p) [Geo-blocked],https://strm.yandex.ru/kal/start/start0.m3u8
 Старт Триумф (1080p) [Geo-blocked],https://strm.yandex.ru/kal/start_triumf/start_triumf0.m3u8
-УТРК Спорт (720p),https://64e5ed58c00d4.streamlock.net/live/smil:sport.smil/playlist.m3u8
+
+
+
 
 🦄数字高清,#genre#
 CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
