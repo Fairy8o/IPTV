@@ -1545,46 +1545,6 @@ http://[2409:8087:1a01:df::4041]/PLTV/88888888/224/3221226053/index.m3u8
 #EXTINF:-1 group-title="🦄咪咕视频",咪咕直播-42
 http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 
-#EXTINF:-1 group-title="🦄香港频道",凤凰卫视中文台
-http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=1
-#EXTINF:-1 group-title="🦄香港频道",凤凰卫视资讯台
-http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=2
-#EXTINF:-1 group-title="🦄香港频道",香港有线新闻台
-http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=3
-#EXTINF:-1 group-title="🦄香港频道",香港有线18台
-http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=4
-#EXTINF:-1 group-title="🦄香港频道",香港有线高清603台
-http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=5
-#EXTINF:-1 group-title="🦄香港频道",TVB无线新闻台
-http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=6
-#EXTINF:-1 group-title="🦄香港频道",TVB财经体育资讯台
-http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=7
-#EXTINF:-1 group-title="🦄香港频道",TVB翡翠台
-http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=8
-#EXTINF:-1 group-title="🦄香港频道",TVB华丽翡翠台
-http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=9
-#EXTINF:-1 group-title="🦄香港频道",TVB明珠台
-http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=10
-#EXTINF:-1 group-title="🦄香港频道",TVB J2
-http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=11
-#EXTINF:-1 group-title="🦄香港频道",TVB星河
-http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=12
-#EXTINF:-1 group-title="🦄香港频道",ViuTV
-http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=13
-#EXTINF:-1 group-title="🦄香港频道",ViuTV6
-http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=14
-#EXTINF:-1 group-title="🦄香港频道",NOW新闻台
-http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=15
-#EXTINF:-1 group-title="🦄香港频道",香港国际财经台
-http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=16
-#EXTINF:-1 group-title="🦄香港频道",HOY TV
-http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=17
-#EXTINF:-1 group-title="🦄香港频道",HOY资讯台
-http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=18
-#EXTINF:-1 group-title="🦄香港频道",港台电视31
-http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=19
-#EXTINF:-1 group-title="🦄香港频道",港台电视32
-http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=20
 
 #EXTINF:-1 group-title="🦄香港频道",凤凰中文-「IPV6」
 http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
