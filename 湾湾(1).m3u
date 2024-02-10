@@ -1,0 +1,76 @@
+#EXTM3U
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE local
+
+#EXTINF:-1 group-title="🦄湾湾频道",中天
+http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivepzztvvzzzyzuuzzfvbscvzdztwzfszzszzzcvuyzemzeztxw.flv
+#EXTINF:-1 group-title="🦄湾湾频道",寰宇
+http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivephxehmffzuxcxzvezezyhmnzzxzzhzdhnzbnxfdzfhyxw.flv
+#EXTINF:-1 group-title="🦄湾湾频道",年代
+http://pull-hls-hs-spe-f5.douyincdn.com/live/twliveozevdyscvbudlozlnsfzewtzudvbbzxfznzlvczdzdnzxw.flv
+#EXTINF:-1 group-title="🦄湾湾频道",东森
+http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivemhzttuzzcvbyzuozdzzezywefzzfbxfbxxvbzzzlzzhzsxw.flv
+#EXTINF:-1 group-title="🦄湾湾频道",中视
+http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivepnvzydstudzbszcvbfzzzszfzszwetymzldhduzocnzsxw.flv
+#EXTINF:-1 group-title="🦄湾湾频道",台视
+http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivenczztzzudtzlzcvbcvntzzzsfwetzfvcbcxvdzbzfflvcztsxw.flv
+#EXTINF:-1 group-title="🦄湾湾频道",TVBS
+http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivezpzovdxzozfdezodszxcvlzzfvhnzlzzzobzzzsvhzchtvbs.flv
+#EXTINF:-1 group-title="🦄湾湾频道",纬来篮球
+http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+#EXTINF:-1 group-title="🦄湾湾频道",BBC Earth HD
+https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道",AlJazeera
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道",Arirang TV
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道",RT News
+https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道",RT Documentary
+https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道",动物星球全网
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道",动物频道
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道",「官方」大爱一台
+http://tvbox6.com/tv/dl/dl668/hk.php?id=429
+#EXTINF:-1 group-title="🦄湾湾频道",「官方」大爱二台
+http://tvbox6.com/tv/dl/dl668/hk.php?id=430
+#EXTINF:-1 group-title="🦄湾湾频道",大爱二台
+https://pulltv1.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道",GOOD卡通
+https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道",TVBS新闻
+http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道",TVBS新闻
+http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道",半岛新闻台
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道",TRT世界台
+https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道",中视新闻
+http://50.7.238.114:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
+#EXTINF:-1 group-title="🦄湾湾频道",中天综合
+http://198.16.100.90:8278/ctizhonghe/playlist.m3u8?tid=MB6B3888954738889547&ct=19254&tsum=d0cb922e44e8a16bea598530697c581e
+#EXTINF:-1 group-title="🦄湾湾频道",东森综合
+http://50.7.238.114:8278/ettvzhonghe/playlist.m3u8?tid=MC4C1214674912146749&ct=19254&tsum=9b96a50ba99dca1a02a27b05a6fb4b0d
+#EXTINF:-1 group-title="🦄湾湾频道",八大综合
+http://50.7.238.114:8278/badazhonghe/playlist.m3u8?tid=MC5C5422299054222990&ct=19193&tsum=8189d5b21bdeabdffa3d2b2cbeaae0ae
+#EXTINF:-1 group-title="🦄湾湾频道",龙祥时代
+http://50.7.238.114:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
+#EXTINF:-1 group-title="🦄湾湾频道",龙华偶像
+http://198.16.100.90:8278/lunghuaidol_twn/playlist.m3u8?tid=MD6D6087277960872779&ct=19249&tsum=83e30fd8200429793355d21bf37719ff
+#EXTINF:-1 group-title="🦄湾湾频道",八大戏剧
+http://50.7.238.114:8278/badadrama/playlist.m3u8?tid=ME4E4734124647341246&ct=19225&tsum=c4e596572a79ad99675ee2137d1cc43d
+#EXTINF:-1 group-title="🦄湾湾频道",AXN台湾
+http://50.7.238.114:8278/axn_twn/playlist.m3u8?tid=MC6C9875939098759390&ct=19254&tsum=5a6772e6e852b06c1b5741eeb4002a1a
+#EXTINF:-1 group-title="🦄湾湾频道",GO好医生
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch9-2.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道",番薯音乐
+http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道",番薯音乐
+http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道",番薯音乐
+http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
