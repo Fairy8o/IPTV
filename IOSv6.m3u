@@ -2948,6 +2948,13 @@ http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000007000010004/index.
 #EXTINF:-1 group-title="🦄上海频道",SiTV都市剧场
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002108/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
+
+
+#EXTINF:-1 group-title="🦄广东频道",广东珠江
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/1.m3u8
+#EXTINF:-1 group-title="🦄广东频道",广东珠江
+http://[2409:8087:7001:20:1000::96]:6610/000000001000/1000000004000011655/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&HlsProfileId=
+
 #EXTINF:-1 group-title="🦄广东频道",大湾区卫视
 http://glive.grtn.cn/live/lizhi.m3u8
 #EXTINF:-1 group-title="🦄广东频道",广东文化
