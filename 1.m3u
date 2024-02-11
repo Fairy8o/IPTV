@@ -1,0 +1,34 @@
+#EXTM3U
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE local
+
+#EXTINF:-1 group-title="🦄香港频道",TVB 翡翠台
+https://fake-stream.livednow.com/hkdvb/jade?token=321b0a36ca2aed06ebaa85d8012df385&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄香港频道",TVB 明珠台
+https://fake-stream.livednow.com/hkdvb/pearl?token=8d47f6a8506eee37e6c726a1e8412b0f&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄香港频道",TVB J2 台
+https://fake-stream.livednow.com/hkdvb/j2?token=16ca037a4f5d03eaebee24d129d7d3fb&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄香港频道",TVB 無線新聞台
+https://fake-stream.livednow.com/tvb/C?token=c8575882ea0ca61170b2284e0d1f0144&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄香港频道",TVB 無線新聞台 海外版
+https://fake-stream.livednow.com/tvb/I-NEWS?token=dc6f5d5a464931d0902271fb360c710d&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄香港频道",TVB 財經體育資訊台
+https://fake-stream.livednow.com/tvb/A?token=9cab24677720fe47e134e07a4947882c&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄香港频道",TVB 財經體育資訊台 海外版
+https://fake-stream.livednow.com/tvb/I-FINA?token=99560e5d097f1c356fe931c85e95183e&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄香港频道",ViuTV
+https://fake-stream.livednow.com/hkdvb/viutv?token=3c6a2c45176483f6a090749ce1ea0beb&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄香港频道",ViuTV Six
+https://fake-stream.livednow.com/hkdvb/viutv6?token=29d5aee9aebad63b5141240a6fd24fa3&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄香港频道",Now Jelli 紫金國際台
+https://fake-stream.livednow.com/hkdvb/jelli?token=5d09fadc477d139e04adbe195362f8f3&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄香港频道",鳳凰資訊
+https://fake-stream.livednow.com/hkdvb/phx-news?token=d28d104a6c176af9d59823e8dccbd619&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄香港频道",鳳凰中文
+https://fake-stream.livednow.com/hkdvb/phx-chinese?token=666e67d952f67d62d3cf407e49892124&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄香港频道",鳳凰香港
+https://fake-stream.livednow.com/hkdvb/phx-hk?token=8c49b0a6f0c36e6990d3ff661695b413&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄香港频道",Line Today NBA
+https://fake-stream.livednow.com/line_today/videolandsports?token=fe44a6f50b373603e7ade66f751d2a37&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄香港频道",Line Today UBA
+https://fake-stream.livednow.com/line_today/uba?token=f7926fda6722b7c44b61f909e5f44393&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
