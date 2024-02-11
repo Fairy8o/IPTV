@@ -1,0 +1,104 @@
+#EXTM3U
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE local
+
+#EXTINF:-1 group-title="🦄全网通线路",CCTV1
+http://tvbox6.com/tv/dl/dl668/migu.php?3701
+#EXTINF:-1 group-title="🦄全网通线路",CCTV2
+http://tvbox6.com/tv/dl/dl668/migu.php?3718
+#EXTINF:-1 group-title="🦄全网通线路",CCTV3
+http://tvbox6.com/tv/dl/dl668/migu.php?3715
+#EXTINF:-1 group-title="🦄全网通线路",CCTV4
+http://tvbox6.com/tv/dl/dl668/migu.php?3686
+#EXTINF:-1 group-title="🦄全网通线路",CCTV5
+http://tvbox6.com/tv/dl/dl668/migu.php?3724
+#EXTINF:-1 group-title="🦄全网通线路",CCTV6
+http://tvbox6.com/tv/dl/dl668/migu.php?3713
+#EXTINF:-1 group-title="🦄全网通线路",CCTV7
+http://tvbox6.com/tv/dl/dl668/migu.php?3709
+#EXTINF:-1 group-title="🦄全网通线路",CCTV8
+http://tvbox6.com/tv/dl/dl668/migu.php?3721
+#EXTINF:-1 group-title="🦄全网通线路",CCTV9
+http://tvbox6.com/tv/dl/dl668/migu.php?3706
+#EXTINF:-1 group-title="🦄全网通线路",CCTV10
+http://tvbox6.com/tv/dl/dl668/migu.php?3704
+#EXTINF:-1 group-title="🦄全网通线路",CCTV11
+http://tvbox6.com/tv/dl/dl668/migu.php?3733
+#EXTINF:-1 group-title="🦄全网通线路",CCTV12
+http://tvbox6.com/tv/dl/dl668/migu.php?3727
+#EXTINF:-1 group-title="🦄全网通线路",CCTV13
+http://tvbox6.com/tv/dl/dl668/migu.php?3712
+#EXTINF:-1 group-title="🦄全网通线路",CCTV14
+http://tvbox6.com/tv/dl/dl668/migu.php?3698
+#EXTINF:-1 group-title="🦄全网通线路",CCTV16
+http://tvbox6.com/tv/dl/dl668/migu.php?3710
+#EXTINF:-1 group-title="🦄全网通线路",CCTV4K
+http://tvbox6.com/tv/dl/dl668/migu.php?3679
+#EXTINF:-1 group-title="🦄全网通线路",湖南卫视
+http://tvbox6.com/tv/dl/dl668/migu.php?3707
+#EXTINF:-1 group-title="🦄全网通线路",北京卫视
+http://tvbox6.com/tv/dl/dl668/migu.php?3730
+#EXTINF:-1 group-title="🦄全网通线路",山东卫视
+http://tvbox6.com/tv/dl/dl668/migu.php?3641
+#EXTINF:-1 group-title="🦄全网通线路",安徽卫视
+http://tvbox6.com/tv/dl/dl668/migu.php?3653
+#EXTINF:-1 group-title="🦄全网通线路",深圳卫视
+http://tvbox6.com/tv/dl/dl668/migu.php?3664
+#EXTINF:-1 group-title="🦄全网通线路",广东卫视
+http://tvbox6.com/tv/dl/dl668/migu.php?3667
+#EXTINF:-1 group-title="🦄全网通线路",湖北卫视
+http://tvbox6.com/tv/dl/dl668/migu.php?3668
+#EXTINF:-1 group-title="🦄全网通线路",天津卫视
+http://tvbox6.com/tv/dl/dl668/migu.php?3682
+#EXTINF:-1 group-title="🦄全网通线路",东方卫视
+http://tvbox6.com/tv/dl/dl668/migu.php?3692
+#EXTINF:-1 group-title="🦄全网通线路",黑龙江卫视
+http://tvbox6.com/tv/dl/dl668/migu.php?3694
+#EXTINF:-1 group-title="🦄全网通线路",浙江卫视
+http://tvbox6.com/tv/dl/dl668/migu.php?3695
+#EXTINF:-1 group-title="🦄全网通线路",海南卫视
+http://tvbox6.com/tv/dl/dl668/migu.php?3697
+#EXTINF:-1 group-title="🦄全网通线路",江苏卫视
+http://tvbox6.com/tv/dl/dl668/migu.php?3689
+#EXTINF:-1 group-title="🦄全网通线路",重庆卫视
+http://tvbox6.com/tv/dl/dl668/migu.php?3677
+#EXTINF:-1 group-title="🦄全网通线路",都市剧场
+http://tvbox6.com/tv/dl/dl668/migu.php?3659
+#EXTINF:-1 group-title="🦄全网通线路",炫动3D
+http://tvbox6.com/tv/dl/dl668/migu.php?3669
+#EXTINF:-1 group-title="🦄全网通线路",3D动画片
+http://tvbox6.com/tv/dl/dl668/migu.php?3671
+#EXTINF:-1 group-title="🦄全网通线路",电视剧
+http://tvbox6.com/tv/dl/dl668/migu.php?3674
+#EXTINF:-1 group-title="🦄全网通线路",游戏风云
+http://tvbox6.com/tv/dl/dl668/migu.php?3683
+#EXTINF:-1 group-title="🦄全网通线路",美食频道
+http://tvbox6.com/tv/dl/dl668/migu.php?3688
+#EXTINF:-1 group-title="🦄全网通线路",纪录片
+http://tvbox6.com/tv/dl/dl668/migu.php?3638
+#EXTINF:-1 group-title="🦄全网通线路",3D频道
+http://tvbox6.com/tv/dl/dl668/migu.php?3754
+#EXTINF:-1 group-title="🦄全网通线路",iHOT爱悬疑
+http://tvbox6.com/tv/dl/dl668/migu.php?3650
+#EXTINF:-1 group-title="🦄全网通线路",iHOT爱体育
+http://tvbox6.com/tv/dl/dl668/migu.php?3700
+#EXTINF:-1 group-title="🦄全网通线路",iHOT爱科幻
+http://tvbox6.com/tv/dl/dl668/migu.php?3656
+#EXTINF:-1 group-title="🦄全网通线路",iHOT爱喜剧
+http://tvbox6.com/tv/dl/dl668/migu.php?3658
+#EXTINF:-1 group-title="🦄全网通线路",iHOT爱浪漫
+http://tvbox6.com/tv/dl/dl668/migu.php?3665
+#EXTINF:-1 group-title="🦄全网通线路",iHOT爱历史
+http://tvbox6.com/tv/dl/dl668/migu.php?3685
+#EXTINF:-1 group-title="🦄全网通线路",iHOT爱旅游
+http://tvbox6.com/tv/dl/dl668/migu.php?3703
+#EXTINF:-1 group-title="🦄全网通线路",iHOT爱谍战
+http://tvbox6.com/tv/dl/dl668/migu.php?3691
+#EXTINF:-1 group-title="🦄全网通线路",iHOT爱影院
+http://tvbox6.com/tv/dl/dl668/migu.php?3680
+#EXTINF:-1 group-title="🦄全网通线路",咪咕8K
+http://tvbox6.com/tv/dl/dl668/migu.php?3652
+#EXTINF:-1 group-title="🦄全网通线路",移动8K-1
+http://tvbox6.com/tv/dl/dl668/migu.php?5532
+#EXTINF:-1 group-title="🦄全网通线路",移动8K-2
+http://tvbox6.com/tv/dl/dl668/migu.php?5537
