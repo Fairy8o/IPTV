@@ -10,28 +10,24 @@
 
 🦄央视频道「多线路」,#genre#
 直播中国-唯一微信号:Star-Fairy6,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-CCTV1,http://112.132.181.221:9988/hlCCTV1
-CCTV1,http://101.43.3.246/ysp.php?ch=cctv1
-CCTV2,http://101.43.3.246/ysp.php?ch=cctv2
-CCTV3,http://101.43.3.246/ysp.php?ch=cctv3
-CCTV4,http://101.43.3.246/ysp.php?ch=cctv4
-CCTV5,http://101.43.3.246/ysp.php?ch=cctv5
-CCTV5,http://101.43.3.246/ysp.php?ch=cctv5p
-CCTV6,http://101.43.3.246/ysp.php?ch=cctv6
-CCTV7,http://101.43.3.246/ysp.php?ch=cctv7
-CCTV8,http://101.43.3.246/ysp.php?ch=cctv8
-CCTV9,http://101.43.3.246/ysp.php?ch=cctv9
-CCTV10,http://101.43.3.246/ysp.php?ch=cctv10
-CCTV11,http://101.43.3.246/ysp.php?ch=cctv11
-CCTV12,http://101.43.3.246/ysp.php?ch=cctv12
-CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=357606504
-CCTV14,http://101.43.3.246/ysp.php?ch=cctv14
+CCTV1,http://tvbox6.com/tv/dl/dl668/migu.php?3701
+CCTV2,http://tvbox6.com/tv/dl/dl668/migu.php?3718
+CCTV3,http://tvbox6.com/tv/dl/dl668/migu.php?3715
+CCTV4,http://tvbox6.com/tv/dl/dl668/migu.php?3686
+CCTV5,http://tvbox6.com/tv/dl/dl668/migu.php?3724
+CCTV6,http://tvbox6.com/tv/dl/dl668/migu.php?3713
+CCTV7,http://tvbox6.com/tv/dl/dl668/migu.php?3709
+CCTV8,http://tvbox6.com/tv/dl/dl668/migu.php?3721
+CCTV9,http://tvbox6.com/tv/dl/dl668/migu.php?3706
+CCTV10,http://tvbox6.com/tv/dl/dl668/migu.php?3704
+CCTV11,http://tvbox6.com/tv/dl/dl668/migu.php?3733
+CCTV12,http://tvbox6.com/tv/dl/dl668/migu.php?3727
+CCTV13,http://tvbox6.com/tv/dl/dl668/migu.php?3712
+CCTV14,http://tvbox6.com/tv/dl/dl668/migu.php?3698
 CCTV15,http://101.43.3.246/ysp.php?ch=cctv15
-CCTV16,http://101.43.3.246/ysp.php?ch=cctv16
-CCTV16-4K,http://101.43.3.246/ysp.php?ch=cctv16-4k
-CCTV17,http://101.43.3.246/ysp.php?ch=cctv17
-CCTV-4K 超高清,http://101.43.3.246/ysp.php?ch=cctv4k
-CCTV-8K 超高清,http://101.43.3.246/ysp.php?ch=cctv8ks/1/index.m3u8
+CCTV16,http://tvbox6.com/tv/dl/dl668/migu.php?3710
+CCTV4K,http://tvbox6.com/tv/dl/dl668/migu.php?3679
+
 
 
 CCTV3,http://112.132.181.221:9988/hls/3/index.m3u8
@@ -442,6 +438,28 @@ SiTV全纪实,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226580/inde
 
 
 🦄卫视频道「多线路」,#genre#
+北京卫视,http://tvbox6.com/tv/dl/dl668/migu.php?3730
+山东卫视,http://tvbox6.com/tv/dl/dl668/migu.php?3641
+湖南卫视,http://tvbox6.com/tv/dl/dl668/migu.php?3707
+安徽卫视,http://tvbox6.com/tv/dl/dl668/migu.php?3653
+深圳卫视,http://tvbox6.com/tv/dl/dl668/migu.php?3664
+广东卫视,http://tvbox6.com/tv/dl/dl668/migu.php?3667
+湖北卫视,http://tvbox6.com/tv/dl/dl668/migu.php?3668
+天津卫视,http://tvbox6.com/tv/dl/dl668/migu.php?3682
+东方卫视,http://tvbox6.com/tv/dl/dl668/migu.php?3692
+黑龙江卫视,http://tvbox6.com/tv/dl/dl668/migu.php?3694
+浙江卫视,http://tvbox6.com/tv/dl/dl668/migu.php?3695
+海南卫视,http://tvbox6.com/tv/dl/dl668/migu.php?3697
+江苏卫视,http://tvbox6.com/tv/dl/dl668/migu.php?3689
+重庆卫视,http://tvbox6.com/tv/dl/dl668/migu.php?3677
+都市剧场,http://tvbox6.com/tv/dl/dl668/migu.php?3659
+3D动画片,http://tvbox6.com/tv/dl/dl668/migu.php?3671
+电视剧,http://tvbox6.com/tv/dl/dl668/migu.php?3674
+游戏风云,http://tvbox6.com/tv/dl/dl668/migu.php?3683
+美食频道,http://tvbox6.com/tv/dl/dl668/migu.php?3688
+纪录片,http://tvbox6.com/tv/dl/dl668/migu.php?3638
+3D频道,http://tvbox6.com/tv/dl/dl668/migu.php?3754
+
 北京卫视,http://175.178.236.58:8088/china/ysp.php?ch=bjws
 东方卫视,http://175.178.236.58:8088/china/ysp.php?ch=dfws
 天津卫视,http://175.178.236.58:8088/china/ysp.php?ch=tjws
@@ -1166,8 +1184,10 @@ CCTV17农业农村,http://116.131.1.2:9901/tsfile/live/0019_1.m3u8?key=txiptv
 青海卫视,http://39.165.24.218:808/hls/72/index.m3u8
 
 
-
 🦄4K-8K频道,#genre#
+咪咕8K,http://tvbox6.com/tv/dl/dl668/migu.php?3652
+移动8K-1,http://tvbox6.com/tv/dl/dl668/migu.php?5532
+移动8K-2,http://tvbox6.com/tv/dl/dl668/migu.php?5537
 Love Nrture 4K「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Fashion 4K「时尚」,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 北京纪实8K,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
@@ -2446,18 +2466,22 @@ GRTN文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1612881417-0
 GRTN文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935
 
 
-
 🦄HBO&iHOT频道,#genre#
+iHOT爱悬疑,http://tvbox6.com/tv/dl/dl668/migu.php?3650
+iHOT爱体育,http://tvbox6.com/tv/dl/dl668/migu.php?3700
+iHOT爱科幻,http://tvbox6.com/tv/dl/dl668/migu.php?3656
+iHOT爱喜剧,http://tvbox6.com/tv/dl/dl668/migu.php?3658
+iHOT爱浪漫,http://tvbox6.com/tv/dl/dl668/migu.php?3665
+iHOT爱历史,http://tvbox6.com/tv/dl/dl668/migu.php?3685
+iHOT爱旅游,http://tvbox6.com/tv/dl/dl668/migu.php?3703
+iHOT爱谍战,http://tvbox6.com/tv/dl/dl668/migu.php?3691
+iHOT爱影院,http://tvbox6.com/tv/dl/dl668/migu.php?3680
 HBO,http://41.205.93.154/HBO/index.m3u8
 HBO,http://50.7.238.114:8278/hbohd_twn/playlist.m3u8?tid=MBBB7425808074258080&ct=19193&tsum=a0bdd395bfc4cf07d9414d5372f59ad2
 求索纪录,http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
 求索动物,http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
 求索科学,http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
 求索生活,http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
-SITV动漫秀场,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001196/index.m3u8
-SITV游戏风云,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001192/index.m3u8
-SITV法治天地,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001195/index.m3u8
-SITV金色学堂,http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001194/index.m3u8
 
 
 
