@@ -1931,6 +1931,37 @@ http://[2409:8087:1a01:df::4041]/PLTV/88888888/224/3221226053/index.m3u8
 http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 
 
+#EXTINF:-1 group-title="🦄香港频道",TVB 翡翠台
+https://fake-stream.livednow.com/hkdvb/jade?token=321b0a36ca2aed06ebaa85d8012df385&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄香港频道",TVB 明珠台
+https://fake-stream.livednow.com/hkdvb/pearl?token=8d47f6a8506eee37e6c726a1e8412b0f&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄香港频道",TVB J2 台
+https://fake-stream.livednow.com/hkdvb/j2?token=16ca037a4f5d03eaebee24d129d7d3fb&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄香港频道",TVB 無線新聞台
+https://fake-stream.livednow.com/tvb/C?token=c8575882ea0ca61170b2284e0d1f0144&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄香港频道",TVB 無線新聞台 海外版
+https://fake-stream.livednow.com/tvb/I-NEWS?token=dc6f5d5a464931d0902271fb360c710d&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄香港频道",TVB 財經體育資訊台
+https://fake-stream.livednow.com/tvb/A?token=9cab24677720fe47e134e07a4947882c&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄香港频道",TVB 財經體育資訊台 海外版
+https://fake-stream.livednow.com/tvb/I-FINA?token=99560e5d097f1c356fe931c85e95183e&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄香港频道",ViuTV
+https://fake-stream.livednow.com/hkdvb/viutv?token=3c6a2c45176483f6a090749ce1ea0beb&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄香港频道",ViuTV Six
+https://fake-stream.livednow.com/hkdvb/viutv6?token=29d5aee9aebad63b5141240a6fd24fa3&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄香港频道",Now Jelli 紫金國際台
+https://fake-stream.livednow.com/hkdvb/jelli?token=5d09fadc477d139e04adbe195362f8f3&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄香港频道",鳳凰資訊
+https://fake-stream.livednow.com/hkdvb/phx-news?token=d28d104a6c176af9d59823e8dccbd619&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄香港频道",鳳凰中文
+https://fake-stream.livednow.com/hkdvb/phx-chinese?token=666e67d952f67d62d3cf407e49892124&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄香港频道",鳳凰香港
+https://fake-stream.livednow.com/hkdvb/phx-hk?token=8c49b0a6f0c36e6990d3ff661695b413&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄香港频道",Line Today NBA
+https://fake-stream.livednow.com/line_today/videolandsports?token=fe44a6f50b373603e7ade66f751d2a37&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄香港频道",Line Today UBA
+https://fake-stream.livednow.com/line_today/uba?token=f7926fda6722b7c44b61f909e5f44393&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+
 #EXTINF:-1 group-title="🦄香港频道",凤凰中文-「IPV6」
 http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 #EXTINF:-1 group-title="🦄香港频道",凤凰咨询-「IPV6」
@@ -2128,6 +2159,281 @@ https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 #EXTINF:-1 group-title="🦄澳门频道",澳亚卫视
 https://live.mastvnet.com/lsdream/MSTV/1500/live.m3u8
 
+
+#EXTINF:-1 group-title="🦄湾湾频道",緯來體育
+https://fake-stream.livednow.com/redirect/videolandsports?token=fe44a6f50b373603e7ade66f751d2a37&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",CCTV 风云足球
+http://jscbn.tx-cdn.gitv.tv/gitv_escape/G_FENGSHANGZQ-CQ/G_FENGSHANGZQ-CQ.m3u8?user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",民視
+https://fake-stream.livednow.com/4gtv/4gtv-4gtv002?token=b8e3d5214e6cffbb4d17830c7768800c&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",民視第一台
+https://fake-stream.livednow.com/4gtv/4gtv-4gtv003?token=3758307f36347497c96547757b1805e8&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",民視新聞台
+https://fake-stream.livednow.com/4gtv/litv-ftv13?token=b55a3e83d722a63441b3a1838a67e8bc&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",民視台灣台
+https://fake-stream.livednow.com/4gtv/4gtv-4gtv001?token=9c157dded413b0683514fe5acd3d025a&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",民視綜藝台
+https://fake-stream.livednow.com/4gtv/4gtv-4gtv004?token=e6a6be636d58709b08a491a720f9fcfb&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",民視影劇台
+https://fake-stream.livednow.com/4gtv/24?token=9a939f8a3ac2c92bed38c36236361fc0&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",民視旅遊台
+https://fake-stream.livednow.com/4gtv/litv-ftv07?token=2b2480ad38bb491616814d2d605a41ba&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",台視
+https://fake-stream.livednow.com/ofiii/4gtv-4gtv066?token=4b0231cd4a82e1d5ced6c72357b6781d&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",台視新聞台
+https://fake-stream.livednow.com/ofiii/4gtv-4gtv051?token=817b763b2dbc5dd5ce475f28cfdc5823&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",東森新聞
+https://fake-stream.livednow.com/4gtv/234?token=b4079e337c9a2116b1e32dd9ff34579a&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",東森財經新聞
+https://fake-stream.livednow.com/4gtv/211?token=1606c8cfb6eab08532a99f0bcefbb98a&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",東森電影
+https://fake-stream.livednow.com/laotv/DongsenMovie?token=d4ad937288691d13efd01ab155bc9413&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",東森洋片
+https://fake-stream.livednow.com/laotv/DongsenForeignMovie?token=056590c13ea374b1e2acd1f9e3ccd723&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",中天新聞台
+https://fake-stream.livednow.com/ofiii/4gtv-4gtv009?token=9dac5d0854c30dba5a8f7831c151e0f2&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",中天新聞2台
+https://fake-stream.livednow.com/youtube/WPfPjbOLNfE?token=40bec3a31232c97c7a5423d89ace692b&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",中天亞洲台
+https://fake-stream.livednow.com/youtube/s2waUruqze4?token=2d8b533fc1ee27efe5db4fd2f5085a99&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",中視
+https://fake-stream.livednow.com/4gtv/4gtv-4gtv040?token=ca72b6ff5d757ea06da5c401301a3f49&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",中視新聞台
+https://fake-stream.livednow.com/4gtv/4gtv-4gtv074?token=dfede1a3669810ff4c61282a92adfb2f&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",中視經典台
+https://fake-stream.livednow.com/4gtv/124?token=80b3f9e7b74f066c3e523586b8d557d7&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",中視菁采台
+https://fake-stream.livednow.com/4gtv/123?token=8a4c28b173681716b734325fdbd93ce7&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",華視
+https://fake-stream.livednow.com/4gtv/6?token=18b4ded23621c0d991b67544d09e866f&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",華視新聞
+https://fake-stream.livednow.com/4gtv/4gtv-4gtv052?token=3f9f0dceeca5128fa572256ca3688c61&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",公視新聞
+https://fake-stream.livednow.com/youtube/quwqlazU-c8?token=cbe10d91cfe03e7edf9cb8cb3247ec8a&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",公視戲劇
+https://fake-stream.livednow.com/4gtv/4gtv-4gtv042?token=078929af7e8ca1243b15e1d86b3d0e71&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",港台電視 31
+https://fake-stream.livednow.com/rthk/31?token=2cdfa52b7b285b4e6356b16c6186bc70&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",港台電視 32
+https://fake-stream.livednow.com/rthk/32?token=47c867d5a38df782e29884ff0b9119a4&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",HOY TV
+https://fake-stream.livednow.com/hoy/77?token=87b9ff6603434073752179c5e6d53c48&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",HOY TV 資訊台
+https://fake-stream.livednow.com/hoy/78?token=fa5f45d1253d0251b2cae4018f9cfef2&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",HOY 國際財經台
+https://fake-stream.livednow.com/hoy/76?token=663712ecdccfce985aa611a9a1cef5ef&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",鏡電視新聞台
+https://fake-stream.livednow.com/4gtv/268?token=d0ae3ceca8432975e14b3da0d46715a3&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",寰宇新聞台
+https://fake-stream.livednow.com/4gtv/litv-longturn14?token=a48a58477f4f0bf10d930a884df8d23d&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",寰宇新聞台灣台
+https://fake-stream.livednow.com/4gtv/280?token=d0c34076355b09256a62777348f9af4a&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",寰宇財經台
+https://fake-stream.livednow.com/4gtv/281?token=29425fe88ac012ae389c984fd90c87b3&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",三立綜合台
+https://fake-stream.livednow.com/4gtv/169?token=01a01205f7993068eb97a36b7ba5cf43&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",三立新聞
+https://fake-stream.livednow.com/youtube/FoBfXvlOR6I?token=b82d4a76e2534670cc55b0aa6cb084f9&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",三立新聞+
+https://fake-stream.livednow.com/youtube/oZdzzvxTfUY?token=082709965a655050f0f1d4a1c89f94e2&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",三立財經新聞
+https://fake-stream.livednow.com/4gtv/229?token=4a06606239c1e07d3d01370405627503&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",Taiwan Plus
+https://fake-stream.livednow.com/youtube/dZp87qnWelE?token=3fe805365e491d59c7d3fdde569522cb&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",半島國際新聞台
+https://fake-stream.livednow.com/4gtv/litv-ftv10?token=f741fe4e707fcb88fedb830089c3b4a0&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",VOA 美國之音
+https://fake-stream.livednow.com/4gtv/litv-ftv03?token=4338e29534b95659f94b7a6817dab525&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",DW 德國之聲
+https://fake-stream.livednow.com/4gtv/226?token=ef83860f5b7e40b3f52134f8000573b5&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",SBN 全球財經台
+https://fake-stream.livednow.com/4gtv/224?token=55d0979a13ad8e69a2b4194a7148c876&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",CNBC Asia 財經台
+https://fake-stream.livednow.com/4gtv/235?token=9f0a673d77150cd8c2099fe969b39ac7&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",ABC News
+https://fake-stream.livednow.com/youtube/OOtxXPaQvoM?token=f7e3b8620385314163200735e22bc958&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",TBS News
+https://fake-stream.livednow.com/youtube/ohI356mwBp8?token=b1efcf139ba14a6d72bc04f1b5235bde&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",JapaNews24
+https://fake-stream.livednow.com/youtube/coYw-eVU0Ks?token=f8a041919b57296236d3fcfb1c864481&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",靖天綜合台
+https://fake-stream.livednow.com/4gtv/21?token=53e8ae9735c8eaddc3840946913d4859&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",靖天資訊台
+https://fake-stream.livednow.com/4gtv/88?token=cc6d395a61717bdaa74be623c03e1293&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",靖天日本台
+https://fake-stream.livednow.com/4gtv/4gtv-4gtv047?token=d6169004ece38bbcc7f0ef06135fbd52&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",靖天卡通台
+https://fake-stream.livednow.com/4gtv/15?token=154fcede334ef91894ac12b2ca7093e7&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",靖天育樂台
+https://fake-stream.livednow.com/4gtv/83?token=f15f03d7f5caebe3a50ba2c708e9af5c&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",靖天國際台
+https://fake-stream.livednow.com/4gtv/84?token=761bbc9932c7391e82ea144d899826b1&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",靖天歡樂台
+https://fake-stream.livednow.com/4gtv/119?token=a12d9c7597bf7eea07ddd5c6adde3ab2&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",靖天電影台
+https://fake-stream.livednow.com/4gtv/4gtv-4gtv061?token=5b639205e26ded7a637e0257013e0744&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",靖天戲劇台
+https://fake-stream.livednow.com/4gtv/116?token=e06e34ddf1ea7376844aa5f4f9f875c9&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",靖天映畫台
+https://fake-stream.livednow.com/4gtv/42?token=b229f94b5c14dcf42eabd48b63c1be92&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",TVBS
+https://fake-stream.livednow.com/4gtv/183?token=65f2416f8cecc2c5f60df5e66d5744fb&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",TVBS 新聞台
+https://fake-stream.livednow.com/4gtv/129?token=ab733641133fae8b62cdd619ecbea5c6&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",TVBS 精采台
+https://fake-stream.livednow.com/4gtv/227?token=18069f92a33d9fe1a3319376e7fda4f4&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",TVBS 歡樂台
+https://fake-stream.livednow.com/4gtv/184?token=914438a4c8a7fdcc9eb2471aa9681962&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",TVBS 綜藝台
+https://fake-stream.livednow.com/4gtv/284?token=569f060c4a34fea6a4f77fcb64023b0f&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",TVBS 台劇台
+https://fake-stream.livednow.com/4gtv/285?token=e583f0d67c8a528530414d2884cedb9c&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",靖洋卡通 Nice Bingo
+https://fake-stream.livednow.com/4gtv/59?token=8d7dac6ff1e42d49b1c88868a9806d1a&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",靖洋戲劇台
+https://fake-stream.livednow.com/4gtv/118?token=9d65ed6164d628b37d484bc983cda228&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",博斯高球台
+https://fake-stream.livednow.com/4gtv/48?token=c03cb1aae92473fa868c80a79dec628a&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",博斯運動一台
+https://fake-stream.livednow.com/4gtv/50?token=611c08985e6eb335bc0132ec502d70e8&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",博斯無限台
+https://fake-stream.livednow.com/4gtv/51?token=dce56672320592e4b6672528b6bb3553&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",博斯網球台
+https://fake-stream.livednow.com/4gtv/52?token=2050183257f4761aa2761591d2823008&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",TraceSports
+https://fake-stream.livednow.com/4gtv/57?token=b3f41f4e89cfcabb62311ea3b7851e8c&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",智林體育台
+https://fake-stream.livednow.com/4gtv/58?token=c5af6b02132becaec5862e0275233729&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",時尚運動X
+https://fake-stream.livednow.com/4gtv/69?token=569a6b1d00af29752ca6d53f90db8e39&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",GINX Esports TV
+https://fake-stream.livednow.com/4gtv/179?token=462b277b46841662804c016372cb7d67&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",TechStorm
+https://fake-stream.livednow.com/4gtv/181?token=8a739a33a5446128e2e2ce2cdfb32e99&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",客家電視台
+https://fake-stream.livednow.com/4gtv/107?token=687876a0addb2cb119e8f094cb9d5a09&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",原住民族電視台
+https://fake-stream.livednow.com/4gtv/273?token=7dade3c549d43bee1bbd74e9e199f01b&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",八大綜藝台
+https://fake-stream.livednow.com/4gtv/114?token=d310b1c6b30326a8013de7b8ec1b9613&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",八大精彩台
+https://fake-stream.livednow.com/4gtv/172?token=7d013a38d60f158b1b1265f688e8172b&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",愛爾達娛樂台
+https://fake-stream.livednow.com/4gtv/4gtv-4gtv070?token=db069a3611acce8397d3d2aa3254120e&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",愛爾達生活旅遊台
+https://fake-stream.livednow.com/4gtv/237?token=d8cd36a459627529235869e36e9237e1&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",Arirang TV
+https://fake-stream.livednow.com/4gtv/189?token=e1bc34c1b6389eebc5d5f5d388c36c7c&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",好消息
+https://fake-stream.livednow.com/4gtv/9?token=bc60af688e9a893d5a162eca2ad22014&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",好消息2台
+https://fake-stream.livednow.com/4gtv/8?token=fbde28c59fda1fc9b4143c120b50ddbf&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",DaVinCi Learning 達文西頻道
+https://fake-stream.livednow.com/4gtv/11?token=5d6187154f4face288d87356ae6632ff&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",ELTV 生活英語台
+https://fake-stream.livednow.com/4gtv/litv-longturn20?token=866832e24d6deeb7e5599e7e8c000b8e&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",LiveABC 互動英語台
+https://fake-stream.livednow.com/4gtv/188?token=2acff5a7a61152b9fdad3e9d5da4642f&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",i-Fun 動漫台
+https://fake-stream.livednow.com/4gtv/litv-ftv15?token=68bb9c2ce1eb384cb9122020e57b769d&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",MOMO 親子台
+https://fake-stream.livednow.com/4gtv/231?token=7ec4f2ff8a5e7179df7529e468ab1b82&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",Nickelodeon
+https://fake-stream.livednow.com/4gtv/185?token=532cac97b5a8a271d7b557d4c97ab04e&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",Nick Jr.
+https://fake-stream.livednow.com/4gtv/219?token=3b6f590272bcacda26e73774beb946ad&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",Trace Urban
+https://fake-stream.livednow.com/4gtv/78?token=fa5f45d1253d0251b2cae4018f9cfef2&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",亞洲旅遊台
+https://fake-stream.livednow.com/4gtv/250?token=1e7cfaf1f1673342f91b6807ebdc696d&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",Love Nature
+https://fake-stream.livednow.com/4gtv/139?token=f5ff387859a7a4dd1e7af67aad6b73c8&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",Globetrotter 環遊旅行家
+https://fake-stream.livednow.com/4gtv/288?token=971c9d270797838bc0746b6e06cddb0c&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",LUXE TV
+https://fake-stream.livednow.com/4gtv/175?token=282b7444bffeef39013b4ecc3ef28634&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",TV5MONDE STYLE HD
+https://fake-stream.livednow.com/4gtv/178?token=831209a83263863fbb6d0d00598abf8f&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",Pet Club TV
+https://fake-stream.livednow.com/4gtv/182?token=18d4c2a1ec47d33b64303b908f61c22c&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",滾動力 Rollor
+https://fake-stream.livednow.com/4gtv/249?token=9dbcf43aef023aba0956856763d4773d&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",幸福空間居家台
+https://fake-stream.livednow.com/4gtv/168?token=e3da5a603fd4aa0bd2d3531a99bd0d89&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",車迷 TV
+https://fake-stream.livednow.com/4gtv/160?token=208315295baa26793278762706010f24&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",MTV Live HD 音樂頻道
+https://fake-stream.livednow.com/4gtv/213?token=c430feb88a943497c542aaeb2c983b13&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",Lifetime 娛樂頻道
+https://fake-stream.livednow.com/4gtv/217?token=478ef5ba71751ec404fb29613e72d7b9&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",電影原聲台 CMusic
+https://fake-stream.livednow.com/4gtv/218?token=c8a4148b53affb473a5a5401f4998141&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",Fun 探索娛樂台
+https://fake-stream.livednow.com/4gtv/274?token=cdc29f951199b99bc1e01ca7593d82f1&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",豬哥亮歌廳秀
+https://fake-stream.livednow.com/4gtv/113?token=40c3b2f84b5e53e764ac65ff7e9fc231&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",History 歷史頻道
+https://fake-stream.livednow.com/4gtv/214?token=6171dd172e14f618375541d353e84e62&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",CI 罪案偵查頻道
+https://fake-stream.livednow.com/4gtv/215?token=233fb22ef67807d54bc1777d958cf8de&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",龍華電影台
+https://fake-stream.livednow.com/4gtv/litv-longturn03?token=5fc1547ad0885b7487465cfc93c408ac&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",龍華戲劇台
+https://fake-stream.livednow.com/4gtv/23?token=f42cb2ceb9fbd50038ad7fa38dcc2225&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",龍華日韓台
+https://fake-stream.livednow.com/4gtv/litv-longturn11?token=74540094d802181407acb91aec2b7864&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",龍華偶像台
+https://fake-stream.livednow.com/ofiii/litv-longturn12?token=adf43b4c93d62a343aab1dfc7fd62b27&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",龍華經典台
+https://fake-stream.livednow.com/ofiii/litv-longturn21?token=097065d67cee38189c035b68a102ed12&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",Smart 知識台
+https://fake-stream.livednow.com/ofiii/litv-longturn19?token=aed998386fd90109e23d3c04a71daf2c&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",台灣戲劇
+https://fake-stream.livednow.com/ofiii/litv-longturn22?token=3793bc781913cad2c6daf43f8336f642&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",龍祥時代
+https://fake-stream.livednow.com/laotv/Longxiang?token=7bc9660eadd7ad971ef527e2f1209761&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",視納華仁紀實頻道
+https://fake-stream.livednow.com/4gtv/4gtv-4gtv013?token=2ce9910369a57e195d367e8f7abc134c&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",采昌影劇台
+https://fake-stream.livednow.com/4gtv/25?token=b733f1c181845a96865e6bc5ff00c4f8&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",影迷數位電影台
+https://fake-stream.livednow.com/4gtv/4gtv-4gtv011?token=dd94c6a8737444388476b53857446a9c&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",AMC 最愛電影
+https://fake-stream.livednow.com/4gtv/39?token=c8997aef1a692f28d0641fea4f76233e&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",CinemaWorld
+https://fake-stream.livednow.com/4gtv/225?token=e0dde79f66e21cef36e8acb77a455b81&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",My Cinema Europe HD 我的歐洲電影
+https://fake-stream.livednow.com/4gtv/176?token=1f02f558fc735d9dcacfa36a43c133bc&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",ROCK Action
+https://fake-stream.livednow.com/4gtv/180?token=0cc7965328c0149c9897c37420e7a4c4&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",HITS 頻道
+https://fake-stream.livednow.com/4gtv/186?token=d289786fa5593799df216b61e4131b5d&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",金光布袋戲
+https://fake-stream.livednow.com/4gtv/236?token=c0f31eb4a562f1926d2b845b28d64d29&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",經典電影台
+https://fake-stream.livednow.com/4gtv/201?token=1d1758ebd294647baa3f3922c0ad16b7&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",經典卡通台
+https://fake-stream.livednow.com/4gtv/202?token=aeedd0fd564c255ea00b5d09d5149411&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",兒童卡通台
+https://fake-stream.livednow.com/4gtv/269?token=a0dd37e98dba71900522b276b6854dc8&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",精選動漫台
+https://fake-stream.livednow.com/4gtv/204?token=1ee87191f02043fbc133fb3d4fcf24a3&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",電影免費看 1台
+https://fake-stream.livednow.com/4gtv/272?token=9db399d223ada5f96b2e3acc40ee4275&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",電影免費看 2台
+https://fake-stream.livednow.com/4gtv/245?token=cfc99230cc5bc1f63f6b9adbe54f4e3a&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",戲劇免費看 1台
+https://fake-stream.livednow.com/4gtv/270?token=6d920a3e6c271088219aa6d9a5c303e9&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",戲劇免費看 2台
+https://fake-stream.livednow.com/4gtv/244?token=d3a992fd734e63a35e470307d84f942e&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",超人力霸王整套看
+https://fake-stream.livednow.com/4gtv/278?token=1aa0cdddd38dbf17af17e2d108c568f6&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",花系列 經典劇場
+https://fake-stream.livednow.com/4gtv/279?token=82d255c14150dc2ea467d9f140c95c6a&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",國會頻道1
+https://fake-stream.livednow.com/4gtv/170?token=a5844edec415c58731d6cc04f3dff3b8&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+#EXTINF:-1 group-title="🦄湾湾频道",國會頻道2
+https://fake-stream.livednow.com/4gtv/171?token=05865b7d67807cf0ac292e13bf8e78ef&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
 
 #EXTINF:-1 group-title="🦄湾湾频道",中天
 http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivepzztvvzzzyzuuzzfvbscvzdztwzfszzszzzcvuyzemzeztxw.flv
