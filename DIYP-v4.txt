@@ -3,8 +3,6 @@
 春晚线路👉全网,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv1_2/index.m3u8
 春晚线路👉移动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 春晚线路👉电信,http://219.147.200.9:18080/newlive/live/hls/1/live.m3u8
-4K春晚👉36M高码,http://1.14.131.61:5828/cctv4k.php
-4K春晚👉36M高码,http://1.14.131.61:5678/gd4k.php
 8K春晚👉150M高码,http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233652/index.m3u8
 8K春晚👉150M高码,http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221235532/index.m3u8
 
