@@ -2831,12 +2831,6 @@ https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e220f245fddc42e4bb
 #EXTINF:-1 group-title="🦄少儿频道",少儿动画200
 https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/08289beaa8c845ba98a59547550914bc/1200.m3u8
 
-#EXTINF:-1 group-title="🦄SITV频道",SITV乐游
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002157/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="🦄SITV频道",SITV游戏风云
-http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226579/index.m3u8
-#EXTINF:-1 group-title="🦄SITV频道",SITV欢笑剧场4K
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="🦄SITV频道",SITV动漫秀场
 http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000009/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000009&livemode=1&stbId=3
 #EXTINF:-1 group-title="🦄SITV频道",SITV游戏风云
