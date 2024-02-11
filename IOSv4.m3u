@@ -12,134 +12,106 @@ http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221235532/index.m3u8
 
 #EXTINF:-1 group-title="🦄全网线路",直播中国-唯一微信号:-Star-Fairy_
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="🦄全网线路",CCTV1
-http://101.43.3.246/ysp.php?ch=cctv1
-#EXTINF:-1 group-title="🦄全网线路",CCTV2
-http://101.43.3.246/ysp.php?ch=cctv2
-#EXTINF:-1 group-title="🦄全网线路",CCTV3
-http://101.43.3.246/ysp.php?ch=cctv3
-#EXTINF:-1 group-title="🦄全网线路",CCTV4
-http://175.178.236.58:8088/china/ysp.php?ch=cctv4
-#EXTINF:-1 group-title="🦄全网线路",CCTV4
-http://101.43.3.246/ysp.php?ch=cctv4
-#EXTINF:-1 group-title="🦄全网线路",CCTV5
-http://101.43.3.246/ysp.php?ch=cctv5
-#EXTINF:-1 group-title="🦄全网线路",CCTV5+
-http://101.43.3.246/ysp.php?ch=cctv5p
-#EXTINF:-1 group-title="🦄全网线路",CCTV6
-http://101.43.3.246/ysp.php?ch=cctv6
-#EXTINF:-1 group-title="🦄全网线路",CCTV7
-http://101.43.3.246/ysp.php?ch=cctv7
-#EXTINF:-1 group-title="🦄全网线路",CCTV8
-http://101.43.3.246/ysp.php?ch=cctv8
-#EXTINF:-1 group-title="🦄全网线路",CCTV9
-http://101.43.3.246/ysp.php?ch=cctv9
-#EXTINF:-1 group-title="🦄全网线路",CCTV10
-http://101.43.3.246/ysp.php?ch=cctv10
-#EXTINF:-1 group-title="🦄全网线路",CCTV11
-http://101.43.3.246/ysp.php?ch=cctv11
-#EXTINF:-1 group-title="🦄全网线路",CCTV12
-http://101.43.3.246/ysp.php?ch=cctv12
-#EXTINF:-1 group-title="🦄全网线路",CCTV13
-https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=357606504
-#EXTINF:-1 group-title="🦄全网线路",CCTV14
-http://101.43.3.246/ysp.php?ch=cctv14
-#EXTINF:-1 group-title="🦄全网线路",CCTV15
-http://101.43.3.246/ysp.php?ch=cctv15
-#EXTINF:-1 group-title="🦄全网线路",CCTV16
-http://101.43.3.246/ysp.php?ch=cctv16
-#EXTINF:-1 group-title="🦄全网线路",CCTV16 4K
-http://101.43.3.246/ysp.php?ch=cctv16-4k
-#EXTINF:-1 group-title="🦄全网线路",CCTV17
-http://101.43.3.246/ysp.php?ch=cctv17
-#EXTINF:-1 group-title="🦄全网线路",CCTV-4K 超高清
-http://101.43.3.246/ysp.php?ch=cctv4k
-#EXTINF:-1 group-title="🦄全网线路",CCTV-8K 超高清
-http://101.43.3.246/ysp.php?ch=cctv8k
-#EXTINF:-1 group-title="🦄全网线路",北京卫视
-http://175.178.236.58:8088/china/ysp.php?ch=bjws
-#EXTINF:-1 group-title="🦄全网线路",东方卫视
-http://175.178.236.58:8088/china/ysp.php?ch=dfws
-#EXTINF:-1 group-title="🦄全网线路",天津卫视
-http://175.178.236.58:8088/china/ysp.php?ch=tjws
-#EXTINF:-1 group-title="🦄全网线路",重庆卫视
-http://175.178.236.58:8088/china/ysp.php?ch=cqws
-#EXTINF:-1 group-title="🦄全网线路",黑龙江卫视
-http://175.178.236.58:8088/china/ysp.php?ch=hljws
-#EXTINF:-1 group-title="🦄全网线路",辽宁卫视
-http://175.178.236.58:8088/china/ysp.php?ch=lnws
-#EXTINF:-1 group-title="🦄全网线路",河北卫视
-http://175.178.236.58:8088/china/ysp.php?ch=hbws
-#EXTINF:-1 group-title="🦄全网线路",山东卫视
-http://175.178.236.58:8088/china/ysp.php?ch=sdws
-#EXTINF:-1 group-title="🦄全网线路",安徽卫视
-http://175.178.236.58:8088/china/ysp.php?ch=ahws
-#EXTINF:-1 group-title="🦄全网线路",河南卫视
-http://175.178.236.58:8088/china/ysp.php?ch=hnws
-#EXTINF:-1 group-title="🦄全网线路",湖北卫视
-http://175.178.236.58:8088/china/ysp.php?ch=hubws
-#EXTINF:-1 group-title="🦄全网线路",湖南卫视
-http://175.178.236.58:8088/china/ysp.php?ch=hunws
-#EXTINF:-1 group-title="🦄全网线路",江西卫视
-http://175.178.236.58:8088/china/ysp.php?ch=jxws
-#EXTINF:-1 group-title="🦄全网线路",江苏卫视
-http://175.178.236.58:8088/china/ysp.php?ch=jsws
-#EXTINF:-1 group-title="🦄全网线路",浙江卫视
-http://175.178.236.58:8088/china/ysp.php?ch=zjws
-#EXTINF:-1 group-title="🦄全网线路",东南卫视
-http://175.178.236.58:8088/china/ysp.php?ch=dnws
-#EXTINF:-1 group-title="🦄全网线路",广东卫视
-http://175.178.236.58:8088/china/ysp.php?ch=gdws
-#EXTINF:-1 group-title="🦄全网线路",深圳卫视
-http://175.178.236.58:8088/china/ysp.php?ch=szws
-#EXTINF:-1 group-title="🦄全网线路",广西卫视
-http://175.178.236.58:8088/china/ysp.php?ch=gxws
-#EXTINF:-1 group-title="🦄全网线路",贵州卫视
-http://175.178.236.58:8088/china/ysp.php?ch=gzws
-#EXTINF:-1 group-title="🦄全网线路",四川卫视
-http://175.178.236.58:8088/china/ysp.php?ch=scws
-#EXTINF:-1 group-title="🦄全网线路",新疆卫视
-http://175.178.236.58:8088/china/ysp.php?ch=xjws
-#EXTINF:-1 group-title="🦄全网线路",海南卫视
-http://175.178.236.58:8088/china/ysp.php?ch=hinws
-#EXTINF:-1 group-title="🦄全网线路",CCTV兵器科技
-http://175.178.236.58:8088/china/ysp.php?ch=bqkj
-#EXTINF:-1 group-title="🦄全网线路",CCTV第一剧场
-http://175.178.236.58:8088/china/ysp.php?ch=dyjc
-#EXTINF:-1 group-title="🦄全网线路",CCTV怀旧剧场
-http://175.178.236.58:8088/china/ysp.php?ch=hjjc
-#EXTINF:-1 group-title="🦄全网线路",CCTV风云剧场
-http://175.178.236.58:8088/china/ysp.php?ch=fyjc
-#EXTINF:-1 group-title="🦄全网线路",CCTV风云音乐
-http://175.178.236.58:8088/china/ysp.php?ch=fyyy
-#EXTINF:-1 group-title="🦄全网线路",CCTV风云足球
-http://175.178.236.58:8088/china/ysp.php?ch=fyzq
-#EXTINF:-1 group-title="🦄全网线路",CCTV电视指南
-http://175.178.236.58:8088/china/ysp.php?ch=dszn
-#EXTINF:-1 group-title="🦄全网线路",CCTV女性时尚
-http://175.178.236.58:8088/china/ysp.php?ch=nxss
-#EXTINF:-1 group-title="🦄全网线路",CCTV文化精品
-http://175.178.236.58:8088/china/ysp.php?ch=whjp
-#EXTINF:-1 group-title="🦄全网线路",CCTV世界地理
-http://175.178.236.58:8088/china/ysp.php?ch=sjdl
-#EXTINF:-1 group-title="🦄全网线路",CCTV高尔夫网球
-http://175.178.236.58:8088/china/ysp.php?ch=gefwq
-#EXTINF:-1 group-title="🦄全网线路",CCTV央视台球
-http://175.178.236.58:8088/china/ysp.php?ch=ystq
-#EXTINF:-1 group-title="🦄全网线路",CCTV卫生健康
-http://175.178.236.58:8088/china/ysp.php?ch=wsjk
-#EXTINF:-1 group-title="🦄全网线路",CGTN英语
-http://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 group-title="🦄全网线路",CGTN纪录
-https://livedoc.cgtn.com/500d/prog_index.m3u8
-#EXTINF:-1 group-title="🦄全网线路",CGTN西语
-http://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 group-title="🦄全网线路",CGTN法语
-https://livefr.cgtn.com/1000f/prog_index.m3u8
-#EXTINF:-1 group-title="🦄全网线路",CGTN阿语
-http://livear.cgtn.com/1000a/prog_index.m3u8
-#EXTINF:-1 group-title="🦄全网线路",CGTN俄语
-http://liveru.cgtn.com/1000r/prog_index.m3u8
+#EXTINF:-1 group-title="🦄全网通线路",CCTV1
+http://tvbox6.com/tv/dl/dl668/migu.php?3701
+#EXTINF:-1 group-title="🦄全网通线路",CCTV2
+http://tvbox6.com/tv/dl/dl668/migu.php?3718
+#EXTINF:-1 group-title="🦄全网通线路",CCTV3
+http://tvbox6.com/tv/dl/dl668/migu.php?3715
+#EXTINF:-1 group-title="🦄全网通线路",CCTV4
+http://tvbox6.com/tv/dl/dl668/migu.php?3686
+#EXTINF:-1 group-title="🦄全网通线路",CCTV5
+http://tvbox6.com/tv/dl/dl668/migu.php?3724
+#EXTINF:-1 group-title="🦄全网通线路",CCTV6
+http://tvbox6.com/tv/dl/dl668/migu.php?3713
+#EXTINF:-1 group-title="🦄全网通线路",CCTV7
+http://tvbox6.com/tv/dl/dl668/migu.php?3709
+#EXTINF:-1 group-title="🦄全网通线路",CCTV8
+http://tvbox6.com/tv/dl/dl668/migu.php?3721
+#EXTINF:-1 group-title="🦄全网通线路",CCTV9
+http://tvbox6.com/tv/dl/dl668/migu.php?3706
+#EXTINF:-1 group-title="🦄全网通线路",CCTV10
+http://tvbox6.com/tv/dl/dl668/migu.php?3704
+#EXTINF:-1 group-title="🦄全网通线路",CCTV11
+http://tvbox6.com/tv/dl/dl668/migu.php?3733
+#EXTINF:-1 group-title="🦄全网通线路",CCTV12
+http://tvbox6.com/tv/dl/dl668/migu.php?3727
+#EXTINF:-1 group-title="🦄全网通线路",CCTV13
+http://tvbox6.com/tv/dl/dl668/migu.php?3712
+#EXTINF:-1 group-title="🦄全网通线路",CCTV14
+http://tvbox6.com/tv/dl/dl668/migu.php?3698
+#EXTINF:-1 group-title="🦄全网通线路",CCTV16
+http://tvbox6.com/tv/dl/dl668/migu.php?3710
+#EXTINF:-1 group-title="🦄全网通线路",CCTV4K
+http://tvbox6.com/tv/dl/dl668/migu.php?3679
+#EXTINF:-1 group-title="🦄全网通线路",湖南卫视
+http://tvbox6.com/tv/dl/dl668/migu.php?3707
+#EXTINF:-1 group-title="🦄全网通线路",北京卫视
+http://tvbox6.com/tv/dl/dl668/migu.php?3730
+#EXTINF:-1 group-title="🦄全网通线路",山东卫视
+http://tvbox6.com/tv/dl/dl668/migu.php?3641
+#EXTINF:-1 group-title="🦄全网通线路",安徽卫视
+http://tvbox6.com/tv/dl/dl668/migu.php?3653
+#EXTINF:-1 group-title="🦄全网通线路",深圳卫视
+http://tvbox6.com/tv/dl/dl668/migu.php?3664
+#EXTINF:-1 group-title="🦄全网通线路",广东卫视
+http://tvbox6.com/tv/dl/dl668/migu.php?3667
+#EXTINF:-1 group-title="🦄全网通线路",湖北卫视
+http://tvbox6.com/tv/dl/dl668/migu.php?3668
+#EXTINF:-1 group-title="🦄全网通线路",天津卫视
+http://tvbox6.com/tv/dl/dl668/migu.php?3682
+#EXTINF:-1 group-title="🦄全网通线路",东方卫视
+http://tvbox6.com/tv/dl/dl668/migu.php?3692
+#EXTINF:-1 group-title="🦄全网通线路",黑龙江卫视
+http://tvbox6.com/tv/dl/dl668/migu.php?3694
+#EXTINF:-1 group-title="🦄全网通线路",浙江卫视
+http://tvbox6.com/tv/dl/dl668/migu.php?3695
+#EXTINF:-1 group-title="🦄全网通线路",海南卫视
+http://tvbox6.com/tv/dl/dl668/migu.php?3697
+#EXTINF:-1 group-title="🦄全网通线路",江苏卫视
+http://tvbox6.com/tv/dl/dl668/migu.php?3689
+#EXTINF:-1 group-title="🦄全网通线路",重庆卫视
+http://tvbox6.com/tv/dl/dl668/migu.php?3677
+#EXTINF:-1 group-title="🦄全网通线路",都市剧场
+http://tvbox6.com/tv/dl/dl668/migu.php?3659
+#EXTINF:-1 group-title="🦄全网通线路",炫动3D
+http://tvbox6.com/tv/dl/dl668/migu.php?3669
+#EXTINF:-1 group-title="🦄全网通线路",3D动画片
+http://tvbox6.com/tv/dl/dl668/migu.php?3671
+#EXTINF:-1 group-title="🦄全网通线路",电视剧
+http://tvbox6.com/tv/dl/dl668/migu.php?3674
+#EXTINF:-1 group-title="🦄全网通线路",游戏风云
+http://tvbox6.com/tv/dl/dl668/migu.php?3683
+#EXTINF:-1 group-title="🦄全网通线路",美食频道
+http://tvbox6.com/tv/dl/dl668/migu.php?3688
+#EXTINF:-1 group-title="🦄全网通线路",纪录片
+http://tvbox6.com/tv/dl/dl668/migu.php?3638
+#EXTINF:-1 group-title="🦄全网通线路",3D频道
+http://tvbox6.com/tv/dl/dl668/migu.php?3754
+#EXTINF:-1 group-title="🦄全网通线路",iHOT爱悬疑
+http://tvbox6.com/tv/dl/dl668/migu.php?3650
+#EXTINF:-1 group-title="🦄全网通线路",iHOT爱体育
+http://tvbox6.com/tv/dl/dl668/migu.php?3700
+#EXTINF:-1 group-title="🦄全网通线路",iHOT爱科幻
+http://tvbox6.com/tv/dl/dl668/migu.php?3656
+#EXTINF:-1 group-title="🦄全网通线路",iHOT爱喜剧
+http://tvbox6.com/tv/dl/dl668/migu.php?3658
+#EXTINF:-1 group-title="🦄全网通线路",iHOT爱浪漫
+http://tvbox6.com/tv/dl/dl668/migu.php?3665
+#EXTINF:-1 group-title="🦄全网通线路",iHOT爱历史
+http://tvbox6.com/tv/dl/dl668/migu.php?3685
+#EXTINF:-1 group-title="🦄全网通线路",iHOT爱旅游
+http://tvbox6.com/tv/dl/dl668/migu.php?3703
+#EXTINF:-1 group-title="🦄全网通线路",iHOT爱谍战
+http://tvbox6.com/tv/dl/dl668/migu.php?3691
+#EXTINF:-1 group-title="🦄全网通线路",iHOT爱影院
+http://tvbox6.com/tv/dl/dl668/migu.php?3680
+#EXTINF:-1 group-title="🦄全网通线路",咪咕8K
+http://tvbox6.com/tv/dl/dl668/migu.php?3652
+#EXTINF:-1 group-title="🦄全网通线路",移动8K-1
+http://tvbox6.com/tv/dl/dl668/migu.php?5532
+#EXTINF:-1 group-title="🦄全网通线路",移动8K-2
+http://tvbox6.com/tv/dl/dl668/migu.php?5537
 
 
 
