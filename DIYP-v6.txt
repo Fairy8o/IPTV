@@ -2269,7 +2269,29 @@ XJYY影院,http://39.134.66.66/PLTV/88888888/224/3221225521/index.m3u8
 明星大片(斗鱼),http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/1.m3u8
 古装(虎牙),http://112.74.200.9:88/tv000000/m3u8.php?/migu/625774640
 
+🦄北京频道,#genre#
+北京卫视,http://live.sjsrm.com/bjsjs/sd/live.m3u8
+北京财经,https://tv.cry33.com/bj8k.php?id=bjcj
+北京生活,https://tv.cry33.com/bj8k.php?id=bjsh
+北京卫视,http://live.sjsrm.com/bjsjs/sd/live.m3u8
+北京新闻,https://tv.cry33.com/bj8k.php?id=bjxw
 
+北京纪实「官方」,http://mywlkj.ddns.net:754/dl/dl668/btv8k.php?id=bjjskj
+北京影视「官方」,http://mywlkj.ddns.net:754/dl/dl668/btv8k.php?id=bjys
+北京财经「官方」,http://mywlkj.ddns.net:754/dl/dl668/btv8k.php?id=bjcj
+北京新闻「官方」,http://mywlkj.ddns.net:754/dl/dl668/btv8k.php?id=bjxw
+北京生活「官方」,http://mywlkj.ddns.net:754/dl/dl668/btv8k.php?id=bjxw
+北京卡酷「官方」,http://mywlkj.ddns.net:754/dl/dl668/btv8k.php?id=bjsh
+BRTV8K「官方」,http://mywlkj.ddns.net:754/dl/dl668/btv8k.php?id=brtv8k
+
+北京卫视「北京联通」,http://111.199.1.184:8686/udp/239.2.1.247:2000
+北京新闻「北京联通」,http://111.199.1.184:8686/udp/239.3.1.159:8000
+北京财经「北京联通」,http://111.199.1.184:8686/udp/239.3.1.116:8000
+北京生活「北京联通」,http://111.199.1.184:8686/udp/239.3.1.117:8000
+北京文艺「北京联通」,http://111.199.1.184:8686/udp/239.3.1.242:8000
+北京影视「北京联通」,http://111.199.1.184:8686/udp/239.3.1.158:8000
+北京国际「北京联通」,http://111.199.1.184:8686/udp/239.3.1.235:8000
+北京体育「北京联通」,http://111.199.1.184:8686/udp/239.3.1.243:8000
 
 🦄上海频道,#genre#
 东方卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001336/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
