@@ -2624,7 +2624,7 @@ http://39.135.137.208/000000001000/3000000010000005180/index.m3u8
 
 
 #EXTINF:-1 group-title="🦄香港频道",TVB 翡翠台
-https://fake-stream.livednow.com/hkdvb/jade?token=321b0a36ca2aed06ebaa85d8012df385&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
+https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 #EXTINF:-1 group-title="🦄香港频道",TVB 明珠台
 https://fake-stream.livednow.com/hkdvb/pearl?token=8d47f6a8506eee37e6c726a1e8412b0f&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
 #EXTINF:-1 group-title="🦄香港频道",TVB J2 台
