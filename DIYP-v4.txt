@@ -2276,6 +2276,7 @@ GO好医生,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/livee
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 
+
 🦄日韩频道,#genre#
 NHKBSP-4K,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
 日本テレビ,https://epg.pw/stream/f4a4597d5babf98f1aadcee6a0f25b5166b382b3048e932471ac444f1b00749e.m3u8
@@ -2290,6 +2291,7 @@ NHKworld华语-HD（日本）,https://nhkwlive-ojp.akamaized.net/hls/live/200345
 日テレNEWS24,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 QVC Japan,https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 Shop Channel,http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
+迪士尼（日本）,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
 购物频道1「日本」,http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 购物频道2「日本」,http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
 NHK世界,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
@@ -2383,7 +2385,7 @@ bs19,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
 bs20,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
 bs21,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
 bs22,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
-迪士尼,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
+
 bs25,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25
 bs26,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
 bs27,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs27
