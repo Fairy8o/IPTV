@@ -1659,6 +1659,10 @@ NBC新闻,http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2580.ts
 Fox新闻,http://38.96.178.201:80/live/FOXHD/index.m3u8
 BBC美洲,http://38.96.178.201:80/live/BBCAmerica/index.m3u8
 ABC新闻,http://38.96.178.201:80/live/ABCHD/index.m3u8
+AlJazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+Arirang TV,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+RT News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 CNBC-US,http://23.237.98.42:8080/USA_CNBC/index.m3u8
 CNBC-US,http://23.237.98.42:8080/USA_CNBC/tracks-v1a1/mono.m3u8
 TNT,http://38.96.178.201:80/live/TNTHD/index.m3u8
