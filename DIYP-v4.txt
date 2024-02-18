@@ -2277,14 +2277,152 @@ GO好医生,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/livee
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
 
 🦄日韩频道,#genre#
+NHKBSP-4K,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
 日本テレビ,https://epg.pw/stream/f4a4597d5babf98f1aadcee6a0f25b5166b382b3048e932471ac444f1b00749e.m3u8
 テレビ朝日,https://epg.pw/stream/486d1b33baa7c6ba26e7eb018c526064caae11dba20f74d4b38fb654ca5bddd8.m3u8
 NEWS 24H「日本」,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 日本·NHK国际频道,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-QVC「日本」,http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+NHKworld华语-HD（日本）,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+日本 全天新闻,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+日本 声优广播,http://www.uniqueradio.jp/agplayerf/hls/Active.m3u8
+日本QVC Japan,http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
+日テレNEWS24,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+QVC Japan,https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+Shop Channel,http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
 购物频道1「日本」,http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 购物频道2「日本」,http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
-
+NHK世界,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+NTV News24,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+Nippon,https://ntv4.mov3.co/hls/ntv.m3u8
+NHKG,https://nhk4.mov3.co/hls/nhk.m3u8
+NHKWorld Premium,https://cdn1.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+NHK Educational TV,http://202.60.106.14:8080/1302/playlist.m3u8
+BSTV,https://br5093.streamingdevideo.com.br/bstv/bstv/chunklist_w785516268.m3u8
+東映チャンネル,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
+映画,http://142.171.31.242:5002/cs14.m3u8?token=guoziyun&gid=cs14&channel=zhongying
+ホームドラマチャンネル Home Drama Channel,http://103.36.32.14:5002/cs27.m3u8?token=guoziyun&gid=cs27&channel=zhongying
+NHK BS1,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=10&bind=0&uin=159413&playseek=0
+NHK BSプレミアム,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=10&bind=0&uin=159413&playseek=0
+BS日テレ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02&isp=10&bind=0&uin=159413&playseek=0
+BS朝日,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&isp=10&bind=0&uin=159413&playseek=0
+BS-TBS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04&isp=10&bind=0&uin=159413&playseek=0
+BSテレ東,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=10&bind=0&uin=159413&playseek=0
+BSフジ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06&isp=10&bind=0&uin=159413&playseek=0
+WOWOW プライム,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&isp=10&bind=0&uin=159413&playseek=0
+WOWOW ライブ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=10&bind=0&uin=159413&playseek=0
+WOWOW シネマ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=10&bind=0&uin=159413&playseek=0
+スターチャンネル1,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08&isp=10&bind=0&uin=159413&playseek=0
+スターチャンネル2,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs27&isp=10&bind=0&uin=159413&playseek=0
+スターチャンネル3,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs28&isp=10&bind=0&uin=159413&playseek=0
+BSアニマックス,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&isp=10&bind=0&uin=159413&playseek=0
+J Sports 1,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&isp=10&bind=0&uin=159413&playseek=0
+J Sports 2,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=10&bind=0&uin=159413&playseek=0
+J Sports 3,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=10&bind=0&uin=159413&playseek=0
+J Sports 4,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=10&bind=0&uin=159413&playseek=0
+10,http://142.171.31.242:5002/cs10.m3u8?token=guoziyun&gid=10&channel=zhongying
+TBS NEWS,http://142.171.31.242:5002/cs11.m3u8?token=guoziyun&gid=11&channel=zhongying
+12,http://142.171.31.242:5002/cs12.m3u8?token=guoziyun&gid=12&channel=zhongying
+13,http://142.171.31.242:5002/cs13.m3u8?token=guoziyun&gid=13&channel=zhongying
+14,http://142.171.31.242:5002/cs14.m3u8?token=guoziyun&gid=14&channel=zhongying
+17,http://142.171.31.242:5002/cs17.m3u8?token=guoziyun&gid=17&channel=zhongying
+18,http://142.171.31.242:5002/cs18.m3u8?token=guoziyun&gid=18&channel=zhongying
+19,http://142.171.31.242:5002/cs19.m3u8?token=guoziyun&gid=19&channel=zhongying
+20,http://142.171.31.242:5002/cs20.m3u8?token=guoziyun&gid=20&channel=zhongying
+23,http://142.171.31.242:5002/cs23.m3u8?token=guoziyun&gid=23&channel=zhongying
+24,http://142.171.31.242:5002/cs24.m3u8?token=guoziyun&gid=24&channel=zhongying
+10 cs,http://103.36.32.14:5002/cs10.m3u8?token=guoziyun&gid=bs10&channel=zhongying
+11 cs,http://103.36.32.14:5002/cs11.m3u8?token=guoziyun&gid=bs11&channel=zhongying
+12 cs,http://103.36.32.14:5002/cs12.m3u8?token=guoziyun&gid=bs12&channel=zhongying
+13 cs,http://103.36.32.14:5002/cs13.m3u8?token=guoziyun&gid=bs13&channel=zhongying
+14 cs,http://103.36.32.14:5002/cs14.m3u8?token=guoziyun&gid=bs14&channel=zhongying
+15 cs,http://103.36.32.14:5002/cs15.m3u8?token=guoziyun&gid=bs15&channel=zhongying
+16 cs,http://103.36.32.14:5002/cs16.m3u8?token=guoziyun&gid=bs16&channel=zhongying
+17 cs,http://103.36.32.14:5002/cs17.m3u8?token=guoziyun&gid=bs17&channel=zhongying
+18 cs,http://103.36.32.14:5002/cs18.m3u8?token=guoziyun&gid=bs18&channel=zhongying
+19 cs,http://103.36.32.14:5002/cs19.m3u8?token=guoziyun&gid=bs19&channel=zhongying
+20 cs,http://103.36.32.14:5002/cs20.m3u8?token=guoziyun&gid=bs20&channel=zhongying
+21 cs,http://103.36.32.14:5002/cs21.m3u8?token=guoziyun&gid=bs21&channel=zhongying
+22 cs,http://103.36.32.14:5002/cs22.m3u8?token=guoziyun&gid=bs22&channel=zhongying
+23 cs,http://103.36.32.14:5002/cs23.m3u8?token=guoziyun&gid=bs23&channel=zhongying
+24 cs,http://103.36.32.14:5002/cs24.m3u8?token=guoziyun&gid=bs24&channel=zhongying
+25 cs,http://103.36.32.14:5002/cs25.m3u8?token=guoziyun&gid=bs25&channel=zhongying
+26 cs,http://103.36.32.14:5002/cs26.m3u8?token=guoziyun&gid=bs26&channel=zhongying
+27 cs,http://103.36.32.14:5002/cs27.m3u8?token=guoziyun&gid=bs27&channel=zhongying
+28 cs,http://103.36.32.14:5002/cs28.m3u8?token=guoziyun&gid=bs28&channel=zhongying
+29 cs,http://103.36.32.14:5002/cs29.m3u8?token=guoziyun&gid=bs29&channel=zhongying
+11 bs,http://103.36.32.14:5002/bs11.m3u8?token=guoziyun&gid=bs11&channel=zhongying
+12 bs,http://103.36.32.14:5002/bs12.m3u8?token=guoziyun&gid=bs12&channel=zhongying
+14 bs,http://103.36.32.14:5002/bs14.m3u8?token=guoziyun&gid=bs14&channel=zhongying
+15 bs,http://103.36.32.14:5002/bs15.m3u8?token=guoziyun&gid=bs15&channel=zhongying
+18 bs,http://103.36.32.14:5002/bs18.m3u8?token=guoziyun&gid=bs18&channel=zhongying
+19 bs,http://103.36.32.14:5002/bs19.m3u8?token=guoziyun&gid=bs19&channel=zhongying
+20 bs,http://103.36.32.14:5002/bs20.m3u8?token=guoziyun&gid=bs20&channel=zhongying
+21 bs,http://103.36.32.14:5002/bs21.m3u8?token=guoziyun&gid=bs21&channel=zhongying
+22 bs,http://103.36.32.14:5002/bs22.m3u8?token=guoziyun&gid=bs22&channel=zhongying
+24 bs,http://103.36.32.14:5002/bs24.m3u8?token=guoziyun&gid=bs24&channel=zhongying
+25 bs,http://103.36.32.14:5002/bs25.m3u8?token=guoziyun&gid=bs25&channel=zhongying
+26 bs,http://103.36.32.14:5002/bs26.m3u8?token=guoziyun&gid=bs26&channel=zhongying
+27 bs,http://103.36.32.14:5002/bs27.m3u8?token=guoziyun&gid=bs27&channel=zhongying
+28 bs,http://103.36.32.14:5002/bs28.m3u8?token=guoziyun&gid=bs28&channel=zhongying
+31 bs,http://103.36.32.14:5002/bs31.m3u8?token=guoziyun&gid=bs31&channel=zhongying
+bs01,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
+bs02,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
+bs03,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03
+bs04,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
+bs05,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
+bs06,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
+bs07,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
+bs08,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
+bs11,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
+bs12,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
+bs14,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14
+bs15,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
+bs18,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
+bs19,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
+bs20,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
+bs21,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
+bs22,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
+迪士尼,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
+bs25,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25
+bs26,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
+bs27,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs27
+bs28,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs28
+bs31,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31
+cs01,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
+cs02,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02
+cs03,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03
+cs04,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04
+cs05,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05
+cs06,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
+cs07,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
+cs08,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
+cs09,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09
+cs10,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10
+cs11,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11
+cs12,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12
+cs13,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13
+cs14,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
+cs15,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
+cs16,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
+cs17,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
+cd18,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
+cs19,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19
+cs20,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20
+cs21,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21
+cs22,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22
+cs23,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
+cs24,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24
+cs26,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26
+cs28,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28
+cs29,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29
+gx01,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01
+gx02,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02
+gx03,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03
+gx04,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04
+gx05,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05
+gx06,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
+gx07,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
 
 「韩国」EBS1,http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
 「韩国」EBS2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
