@@ -1968,24 +1968,27 @@ Live-6323,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=
 咪咕27,http://39.135.137.208/000000001000/3000000010000005180/index.m3u8
 
 🦄香港频道,#genre#
+香港卫视文旅台,http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
+凤凰中文台,https://edge2.laotv.la/live/PhxChinese/index.m3u8
+凤凰中文,http://210.210.155.37/session/d7315444-c73d-11ee-b287-98cdb77aa39c/uq2663/h/h157/S4/mnf.m3u8
+凤凰资讯台1,https://edge1.laotv.la/live/PhoenixNews/index.m3u8
+凤凰资讯台2,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=156407
+凤凰资讯,http://210.210.155.35:80/qwr9ew/s/s21/01.m3u8
+凤凰香港台1,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153402
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+香港卫视文旅台,http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
+凤凰卫视资讯台,https://edge2.laotv.la/live/PhoenixNews/index.m3u8
+凤凰卫视中文台,https://edge2.laotv.la/live/PhxChinese/index.m3u8
+凤凰中文台,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=1
+凤凰资讯台,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=2
+
 TVB 翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-TVB 明珠台,https://fake-stream.livednow.com/hkdvb/pearl?token=8d47f6a8506eee37e6c726a1e8412b0f&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
-TVB J2 台,https://fake-stream.livednow.com/hkdvb/j2?token=16ca037a4f5d03eaebee24d129d7d3fb&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
 TVB 無線新聞台,https://fake-stream.livednow.com/tvb/C?token=c8575882ea0ca61170b2284e0d1f0144&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
 TVB 無線新聞台 海外版,https://fake-stream.livednow.com/tvb/I-NEWS?token=dc6f5d5a464931d0902271fb360c710d&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
 TVB 財經體育資訊台,https://fake-stream.livednow.com/tvb/A?token=9cab24677720fe47e134e07a4947882c&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
 TVB 財經體育資訊台 海外版,https://fake-stream.livednow.com/tvb/I-FINA?token=99560e5d097f1c356fe931c85e95183e&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
-ViuTV,https://fake-stream.livednow.com/hkdvb/viutv?token=3c6a2c45176483f6a090749ce1ea0beb&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
-ViuTV Six,https://fake-stream.livednow.com/hkdvb/viutv6?token=29d5aee9aebad63b5141240a6fd24fa3&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
-Now Jelli 紫金國際台,https://fake-stream.livednow.com/hkdvb/jelli?token=5d09fadc477d139e04adbe195362f8f3&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
-鳳凰資訊,https://fake-stream.livednow.com/hkdvb/phx-news?token=d28d104a6c176af9d59823e8dccbd619&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
-鳳凰中文,https://fake-stream.livednow.com/hkdvb/phx-chinese?token=666e67d952f67d62d3cf407e49892124&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
-鳳凰香港,https://fake-stream.livednow.com/hkdvb/phx-hk?token=8c49b0a6f0c36e6990d3ff661695b413&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
-Line Today NBA,https://fake-stream.livednow.com/line_today/videolandsports?token=fe44a6f50b373603e7ade66f751d2a37&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
-Line Today UBA,https://fake-stream.livednow.com/line_today/uba?token=f7926fda6722b7c44b61f909e5f44393&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
 
-凤凰卫视中文台,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=1
-凤凰卫视资讯台,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=2
 香港有线新闻台,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=3
 香港有线18台,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=4
 香港有线高清603台,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=5
@@ -2006,7 +2009,6 @@ HOY资讯台,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&i
 港台电视32,http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=20
 
 重温经典台,http://ali.hlspull.yximgs.com/live/cctv598hsrt6u57eujseth5i7463atgestjhsrjsrjk.flv
-龙腾功夫台,http://1.62.64.252/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/tx.flv.huya.com/src/1259589713982-1259589713982-5000614333785309184-2519179551420-10057-A-0-1.flv
 TVB功夫台(粤),http://ali.hlspull.yximgs.com/live/AsiaActiont3a88221300-nigedashabi.flv
 TVB功夫台(国),http://ali.hlspull.yximgs.com/live/gongfuguoyut3a88221300-nigedashabi.flv
 TVB翡翠台,http://ali.hlspull.yximgs.com/live/tvbfc264t3a88221300-nigedashabi.flv
@@ -2015,6 +2017,13 @@ TVB黄金华剧台,http://ali.hlspull.yximgs.com/live/tvbhjhjjjhyt3a88221300-nig
 Now 爆谷台,http://ali.hlspull.yximgs.com/live/caijiwei_bg.flv
 Now 星影台,http://ali.hlspull.yximgs.com/live/caijiwei_xy.flv
 
+「移动」凤凰中文台,http://tvbox6.com/tv/dl/dl668/hk.php?id=15
+「移动」凤凰中文台,http://tvbox6.com/tv/dl/dl668/hk.php?id=24
+「移动」凤凰资讯台,http://tvbox6.com/tv/dl/dl668/hk.php?id=25
+「代理」凤凰资讯台,http://tvbox6.com/tv/dl/dl668/hk.php?id=27
+「移动」凤凰中文台,http://tvbox6.com/tv/dl/dl668/hk.php?id=26
+「代理」凤凰美洲台,http://tvbox6.com/tv/dl/dl668/hk.php?id=27
+
 「官方」香港卫视,http://tvbox6.com/tv/dl/dl668/hk.php?id=1
 「官方」香港文旅,http://tvbox6.com/tv/dl/dl668/hk.php?id=2
 「官方」RTHK32,http://tvbox6.com/tv/dl/dl668/hk.php?id=224
@@ -2022,50 +2031,29 @@ Now 星影台,http://ali.hlspull.yximgs.com/live/caijiwei_xy.flv
 「官方」点掌财经,http://tvbox6.com/tv/dl/dl668/hk.php?id=232
 「官方」香港佛陀,http://tvbox6.com/tv/dl/dl668/hk.php?id=248
 「官方」人间卫视,http://tvbox6.com/tv/dl/dl668/hk.php?id=428
-
 「官方」GOODTV,http://tvbox6.com/tv/dl/dl668/hk.php?id=433
 「官方」番薯电视台,http://tvbox6.com/tv/dl/dl668/hk.php?id=584
-「官方」面包台,http://tvbox6.com/tv/dl/dl668/hk.php?id=585
 
-「代理」无线新闻,http://tvbox6.com/tv/dl/dl668/hk.php?id=3#http://tvbox6.com/tv/dl/dl668/hk.php?id=5#http://tvbox6.com/tv/dl/dl668/hk.php?id=6
-「代理」无线财经体育资讯,http://tvbox6.com/tv/dl/dl668/hk.php?id=4#http://tvbox6.com/tv/dl/dl668/hk.php?id=7#http://tvbox6.com/tv/dl/dl668/hk.php?id=8
-
-「代理」翡翠台,http://tvbox6.com/tv/dl/dl668/hk.php?id=9
-「代理」明珠台,http://tvbox6.com/tv/dl/dl668/hk.php?id=10
-「代理」J2台,http://tvbox6.com/tv/dl/dl668/hk.php?id=11
-「代理」无线新闻,http://tvbox6.com/tv/dl/dl668/hk.php?id=12
-
-「代理」翡翠台,http://tvbox6.com/tv/dl/dl668/hk.php?id=13
+「代理」无线新闻,http://tvbox6.com/tv/dl/dl668/hk.php?id=3
+「代理」无线新闻,http://tvbox6.com/tv/dl/dl668/hk.php?id=5
+「代理」无线新闻,http://tvbox6.com/tv/dl/dl668/hk.php?id=6
+「代理」无线财经体育资讯,http://tvbox6.com/tv/dl/dl668/hk.php?id=4
+「代理」无线财经体育资讯,http://tvbox6.com/tv/dl/dl668/hk.php?id=7
+「代理」无线财经体育资讯,http://tvbox6.com/tv/dl/dl668/hk.php?id=8
 「代理」明珠台,http://tvbox6.com/tv/dl/dl668/hk.php?id=14
-
-「移动」凤凰中文台,http://tvbox6.com/tv/dl/dl668/hk.php?id=15
 「代理」星空卫视,http://tvbox6.com/tv/dl/dl668/hk.php?id=16
-
+「代理」翡翠台,http://tvbox6.com/tv/dl/dl668/hk.php?id=13
 「代理」翡翠台,http://tvbox6.com/tv/dl/dl668/hk.php?id=17
-「代理」无线新闻,http://tvbox6.com/tv/dl/dl668/hk.php?id=18
 「代理」娱乐新闻,http://tvbox6.com/tv/dl/dl668/hk.php?id=19
 「代理」TVB泰国,http://tvbox6.com/tv/dl/dl668/hk.php?id=20
 「代理」TVB直播,http://tvbox6.com/tv/dl/dl668/hk.php?id=21
 「代理」神州新闻,http://tvbox6.com/tv/dl/dl668/hk.php?id=22
 「代理」武侠频道,http://tvbox6.com/tv/dl/dl668/hk.php?id=23
 
-「移动」凤凰中文台,http://tvbox6.com/tv/dl/dl668/hk.php?id=24
-「移动」凤凰资讯台,http://tvbox6.com/tv/dl/dl668/hk.php?id=25
-「移动」凤凰中文台,http://tvbox6.com/tv/dl/dl668/hk.php?id=26
-「代理」凤凰卫视美洲,http://tvbox6.com/tv/dl/dl668/hk.php?id=27
-「代理」凤凰资讯台,http://tvbox6.com/tv/dl/dl668/hk.php?id=27
-香港卫视文旅台,http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
-凤凰中文台,https://edge2.laotv.la/live/PhxChinese/index.m3u8
-凤凰中文,http://210.210.155.37/session/d7315444-c73d-11ee-b287-98cdb77aa39c/uq2663/h/h157/S4/mnf.m3u8
-凤凰资讯台1,https://edge1.laotv.la/live/PhoenixNews/index.m3u8
-凤凰资讯台2,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=156407
-凤凰资讯,http://210.210.155.35:80/qwr9ew/s/s21/01.m3u8
-凤凰香港台1,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153402
+
 蕃薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 翡翠台,https://epg.pw/stream/fe02817d95c6d58f41e1ea8208b5a8c9462bf525b153819b0c3918406127925a.m3u8
-凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 TVB星河,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/playlist.m3u8
 TVB翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 TVB翡翠台,https://udnhls.skilldns.com/fhzx.m3u8
@@ -2088,25 +2076,15 @@ TVB有线新闻台HD,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/hd110_h
 有线财经资讯台HD,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd208_h.live/playlist.m3u8
 耀才财经台HD,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 Documentary-HD,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-香港卫视文旅台,http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
-凤凰卫视资讯台,https://edge2.laotv.la/live/PhoenixNews/index.m3u8
-凤凰卫视中文台,https://edge2.laotv.la/live/PhxChinese/index.m3u8
 香港RHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 TVB-无线财经台,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 翡翠台 超清,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 TVB-星河台,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
-香港文旅台,http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
 爆谷(HK),http://ali.hlspull.yximgs.com/live/nowbgggggt3a888221300-cfuu78258.flv
 星影(HK),http://ali.hlspull.yximgs.com/live/nowxyot3a888221300-cfuu78258.flv
-TVB翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
-TVB明珠台,http://qwas.eatuo.com:9901/tsfile/live/1014_1.m3u8
 TVB翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-AlJazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-Arirang TV,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-RT News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
-
+TVB翡翠台(720p),http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
+TVB明珠台,http://qwas.eatuo.com:9901/tsfile/live/1014_1.m3u8
 
 🦄澳门频道,#genre#
 莲花卫视「酒店」,http://lhq-cctv.8866.org:18181/tsfile/live/1212_1.m3u8
