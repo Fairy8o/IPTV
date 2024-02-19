@@ -3873,18 +3873,28 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001739/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001594/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="🦄各地方频道",陕西西部电影
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001749/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="🦄各地方频道",湖南卫视[12.0mb]
+#EXTINF:-1 group-title="🦄各地方频道",湖南卫视
 https://epg.pw/stream/fa1b3bb4fc54d2dbfaac1190fc6535d9902ce54b749c945cbe8aa021ecea9bc1.m3u8
 #EXTINF:-1 group-title="🦄各地方频道",湖南都市
-http://123.52.43.144:8888/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/mgtv/main/m3u8/hn02.m3u8
 #EXTINF:-1 group-title="🦄各地方频道",湖南经视
-http://php.jdshipin.com:8880/iptv.php?id=hnjs
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/mgtv/main/m3u8/hn01.m3u8
 #EXTINF:-1 group-title="🦄各地方频道",湖南爱晚
-http://php.jdshipin.com:8880/iptv.php?id=hngg
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/mgtv/main/m3u8/hn05.m3u8
 #EXTINF:-1 group-title="🦄各地方频道",湖南娱乐
-http://php.jdshipin.com:8880/iptv.php?id=hnyl
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/mgtv/main/m3u8/hn07.m3u8
 #EXTINF:-1 group-title="🦄各地方频道",湖南国际
-http://php.jdshipin.com:8880/iptv.php?id=hngj
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/mgtv/main/m3u8/hn06.m3u8
+#EXTINF:-1 group-title="🦄各地方频道",湖南电影
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/mgtv/main/m3u8/hn04.m3u8
+#EXTINF:-1 group-title="🦄各地方频道",湖南电视剧
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/mgtv/main/m3u8/hn03.m3u8
+#EXTINF:-1 group-title="🦄各地方频道",长沙新闻
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/mgtv/main/m3u8/hn14.m3u8
+#EXTINF:-1 group-title="🦄各地方频道",长沙政法
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/mgtv/main/m3u8/hn15.m3u8
+#EXTINF:-1 group-title="🦄各地方频道",长沙女性
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/mgtv/main/m3u8/hn16.m3u8
 #EXTINF:-1 group-title="🦄各地方频道",通道时政
 http://live.tongdaotv.com:8087/live/tdtv.m3u8
 #EXTINF:-1 group-title="🦄各地方频道",湘潭公共
