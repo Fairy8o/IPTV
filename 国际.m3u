@@ -1,0 +1,254 @@
+#EXTM3U
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE local
+
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",CNN News
+http://38.96.178.201:80/live/CNNHD/index.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",FOX New York
+http://38.96.178.201:80/live/FOXHD/index.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",FOX News
+http://38.96.178.201:80/live/FOXNEWS/index.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",Live Now FOX
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",NBC New York
+http://38.96.178.201/live/NBCHD/index.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",One America News
+http://n1.klowdtv.net/live1/oan_1080p/chunks.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",BBC America
+http://38.96.178.201:80/live/BBCAmerica/index.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",BBC News
+http://103.199.161.254/Content/bbcworld/Live/Channel%28BBCworld%29/Stream%2802%29/index.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",ABC News
+http://38.96.178.201:80/live/ABCHD/index.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",ESPN News
+http://38.96.178.201:80/live/ESPNews/index.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",Newsmax
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",CBS News
+http://38.96.178.201:80/live/CBS/index.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",Dubai One
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",Al Jazeera
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",GB News
+https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",RT News
+https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",AlJazeera
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",Arirang TV
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",RT Documentary
+https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",NHK World
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",TED
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/ted/master.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",The Guardian Channel
+https://0d0239e437124ddcb8090d815caf4013.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_TheGuardianChannel/playlist.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",RT Documentary
+https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",Brics Chinese
+http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",Brics English
+http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",TRT World
+https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",Animal Planet
+http://38.96.178.201:80/live/AnimalPlanet/index.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",Love Nature
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",Food Network
+http://38.96.178.201:80/live/FoodNetwork/index.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",Discovery Channel
+http://38.96.178.201:80/live/Discovery/index.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",PBS Kids
+http://38.96.178.201:80/live/PBSKIDS/index.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",Disney Channel
+http://38.96.178.201:80/live/Disney/index.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",Disney XD
+http://38.96.178.201:80/live/DisneyXD/index.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",Cartoon Network
+http://38.96.178.201:80/live/CartoonNetwork/index.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",Fashion TV
+http://91.247.68.229:8000/play/Fashion/index.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",ESPN HD
+http://38.96.178.201:80/live/ESPNHD/index.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",Arirang
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",KBS World
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",NBA
+http://38.96.178.201/live/NBA/index.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",Fight Network
+https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",History
+http://38.96.178.201:80/live/History/index.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",SYFY
+http://38.96.178.201:80/live/SYFYHD/index.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",Star Movies
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",Movies Now
+http://195.26.87.217/live.ts?channelId=162&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",Cinemax East
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10816
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",Universal Televison
+http://zb.xzxwhcb.com:9999/hls/world.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",AMC
+http://170.254.18.106/AMC/index.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",A&E
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/19404
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",HBO
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10848
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",HBO Plus
+http://170.254.18.106/HBO_PLUS/index.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",HBO West
+http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10849
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",HBO 2
+http://170.254.18.106/HBO2/index.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",HBO Family
+http://170.254.18.106/HBO_FAMILY/index.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",HBO Signature
+http://170.254.18.106/HBO_SIG/index.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",&Flix HD
+http://89.187.177.137:8081/&FLIX/index.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",Wild Earth
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",Wild Planet
+https://d3c7duantorcb1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/77466ab3-8e6b-497f-9bf9-7b20f2536a20/3.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",BBC cbeebies
+http://198.16.100.90:8278/Cbeebies/playlist.m3u8?tid=ME5E7901951779019517&ct=19225&tsum=03bb5bab7f669081444ce37cda408b8d
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",BBC cbeebies
+https://cdn-main.lolokoko.tv/CBeebies.stream/playlist.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",BBC cbeebies
+https://dhx-teletubbies-1-gb.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",BBC cbeebies
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=45328
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",BBC-News
+http://103.199.161.254/Content/bbcworld/Live/Channel%28BBCworld%29/Stream%2802%29/index.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",Fox Sports
+http://38.96.178.201:80/live/FOXSPORTS2/index.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",CNA新闻
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",CBN新闻
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",GB新闻
+https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",RT新闻
+https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",RT纪录
+https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",OAN
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/oan_720p/playlist.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",Newsmax
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",Euronews
+https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",Russia Today
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",Al Jazeera新闻
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",ABC 新闻
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",CGTN
+https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",中央社新闻
+https://mediacorp-videosbclive.akamaized.net/f4abbc22204c49e2b337203b0ebbf14b/ap-southeast-1/6057994443001/playlist.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",Yahoo Finance
+https://d1ewctnvcwvvvu.cloudfront.net/playlist1080pl.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",News 12 New York
+https://lnc-news12.tubi.video/index.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",ABC News New York
+https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",CBS News New York
+https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master_22.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",CBS News Colorado
+https://cbsn-den.cbsnstream.cbsnews.com/out/v1/2e49baf2906244ecb01b07d9885fbe7a/master.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",ABS News Los Angeles
+https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",CBS News Los Angeles
+https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",EWTN
+https://cdn3.wowza.com/1/YW5wSWZiRGd2eFlU/bGV0aVBq/hls/live/playlist.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",Court TV
+https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",EZYV1「欧洲」
+http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",EZYV2「欧洲」
+http://vvlive.eztv.vip/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",EZYV6「欧洲」
+http://vvlive.eztv.vip/huawen6/huawen6.m3u8?auth_key=1662611110-0-0-cf20c4fcf669736034b6ceac0d01d403
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",EZYV6「欧洲」
+http://vvlive.eztv.vip/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",FASHIONTV
+http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",FASHIONTV 4K
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",环球电视「亚洲」
+http://zb.xzxwhcb.com:9999/hls/world.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",亚洲新闻「亚洲」
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",半岛新闻「阿拉伯」
+http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",BRICS台
+https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",俄罗斯中文
+http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",俄罗斯频道
+https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8#http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",俄罗斯GITV
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",乌克兰7台
+http://cdn10.live-tv.od.ua:8081/7tvod/7tvod/playlist.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",ASTV「泰国」
+http://news1.live14.com/stream/news1_hi.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",PBS泰国
+http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",泰国·公共三台
+http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",泰国·CTB(5G专线)
+http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",亚洲新闻(5G专线)
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",越南坚江频道(5G专线)
+http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",越南-CTV(5G专线)
+http://tv.ctvcamau.vn/live/tv/tv.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",越南VTC134K(5G专线)
+http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",BloombergTV4K(5G专线)
+https://0984ed0046994029aafaa07692005474.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Bloomberg/playlist.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",Tomato(5G专线)
+http://etomatomobile.hscdn.com/etomato.dvr/livestream/playlist.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",CTS(5G专线)
+https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",JCN(5G专线)
+https://jcnonair-1108.acs.wecandeo.com/ms/3162/1108/index_1.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",Arirang(5G专线)
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",蒙古(5G专线)
+http://spacetv.in/stream/WUQP6BVK17/56.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",新闻频道「朝鲜」
+http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",半岛新闻(5G专线)
+https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",ANTV(5G专线)
+http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",TV(5G专线)
+http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",ONE(5G专线)
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",红牛运动
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",CNA频道「加拿大」
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",FASHION「法国」
+http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",体育频道「欧洲」
+http://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",动物频道「国际」
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
