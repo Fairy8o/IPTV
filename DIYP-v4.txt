@@ -2540,6 +2540,24 @@ HBO Signature,http://170.254.18.106/HBO_SIG/index.m3u8
 Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 Wild Planet,https://d3c7duantorcb1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/77466ab3-8e6b-497f-9bf9-7b20f2536a20/3.m3u8
 
+BBC cbeebies,https://cdn-main.lolokoko.tv/CBeebies.stream/playlist.m3u8
+BBC cbeebies,http://198.16.100.90:8278/Cbeebies/playlist.m3u8?tid=ME5E7901951779019517&ct=19225&tsum=03bb5bab7f669081444ce37cda408b8d
+BBC cbeebies,https://dhx-teletubbies-1-gb.samsung.wurl.tv/playlist.m3u8
+BBC cbeebies,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=45328
+BBC 
+News,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
+Sky Sports F1,https://ed-b002.edgking.me/plyvivo/vifi7ifobun09awapomo/chunklist.m3u8
+Sky Sports F1,http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/545/7342/index.m3u8
+fox sports,https://panel.dattalive.com/MetropolitanaFM/MetropolitanaFM/playlist.m3u8
+fox sports,http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/545/7322/index.m3u8
+fox sports,https://edge.taghtia.com/sa/16.m3u8
+松视1,https://z88.ubtvfans.com:443/live/rx3/402/2d5f45ef7b7b90e9b47c6963be6d5120/index.m3u8
+松视2,https://z88.ubtvfans.com:443/live/rx3/403/169cf37c3b80aa73066703f16f161f7d/index.m3u8
+松视3,https://z88.ubtvfans.com:443/live/rx3/403/169cf37c3b80aa73066703f16f161f7d/index.m3u8
+潘多啦,https://z88.ubtvfans.com:443/live/rx3/404/f879380802739b846ed31d934c19b4de/index.m3u8
+花花公子,https://z88.ubtvfans.com:443/live/rx3/411/9bb448cd18b0d29aa46c24c9286c4d29/index.m3u8
+彩虹电影,https://z88.ubtvfans.com:443/live/rx3/413/f39876dcbac1ca67fd1c1015cfc2af27/index.m3u8
+极限,https://z88.ubtvfans.com:443/live/rx3/405/f72f337b1279855143cddce063a60cd6/index.m3u8
 
 CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CBN新闻,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
