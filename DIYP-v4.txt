@@ -3954,7 +3954,7 @@ BRTV8K「官方」,http://mywlkj.ddns.net:754/dl/dl668/btv8k.php?id=brtv8k
 汕头经济生活,http://211.97.63.3:801/hls/82/index.m3u8
 潮州综合频道,http://211.97.63.3:801/hls/503/index.m3u8
 大湾区卫视,http://glive.grtn.cn/live/lizhi.m3u8
-
+广东珠江,http://113.119.39.121:808/hls/1/index.m3u8
 广东珠江,http://58.252.12.164:8000/udp/239.77.0.1:5146
 广东珠江,http://58.252.12.164:8000/udp/239.77.0.114:5146
 广东珠江,http://222.218.158.140:8181/tsfile/live/1000_1.m3u8
