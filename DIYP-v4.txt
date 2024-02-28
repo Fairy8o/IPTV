@@ -2126,7 +2126,9 @@ Now 爆谷台,http://ali.hlspull.yximgs.com/live/caijiwei_bg.flv
 Now 星影台,http://ali.hlspull.yximgs.com/live/caijiwei_xy.flv
 无线财经台,https://epg.pw/stream/2a431cef6854021ea00e737ccc8a4996cb4618297f939a720bbaeaef1dd75636.m3u8
 无线新闻台,https://epg.pw/stream/80a909a382b68b54450f24e0557ac45ad473e6944d3fa6a97b60772743651ad6.m3u8
+天映频道,http://miami.860311.xyz:8080/celestialmovies.m3u8
 天映频道,https://edge2.laotv.la/live/CHCA/index.m3u8
+
 
 「移动」凤凰中文台,http://tvbox6.com/tv/dl/dl668/hk.php?id=15
 「移动」凤凰中文台,http://tvbox6.com/tv/dl/dl668/hk.php?id=24
