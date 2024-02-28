@@ -1910,78 +1910,34 @@ http://[2409:8087:1a01:df::4041]/PLTV/88888888/224/3221226053/index.m3u8
 http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 
 
-#EXTINF:-1 group-title="🦄香港频道",香港文旅台
-http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
+#EXTINF:-1 group-title="🦄香港频道",重温经典
+http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
+#EXTINF:-1 group-title="🦄香港频道",重温经典
+http://tvbox6.com/tv/dl/dl668/bfgd.php?id=635
+#EXTINF:-1 group-title="🦄香港频道",重温经典台
+http://ali.hlspull.yximgs.com/live/cctv598hsrt6u57eujseth5i7463atgestjhsrjsrjk.flv
 #EXTINF:-1 group-title="🦄香港频道",凤凰中文台
 https://edge2.laotv.la/live/PhxChinese/index.m3u8
 #EXTINF:-1 group-title="🦄香港频道",凤凰中文台
 http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-#EXTINF:-1 group-title="🦄香港频道",凤凰中文台
-http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=1
-#EXTINF:-1 group-title="🦄香港频道",凤凰香港台
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153402
+#EXTINF:-1 group-title="🦄香港频道",凤凰影视台
+http://221.7.175.154:8445/tsfile/live/1022_1.m3u8
+#EXTINF:-1 group-title="🦄香港频道",凤凰资讯台
+https://edge1.laotv.la:443/live/PhoenixNews/index.m3u8
+#EXTINF:-1 group-title="🦄香港频道",凤凰资讯台
+https://edge2.laotv.la/live/PhoenixNews/index.m3u8
 #EXTINF:-1 group-title="🦄香港频道",凤凰资讯台
 https://edge1.laotv.la/live/PhoenixNews/index.m3u8
 #EXTINF:-1 group-title="🦄香港频道",凤凰资讯台
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=156407
-#EXTINF:-1 group-title="🦄香港频道",凤凰资讯台
 http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-#EXTINF:-1 group-title="🦄香港频道",凤凰资讯台
-http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=2
-#EXTINF:-1 group-title="🦄香港频道",TVB 翡翠台
-https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-#EXTINF:-1 group-title="🦄香港频道",TVB 無線新聞台
-https://fake-stream.livednow.com/tvb/C?token=c8575882ea0ca61170b2284e0d1f0144&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
-#EXTINF:-1 group-title="🦄香港频道",TVB 無線新聞台 海外版
-https://fake-stream.livednow.com/tvb/I-NEWS?token=dc6f5d5a464931d0902271fb360c710d&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
-#EXTINF:-1 group-title="🦄香港频道",TVB 財經體育資訊台
-https://fake-stream.livednow.com/tvb/A?token=9cab24677720fe47e134e07a4947882c&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
-#EXTINF:-1 group-title="🦄香港频道",TVB 財經體育資訊台 海外版
-https://fake-stream.livednow.com/tvb/I-FINA?token=99560e5d097f1c356fe931c85e95183e&user_id=5878431539&user_token=34b9534825742908ef36b4a27e0b16f5
-#EXTINF:-1 group-title="🦄香港频道",香港有线新闻台
-http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=3
-#EXTINF:-1 group-title="🦄香港频道",香港有线18台
-http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=4
-#EXTINF:-1 group-title="🦄香港频道",香港有线高清603台
-http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=5
-#EXTINF:-1 group-title="🦄香港频道",TVB无线新闻台
-http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=6
-#EXTINF:-1 group-title="🦄香港频道",TVB财经体育资讯台
-http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=7
 #EXTINF:-1 group-title="🦄香港频道",TVB翡翠台
-http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=8
-#EXTINF:-1 group-title="🦄香港频道",TVB华丽翡翠台
-http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=9
-#EXTINF:-1 group-title="🦄香港频道",TVB明珠台
-http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=10
-#EXTINF:-1 group-title="🦄香港频道",TVB J2
-http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=11
-#EXTINF:-1 group-title="🦄香港频道",TVB星河
-http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=12
-#EXTINF:-1 group-title="🦄香港频道",ViuTV
-http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=13
-#EXTINF:-1 group-title="🦄香港频道",ViuTV6
-http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=14
-#EXTINF:-1 group-title="🦄香港频道",NOW新闻台
-http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=15
-#EXTINF:-1 group-title="🦄香港频道",香港国际财经台
-http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=16
-#EXTINF:-1 group-title="🦄香港频道",HOY TV
-http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=17
-#EXTINF:-1 group-title="🦄香港频道",HOY资讯台
-http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=18
-#EXTINF:-1 group-title="🦄香港频道",港台电视31
-http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=19
-#EXTINF:-1 group-title="🦄香港频道",港台电视32
-http://hls.vfl.asia/iptv.php?key=127c4a4b5b9f9cfa06cb2da506112e6d&id=20
-#EXTINF:-1 group-title="🦄香港频道",重温经典台
-http://ali.hlspull.yximgs.com/live/cctv598hsrt6u57eujseth5i7463atgestjhsrjsrjk.flv
+https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🦄香港频道",TVB翡翠台
+http://ali.hlspull.yximgs.com/live/tvbfc264t3a88221300-nigedashabi.flv
 #EXTINF:-1 group-title="🦄香港频道",TVB功夫台(粤)
 http://ali.hlspull.yximgs.com/live/AsiaActiont3a88221300-nigedashabi.flv
 #EXTINF:-1 group-title="🦄香港频道",TVB功夫台(国)
 http://ali.hlspull.yximgs.com/live/gongfuguoyut3a88221300-nigedashabi.flv
-#EXTINF:-1 group-title="🦄香港频道",TVB翡翠台
-http://ali.hlspull.yximgs.com/live/tvbfc264t3a88221300-nigedashabi.flv
 #EXTINF:-1 group-title="🦄香港频道",TVB黄金华剧台
 http://ali.hlspull.yximgs.com/live/tvbhjhjjjhyt3a88221300-nigedashabi.flv
 #EXTINF:-1 group-title="🦄香港频道",美亚电影(粤)
@@ -1990,14 +1946,14 @@ http://ali.hlspull.yximgs.com/live/myyyydyt3a88221300-nigedashabi.flv
 http://ali.hlspull.yximgs.com/live/caijiwei_bg.flv
 #EXTINF:-1 group-title="🦄香港频道",Now 星影台
 http://ali.hlspull.yximgs.com/live/caijiwei_xy.flv
-#EXTINF:-1 group-title="🦄香港频道",「HK」无线新闻
-https://tv.iill.top/tvb/4
-#EXTINF:-1 group-title="🦄香港频道",「HK」无线财经体育资讯台
-https://tv.iill.top/tvb/6
-#EXTINF:-1 group-title="🦄香港频道",「HK」事件直播頻道1
-https://tv.iill.top/tvb/8
-#EXTINF:-1 group-title="🦄香港频道",「HK」事件直播頻道2
-https://tv.iill.top/tvb/10
+#EXTINF:-1 group-title="🦄香港频道",无线财经台
+https://epg.pw/stream/2a431cef6854021ea00e737ccc8a4996cb4618297f939a720bbaeaef1dd75636.m3u8
+#EXTINF:-1 group-title="🦄香港频道",无线新闻台
+https://epg.pw/stream/80a909a382b68b54450f24e0557ac45ad473e6944d3fa6a97b60772743651ad6.m3u8
+#EXTINF:-1 group-title="🦄香港频道",天映频道
+http://miami.860311.xyz:8080/celestialmovies.m3u8
+#EXTINF:-1 group-title="🦄香港频道",天映频道
+https://edge2.laotv.la/live/CHCA/index.m3u8
 #EXTINF:-1 group-title="🦄香港频道",「移动」凤凰中文台
 http://tvbox6.com/tv/dl/dl668/hk.php?id=15
 #EXTINF:-1 group-title="🦄香港频道",「移动」凤凰中文台
@@ -2040,6 +1996,16 @@ http://tvbox6.com/tv/dl/dl668/hk.php?id=4
 http://tvbox6.com/tv/dl/dl668/hk.php?id=7
 #EXTINF:-1 group-title="🦄香港频道",「代理」无线财经体育资讯
 http://tvbox6.com/tv/dl/dl668/hk.php?id=8
+#EXTINF:-1 group-title="🦄香港频道",「代理」翡翠台
+http://tvbox6.com/tv/dl/dl668/hk.php?id=9
+#EXTINF:-1 group-title="🦄香港频道",「代理」明珠台
+http://tvbox6.com/tv/dl/dl668/hk.php?id=10
+#EXTINF:-1 group-title="🦄香港频道",「代理」J2台
+http://tvbox6.com/tv/dl/dl668/hk.php?id=11
+#EXTINF:-1 group-title="🦄香港频道",「代理」无线新闻
+http://tvbox6.com/tv/dl/dl668/hk.php?id=12
+#EXTINF:-1 group-title="🦄香港频道",「代理」翡翠台
+http://tvbox6.com/tv/dl/dl668/hk.php?id=13
 #EXTINF:-1 group-title="🦄香港频道",「代理」明珠台
 http://tvbox6.com/tv/dl/dl668/hk.php?id=14
 #EXTINF:-1 group-title="🦄香港频道",「代理」星空卫视
@@ -2078,20 +2044,18 @@ http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
 #EXTINF:-1 group-title="🦄香港频道",香港34台全网
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
-#EXTINF:-1 group-title="🦄香港频道",香港国际财经
-http://61.10.2.140/live_freedirect/opentvhd002_h.live/playlist.m3u8
 #EXTINF:-1 group-title="🦄香港频道",台湾大立电视台
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 #EXTINF:-1 group-title="🦄香港频道",香港佛陀
 https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 #EXTINF:-1 group-title="🦄香港频道",Clarity 4K (2160p)HD
 https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
-#EXTINF:-1 group-title="🦄香港频道",TVB无线新闻台备用HD
-http://live.cooltv.top/tv/tvb.php?id=0&hq
-#EXTINF:-1 group-title="🦄香港频道",TVB有线新闻台HD
+#EXTINF:-1 group-title="🦄香港频道",有线新闻台
 http://cm61-10-2-143.hkcable.com.hk/live_freedirect/hd110_h.live/playlist.m3u8
-#EXTINF:-1 group-title="🦄香港频道",港台电视RTHK31HD
-https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream2/streamPlaylist.m3u8
+#EXTINF:-1 group-title="🦄香港频道",有线新闻台
+http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+#EXTINF:-1 group-title="🦄香港频道",有线新闻台
+http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
 #EXTINF:-1 group-title="🦄香港频道",港台电视RTHK32HD
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
 #EXTINF:-1 group-title="🦄香港频道",港台电视RTHK33HD
@@ -2125,14 +2089,8 @@ http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
 #EXTINF:-1 group-title="🦄香港频道",TVB明珠台
 http://qwas.eatuo.com:9901/tsfile/live/1014_1.m3u8
 
-#EXTINF:-1 group-title="🦄澳门频道",莲花卫视「酒店」
-http://lhq-cctv.8866.org:18181/tsfile/live/1212_1.m3u8
-#EXTINF:-1 group-title="🦄澳门频道",莲花卫视「代理」
-http://moss.hk3.345888.xyz.cdn.cloudflare.net/11/lotus.php
 #EXTINF:-1 group-title="🦄澳门频道",澳亚卫视
 https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
-#EXTINF:-1 group-title="🦄澳门频道",澳亚卫视
-https://live.mastvnet.com/lsdream/MSTV/1500/live.m3u8
 
 #EXTINF:-1 group-title="🦄湾湾频道",民视
 rtmp://f13h.mine.nu/sat/tv051
@@ -2156,34 +2114,32 @@ rtmp://f13h.mine.nu/sat/tv761
 rtmp://f13h.mine.nu/sat/tv731
 #EXTINF:-1 group-title="🦄湾湾频道",ELEVEN体育2
 rtmp://f13h.mine.nu/sat/tv741
-#EXTINF:-1 group-title="🦄湾湾频道",中天新闻
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708283618/ei/gQLSZeydO7uS1d8Ph9Oy4AE/ip/2406%3A8dc0%3A525d%3A4c5a%3A89b4%3Ad0f8%3A148c%3Abe75/id/oIgbl7t0S_w.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f5Dhxf2gYmuwTPCidcY-Hqm2efjyVqMOkE5sla487bE/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgOC0wukGKlWvvpkambzq9mLsRUwQVVHN_WcfRzfSpco4CIQCYIqcS8NxP2hdcMMlhfUjz9qCRaY_noU1TckRsZc8_Fw%3D%3D/file/index.m3u8
-#EXTINF:-1 group-title="🦄湾湾频道",寰宇新闻
-http://91.149.203.179:8488/huanyuxinwen_twn/playlist.m3u8?tid=MBCB4955272149552721&ct=19298&tsum=1a6628522f3259110fcf1c9098e8e846
+#EXTINF:-1 group-title="🦄湾湾频道",TVBS-Asia
+http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道",TVBS-Asia
+http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道",TVBS新闻
+http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道",TVBS新闻
+http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道",台视新闻
+http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道",民视新闻
+http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道",民视新闻
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道",东森美洲2
+http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道",东森美洲2
+http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
 #EXTINF:-1 group-title="🦄湾湾频道",东森新闻
 http://211.23.114.106:8510/http/61.221.81.94:8088/hls/71/813/ch44.m3u8
-#EXTINF:-1 group-title="🦄湾湾频道",东森新闻
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708282094/ei/jvzRZY-gBfqP7OsP_Yyb0Ao/ip/2406%3A8dc0%3A5780%3Adc38%3A7b93%3A5bd1%3Afb3d%3A3fd5/id/2dfAzcDf8Zg.26/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f3-kueBZI5RhGTwSpGk4lZkRku2JbEHWCCvTBw0QETKKmiUGLQ9drqO_/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgIneaziKc-1XGWu4ec_z5vV2C-3hl46nz0Badp4Xk9v8CIQCHkWhn2QuRYI3jp_ITj_55yfRB56Kvec9AQdA9klqenA%3D%3D/file/index.m3u8
 #EXTINF:-1 group-title="🦄湾湾频道",年代新闻
 http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
-#EXTINF:-1 group-title="🦄湾湾频道",年代新闻
-https://euorigin.scdn.eu.org/live/eranews.m3u8?token=ALe7oumL3J0Ru15TMddOZA&expires=1708280391
-#EXTINF:-1 group-title="🦄湾湾频道",中视新闻
-http://91.149.203.179:8488/zhongshihd_twn/playlist.m3u8?tid=MBDB6720263767202637&ct=19249&tsum=edd778f298b53c39b3b9706700032605
-#EXTINF:-1 group-title="🦄湾湾频道",中视新闻
-http://91.149.203.179:8588/zhongshihd_twn/playlist.m3u8?tid=MBDB6720263767202637&ct=19249&tsum=edd778f298b53c39b3b9706700032605
-#EXTINF:-1 group-title="🦄湾湾频道",台视新闻
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708281835/ei/i_vRZYSKE__t7OsPjpmjgAU/ip/2406%3A8dc0%3A54fa%3Ad040%3Aed17%3A14ae%3Af211%3A9550/id/TCnaIE_SAtM.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9f3VxyzmuOVtlFZltTZYtI__D1wJP1RZkvMBo1UokVNf7Ahe3eUZzExtg/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAM3_aJQxiHXpFpIiM7O4IlqLXgGy9xNIA8hbXx_6ctj3AiEA1e3GZzYxbQHoGV272nSExExWRfeLnGQJW0wKinWLjYA%3D/file/index.m3u8
-#EXTINF:-1 group-title="🦄湾湾频道",民视新闻
-http://91.149.203.179:8488/ftvnew_taiwan/playlist.m3u8?tid=MA7A6968320369683203&ct=19249&tsum=e3b040434ed43f12a738964a100a0e59
-#EXTINF:-1 group-title="🦄湾湾频道",民视新闻
-http://91.149.203.179:8588/ftvnew_taiwan/playlist.m3u8?tid=MA7A6968320369683203&ct=19249&tsum=e3b040434ed43f12a738964a100a0e59
 #EXTINF:-1 group-title="🦄湾湾频道",半岛新闻
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="🦄湾湾频道",半岛新闻
 http://live-hls-web-aja.getaj.net/AJA/02.m3u8
-#EXTINF:-1 group-title="🦄湾湾频道",TVBS
-http://91.149.203.179:8488/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
 #EXTINF:-1 group-title="🦄湾湾频道",TVBS亚洲
 http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 #EXTINF:-1 group-title="🦄湾湾频道",TVBS亚洲
@@ -2200,6 +2156,10 @@ http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
 http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 #EXTINF:-1 group-title="🦄湾湾频道",红牛
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道",FOX Now
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道",NBC News
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/1280x720_1645600/chunklist.m3u8
 #EXTINF:-1 group-title="🦄湾湾频道",纬来体育
 https://cloud.yumixiu768.com/tmp/123.m3u8
 #EXTINF:-1 group-title="🦄湾湾频道",纬来体育
@@ -2248,20 +2208,10 @@ http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 group-title="🦄湾湾频道",中天娱乐
 http://50.7.238.114:8278/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30e12f419d587f46ac
-#EXTINF:-1 group-title="🦄湾湾频道",中天综合
-http://198.16.100.90:8278/ctizhonghe/playlist.m3u8?tid=MB6B3888954738889547&ct=19254&tsum=d0cb922e44e8a16bea598530697c581e
-#EXTINF:-1 group-title="🦄湾湾频道",八大综合
-http://50.7.238.114:8278/badazhonghe/playlist.m3u8?tid=MC5C5422299054222990&ct=19193&tsum=8189d5b21bdeabdffa3d2b2cbeaae0ae
 #EXTINF:-1 group-title="🦄湾湾频道",龙祥时代
 http://50.7.238.114:8278/lungxiangtime_twn/playlist.m3u8?tid=MADA6805114368051143&ct=18392&tsum=d6a1f02ca9abd5368d2a365e40247ae8
-#EXTINF:-1 group-title="🦄湾湾频道",龙华偶像
-http://198.16.100.90:8278/lunghuaidol_twn/playlist.m3u8?tid=MD6D6087277960872779&ct=19249&tsum=83e30fd8200429793355d21bf37719ff
 #EXTINF:-1 group-title="🦄湾湾频道",八大戏剧
 http://50.7.238.114:8278/badadrama/playlist.m3u8?tid=ME4E4734124647341246&ct=19225&tsum=c4e596572a79ad99675ee2137d1cc43d
-#EXTINF:-1 group-title="🦄湾湾频道",HBO频道
-http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=ME7E8473082984730829&ct=18392&tsum=acad12b7c208bda39b68dec98349e138
-#EXTINF:-1 group-title="🦄湾湾频道",博斯运动
-http://50.7.238.114:8278/bosisport1_twn/playlist.m3u8?tid=MDAD4087844840878448&ct=19249&tsum=0a23fd28e83ff8205a515273a4c1b421
 #EXTINF:-1 group-title="🦄湾湾频道",GO好医生
 https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch9-2.m3u8
 #EXTINF:-1 group-title="🦄湾湾频道",番薯音乐
@@ -2270,8 +2220,6 @@ http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 #EXTINF:-1 group-title="🦄湾湾频道",番薯音乐
 http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
-#EXTINF:-1 group-title="🦄湾湾频道",台湾 东森电影
-http://198.16.100.90:8278/ettvmovie/playlist.m3u8?tid=MBDB9268852192688521&ct=19254&tsum=7514b50ebc2e4b06f2e402578d0ac996
 #EXTINF:-1 group-title="🦄湾湾频道",台湾 东森超视34.5 标清
 http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 #EXTINF:-1 group-title="🦄湾湾频道",台湾 东森财经新闻
@@ -2298,16 +2246,10 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
 #EXTINF:-1 group-title="🦄湾湾频道",民视新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-#EXTINF:-1 group-title="🦄湾湾频道",民视台湾台
-http://198.16.100.90:8278/ftvtaiwan_twn/playlist.m3u8?tid=MEFE5254515252545152&ct=19249&tsum=c17f872b1772df8f76032030cc40bdbd
 #EXTINF:-1 group-title="🦄湾湾频道",台视新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 #EXTINF:-1 group-title="🦄湾湾频道",台湾 台视CTS
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
-#EXTINF:-1 group-title="🦄湾湾频道",台湾 八大综合台
-http://198.16.100.90:8278/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0df0b92e678790
-#EXTINF:-1 group-title="🦄湾湾频道",ELTA影剧
-http://198.16.100.90:8278/eltayingju_twn/playlist.m3u8?tid=MFFF8590726285907262&ct=19249&tsum=ae4cb19fed11696df934d6e2489e2978
 #EXTINF:-1 group-title="🦄湾湾频道",东森美洲
 http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 #EXTINF:-1 group-title="🦄湾湾频道",东森电影
@@ -2320,22 +2262,12 @@ http://50.7.238.114:8278/bosisport1_twn/playlist.m3u8?tid=MDAD4087844840878448&c
 http://50.7.238.114:8278/bosisport2_twn/playlist.m3u8?tid=ME9E7698135376981353&ct=19249&tsum=9eadcc8585f74357f09f1465844024c9
 #EXTINF:-1 group-title="🦄湾湾频道",博斯高球2
 http://198.16.100.90:8278/bosigolf2_twn/playlist.m3u8?tid=MC1C7192072371920723&ct=19249&tsum=fbea99cd84e7284f2cd3f8eab29435dc
-#EXTINF:-1 group-title="🦄湾湾频道",博斯网球
-http://198.16.100.90:8278/bositennis_twn/playlist.m3u8?tid=MDCD2148551721485517&ct=19249&tsum=bab41ccd3843b938886a64a656463af0
 #EXTINF:-1 group-title="🦄湾湾频道",好莱坞电影 中字
 http://50.7.238.114:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
 #EXTINF:-1 group-title="🦄湾湾频道",靖天卡通台
 http://50.7.238.114:8278/jingtiancartoon_twn/playlist.m3u8?tid=m1465dab025b5&ct=18335&tsum=ba935e583d90bfbe1d1d9662e9ac600c
 #EXTINF:-1 group-title="🦄湾湾频道",天映频道（电影）
-http://210.210.155.37/dr9445/h/h14/01.m3u8
-#EXTINF:-1 group-title="🦄湾湾频道",天映频道（电影）
 http://210.210.155.37/session/6883312c-b2d3-11ed-8d27-c81f66f89318/dr9445/h/h14/index.m3u8
-#EXTINF:-1 group-title="🦄湾湾频道",天映经典（电影）
-http://210.210.155.37/qwr9ew/s/s31/01.m3u8
-#EXTINF:-1 group-title="🦄湾湾频道",天映经典（电影）
-http://210.210.155.37/session/46c34368-a764-11ec-a06a-c81f66f89318/qwr9ew/s/s31/01.m3u8
-#EXTINF:-1 group-title="🦄湾湾频道",长城精品
-http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
 #EXTINF:-1 group-title="🦄湾湾频道",LOVENATURE
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 group-title="🦄湾湾频道",時尚台FTV
