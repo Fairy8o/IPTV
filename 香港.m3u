@@ -1,0 +1,182 @@
+#EXTM3U
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE local
+
+#EXTINF:-1 group-title="🦄香港频道",重温经典
+http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
+#EXTINF:-1 group-title="🦄香港频道",重温经典
+http://tvbox6.com/tv/dl/dl668/bfgd.php?id=635
+#EXTINF:-1 group-title="🦄香港频道",重温经典台
+http://ali.hlspull.yximgs.com/live/cctv598hsrt6u57eujseth5i7463atgestjhsrjsrjk.flv
+#EXTINF:-1 group-title="🦄香港频道",凤凰中文台
+https://edge2.laotv.la/live/PhxChinese/index.m3u8
+#EXTINF:-1 group-title="🦄香港频道",凤凰中文台
+http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 group-title="🦄香港频道",凤凰影视台
+http://221.7.175.154:8445/tsfile/live/1022_1.m3u8
+#EXTINF:-1 group-title="🦄香港频道",凤凰资讯台
+https://edge1.laotv.la:443/live/PhoenixNews/index.m3u8
+#EXTINF:-1 group-title="🦄香港频道",凤凰资讯台
+https://edge2.laotv.la/live/PhoenixNews/index.m3u8
+#EXTINF:-1 group-title="🦄香港频道",凤凰资讯台
+https://edge1.laotv.la/live/PhoenixNews/index.m3u8
+#EXTINF:-1 group-title="🦄香港频道",凤凰资讯台
+http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
+#EXTINF:-1 group-title="🦄香港频道",TVB翡翠台
+https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🦄香港频道",TVB翡翠台
+http://ali.hlspull.yximgs.com/live/tvbfc264t3a88221300-nigedashabi.flv
+#EXTINF:-1 group-title="🦄香港频道",TVB功夫台(粤)
+http://ali.hlspull.yximgs.com/live/AsiaActiont3a88221300-nigedashabi.flv
+#EXTINF:-1 group-title="🦄香港频道",TVB功夫台(国)
+http://ali.hlspull.yximgs.com/live/gongfuguoyut3a88221300-nigedashabi.flv
+#EXTINF:-1 group-title="🦄香港频道",TVB黄金华剧台
+http://ali.hlspull.yximgs.com/live/tvbhjhjjjhyt3a88221300-nigedashabi.flv
+#EXTINF:-1 group-title="🦄香港频道",美亚电影(粤)
+http://ali.hlspull.yximgs.com/live/myyyydyt3a88221300-nigedashabi.flv
+#EXTINF:-1 group-title="🦄香港频道",Now 爆谷台
+http://ali.hlspull.yximgs.com/live/caijiwei_bg.flv
+#EXTINF:-1 group-title="🦄香港频道",Now 星影台
+http://ali.hlspull.yximgs.com/live/caijiwei_xy.flv
+#EXTINF:-1 group-title="🦄香港频道",无线财经台
+https://epg.pw/stream/2a431cef6854021ea00e737ccc8a4996cb4618297f939a720bbaeaef1dd75636.m3u8
+#EXTINF:-1 group-title="🦄香港频道",无线新闻台
+https://epg.pw/stream/80a909a382b68b54450f24e0557ac45ad473e6944d3fa6a97b60772743651ad6.m3u8
+#EXTINF:-1 group-title="🦄香港频道",天映频道
+http://miami.860311.xyz:8080/celestialmovies.m3u8
+#EXTINF:-1 group-title="🦄香港频道",天映频道
+https://edge2.laotv.la/live/CHCA/index.m3u8
+#EXTINF:-1 group-title="🦄香港频道",「移动」凤凰中文台
+http://tvbox6.com/tv/dl/dl668/hk.php?id=15
+#EXTINF:-1 group-title="🦄香港频道",「移动」凤凰中文台
+http://tvbox6.com/tv/dl/dl668/hk.php?id=24
+#EXTINF:-1 group-title="🦄香港频道",「移动」凤凰资讯台
+http://tvbox6.com/tv/dl/dl668/hk.php?id=25
+#EXTINF:-1 group-title="🦄香港频道",「代理」凤凰资讯台
+http://tvbox6.com/tv/dl/dl668/hk.php?id=27
+#EXTINF:-1 group-title="🦄香港频道",「移动」凤凰中文台
+http://tvbox6.com/tv/dl/dl668/hk.php?id=26
+#EXTINF:-1 group-title="🦄香港频道",「代理」凤凰美洲台
+http://tvbox6.com/tv/dl/dl668/hk.php?id=27
+#EXTINF:-1 group-title="🦄香港频道",「官方」香港卫视
+http://tvbox6.com/tv/dl/dl668/hk.php?id=1
+#EXTINF:-1 group-title="🦄香港频道",「官方」香港文旅
+http://tvbox6.com/tv/dl/dl668/hk.php?id=2
+#EXTINF:-1 group-title="🦄香港频道",「官方」RTHK32
+http://tvbox6.com/tv/dl/dl668/hk.php?id=224
+#EXTINF:-1 group-title="🦄香港频道",「官方」耀才财经
+http://tvbox6.com/tv/dl/dl668/hk.php?id=228
+#EXTINF:-1 group-title="🦄香港频道",「官方」点掌财经
+http://tvbox6.com/tv/dl/dl668/hk.php?id=232
+#EXTINF:-1 group-title="🦄香港频道",「官方」香港佛陀
+http://tvbox6.com/tv/dl/dl668/hk.php?id=248
+#EXTINF:-1 group-title="🦄香港频道",「官方」人间卫视
+http://tvbox6.com/tv/dl/dl668/hk.php?id=428
+#EXTINF:-1 group-title="🦄香港频道",「官方」GOODTV
+http://tvbox6.com/tv/dl/dl668/hk.php?id=433
+#EXTINF:-1 group-title="🦄香港频道",「官方」番薯电视台
+http://tvbox6.com/tv/dl/dl668/hk.php?id=584
+#EXTINF:-1 group-title="🦄香港频道",「代理」无线新闻
+http://tvbox6.com/tv/dl/dl668/hk.php?id=3
+#EXTINF:-1 group-title="🦄香港频道",「代理」无线新闻
+http://tvbox6.com/tv/dl/dl668/hk.php?id=5
+#EXTINF:-1 group-title="🦄香港频道",「代理」无线新闻
+http://tvbox6.com/tv/dl/dl668/hk.php?id=6
+#EXTINF:-1 group-title="🦄香港频道",「代理」无线财经体育资讯
+http://tvbox6.com/tv/dl/dl668/hk.php?id=4
+#EXTINF:-1 group-title="🦄香港频道",「代理」无线财经体育资讯
+http://tvbox6.com/tv/dl/dl668/hk.php?id=7
+#EXTINF:-1 group-title="🦄香港频道",「代理」无线财经体育资讯
+http://tvbox6.com/tv/dl/dl668/hk.php?id=8
+#EXTINF:-1 group-title="🦄香港频道",「代理」翡翠台
+http://tvbox6.com/tv/dl/dl668/hk.php?id=9
+#EXTINF:-1 group-title="🦄香港频道",「代理」明珠台
+http://tvbox6.com/tv/dl/dl668/hk.php?id=10
+#EXTINF:-1 group-title="🦄香港频道",「代理」J2台
+http://tvbox6.com/tv/dl/dl668/hk.php?id=11
+#EXTINF:-1 group-title="🦄香港频道",「代理」无线新闻
+http://tvbox6.com/tv/dl/dl668/hk.php?id=12
+#EXTINF:-1 group-title="🦄香港频道",「代理」翡翠台
+http://tvbox6.com/tv/dl/dl668/hk.php?id=13
+#EXTINF:-1 group-title="🦄香港频道",「代理」明珠台
+http://tvbox6.com/tv/dl/dl668/hk.php?id=14
+#EXTINF:-1 group-title="🦄香港频道",「代理」星空卫视
+http://tvbox6.com/tv/dl/dl668/hk.php?id=16
+#EXTINF:-1 group-title="🦄香港频道",「代理」翡翠台
+http://tvbox6.com/tv/dl/dl668/hk.php?id=13
+#EXTINF:-1 group-title="🦄香港频道",「代理」翡翠台
+http://tvbox6.com/tv/dl/dl668/hk.php?id=17
+#EXTINF:-1 group-title="🦄香港频道",「代理」娱乐新闻
+http://tvbox6.com/tv/dl/dl668/hk.php?id=19
+#EXTINF:-1 group-title="🦄香港频道",「代理」TVB泰国
+http://tvbox6.com/tv/dl/dl668/hk.php?id=20
+#EXTINF:-1 group-title="🦄香港频道",「代理」TVB直播
+http://tvbox6.com/tv/dl/dl668/hk.php?id=21
+#EXTINF:-1 group-title="🦄香港频道",「代理」神州新闻
+http://tvbox6.com/tv/dl/dl668/hk.php?id=22
+#EXTINF:-1 group-title="🦄香港频道",「代理」武侠频道
+http://tvbox6.com/tv/dl/dl668/hk.php?id=23
+#EXTINF:-1 group-title="🦄香港频道",蕃薯台
+http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+#EXTINF:-1 group-title="🦄香港频道",翡翠台
+https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🦄香港频道",翡翠台
+https://epg.pw/stream/fe02817d95c6d58f41e1ea8208b5a8c9462bf525b153819b0c3918406127925a.m3u8
+#EXTINF:-1 group-title="🦄香港频道",TVB星河
+https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/playlist.m3u8
+#EXTINF:-1 group-title="🦄香港频道",TVB翡翠台
+https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🦄香港频道",TVB翡翠台
+https://udnhls.skilldns.com/fhzx.m3u8
+#EXTINF:-1 group-title="🦄香港频道",TVB翡翠备用
+https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🦄香港频道",TVBS新闻
+http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+#EXTINF:-1 group-title="🦄香港频道",香港开电视
+https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
+#EXTINF:-1 group-title="🦄香港频道",香港34台全网
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
+#EXTINF:-1 group-title="🦄香港频道",台湾大立电视台
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1 group-title="🦄香港频道",香港佛陀
+https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
+#EXTINF:-1 group-title="🦄香港频道",Clarity 4K (2160p)HD
+https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
+#EXTINF:-1 group-title="🦄香港频道",有线新闻台
+http://cm61-10-2-143.hkcable.com.hk/live_freedirect/hd110_h.live/playlist.m3u8
+#EXTINF:-1 group-title="🦄香港频道",有线新闻台
+http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+#EXTINF:-1 group-title="🦄香港频道",有线新闻台
+http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
+#EXTINF:-1 group-title="🦄香港频道",港台电视RTHK32HD
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
+#EXTINF:-1 group-title="🦄香港频道",港台电视RTHK33HD
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
+#EXTINF:-1 group-title="🦄香港频道",港台电视RTHK34HD
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
+#EXTINF:-1 group-title="🦄香港频道",港台电视RTHK35HD
+https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+#EXTINF:-1 group-title="🦄香港频道",有线财经资讯台HD
+http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd208_h.live/playlist.m3u8
+#EXTINF:-1 group-title="🦄香港频道",耀才财经台HD
+https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 group-title="🦄香港频道",Documentary-HD
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+#EXTINF:-1 group-title="🦄香港频道",香港RHK32
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
+#EXTINF:-1 group-title="🦄香港频道",TVB-无线财经台
+https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🦄香港频道",翡翠台 超清
+https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🦄香港频道",TVB-星河台
+https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🦄香港频道",爆谷(HK)
+http://ali.hlspull.yximgs.com/live/nowbgggggt3a888221300-cfuu78258.flv
+#EXTINF:-1 group-title="🦄香港频道",星影(HK)
+http://ali.hlspull.yximgs.com/live/nowxyot3a888221300-cfuu78258.flv
+#EXTINF:-1 group-title="🦄香港频道",TVB翡翠台
+https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🦄香港频道",TVB翡翠台(720p)
+http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
+#EXTINF:-1 group-title="🦄香港频道",TVB明珠台
+http://qwas.eatuo.com:9901/tsfile/live/1014_1.m3u8
