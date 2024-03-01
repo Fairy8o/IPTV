@@ -1543,55 +1543,36 @@ HBTV(5G专线),http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u
 ANTV(5G专线),http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 
 🦄国际频道「需魔法」,#genre#
-CNN News,http://38.96.178.201:80/live/CNNHD/index.m3u8
-FOX New York,http://38.96.178.201:80/live/FOXHD/index.m3u8
-FOX News,http://38.96.178.201:80/live/FOXNEWS/index.m3u8
+CNN News,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+BBC News,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
 Live Now FOX,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-NBC New York,http://38.96.178.201/live/NBCHD/index.m3u8
+NBC,http://41.205.93.154/NBC/index.m3u8
 One America News,http://n1.klowdtv.net/live1/oan_1080p/chunks.m3u8
-BBC America,http://38.96.178.201:80/live/BBCAmerica/index.m3u8
-ABC News,http://38.96.178.201:80/live/ABCHD/index.m3u8
-ESPN News,http://38.96.178.201:80/live/ESPNews/index.m3u8
+ABC Australia,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-CBS News,http://38.96.178.201:80/live/CBS/index.m3u8
 Dubai One,http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 Al Jazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CBN News,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
 GB News,https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 RT News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-AlJazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-Arirang TV,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 NHK World,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-TED,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/ted/master.m3u8
+Bloomberg Asia,https://epg.pw/stream/d2edf469b9079064a283f4b0811cbf6f2597ebbb3d08dcf77036a4b5a791b7cf.m3u8
 The Guardian Channel,https://0d0239e437124ddcb8090d815caf4013.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_TheGuardianChannel/playlist.m3u8
 Red Bull TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
-Brics Chinese,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
-Brics English,http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
 TRT World,https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 Taiwan Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-Animal Planet,http://38.96.178.201:80/live/AnimalPlanet/index.m3u8
 Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-Food Network,http://38.96.178.201:80/live/FoodNetwork/index.m3u8
-Discovery Channel,http://38.96.178.201:80/live/Discovery/index.m3u8
-PBS Kids,http://38.96.178.201:80/live/PBSKIDS/index.m3u8
-Disney Channel,http://38.96.178.201:80/live/Disney/index.m3u8
-Disney XD,http://38.96.178.201:80/live/DisneyXD/index.m3u8
-Cartoon Network,http://38.96.178.201:80/live/CartoonNetwork/index.m3u8
+Disney International,http://sansat.net:88/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/96284
 Fashion TV,http://91.247.68.229:8000/play/Fashion/index.m3u8
-ESPN HD,http://38.96.178.201:80/live/ESPNHD/index.m3u8
 Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 KBS World,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
-NBA,http://38.96.178.201/live/NBA/index.m3u8
 Fight Network,https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
-History,http://38.96.178.201:80/live/History/index.m3u8
-SYFY,http://38.96.178.201:80/live/SYFYHD/index.m3u8
 Star Movies,http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
 Movies Now,http://195.26.87.217/live.ts?channelId=162&uid=7435&deviceMac=00:1A:79:51:4B:3A
 Cinemax East,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10816
-Universal Televison,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+Hoy TV,http://51.89.21.73:27347/livehttpplay?channel_id=20152
 AMC,http://170.254.18.106/AMC/index.m3u8
 A&E,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/19404
 HBO,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10848
@@ -1602,7 +1583,29 @@ HBO Family,http://170.254.18.106/HBO_FAMILY/index.m3u8
 HBO Signature,http://170.254.18.106/HBO_SIG/index.m3u8
 &Flix HD,http://89.187.177.137:8081/&FLIX/index.m3u8
 Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-Wild Planet,https://d3c7duantorcb1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/77466ab3-8e6b-497f-9bf9-7b20f2536a20/3.m3u8
+Wild Planet,https://d3c7duantorcb1.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/77466ab3-8e6b-497f-9bf9-7b20f2536a20/3.m3u
+Bravo,http://170.254.18.106/BRAVO/index.m3u8
+AMC,http://170.254.18.106/AMC/index.m3u8
+Comedy Central,http://170.254.18.106/COMEDY_CENTRAL/index.m3u8
+Nickelodeon,http://143.244.60.30/NICKELODEON/index.m3u8
+Lifetime,http://170.254.18.106/LIFETIME/index.m3u8
+History,http://170.254.18.106/HISTORY/index.m3u8
+Star,http://170.254.18.106/STAR/index.m3u8
+FX,http://170.254.18.106/FX/index.m3u8
+TNT,http://170.254.18.106/TNT/index.m3u8
+MTV,http://170.254.18.106/MTV/index.m3u8
+VH1,http://170.254.18.106/VH1/index.m3u8
+Paramount Network,http://170.254.18.106/PARAMOUNT/index.m3u8
+HBO Xtreme,http://170.254.18.106/HBO_XTREME/index.m3u8
+Cinemax,http://170.254.18.106/CINEMAX/index.m3u8
+Bet,http://170.254.18.106/BET/index.m3u8
+Rakuten Comedy,https://rakuten-comedymovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+Rakuten Family,https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
+Rakuten Action,https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+Sky Sport,https://donelfantastic.github.io/live/skysportsNz8.m3u8
+Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+TBS,http://143.244.60.30/TBS/index.m3u8
+
 
 BBC cbeebies,http://198.16.100.90:8278/Cbeebies/playlist.m3u8?tid=ME5E7901951779019517&ct=19225&tsum=03bb5bab7f669081444ce37cda408b8d
 BBC cbeebies,https://cdn-main.lolokoko.tv/CBeebies.stream/playlist.m3u8
