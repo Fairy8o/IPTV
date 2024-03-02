@@ -2871,6 +2871,15 @@ TVB凤凰台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 遵义新闻综合频道,http://pluslive.zunyifb.com/xwpd/playlist.m3u8?_upt=b72e0ca01707376931
 
 🦄北京频道,#genre#
+北京体育休闲,https://iptv.luas.edu.cn/liverespath/9535e4def9ec36aaf65f8f87a8af664b81f4bf23/index.m3u8
+北京体育休闲,http://111.199.1.184:8686/udp/239.3.1.243:8000
+北京体育休闲,http://ainm.cc/a/play/php/gehua.php?id=bjtyxx
+北京体育休闲,http://221.219.78.229:18888/rtp/239.3.1.97:8001
+北京体育休闲,http://221.219.78.229:18888/rtp/239.3.1.243:8000
+北京体育休闲,http://qnap.yjnhome.com:4000/rtp/239.3.1.97:8001
+北京体育休闲,http://qnap.yjnhome.com:4000/rtp/239.3.1.243:8000
+北京体育休闲,https://iptv.luas.edu.cn/liverespath/f837576f59a881e17cdd29040feea764e8c6dfd0/index.m3u8
+
 北京卫视,http://live.sjsrm.com/bjsjs/sd/live.m3u8
 北京财经,https://tv.cry33.com/bj8k.php?id=bjcj
 北京生活,https://tv.cry33.com/bj8k.php?id=bjsh
