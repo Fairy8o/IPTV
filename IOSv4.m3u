@@ -2941,6 +2941,27 @@ http://39.135.137.209/000000001000/3000000010000015686/index.m3u8
 http://39.135.137.208/000000001000/3000000010000005180/index.m3u8
 
 
+#EXTINF:-1 group-title="🦄香港频道",TVB J2台
+http://tvbox6.com/tv/twlive.php?id=fhwohdpthzyfiplhdftuzfbvdimhdznbzszbcvxzfzsehbvbztvbd2
+#EXTINF:-1 group-title="🦄香港频道",TVB 翡翠台
+http://tvbox6.com/tv/twlive.php?id=fhwwzpthzyztzzzxcxbfhzzfzvhdtzdvbtvzszxzfszzcvbctvbfc
+#EXTINF:-1 group-title="🦄香港频道",TVB 明珠台
+http://tvbox6.com/tv/twlive.php?id=tcfzhvdzzxcodwoetzmncthvbstyreyhbnnvbdzzwthzyztvbmz
+#EXTINF:-1 group-title="🦄香港频道",TVB 星河台(国)
+http://tvbox6.com/tv/twlive.php?id=zzmzptvzszzwxnhzzwzztzzztyfzszzszcfzxfzwmxzdtvbxh
+#EXTINF:-1 group-title="🦄香港频道",TVB 无线新闻台
+http://tvbox6.com/tv/twlive.php?id=fhwzpthlzzszszzbvdlzdmnbzhdhyzyztvbwxxw
+#EXTINF:-1 group-title="🦄香港频道",TVB 财经体育资1台
+http://tvbox6.com/tv/twlive.php?id=fhwylwpthzyzzfzxvzlmnduhyzmtvbwxcd
+#EXTINF:-1 group-title="🦄香港频道",TVB 财经体育资2台
+http://tvbox6.com/tv/twlive.php?id=fhwohdpthfgfbvcfghzyfzszbcvxzvbxzsfzfzsehbvbztvbd5
+#EXTINF:-1 group-title="🦄香港频道",VIU TV台
+http://tvbox6.com/tv/twlive.php?id=fhtzznzzdldzluzobnmzzhnbbmdzlpthzyzvzutv
+#EXTINF:-1 group-title="🦄香港频道",VIU TV6台
+http://tvbox6.com/tv/twlive.php?id=fhwzptdzbehztyhbvhfzcvszzfyztvzutvszx
+#EXTINF:-1 group-title="🦄香港频道",HOY 资讯台
+http://tvbox6.com/tv/twlive.php?id=zezcxlvofbncvshhzszcvndfncvbdzpeyzhxchzszzhzezzzyxxw
+
 #EXTINF:-1 group-title="🦄香港频道",重温经典
 http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 #EXTINF:-1 group-title="🦄香港频道",重温经典
@@ -3122,6 +3143,8 @@ http://qwas.eatuo.com:9901/tsfile/live/1014_1.m3u8
 
 #EXTINF:-1 group-title="🦄澳门频道",澳亚卫视
 https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+#EXTINF:-1 group-title="🦄澳门频道",澳门莲花台
+http://tvbox6.com/tv/twlive.php?id=zezcxlvofbncvshhzszcvndcbvdbneyzhxchzzhbnzzhzezzmlh
 
 #EXTINF:-1 group-title="🦄湾湾频道",民视
 rtmp://f13h.mine.nu/sat/tv051
@@ -3145,6 +3168,68 @@ rtmp://f13h.mine.nu/sat/tv761
 rtmp://f13h.mine.nu/sat/tv731
 #EXTINF:-1 group-title="🦄湾湾频道",ELEVEN体育2
 rtmp://f13h.mine.nu/sat/tv741
+
+#EXTINF:-1 group-title="🦄湾湾频道",民视新闻
+http://tvbox6.com/tv/twlive.php?id=cnbvzfhdzuzzvcbnzftuzscxzfzezyhzzvzfmsxw
+#EXTINF:-1 group-title="🦄湾湾频道",中视新闻
+http://tvbox6.com/tv/twlive.php?id=pnvzydstudzbszcvbfzzzszfzszwetymzldhduzocnzsxw
+#EXTINF:-1 group-title="🦄湾湾频道",台视新闻
+http://tvbox6.com/tv/twlive.php?id=nczztzzudtzlzcvbcvntzzzsfwetzfvcbcxvdzbzfflvcztsxw
+#EXTINF:-1 group-title="🦄湾湾频道",寰宇新闻
+http://tvbox6.com/tv/twlive.php?id=phxehmffzuxcxzvezezyhmnzzxzzhzdhnzbnxfdzfhyxw
+#EXTINF:-1 group-title="🦄湾湾频道",LIVE三立 
+http://tvbox6.com/tv/twlive.php?id=hmcyoywzzubzfdzfvchtcbszzzvfzhncvndvbsxcbmzsllive
+#EXTINF:-1 group-title="🦄湾湾频道",动物星球
+http://tvbox6.com/tv/twlive.php?id=xcvbpzyhvzcvnzzsfzvbhfhczhbnzszbcvzfdvzsfcbzbnzzwxz
+#EXTINF:-1 group-title="🦄湾湾频道",探索频道
+http://tvbox6.com/tv/twlive.php?id=zezcxlvofbzbvnzzsfzvbhfhcvbcvzfdvbnzczzszzzezztspz
+#EXTINF:-1 group-title="🦄湾湾频道",龙祥电影
+ http://tvbox6.com/tv/twlive.php?id=mzloehzbzzzpvboydetzewszhthzyuzfzwetyzzzhflxsz
+#EXTINF:-1 group-title="🦄湾湾频道",东森电影 
+http://tvbox6.com/tv/twlive.php?id=zowdxnzltdzhecvxczzezzezyhzdyduozuomdfzhzzzdzszy
+#EXTINF:-1 group-title="🦄湾湾频道",龙华电影
+http://tvbox6.com/tv/twlive.php?id=zpxnmzfhzuowezczxhvzlfzffzdwpoehcopvdzozzfxwzy
+#EXTINF:-1 group-title="🦄湾湾频道",龙华洋片 
+http://tvbox6.com/tv/twlive.php?id=zezcxlvofbzbvbzzzfzvzhslcfvxcvxszbcvzfdvsfcbzbnztyxty
+#EXTINF:-1 group-title="🦄湾湾频道",华云综合  
+http://tvbox6.com/tv/twlive.php?id=sfbxcvzsfzdhnfcvbsxzdnzsvmbnfzuzfdhyuzmzbvnzslhdz
+#EXTINF:-1 group-title="🦄湾湾频道",355台
+http://tvbox6.com/tv/twlive.php?id=sfbxcvzsfzdhnfcvbsxzdnzsvmvbszzzfdhyuzmzbvnzslhxd
+#EXTINF:-1 group-title="🦄湾湾频道",好莱坞电影
+http://tvbox6.com/tv/twlive.php?id=zmpzzwdeyzszzczvszfzlzvzfhzuezdfzhzwzlzcmbhlwzy
+#EXTINF:-1 group-title="🦄湾湾频道",AXN
+http://tvbox6.com/tv/twlive.php?id=zezcxlvofbzbvbzzzfzvzhslcfybzssxszbczcfdvsfcbzbnztyzxn
+#EXTINF:-1 group-title="🦄湾湾频道",壹新闻
+http://tvbox6.com/tv/twlive.php?id=mzfoyzvzsdvbnweztzuzzxzcvfzzszfhfzddzzlhtbchyxw
+#EXTINF:-1 group-title="🦄湾湾频道",非凡新闻
+http://tvbox6.com/tv/twlive.php?id=sztnfzzozdcbfcxvzfuuzzwezzzszyuhhdzszhzynffxw
+#EXTINF:-1 group-title="🦄湾湾频道",三洋
+http://tvbox6.com/tv/twlive.php?id=hmcyoywzzubzdfzfvchtzuzxczxvcbszfsdxcbmzsllivexw
+#EXTINF:-1 group-title="🦄湾湾频道",东森戏剧
+http://tvbox6.com/tv/twlive.php?id=yvzozmfdycvbzcxlzdzfxdcvnzvdwspzcophzfvztycxzpzzmendsxd
+#EXTINF:-1 group-title="🦄湾湾频道",TVBS新闻
+http://tvbox6.com/tv/twlive.php?id=zozwhzxozhzzzlfhzlzszcnxzfvbhzdzwzfzzdsswvtvbsxw
+#EXTINF:-1 group-title="🦄湾湾频道",TVBS频道
+http://tvbox6.com/tv/twlive.php?id=zpzovdxzozfdezodszxcvlzzfvhnzlzzzobzzzsvhzchtvbs
+#EXTINF:-1 group-title="🦄湾湾频道",台视
+http://tvbox6.com/tv/twlive.php?id=ptezfsxlvczdewzzzpszfvvxczzzpfossvbxcfzztzvxzhlts
+#EXTINF:-1 group-title="🦄湾湾频道",民视
+http://tvbox6.com/tv/twlive.php?id=phzwfpzwvnzfdlsetfzzzzszsftewzhvcbzzfdzuolzbms
+#EXTINF:-1 group-title="🦄湾湾频道",华视
+http://tvbox6.com/tv/twlive.php?id=pdymvcznzzzcvbcvbztyzzzffcfzvzftozzbvczfednhs
+#EXTINF:-1 group-title="🦄湾湾频道",中视
+http://tvbox6.com/tv/twlive.php?id=zphfwnmfdczfxcvhzzwzfbfzdyuzznmfcbsfzeztyhsdzs
+#EXTINF:-1 group-title="🦄湾湾频道",HBO
+http://tvbox6.com/tv/twlive.php?id=mzzlzpwzdctdfhdvzdzduzlvcbeywezweefshzfhhzszzcxhbo
+#EXTINF:-1 group-title="🦄湾湾频道",中天新闻
+http://tvbox6.com/tv/twlive.php?id=pzztvvzzzyzuuzzfvbscvzdztwzfszzszzzcvuyzemzeztxw
+#EXTINF:-1 group-title="🦄湾湾频道",CCM
+http://tvbox6.com/tv/twlive.php?id=vcnydszfzsetzzfcvbcdtszzfvxcvsznmbnlzzhzznmyhszzftydz
+#EXTINF:-1 group-title="🦄湾湾频道",天映频道
+http://tvbox6.com/tv/twlive.php?id=zezcxlvofbzbvnzzsfzvbhfhcvxcvzszbcvzfdvzsfcbzbnztypz
+#EXTINF:-1 group-title="🦄湾湾频道",东森洋片台
+http://tvbox6.com/tv/twlive.php?id=zmzptdzzxfzwetzvbzstzzzsutyhdzhflzzfhfhyzwzsyp
+
 #EXTINF:-1 group-title="🦄湾湾频道",TVBS-Asia
 http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 #EXTINF:-1 group-title="🦄湾湾频道",TVBS-Asia
