@@ -1290,11 +1290,12 @@ HBTV(5G专线),http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u
 ANTV(5G专线),http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 
 🦄国际频道「需魔法」,#genre#
-CNN News,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+CNN,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+BBC America,https://bcovlive-a.akamaihd.net/cde8d9416f6d4f1da0a4e8cfde6e8b2c/us-east-1/6240731308001/playlist.m3u8
+BBC cbeebies,https://dhx-teletubbies-1-gb.samsung.wurl.tv/playlist.m3u8
 BBC News,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
 Live Now FOX,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 NBC,http://41.205.93.154/NBC/index.m3u8
-One America News,http://n1.klowdtv.net/live1/oan_1080p/chunks.m3u8
 ABC Australia,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 Dubai One,http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
@@ -1335,12 +1336,11 @@ Bravo,http://170.254.18.106/BRAVO/index.m3u8
 AMC,http://170.254.18.106/AMC/index.m3u8
 Comedy Central,http://170.254.18.106/COMEDY_CENTRAL/index.m3u8
 Nickelodeon,http://143.244.60.30/NICKELODEON/index.m3u8
-Lifetime,http://170.254.18.106/LIFETIME/index.m3u8
+Lifetime,http://livex.pop-app.live/s4n/poplive/ch567/playlist.m3u8
 History,http://170.254.18.106/HISTORY/index.m3u8
 Star,http://170.254.18.106/STAR/index.m3u8
 FX,http://170.254.18.106/FX/index.m3u8
 TNT,http://170.254.18.106/TNT/index.m3u8
-MTV,http://170.254.18.106/MTV/index.m3u8
 VH1,http://170.254.18.106/VH1/index.m3u8
 Paramount Network,http://170.254.18.106/PARAMOUNT/index.m3u8
 HBO Xtreme,http://170.254.18.106/HBO_XTREME/index.m3u8
@@ -1353,13 +1353,6 @@ Sky Sport,https://donelfantastic.github.io/live/skysportsNz8.m3u8
 Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 TBS,http://143.244.60.30/TBS/index.m3u8
 
-
-BBC cbeebies,http://198.16.100.90:8278/Cbeebies/playlist.m3u8?tid=ME5E7901951779019517&ct=19225&tsum=03bb5bab7f669081444ce37cda408b8d
-BBC cbeebies,https://cdn-main.lolokoko.tv/CBeebies.stream/playlist.m3u8
-BBC cbeebies,https://dhx-teletubbies-1-gb.samsung.wurl.tv/playlist.m3u8
-BBC cbeebies,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=45328
-BBC-News,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
-Fox Sports,http://38.96.178.201:80/live/FOXSPORTS2/index.m3u8
 
 
 CNA新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
