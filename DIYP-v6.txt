@@ -829,6 +829,19 @@ Live-6323,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=
 凤凰资讯台,https://edge1.laotv.la/live/PhoenixNews/index.m3u8
 凤凰资讯台,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 
+TVB J2台,http://tvbox6.com/tv/twlive.php?id=fhwohdpthzyfiplhdftuzfbvdimhdznbzszbcvxzfzsehbvbztvbd2
+TVB 翡翠台,http://tvbox6.com/tv/twlive.php?id=fhwwzpthzyztzzzxcxbfhzzfzvhdtzdvbtvzszxzfszzcvbctvbfc
+TVB 明珠台,http://tvbox6.com/tv/twlive.php?id=tcfzhvdzzxcodwoetzmncthvbstyreyhbnnvbdzzwthzyztvbmz
+TVB 星河台(国),http://tvbox6.com/tv/twlive.php?id=zzmzptvzszzwxnhzzwzztzzztyfzszzszcfzxfzwmxzdtvbxh
+TVB 无线新闻台,http://tvbox6.com/tv/twlive.php?id=fhwzpthlzzszszzbvdlzdmnbzhdhyzyztvbwxxw
+TVB 财经体育资1台,http://tvbox6.com/tv/twlive.php?id=fhwylwpthzyzzfzxvzlmnduhyzmtvbwxcd
+TVB 财经体育资2台,http://tvbox6.com/tv/twlive.php?id=fhwohdpthfgfbvcfghzyfzszbcvxzvbxzsfzfzsehbvbztvbd5
+VIU TV台,http://tvbox6.com/tv/twlive.php?id=fhtzznzzdldzluzobnmzzhnbbmdzlpthzyzvzutv
+VIU TV6台,http://tvbox6.com/tv/twlive.php?id=fhwzptdzbehztyhbvhfzcvszzfyztvzutvszx
+RTHK31台,http://tvbox6.com/tv/twlive.php?id=hpzdthpthcvhnzuzulsfzhcvbzuyhbnzyzthz31
+RTHK32台,http://tvbox6.com/tv/twlive.php?id=zpzzecxvzzuszfzzfdhnbthzzszfwdtncyzthz32
+HOY 资讯台,http://tvbox6.com/tv/twlive.php?id=zezcxlvofbncvshhzszcvndfncvbdzpeyzhxchzszzhzezzzyxxw
+
 TVB翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 TVB翡翠台,http://ali.hlspull.yximgs.com/live/tvbfc264t3a88221300-nigedashabi.flv
 TVB功夫台(粤),http://ali.hlspull.yximgs.com/live/AsiaActiont3a88221300-nigedashabi.flv
@@ -916,9 +929,9 @@ TVB翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 TVB翡翠台(720p),http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
 TVB明珠台,http://qwas.eatuo.com:9901/tsfile/live/1014_1.m3u8
 
-
 🦄澳门频道,#genre#
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+澳门莲花台,http://tvbox6.com/tv/twlive.php?id=zezcxlvofbncvshhzszcvndcbvdbneyzhxchzzhbnzzhzezzmlh
 
 🦄湾湾频道,#genre#
 民视,rtmp://f13h.mine.nu/sat/tv051
@@ -932,6 +945,38 @@ TVB明珠台,http://qwas.eatuo.com:9901/tsfile/live/1014_1.m3u8
 MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
+
+民视新闻,http://tvbox6.com/tv/twlive.php?id=cnbvzfhdzuzzvcbnzftuzscxzfzezyhzzvzfmsxw
+中视新闻,http://tvbox6.com/tv/twlive.php?id=pnvzydstudzbszcvbfzzzszfzszwetymzldhduzocnzsxw
+台视新闻,http://tvbox6.com/tv/twlive.php?id=nczztzzudtzlzcvbcvntzzzsfwetzfvcbcxvdzbzfflvcztsxw
+寰宇新闻,http://tvbox6.com/tv/twlive.php?id=phxehmffzuxcxzvezezyhmnzzxzzhzdhnzbnxfdzfhyxw
+LIVE三立,http://tvbox6.com/tv/twlive.php?id=hmcyoywzzubzfdzfvchtcbszzzvfzhncvndvbsxcbmzsllive
+动物星球,http://tvbox6.com/tv/twlive.php?id=xcvbpzyhvzcvnzzsfzvbhfhczhbnzszbcvzfdvzsfcbzbnzzwxz
+探索频道,http://tvbox6.com/tv/twlive.php?id=zezcxlvofbzbvnzzsfzvbhfhcvbcvzfdvbnzczzszzzezztspz
+龙祥电影,http://tvbox6.com/tv/twlive.php?id=mzloehzbzzzpvboydetzewszhthzyuzfzwetyzzzhflxsz
+东森电影,http://tvbox6.com/tv/twlive.php?id=zowdxnzltdzhecvxczzezzezyhzdyduozuomdfzhzzzdzszy
+龙华电影,http://tvbox6.com/tv/twlive.php?id=zpxnmzfhzuowezczxhvzlfzffzdwpoehcopvdzozzfxwzy
+龙华洋片,http://tvbox6.com/tv/twlive.php?id=zezcxlvofbzbvbzzzfzvzhslcfvxcvxszbcvzfdvsfcbzbnztyxty
+华云综合,http://tvbox6.com/tv/twlive.php?id=sfbxcvzsfzdhnfcvbsxzdnzsvmbnfzuzfdhyuzmzbvnzslhdz
+355台,http://tvbox6.com/tv/twlive.php?id=sfbxcvzsfzdhnfcvbsxzdnzsvmvbszzzfdhyuzmzbvnzslhxd
+好莱坞电影,http://tvbox6.com/tv/twlive.php?id=zmpzzwdeyzszzczvszfzlzvzfhzuezdfzhzwzlzcmbhlwzy
+AXN,http://tvbox6.com/tv/twlive.php?id=zezcxlvofbzbvbzzzfzvzhslcfybzssxszbczcfdvsfcbzbnztyzxn
+壹新闻,http://tvbox6.com/tv/twlive.php?id=mzfoyzvzsdvbnweztzuzzxzcvfzzszfhfzddzzlhtbchyxw
+非凡新闻,http://tvbox6.com/tv/twlive.php?id=sztnfzzozdcbfcxvzfuuzzwezzzszyuhhdzszhzynffxw
+三洋,http://tvbox6.com/tv/twlive.php?id=hmcyoywzzubzdfzfvchtzuzxczxvcbszfsdxcbmzsllivexw
+东森戏剧,http://tvbox6.com/tv/twlive.php?id=yvzozmfdycvbzcxlzdzfxdcvnzvdwspzcophzfvztycxzpzzmendsxd
+TVBS新闻,http://tvbox6.com/tv/twlive.php?id=zozwhzxozhzzzlfhzlzszcnxzfvbhzdzwzfzzdsswvtvbsxw
+TVBS频道,http://tvbox6.com/tv/twlive.php?id=zpzovdxzozfdezodszxcvlzzfvhnzlzzzobzzzsvhzchtvbs
+台视,http://tvbox6.com/tv/twlive.php?id=ptezfsxlvczdewzzzpszfvvxczzzpfossvbxcfzztzvxzhlts
+民视,http://tvbox6.com/tv/twlive.php?id=phzwfpzwvnzfdlsetfzzzzszsftewzhvcbzzfdzuolzbms
+华视,http://tvbox6.com/tv/twlive.php?id=pdymvcznzzzcvbcvbztyzzzffcfzvzftozzbvczfednhs
+中视,http://tvbox6.com/tv/twlive.php?id=zphfwnmfdczfxcvhzzwzfbfzdyuzznmfcbsfzeztyhsdzs
+HBO,http://tvbox6.com/tv/twlive.php?id=mzzlzpwzdctdfhdvzdzduzlvcbeywezweefshzfhhzszzcxhbo
+中天新闻,http://tvbox6.com/tv/twlive.php?id=pzztvvzzzyzuuzzfvbscvzdztwzfszzszzzcvuyzemzeztxw
+CCM,http://tvbox6.com/tv/twlive.php?id=vcnydszfzsetzzfcvbcdtszzfvxcvsznmbnlzzhzznmyhszzftydz
+天映频道,http://tvbox6.com/tv/twlive.php?id=zezcxlvofbzbvnzzsfzvbhfhcvxcvzszbcvzfdvzsfcbzbnztypz
+东森洋片台,http://tvbox6.com/tv/twlive.php?id=zmzptdzzxfzwetzvbzstzzzsutyhdzhflzzfhfhyzwzsyp
+
 
 TVBS-Asia,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS-Asia,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
