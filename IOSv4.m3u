@@ -3812,10 +3812,15 @@ http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
 #EXTINF:-1 group-title="🦄日韩频道",ANTV(5G专线)
 http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 
+
 #EXTINF:-1 group-title="🦄国际频道「需魔法」",CNN News
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="🦄国际频道「需魔法」",BBC America
 https://bcovlive-a.akamaihd.net/cde8d9416f6d4f1da0a4e8cfde6e8b2c/us-east-1/6240731308001/playlist.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",BBC cbeebies
+https://dhx-teletubbies-1-gb.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="🦄国际频道「需魔法」",BBC News
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
 #EXTINF:-1 group-title="🦄国际频道「需魔法」",Live Now FOX
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="🦄国际频道「需魔法」",NBC
