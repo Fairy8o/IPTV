@@ -3951,16 +3951,32 @@ BRTV8K「官方」,http://mywlkj.ddns.net:754/dl/dl668/btv8k.php?id=brtv8k
 北京体育「北京联通」,http://111.199.1.184:8686/udp/239.3.1.243:8000
 
 🦄上海频道,#genre#
-上海炫动,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031123/1.m3u8?channel-id=bestzb&Contentid=5000000011000031123&livemode=1&stbId=3
-上海五星体育,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000007/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
-都市剧场,http://180.158.146.27:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-上海纪实,http://180.158.146.27:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-法制天地,http://180.158.146.27:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-上海教育,http://180.158.146.27:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-崇明综合,http://180.158.146.27:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-五星体育,http://180.158.146.27:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-上海电视剧,http://180.158.146.27:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
-上海新闻综合,http://180.158.146.27:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+新闻综合,https://epg.pw/stream/8d73975292bb5a6d540ac3536cd42045b6175d1921dc3f6fc9a0c5183f4d135a.m3u8
+第一财经,https://epg.pw/stream/e50901f8d91bbea01029258a74bf28b9c48044453b1dc2e8bc86d338f841e7d1.m3u8
+上海ics,https://epg.pw/stream/6089e60e4c19d0b5eea130e5e3436d465c895c6b04a5c93867d5f6e743575a91.ctv
+纪实人文,https://epg.pw/stream/9aefe8160883bf123f5eabef2745dff8aa16306485eea46e47c1653b0f45c886.m3u8
+金色学堂,https://epg.pw/stream/303d79304fb4c6e23c320315de037e71f67a6ee8866d45e994b896d07eede2bb.m3u8
+五星体育,https://epg.pw/stream/031acdbb137226f0c022242be1f31a039d40acf487f2c4b6fa6b40d6eb55f3f4.m3u8
+五星体育,https://epg.pw/stream/f1e2ae396a78c6e9ce02e394c0d82b65cb8e4a6b4df4673722a2f36685e07719.ctv
+
+都市频道,http://api.52tb.xyz/info?id=372&token=20230331fbulna
+上海ics,http://api.52tb.xyz/info?id=373&token=20230331fbulna
+东方影视,http://api.52tb.xyz/info?id=374&token=20230331fbulna
+第一财经,http://api.52tb.xyz/info?id=377&token=20230331fbulna
+纪实人文,http://api.52tb.xyz/info?id=378&token=20230331fbulna
+哈哈炫动,http://api.52tb.xyz/info?id=379&token=20230331fbulna
+五星体育,http://api.52tb.xyz/info?id=375&token=20230331fbulna
+五星体育,http://api.52tb.xyz/info?id=399&token=20230331fbulna
+
+都市频道,http://222.71.90.218:8888/newlive/live/hls/51/live.m3u8
+东方影视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000032212/1.m3u8?channel-id=bestzb&Contentid=5000000010000032212&livemode=1&stbId=3
+第一财经,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000027146/1.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
+哈哈炫动,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031123/1.m3u8?channel-id=bestzb&Contentid=5000000011000031123&livemode=1&stbId=3
+五星体育,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
+新闻综合,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000005/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000005&livemode=1&stbId=3
+新闻综合,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031110/1.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
+崇明电视台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8?zshangd
+嘉定电视台,https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8?zshangd
 
 🦄广东频道,#genre#
 汕头文旅体育,http://211.97.63.3:801/hls/80/index.m3u8
