@@ -816,7 +816,7 @@ BTV纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3
 河北卫视,http://222.223.119.21:8888/newlive/live/hls/48/live.m3u8
 
 
-🦄移动专线「多线路」❤️,#genre#
+🦄移动专线「多线路」,#genre#
 CCTV-1 综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV-2 财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV-3 综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
@@ -929,7 +929,7 @@ BTV 纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m
 内蒙古卫视,http://221.213.43.82:8888/newlive/live/hls/49/live.m3u8
 
 
-🦄联通专线「多线路」💛,#genre#
+🦄联通专线「多线路」,#genre#
 CCTV-1,http://1.30.18.218:20080/hls/1/index.m3u8
 CCTV-2,http://1.30.18.218:20080/hls/2/index.m3u8
 CCTV-3,http://1.30.18.218:20080/hls/3/index.m3u8
@@ -1294,7 +1294,7 @@ CCTV-16,http://220.194.178.58:8888/newlive/live/hls/18/live.m3u8
 宁夏卫视,https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
 
 
-🦄电信专线「多线路」💚,#genre#
+🦄电信专线「多线路」,#genre#
 CCTV1-综合,http://1.180.245.195:9901/tsfile/live/0001_1.m3u8?key=tvbox6_com&playlive=1&authid=0
 CCTV2-财经,http://1.180.245.195:9901/tsfile/live/0002_1.m3u8?key=tvbox6_com&playlive=1&authid=0
 CCTV3-综艺,http://1.180.245.195:9901/tsfile/live/0003_1.m3u8?key=tvbox6_com&playlive=1&authid=0
@@ -1651,6 +1651,107 @@ CCTV15-音乐,http://219.135.208.218:8083/tsfile/live/0015_1.m3u8
 山东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
 东南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
 四川卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
+
+
+🦄特色频道,#genre#
+电视指南,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
+风云足球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
+风云剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
+风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
+央视台球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
+第一剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
+女性时尚,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
+怀旧剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
+兵器科技,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
+高尔夫网,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
+央视文化,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
+哒啵电竞,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226951/index.m3u8
+哒啵赛事,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226954/index.m3u8
+CHC高清,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+CHC家庭,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+CHC动作,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+纪实人文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226230/index.m3u8
+山东教育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226238/index.m3u8
+置业频道,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226241/index.m3u8
+京视剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226242/index.m3u8
+家庭理财,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226244/index.m3u8
+奕坦春秋,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226245/index.m3u8
+发现之旅,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
+老故事台,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
+CETV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
+CETV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
+CETV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
+CETV1,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=135
+CETV2,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=492
+CGTN,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=134
+CGTN西班牙语,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=306
+CGTN阿拉伯语,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=308
+CGTN法语,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=307
+CGTN,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=305
+CGTN俄语,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=309
+
+求索动物,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=287
+求索生活,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=288
+求索地理,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=286
+家庭影院,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=289
+家庭剧场,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=290
+外国影院,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=291
+综艺,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=292
+午夜影院,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=294
+纪录片,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=295
+游戏竞技,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=296
+儿童动漫,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=293
+3D影院,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=298
+绘画,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=297
+家庭理财,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=139
+网络棋牌,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=141
+游戏竞技,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=142
+天元围棋,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=144
+电子体育,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=143
+环球旅游,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=147
+车迷频道,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=146
+生态环境,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=149
+发现之旅,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=151
+优优宝贝,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=153
+新疆卫视,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=150
+收藏天下,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=155
+中华特产,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=158
+中国天气,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=160
+法治天地,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=162
+电视指南,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=164
+家政,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=167
+重庆汽摩,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=168
+国学频道,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=169
+老故事,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=166
+女性时尚,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=176
+世界地理,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=177
+茶频道,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=181
+书画,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=180
+百姓健康,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=219
+摄影频道,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=222
+财富天下,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=231
+四海钓鱼,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=229
+风尚音乐,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=294
+重温经典,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=635
+
+都市剧场,http://tvbox6.com/tv/dl/dl668/migu.php?3659
+炫动3D,http://tvbox6.com/tv/dl/dl668/migu.php?3669
+3D动画片,http://tvbox6.com/tv/dl/dl668/migu.php?3671
+电视剧,http://tvbox6.com/tv/dl/dl668/migu.php?3674
+游戏风云,http://tvbox6.com/tv/dl/dl668/migu.php?3683
+美食频道,http://tvbox6.com/tv/dl/dl668/migu.php?3688
+纪录片,http://tvbox6.com/tv/dl/dl668/migu.php?3638
+3D频道,http://tvbox6.com/tv/dl/dl668/migu.php?3754
+电视剧轮播,http://59.48.75.130:3052/tsfile/live/1002_1.m3u8?key=tvbox6_com&playlive=1&authid=0
+经典电影,http://59.48.75.130:3052/tsfile/live/1001_1.m3u8?key=tvbox6_com&playlive=1&authid=0
+金鹰纪实,http://1.30.18.218:20080/hls/82/index.m3u8
+游戏风云,http://1.30.18.218:20080/hls/116/index.m3u8
+乐游,http://1.30.18.218:20080/hls/120/index.m3u8
+都市剧场,http://1.30.18.218:20080/hls/121/index.m3u8
+纪实人文,http://1.30.18.218:20080/hls/124/index.m3u8
+金色学堂,http://1.30.18.218:20080/hls/130/index.m3u8
+山东教育卫视,http://1.30.18.218:20080/hls/131/index.m3u8
+
 
 🦄4K-8K频道,#genre#
 咪咕8K,http://tvbox6.com/tv/dl/dl668/migu.php?3652
