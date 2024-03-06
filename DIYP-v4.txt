@@ -1,5 +1,7 @@
 🦄央视频道「多线路」,#genre#
 直播中国-唯一微信号:Cxx114x,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+有卡顿请手动切换其他线路,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+选择自己流畅的线路观看,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 CCTV1,http://tvbox6.com/tv/cctv.php?id=1
 CCTV2,http://tvbox6.com/tv/cctv.php?id=2
 CCTV3,http://tvbox6.com/tv/cctv.php?id=3
@@ -364,6 +366,8 @@ CETV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 
 
 🦄卫视频道「多线路」,#genre#
+有卡顿请手动切换其他线路,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+选择自己流畅的线路观看,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 北京卫视,http://tvbox6.com/tv/dl/dl668/migu.php?3730
 东方卫视,http://tvbox6.com/tv/dl/dl668/migu.php?3692
 湖南卫视,http://tvbox6.com/tv/dl/dl668/migu.php?3707
@@ -817,6 +821,8 @@ BTV纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3
 
 
 🦄移动专线「多线路」,#genre#
+有卡顿请手动切换其他线路,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+选择自己流畅的线路观看,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 CCTV-1 综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV-2 财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV-3 综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
@@ -930,6 +936,8 @@ BTV 纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m
 
 
 🦄联通专线「多线路」,#genre#
+有卡顿请手动切换其他线路,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+选择自己流畅的线路观看,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 CCTV-1,http://1.30.18.218:20080/hls/1/index.m3u8
 CCTV-2,http://1.30.18.218:20080/hls/2/index.m3u8
 CCTV-3,http://1.30.18.218:20080/hls/3/index.m3u8
@@ -1295,6 +1303,8 @@ CCTV-16,http://220.194.178.58:8888/newlive/live/hls/18/live.m3u8
 
 
 🦄电信专线「多线路」,#genre#
+有卡顿请手动切换其他线路,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+选择自己流畅的线路观看,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 CCTV1-综合,http://1.180.245.195:9901/tsfile/live/0001_1.m3u8?key=tvbox6_com&playlive=1&authid=0
 CCTV2-财经,http://1.180.245.195:9901/tsfile/live/0002_1.m3u8?key=tvbox6_com&playlive=1&authid=0
 CCTV3-综艺,http://1.180.245.195:9901/tsfile/live/0003_1.m3u8?key=tvbox6_com&playlive=1&authid=0
@@ -1651,7 +1661,6 @@ CCTV15-音乐,http://219.135.208.218:8083/tsfile/live/0015_1.m3u8
 山东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
 东南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
 四川卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
-
 
 🦄特色频道,#genre#
 电视指南,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
