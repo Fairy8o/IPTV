@@ -4056,66 +4056,90 @@ rtmp://f13h.mine.nu/sat/tv731
 #EXTINF:-1 group-title="🦄湾湾频道",ELEVEN体育2
 rtmp://f13h.mine.nu/sat/tv741
 
-#EXTINF:-1 group-title="🦄湾湾频道",民视新闻
-http://tvbox6.com/tv/twlive.php?id=cnbvzfhdzuzzvcbnzftuzscxzfzezyhzzvzfmsxw
-#EXTINF:-1 group-title="🦄湾湾频道",中视新闻
-http://tvbox6.com/tv/twlive.php?id=pnvzydstudzbszcvbfzzzszfzszwetymzldhduzocnzsxw
-#EXTINF:-1 group-title="🦄湾湾频道",台视新闻
-http://tvbox6.com/tv/twlive.php?id=nczztzzudtzlzcvbcvntzzzsfwetzfvcbcxvdzbzfflvcztsxw
-#EXTINF:-1 group-title="🦄湾湾频道",寰宇新闻
-http://tvbox6.com/tv/twlive.php?id=phxehmffzuxcxzvezezyhmnzzxzzhzdhnzbnxfdzfhyxw
-#EXTINF:-1 group-title="🦄湾湾频道",LIVE三立 
-http://tvbox6.com/tv/twlive.php?id=hmcyoywzzubzfdzfvchtcbszzzvfzhncvndvbsxcbmzsllive
-#EXTINF:-1 group-title="🦄湾湾频道",动物星球
-http://tvbox6.com/tv/twlive.php?id=xcvbpzyhvzcvnzzsfzvbhfhczhbnzszbcvzfdvzsfcbzbnzzwxz
-#EXTINF:-1 group-title="🦄湾湾频道",探索频道
-http://tvbox6.com/tv/twlive.php?id=zezcxlvofbzbvnzzsfzvbhfhcvbcvzfdvbnzczzszzzezztspz
+
+
+#EXTINF:-1 group-title="🦄湾湾频道",民视新闻台
+http://ali.hlspull.yximgs.com/live/twlivecnbvzfhdzuzzvcbnzftuzscxzfzezyhzzvzfmsxw.flv
+#EXTINF:-1 group-title="🦄湾湾频道",中视新闻台
+http://ali.hlspull.yximgs.com/live/twlivepnvzydstudzbszcvbfzzzszfzszwetymzldhduzocnzsxw.flv
+#EXTINF:-1 group-title="🦄湾湾频道",台视新闻台
+http://ali.hlspull.yximgs.com/live/twlivenczztzzudtzlzcvbcvntzzzsfwetzfvcbcxvdzbzfflvcztsxw.flv
+#EXTINF:-1 group-title="🦄湾湾频道",寰宇新闻台
+http://ali.hlspull.yximgs.com/live/twlivephxehmffzuxcxzvezezyhmnzzxzzhzdhnzbnxfdzfhyxw.flv
+#EXTINF:-1 group-title="🦄湾湾频道",中天新闻台
+http://ali.hlspull.yximgs.com/live/twlivepzztvvzzzyzuuzzfvbscvzdztwzfszzszzzcvuyzemzeztxw.flv
+#EXTINF:-1 group-title="🦄湾湾频道",年代新闻台
+http://ali.hlspull.yximgs.com/live/twliveozevdyscvbudlozlnsfzewtzudvbbzxfznzlvczdzdnzxw.flv
+#EXTINF:-1 group-title="🦄湾湾频道",东森新闻台
+http://ali.hlspull.yximgs.com/live/twlivemhzttuzzcvbyzuozdzzezywefzzfbxfbxxvbzzzlzzhzsxw.flv
+#EXTINF:-1 group-title="🦄湾湾频道",三立新闻台
+http://ali.hlspull.yximgs.com/live/twlivehmcyoywzzubzdfzfvchtzuzxczxvcbszfsdxcbmzsllivexw.flv
+#EXTINF:-1 group-title="🦄湾湾频道",非凡新闻台
+http://ali.hlspull.yximgs.com/live/twlivesztnfzzozdcbfcxvzfuuzzwezzzszyuhhdzszhzynffxw.flv
+#EXTINF:-1 group-title="🦄湾湾频道",壹新闻台
+http://ali.hlspull.yximgs.com/live/twlivemzfoyzvzsdvbnweztzuzzxzcvfzzszfhfzddzzlhtbchyxw.flv
+#EXTINF:-1 group-title="🦄湾湾频道",镜新闻台
+http://ali.hlspull.yximgs.com/live/twliveexcvzzocvuozxucfdexzpzzyxchvlzxzfezhcelethzzdxw.flv
+#EXTINF:-1 group-title="🦄湾湾频道",三立LIVE台
+http://ali.hlspull.yximgs.com/live/twlivehmcyoywzzubzfdzfvchtcbszzzvfzhncvndvbsxcbmzsllive.flv
+#EXTINF:-1 group-title="🦄湾湾频道",动物星球台
+http://ali.hlspull.yximgs.com/live/twlivexcvbpzyhvzcvnzzsfzvbhfhczhbnzszbcvzfdvzsfcbzbnzzwxz.flv
+#EXTINF:-1 group-title="🦄湾湾频道",探索频道台
+http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvnzzsfzvbhfhcvbcvzfdvbnzczzszzzezztspz.flv
+#EXTINF:-1 group-title="🦄湾湾频道",龙祥电影台
+http://ali.hlspull.yximgs.com/live/twlivemzloehzbzzzpvboydetzewszhthzyuzfzwetyzzzhflxsz.flv
+#EXTINF:-1 group-title="🦄湾湾频道",东森电影台
+http://ali.hlspull.yximgs.com/live/twlivezowdxnzltdzhecvxczzezzezyhzdyduozuomdfzhzzzdzszy.flv
+#EXTINF:-1 group-title="🦄湾湾频道",龙华电影台
+http://ali.hlspull.yximgs.com/live/twlivezpxnmzfhzuowezczxhvzlfzffzdwpoehcopvdzozzfxwzy.flv
+#EXTINF:-1 group-title="🦄湾湾频道",龙华洋片台
+http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzfzvzhslcfvxcvxszbcvzfdvsfcbzbnztyxty.flv
 #EXTINF:-1 group-title="🦄湾湾频道",龙祥电影
- http://tvbox6.com/tv/twlive.php?id=mzloehzbzzzpvboydetzewszhthzyuzfzwetyzzzhflxsz
-#EXTINF:-1 group-title="🦄湾湾频道",东森电影 
+http://tvbox6.com/tv/twlive.php?id=mzloehzbzzzpvboydetzewszhthzyuzfzwetyzzzhflxsz
+#EXTINF:-1 group-title="🦄湾湾频道",东森电影
 http://tvbox6.com/tv/twlive.php?id=zowdxnzltdzhecvxczzezzezyhzdyduozuomdfzhzzzdzszy
 #EXTINF:-1 group-title="🦄湾湾频道",龙华电影
 http://tvbox6.com/tv/twlive.php?id=zpxnmzfhzuowezczxhvzlfzffzdwpoehcopvdzozzfxwzy
-#EXTINF:-1 group-title="🦄湾湾频道",龙华洋片 
+#EXTINF:-1 group-title="🦄湾湾频道",龙华洋片
 http://tvbox6.com/tv/twlive.php?id=zezcxlvofbzbvbzzzfzvzhslcfvxcvxszbcvzfdvsfcbzbnztyxty
-#EXTINF:-1 group-title="🦄湾湾频道",华云综合  
-http://tvbox6.com/tv/twlive.php?id=sfbxcvzsfzdhnfcvbsxzdnzsvmbnfzuzfdhyuzmzbvnzslhdz
-#EXTINF:-1 group-title="🦄湾湾频道",355台
-http://tvbox6.com/tv/twlive.php?id=sfbxcvzsfzdhnfcvbsxzdnzsvmvbszzzfdhyuzmzbvnzslhxd
-#EXTINF:-1 group-title="🦄湾湾频道",好莱坞电影
-http://tvbox6.com/tv/twlive.php?id=zmpzzwdeyzszzczvszfzlzvzfhzuezdfzhzwzlzcmbhlwzy
-#EXTINF:-1 group-title="🦄湾湾频道",AXN
-http://tvbox6.com/tv/twlive.php?id=zezcxlvofbzbvbzzzfzvzhslcfybzssxszbczcfdvsfcbzbnztyzxn
-#EXTINF:-1 group-title="🦄湾湾频道",壹新闻
-http://tvbox6.com/tv/twlive.php?id=mzfoyzvzsdvbnweztzuzzxzcvfzzszfhfzddzzlhtbchyxw
-#EXTINF:-1 group-title="🦄湾湾频道",非凡新闻
-http://tvbox6.com/tv/twlive.php?id=sztnfzzozdcbfcxvzfuuzzwezzzszyuhhdzszhzynffxw
-#EXTINF:-1 group-title="🦄湾湾频道",三洋
-http://tvbox6.com/tv/twlive.php?id=hmcyoywzzubzdfzfvchtzuzxczxvcbszfsdxcbmzsllivexw
-#EXTINF:-1 group-title="🦄湾湾频道",东森戏剧
-http://tvbox6.com/tv/twlive.php?id=yvzozmfdycvbzcxlzdzfxdcvnzvdwspzcophzfvztycxzpzzmendsxd
+#EXTINF:-1 group-title="🦄湾湾频道",AXN台
+http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzfzvzhslcfybzssxszbczcfdvsfcbzbnztyzxn.flv
+#EXTINF:-1 group-title="🦄湾湾频道",东森戏剧台
+http://ali.hlspull.yximgs.com/live/twliveyvzozmfdycvbzcxlzdzfxdcvnzvdwspzcophzfvztycxzpzzmendsxd.flv
+#EXTINF:-1 group-title="🦄湾湾频道",斯博高球一
+http://ali.hlspull.yximgs.com/live/twlivezmxzcvpzozzdezhdbcxhvzsztzhwozzfszzzhvcxvhbszzyz.flv
+#EXTINF:-1 group-title="🦄湾湾频道",民视台
+http://ali.hlspull.yximgs.com/live/twlivephzwfpzwvnzfdlsetfzzzzszsftewzhvcbzzfdzuolzbms.flv
+#EXTINF:-1 group-title="🦄湾湾频道",斯博高球二
+http://ali.hlspull.yximgs.com/live/twlivetvzzpcpvuezlzyzdzyfzoxvchzwhzwozdzzhzzlszhbzbszzez.flv
+#EXTINF:-1 group-title="🦄湾湾频道",CINEMAX
+http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbzbvbzzzbvyvblcfybzxdbczcfdvsfcbzbnztcznemzx.flv
+#EXTINF:-1 group-title="🦄湾湾频道",DAZN体育
+http://ali.hlspull.yximgs.com/live/twlivezzozzxcvyhzszhtezwfhfvzzdvbdzszzzhzlzszvcelevend.flv
+#EXTINF:-1 group-title="🦄湾湾频道",爱尔达体育1
+http://ali.hlspull.yximgs.com/live/twlivezezpzxcvzpzozdxcvdzozdzpoedhopzfvxczhetouhzzvzzztyy.flv
+#EXTINF:-1 group-title="🦄湾湾频道",爱尔达体育3
+http://ali.hlspull.yximgs.com/live/twlivecxvpzeyzdcxozvmzlzbtzwzhozudscbcxozcvmnfuzlbhhztys.flv
+#EXTINF:-1 group-title="🦄湾湾频道",爱尔达体育4
+http://ali.hlspull.yximgs.com/live/twlivexcvbpzyhvzbvnzzsfzvbhfhczhbnzszbcvzfdvzsfcbzbnzlys.flv
 #EXTINF:-1 group-title="🦄湾湾频道",TVBS新闻
-http://tvbox6.com/tv/twlive.php?id=zozwhzxozhzzzlfhzlzszcnxzfvbhzdzwzfzzdsswvtvbsxw
+http://ali.hlspull.yximgs.com/live/twlivezozwhzxozhzzzlfhzlzszcnxzfvbhzdzwzfzzdsswvtvbsxw.flv
 #EXTINF:-1 group-title="🦄湾湾频道",TVBS频道
-http://tvbox6.com/tv/twlive.php?id=zpzovdxzozfdezodszxcvlzzfvhnzlzzzobzzzsvhzchtvbs
+http://ali.hlspull.yximgs.com/live/twlivezpzovdxzozfdezodszxcvlzzfvhnzlzzzobzzzsvhzchtvbs.flv
 #EXTINF:-1 group-title="🦄湾湾频道",台视
-http://tvbox6.com/tv/twlive.php?id=ptezfsxlvczdewzzzpszfvvxczzzpfossvbxcfzztzvxzhlts
-#EXTINF:-1 group-title="🦄湾湾频道",民视
-http://tvbox6.com/tv/twlive.php?id=phzwfpzwvnzfdlsetfzzzzszsftewzhvcbzzfdzuolzbms
-#EXTINF:-1 group-title="🦄湾湾频道",华视
-http://tvbox6.com/tv/twlive.php?id=pdymvcznzzzcvbcvbztyzzzffcfzvzftozzbvczfednhs
+http://ali.hlspull.yximgs.com/live/twliveptezfsxlvczdewzzzpszfvvxczzzpfossvbxcfzztzvxzhlts.flv
 #EXTINF:-1 group-title="🦄湾湾频道",中视
-http://tvbox6.com/tv/twlive.php?id=zphfwnmfdczfxcvhzzwzfbfzdyuzznmfcbsfzeztyhsdzs
-#EXTINF:-1 group-title="🦄湾湾频道",HBO
-http://tvbox6.com/tv/twlive.php?id=mzzlzpwzdctdfhdvzdzduzlvcbeywezweefshzfhhzszzcxhbo
-#EXTINF:-1 group-title="🦄湾湾频道",中天新闻
-http://tvbox6.com/tv/twlive.php?id=pzztvvzzzyzuuzzfvbscvzdztwzfszzszzzcvuyzemzeztxw
-#EXTINF:-1 group-title="🦄湾湾频道",CCM
-http://tvbox6.com/tv/twlive.php?id=vcnydszfzsetzzfcvbcdtszzfvxcvsznmbnlzzhzznmyhszzftydz
-#EXTINF:-1 group-title="🦄湾湾频道",天映频道
-http://tvbox6.com/tv/twlive.php?id=zezcxlvofbzbvnzzsfzvbhfhcvxcvzszbcvzfdvzsfcbzbnztypz
-#EXTINF:-1 group-title="🦄湾湾频道",东森洋片台
-http://tvbox6.com/tv/twlive.php?id=zmzptdzzxfzwetzvbzstzzzsutyhdzhflzzfhfhyzwzsyp
+http://ali.hlspull.yximgs.com/live/twlivezphfwnmfdczfxcvhzzwzfbfzdyuzznmfcbsfzeztyhsdzs.flv
+#EXTINF:-1 group-title="🦄湾湾频道",华视
+http://ali.hlspull.yximgs.com/live/twlivepdymvcznzzzcvbcvbztyzzzffcfzvzftozzbvczfednhs.flv
+#EXTINF:-1 group-title="🦄湾湾频道",好莱坞电影
+http://ali.hlspull.yximgs.com/live/twlivezmpzzwdeyzszzczvszfzlzvzfhzuezdfzhzwzlzcmbhlwzy.flv
+#EXTINF:-1 group-title="🦄湾湾频道",华云综合
+http://ali.hlspull.yximgs.com/live/twlivesfbxcvzsfzdhnfcvbsxzdnzsvmbnfzuzfdhyuzmzbvnzslhdz.flv
+#EXTINF:-1 group-title="🦄湾湾频道",355台
+http://ali.hlspull.yximgs.com/live/twlivesfbxcvzsfzdhnfcvbsxzdnzsvmvbszzzfdhyuzmzbvnzslhxd.flv
+
+
 
 #EXTINF:-1 group-title="🦄湾湾频道",TVBS-Asia
 http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
