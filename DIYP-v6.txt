@@ -452,7 +452,17 @@ I-Hot爱世界,http://117.148.187.83/hwltc.tv.cdn.zj.chinamobile.com/PLTV/888888
 大侦探,http://117.148.187.83/PLTV/88888888/224/3221226179/index.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226179/index.m3u8
 
 
+
 🦄4K-8K频道,#genre#
+8K测试,http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/wh7f454c46tw1934851583_-1658503044/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8?icpid=3&RTS=1674386345&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
+江苏8K测试,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
+香港8K测试,http://[2409:8087:2001:20:2800:0:df6e:eb05]/wh7f454c46tw1271963736_932867955/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
+8KUHD,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
+北京纪实科教8K,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
+4K修复,http://[2409:8087:2001:20:2800:0:df6e:eb15]:80/wh7f454c46tw3859899175_1232992871/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8?icpid=3&RTS=1674379680&from=40&popid=40&hms_devid=2115&prioritypopid=40&vqe=3
+纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/wh7f454c46tw3557828768_-2114508791/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8?icpid=3&RTS=1674379378&from=40&popid=40&hms_devid=2110&prioritypopid=40&vqe=3
+爱上4K,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
+欢笑剧场4K,http://[2409:8087:7000:20::14]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226582/1.m3u8?icpid=88888888&from=20&ocs=2_2409:8087:7001:20:2::2_80&hms_devid=623&prioritypopid=20&online=1707066312&vqe=3
 咪咕8K,http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233652/index.m3u8
 咪咕8K,http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221235532/index.m3u8
 Love Nrture 4K「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
