@@ -1701,40 +1701,49 @@ http://[2409:8087:1a01:df::4041]/PLTV/88888888/224/3221226053/index.m3u8
 http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
 
 
-#EXTINF:-1 group-title="🦄香港频道",TVB J2台
-http://tvbox6.com/tv/twlive.php?id=fhwohdpthzyfiplhdftuzfbvdimhdznbzszbcvxzfzsehbvbztvbd2
+🦄香港频道,#genre#
 #EXTINF:-1 group-title="🦄香港频道",TVB 翡翠台
-http://tvbox6.com/tv/twlive.php?id=fhwwzpthzyztzzzxcxbfhzzfzvhdtzdvbtvzszxzfszzcvbctvbfc
+http://ali.hlspull.yximgs.com/live/twlivefhwwzpthzyztzzzxcxbfhzzfzvhdtzdvbtvzszxzfszzcvbctvbfc.flv
+#EXTINF:-1 group-title="🦄香港频道",TVB J2台
+http://ali.hlspull.yximgs.com/live/twlivefhwohdpthzyfiplhdftuzfbvdimhdznbzszbcvxzfzsehbvbztvbd2.flv
+#EXTINF:-1 group-title="🦄香港频道",TVB 翡翠台
+http://ali.hlspull.yximgs.com/live/twlivefhwwzpthzyztzzzxcxbfhzzfzvhdtzdvbtvzszxzfszzcvbctvbfc.flv
 #EXTINF:-1 group-title="🦄香港频道",TVB 明珠台
-http://tvbox6.com/tv/twlive.php?id=tcfzhvdzzxcodwoetzmncthvbstyreyhbnnvbdzzwthzyztvbmz
+http://ali.hlspull.yximgs.com/live/twlivetcfzhvdzzxcodwoetzmncthvbstyreyhbnnvbdzzwthzyztvbmz.flv
 #EXTINF:-1 group-title="🦄香港频道",TVB 星河台(国)
-http://tvbox6.com/tv/twlive.php?id=zzmzptvzszzwxnhzzwzztzzztyfzszzszcfzxfzwmxzdtvbxh
-#EXTINF:-1 group-title="🦄香港频道",TVB 无线新闻台
-http://tvbox6.com/tv/twlive.php?id=fhwzpthlzzszszzbvdlzdmnbzhdhyzyztvbwxxw
-#EXTINF:-1 group-title="🦄香港频道",TVB 财经体育资1台
-http://tvbox6.com/tv/twlive.php?id=fhwylwpthzyzzfzxvzlmnduhyzmtvbwxcd
-#EXTINF:-1 group-title="🦄香港频道",TVB 财经体育资2台
-http://tvbox6.com/tv/twlive.php?id=fhwohdpthfgfbvcfghzyfzszbcvxzvbxzsfzfzsehbvbztvbd5
-#EXTINF:-1 group-title="🦄香港频道",VIU TV台
-http://tvbox6.com/tv/twlive.php?id=fhtzznzzdldzluzobnmzzhnbbmdzlpthzyzvzutv
-#EXTINF:-1 group-title="🦄香港频道",VIU TV6台
-http://tvbox6.com/tv/twlive.php?id=fhwzptdzbehztyhbvhfzcvszzfyztvzutvszx
-#EXTINF:-1 group-title="🦄香港频道",RTHK31台
-http://tvbox6.com/tv/twlive.php?id=hpzdthpthcvhnzuzulsfzhcvbzuyhbnzyzthz31
-#EXTINF:-1 group-title="🦄香港频道",RTHK32台
-http://tvbox6.com/tv/twlive.php?id=zpzzecxvzzuszfzzfdhnbthzzszfwdtncyzthz32
-#EXTINF:-1 group-title="🦄香港频道",HOY 资讯台
-http://tvbox6.com/tv/twlive.php?id=zezcxlvofbncvshhzszcvndfncvbdzpeyzhxchzszzhzezzzyxxw
-#EXTINF:-1 group-title="🦄香港频道",TVB星河
 http://ali.hlspull.yximgs.com/live/twlivezzmzptvzszzwxnhzzwzztzzztyfzszzszcfzxfzwmxzdtvbxh.flv
+#EXTINF:-1 group-title="🦄香港频道",TVB 无线新闻台
+http://ali.hlspull.yximgs.com/live/twlivefhwzpthlzzszszzbvdlzdmnbzhdhyzyztvbwxxw.flv
+#EXTINF:-1 group-title="🦄香港频道",TVB 财经体育资1台
+http://ali.hlspull.yximgs.com/live/twlivefhwylwpthzyzzfzxvzlmnduhyzmtvbwxcd.flv
+#EXTINF:-1 group-title="🦄香港频道",TVB 财经体育资2台
+http://ali.hlspull.yximgs.com/live/twlivefhwohdpthfgfbvcfghzyfzszbcvxzvbxzsfzfzsehbvbztvbd5.flv
+#EXTINF:-1 group-title="🦄香港频道",VIU TV台
+http://ali.hlspull.yximgs.com/live/twlivefhtzznzzdldzluzobnmzzhnbbmdzlpthzyzvzutv.flv
+#EXTINF:-1 group-title="🦄香港频道",VIU TV6台
+http://ali.hlspull.yximgs.com/live/twlivefhwzptdzbehztyhbvhfzcvszzfyztvzutvszx.flv
+#EXTINF:-1 group-title="🦄香港频道",RTHK31台
+http://ali.hlspull.yximgs.com/live/twlivehpzdthpthcvhnzuzulsfzhcvbzuyhbnzyzthz31.flv
+#EXTINF:-1 group-title="🦄香港频道",RTHK32台
+http://ali.hlspull.yximgs.com/live/twlivezpzzecxvzzuszfzzfdhnbthzzszfwdtncyzthz32.flv
+#EXTINF:-1 group-title="🦄香港频道",HOY 资讯台
+http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndfncvbdzpeyzhxchzszzhzezzzyxxw.flv
+#EXTINF:-1 group-title="🦄香港频道",好莱坞电影台
+http://ali.hlspull.yximgs.com/live/twlivezmpzzwdeyzszzczvszfzlzvzfhzuezdfzhzwzlzcmbhlwzy.flv
+#EXTINF:-1 group-title="🦄香港频道",重温经典频道
+http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
+#EXTINF:-1 group-title="🦄香港频道",重温经典频道
+http://221.204.43.29/a18f4a1e8ee5c9fe3d0f338af6467843.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
+#EXTINF:-1 group-title="🦄香港频道",TVB 星河台
+http://ali.hlspull.yximgs.com/live/twlivezzmzptvzszzwxnhzzwzztzzztyfzszzszcfzxfzwmxzdtvbxh.flv
+#EXTINF:-1 group-title="🦄香港频道",TVB J2台
+http://ali.hlspull.yximgs.com/live/twlivefhwohdpthzyfiplhdftuzfbvdimhdznbzszbcvxzfzsehbvbztvbd2.flv
 #EXTINF:-1 group-title="🦄香港频道",无线财经
 http://ali.hlspull.yximgs.com/live/twlivefhwohdpthfgfbvcfghzyfzszbcvxzvbxzsfzfzsehbvbztvbd5.flv
 #EXTINF:-1 group-title="🦄香港频道",凤凰资讯
 http://ali.hlspull.yximgs.com/live/twlivetvzzpcpdvuezlzyzzyfzoxvchzwhzwozzzhdzzlszhbzfhzx.flv
 #EXTINF:-1 group-title="🦄香港频道",凤凰中文
 http://ali.hlspull.yximgs.com/live/twlivetvzzpcpvuezlzydzzyfzoxvchzwhzwdozzzhzzlszhbzfhzw.flv
-#EXTINF:-1 group-title="🦄香港频道",TVB J2台
-http://ali.hlspull.yximgs.com/live/twlivefhwohdpthzyfiplhdftuzfbvdimhdznbzszbcvxzfzsehbvbztvbd2.flv
 #EXTINF:-1 group-title="🦄香港频道",无线新闻
 http://ali.hlspull.yximgs.com/live/twlivefhwzpthlzzszszzbvdlzdmnbzhdhyzyztvbwxxw.flv
 #EXTINF:-1 group-title="🦄香港频道",中国环球电视
@@ -1752,7 +1761,11 @@ http://ali.hlspull.yximgs.com/live/twlivezozwhzxozhzzzlfhzlzszcnxzfvbhzdzwzfzzds
 #EXTINF:-1 group-title="🦄香港频道",TVB功夫
 https://ali.hlspull.yximgs.com/live/12344.flv
 #EXTINF:-1 group-title="🦄香港频道",TVB功夫
+http://data.3g.yy.com/live/hls/1355002394/1355002394
+#EXTINF:-1 group-title="🦄香港频道",TVB功夫
 http://ali.hlspull.yximgs.com/live/gongfuguoyut3a88221300-dhoadhlabhkkl.flv
+
+
 #EXTINF:-1 group-title="🦄香港频道",（此处以下频道需要魔法搭配）
 http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 #EXTINF:-1 group-title="🦄香港频道",重温经典
