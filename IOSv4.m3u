@@ -3308,11 +3308,7 @@ https://cloud.yumixiu768.com/tmp/123.m3u8
 #EXTINF:-1 group-title="🦄体育频道",安徽体育
 http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
 #EXTINF:-1 group-title="🦄体育频道",CCTV5体育
-https://live.goodiptv.club/api/cqyx.php?id=cctv5HD
-#EXTINF:-1 group-title="🦄体育频道",CCTV5体育
 http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
-#EXTINF:-1 group-title="🦄体育频道",CCTV5+体育赛事
-https://live.goodiptv.club/api/cqyx.php?id=cctv5SportHD
 #EXTINF:-1 group-title="🦄体育频道",CCTV5+体育赛事
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
 #EXTINF:-1 group-title="🦄体育频道",风云足球
