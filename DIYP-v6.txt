@@ -599,9 +599,7 @@ CGTN纪录,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888
 广东体育,http://iptv.eatuo.com:9901/tsfile/live/1004_1.m3u8
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
 安徽体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
-CCTV5体育,https://live.goodiptv.club/api/cqyx.php?id=cctv5HD
 CCTV5体育,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
-CCTV5+体育赛事,https://live.goodiptv.club/api/cqyx.php?id=cctv5SportHD
 CCTV5+体育赛事,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
 风云足球,https://live.goodiptv.club/api/yqgd.php?id=fyzq
 皇马RMTV,https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
