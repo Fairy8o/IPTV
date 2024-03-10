@@ -2146,32 +2146,36 @@ Live-6323,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=
 咪咕27,http://39.135.137.208/000000001000/3000000010000005180/index.m3u8
 
 🦄香港频道,#genre#
-TVB J2台,http://tvbox6.com/tv/twlive.php?id=fhwohdpthzyfiplhdftuzfbvdimhdznbzszbcvxzfzsehbvbztvbd2
-TVB 翡翠台,http://tvbox6.com/tv/twlive.php?id=fhwwzpthzyztzzzxcxbfhzzfzvhdtzdvbtvzszxzfszzcvbctvbfc
-TVB 明珠台,http://tvbox6.com/tv/twlive.php?id=tcfzhvdzzxcodwoetzmncthvbstyreyhbnnvbdzzwthzyztvbmz
-TVB 星河台(国),http://tvbox6.com/tv/twlive.php?id=zzmzptvzszzwxnhzzwzztzzztyfzszzszcfzxfzwmxzdtvbxh
-TVB 无线新闻台,http://tvbox6.com/tv/twlive.php?id=fhwzpthlzzszszzbvdlzdmnbzhdhyzyztvbwxxw
-TVB 财经体育资1台,http://tvbox6.com/tv/twlive.php?id=fhwylwpthzyzzfzxvzlmnduhyzmtvbwxcd
-TVB 财经体育资2台,http://tvbox6.com/tv/twlive.php?id=fhwohdpthfgfbvcfghzyfzszbcvxzvbxzsfzfzsehbvbztvbd5
-VIU TV台,http://tvbox6.com/tv/twlive.php?id=fhtzznzzdldzluzobnmzzhnbbmdzlpthzyzvzutv
-VIU TV6台,http://tvbox6.com/tv/twlive.php?id=fhwzptdzbehztyhbvhfzcvszzfyztvzutvszx
-RTHK31台,http://tvbox6.com/tv/twlive.php?id=hpzdthpthcvhnzuzulsfzhcvbzuyhbnzyzthz31
-RTHK32台,http://tvbox6.com/tv/twlive.php?id=zpzzecxvzzuszfzzfdhnbthzzszfwdtncyzthz32
-HOY 资讯台,http://tvbox6.com/tv/twlive.php?id=zezcxlvofbncvshhzszcvndfncvbdzpeyzhxchzszzhzezzzyxxw
-TVB星河,http://ali.hlspull.yximgs.com/live/twlivezzmzptvzszzwxnhzzwzztzzztyfzszzszcfzxfzwmxzdtvbxh.flv
+TVB 翡翠台,http://ali.hlspull.yximgs.com/live/twlivefhwwzpthzyztzzzxcxbfhzzfzvhdtzdvbtvzszxzfszzcvbctvbfc.flv
+TVB J2台,http://ali.hlspull.yximgs.com/live/twlivefhwohdpthzyfiplhdftuzfbvdimhdznbzszbcvxzfzsehbvbztvbd2.flv
+TVB 翡翠台,http://ali.hlspull.yximgs.com/live/twlivefhwwzpthzyztzzzxcxbfhzzfzvhdtzdvbtvzszxzfszzcvbctvbfc.flv
+TVB 明珠台,http://ali.hlspull.yximgs.com/live/twlivetcfzhvdzzxcodwoetzmncthvbstyreyhbnnvbdzzwthzyztvbmz.flv
+TVB 星河台(国),http://ali.hlspull.yximgs.com/live/twlivezzmzptvzszzwxnhzzwzztzzztyfzszzszcfzxfzwmxzdtvbxh.flv
+TVB 无线新闻台,http://ali.hlspull.yximgs.com/live/twlivefhwzpthlzzszszzbvdlzdmnbzhdhyzyztvbwxxw.flv
+TVB 财经体育资1台,http://ali.hlspull.yximgs.com/live/twlivefhwylwpthzyzzfzxvzlmnduhyzmtvbwxcd.flv
+TVB 财经体育资2台,http://ali.hlspull.yximgs.com/live/twlivefhwohdpthfgfbvcfghzyfzszbcvxzvbxzsfzfzsehbvbztvbd5.flv
+VIU TV台,http://ali.hlspull.yximgs.com/live/twlivefhtzznzzdldzluzobnmzzhnbbmdzlpthzyzvzutv.flv
+VIU TV6台,http://ali.hlspull.yximgs.com/live/twlivefhwzptdzbehztyhbvhfzcvszzfyztvzutvszx.flv
+RTHK31台,http://ali.hlspull.yximgs.com/live/twlivehpzdthpthcvhnzuzulsfzhcvbzuyhbnzyzthz31.flv
+RTHK32台,http://ali.hlspull.yximgs.com/live/twlivezpzzecxvzzuszfzzfdhnbthzzszfwdtncyzthz32.flv
+HOY 资讯台,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndfncvbdzpeyzhxchzszzhzezzzyxxw.flv
+好莱坞电影台,http://ali.hlspull.yximgs.com/live/twlivezmpzzwdeyzszzczvszfzlzvzfhzuezdfzhzwzlzcmbhlwzy.flv
+重温经典频道,http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
+重温经典频道,http://221.204.43.29/a18f4a1e8ee5c9fe3d0f338af6467843.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
+TVB 星河台,http://ali.hlspull.yximgs.com/live/twlivezzmzptvzszzwxnhzzwzztzzztyfzszzszcfzxfzwmxzdtvbxh.flv
+TVB J2台,http://ali.hlspull.yximgs.com/live/twlivefhwohdpthzyfiplhdftuzfbvdimhdznbzszbcvxzfzsehbvbztvbd2.flv
 无线财经,http://ali.hlspull.yximgs.com/live/twlivefhwohdpthfgfbvcfghzyfzszbcvxzvbxzsfzfzsehbvbztvbd5.flv
 凤凰资讯,http://ali.hlspull.yximgs.com/live/twlivetvzzpcpdvuezlzyzzyfzoxvchzwhzwozzzhdzzlszhbzfhzx.flv
 凤凰中文,http://ali.hlspull.yximgs.com/live/twlivetvzzpcpvuezlzydzzyfzoxvchzwhzwdozzzhzzlszhbzfhzw.flv
-TVB J2台,http://ali.hlspull.yximgs.com/live/twlivefhwohdpthzyfiplhdftuzfbvdimhdznbzszbcvxzfzsehbvbztvbd2.flv
 无线新闻,http://ali.hlspull.yximgs.com/live/twlivefhwzpthlzzszszzbvdlzdmnbzhdhyzyztvbwxxw.flv
 中国环球电视,http://live.cgtn.com/500/prog_index.m3u8
 环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
-TVBS,http://ali.hlspull.yximgs.com/live/twlivezpzovdxzozfdezodszxcvlzzfvhnzlzzzobzzzsvhzchtvbs.flv 
+TVBS,http://ali.hlspull.yximgs.com/live/twlivezpzovdxzozfdezodszxcvlzzfvhnzlzzzobzzzsvhzchtvbs.flv
 TVBS新闻,http://ali.hlspull.yximgs.com/live/twlivezozwhzxozhzzzlfhzlzszcnxzfvbhzdzwzfzzdsswvtvbsxw.flv
 EZTV6台,http://vvlive.eztv.vip:80/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe
 TVB新闻,http://ali.hlspull.yximgs.com/live/twlivezozwhzxozhzzzlfhzlzszcnxzfvbhzdzwzfzzdsswvtvbsxw.flv
-TVBS新闻,mitv://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
 TVB功夫,https://ali.hlspull.yximgs.com/live/12344.flv
+TVB功夫,http://data.3g.yy.com/live/hls/1355002394/1355002394
 TVB功夫,http://ali.hlspull.yximgs.com/live/gongfuguoyut3a88221300-dhoadhlabhkkl.flv
 
 
