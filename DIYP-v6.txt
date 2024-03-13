@@ -953,7 +953,6 @@ Documentary-HD,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 
 🦄澳门频道,#genre#
 澳門澳視（IPv6）,http://iptv.hiper25.com:58080/TDM/index.m3u8
-澳门莲花台,http://ali.hlspull.yximgs.com/live/twlivezezcxlvofbncvshhzszcvndcbvdbneyzhxchzzhbnzzhzezzmlh.flv
 澳亚卫视,http://live.mastvnet.com:800/4rlff1m/live.m3u8
 澳亚卫视,http://live.mastvnet.com:800/4rlff1m/1024/live.m3u8
 澳亚卫视,http://live.mastvnet.com:800/4rlff1m/a/live.m3u8
