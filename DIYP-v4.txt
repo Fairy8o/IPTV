@@ -2160,7 +2160,7 @@ Live-6323,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=
 翡翠台（IPv6）,http://iptv.hiper25.com:58080/TVB/index.m3u8
 明珠台（IPv6）,http://iptv.hiper25.com:58080/Pearl/index.m3u8
 TVB星河台,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/playlist.m3u8
-TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+
 重温经典 HD,http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 重温经典,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=635
 香港文旅台,http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
@@ -2175,7 +2175,21 @@ TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 凤凰资讯台,https://edge1.laotv.la:443/live/PhoenixNews/index.m3u8
 凤凰资讯台,https://edge2.laotv.la/live/PhoenixNews/index.m3u8
 
-「官方」香港卫视,http://tvbox6.com/tv/dl/dl668/hk.php?id=1
+
+「代理」翡翠台,http://tvbox6.com/tv/dl/dl668/hk.php?id=9
+「代理」明珠台,http://tvbox6.com/tv/dl/dl668/hk.php?id=10
+「代理」J2台,http://tvbox6.com/tv/dl/dl668/hk.php?id=11
+「代理」无线新闻,http://tvbox6.com/tv/dl/dl668/hk.php?id=12
+「代理」翡翠台,http://tvbox6.com/tv/dl/dl668/hk.php?id=13
+「代理」明珠台,http://tvbox6.com/tv/dl/dl668/hk.php?id=14
+「代理」星空卫视,http://tvbox6.com/tv/dl/dl668/hk.php?id=16
+「代理」翡翠台,http://tvbox6.com/tv/dl/dl668/hk.php?id=13
+「代理」娱乐新闻,http://tvbox6.com/tv/dl/dl668/hk.php?id=19
+「代理」TVB泰国,http://tvbox6.com/tv/dl/dl668/hk.php?id=20
+「代理」TVB直播,http://tvbox6.com/tv/dl/dl668/hk.php?id=21
+「代理」神州新闻,http://tvbox6.com/tv/dl/dl668/hk.php?id=22
+「代理」武侠频道,http://tvbox6.com/tv/dl/dl668/hk.php?id=23
+
 「官方」香港文旅,http://tvbox6.com/tv/dl/dl668/hk.php?id=2
 「官方」RTHK32,http://tvbox6.com/tv/dl/dl668/hk.php?id=224
 「官方」耀才财经,http://tvbox6.com/tv/dl/dl668/hk.php?id=228
@@ -2185,28 +2199,12 @@ TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 「官方」GOODTV,http://tvbox6.com/tv/dl/dl668/hk.php?id=433
 「官方」番薯电视台,http://tvbox6.com/tv/dl/dl668/hk.php?id=584
 
-「代理」翡翠台,http://tvbox6.com/tv/dl/dl668/hk.php?id=9
-「代理」明珠台,http://tvbox6.com/tv/dl/dl668/hk.php?id=10
-「代理」J2台,http://tvbox6.com/tv/dl/dl668/hk.php?id=11
-「代理」无线新闻,http://tvbox6.com/tv/dl/dl668/hk.php?id=12
-「代理」翡翠台-1080p,http://tvbox6.com/tv/dl/dl668/hk.php?id=13
-「代理」明珠台,http://tvbox6.com/tv/dl/dl668/hk.php?id=14
-「代理」星空卫视,http://tvbox6.com/tv/dl/dl668/hk.php?id=16
-「代理」翡翠台,http://tvbox6.com/tv/dl/dl668/hk.php?id=13
-
-「代理」娱乐新闻,http://tvbox6.com/tv/dl/dl668/hk.php?id=19
-「代理」TVB泰国,http://tvbox6.com/tv/dl/dl668/hk.php?id=20
-「代理」TVB直播,http://tvbox6.com/tv/dl/dl668/hk.php?id=21
-「代理」神州新闻,http://tvbox6.com/tv/dl/dl668/hk.php?id=22
-「代理」武侠频道,http://tvbox6.com/tv/dl/dl668/hk.php?id=23
-
 凤凰中文,http://www.372583307.top:4022/udp/233.50.200.191:5140
 凤凰资讯,http://www.372583307.top:4022/udp/233.50.200.192:5140
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 香港卫视,http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
-星空卫视,http://218.202.220.2:5000/nn_live.ts?id=STARTV
 
 蕃薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 香港开电视,https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
