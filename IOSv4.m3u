@@ -3979,14 +3979,8 @@ https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 http://iptv.hiper25.com:58080/TVB/index.m3u8
 #EXTINF:-1 group-title="🦄香港频道「需魔法」",明珠台（IPv6）
 http://iptv.hiper25.com:58080/Pearl/index.m3u8
-#EXTINF:-1 group-title="🦄香港频道「需魔法」",TVB翡翠台
-https://epg.pw/stream/fe02817d95c6d58f41e1ea8208b5a8c9462bf525b153819b0c3918406127925a.m3u8
 #EXTINF:-1 group-title="🦄香港频道「需魔法」",TVB星河台
 https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/playlist.m3u8
-#EXTINF:-1 group-title="🦄香港频道「需魔法」",TVB翡翠台
-https://udnhls.skilldns.com/fhzx.m3u8
-#EXTINF:-1 group-title="🦄香港频道「需魔法」",TVBS新闻
-http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 #EXTINF:-1 group-title="🦄香港频道「需魔法」",重温经典 HD
 http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 #EXTINF:-1 group-title="🦄香港频道「需魔法」",重温经典
@@ -4013,8 +4007,32 @@ http://221.7.175.154:8445/tsfile/live/1022_1.m3u8
 https://edge1.laotv.la:443/live/PhoenixNews/index.m3u8
 #EXTINF:-1 group-title="🦄香港频道「需魔法」",凤凰资讯台
 https://edge2.laotv.la/live/PhoenixNews/index.m3u8
-#EXTINF:-1 group-title="🦄香港频道「需魔法」",「官方」香港卫视
-http://tvbox6.com/tv/dl/dl668/hk.php?id=1
+#EXTINF:-1 group-title="🦄香港频道「需魔法」",「代理」翡翠台
+http://tvbox6.com/tv/dl/dl668/hk.php?id=9
+#EXTINF:-1 group-title="🦄香港频道「需魔法」",「代理」明珠台
+http://tvbox6.com/tv/dl/dl668/hk.php?id=10
+#EXTINF:-1 group-title="🦄香港频道「需魔法」",「代理」J2台
+http://tvbox6.com/tv/dl/dl668/hk.php?id=11
+#EXTINF:-1 group-title="🦄香港频道「需魔法」",「代理」无线新闻
+http://tvbox6.com/tv/dl/dl668/hk.php?id=12
+#EXTINF:-1 group-title="🦄香港频道「需魔法」",「代理」翡翠台
+http://tvbox6.com/tv/dl/dl668/hk.php?id=13
+#EXTINF:-1 group-title="🦄香港频道「需魔法」",「代理」明珠台
+http://tvbox6.com/tv/dl/dl668/hk.php?id=14
+#EXTINF:-1 group-title="🦄香港频道「需魔法」",「代理」星空卫视
+http://tvbox6.com/tv/dl/dl668/hk.php?id=16
+#EXTINF:-1 group-title="🦄香港频道「需魔法」",「代理」翡翠台
+http://tvbox6.com/tv/dl/dl668/hk.php?id=13
+#EXTINF:-1 group-title="🦄香港频道「需魔法」",「代理」娱乐新闻
+http://tvbox6.com/tv/dl/dl668/hk.php?id=19
+#EXTINF:-1 group-title="🦄香港频道「需魔法」",「代理」TVB泰国
+http://tvbox6.com/tv/dl/dl668/hk.php?id=20
+#EXTINF:-1 group-title="🦄香港频道「需魔法」",「代理」TVB直播
+http://tvbox6.com/tv/dl/dl668/hk.php?id=21
+#EXTINF:-1 group-title="🦄香港频道「需魔法」",「代理」神州新闻
+http://tvbox6.com/tv/dl/dl668/hk.php?id=22
+#EXTINF:-1 group-title="🦄香港频道「需魔法」",「代理」武侠频道
+http://tvbox6.com/tv/dl/dl668/hk.php?id=23
 #EXTINF:-1 group-title="🦄香港频道「需魔法」",「官方」香港文旅
 http://tvbox6.com/tv/dl/dl668/hk.php?id=2
 #EXTINF:-1 group-title="🦄香港频道「需魔法」",「官方」RTHK32
@@ -4031,34 +4049,6 @@ http://tvbox6.com/tv/dl/dl668/hk.php?id=428
 http://tvbox6.com/tv/dl/dl668/hk.php?id=433
 #EXTINF:-1 group-title="🦄香港频道「需魔法」",「官方」番薯电视台
 http://tvbox6.com/tv/dl/dl668/hk.php?id=584
-#EXTINF:-1 group-title="🦄香港频道「需魔法」",「代理」翡翠台
-http://tvbox6.com/tv/dl/dl668/hk.php?id=9
-#EXTINF:-1 group-title="🦄香港频道「需魔法」",「代理」明珠台
-http://tvbox6.com/tv/dl/dl668/hk.php?id=10
-#EXTINF:-1 group-title="🦄香港频道「需魔法」",「代理」J2台
-http://tvbox6.com/tv/dl/dl668/hk.php?id=11
-#EXTINF:-1 group-title="🦄香港频道「需魔法」",「代理」无线新闻
-http://tvbox6.com/tv/dl/dl668/hk.php?id=12
-#EXTINF:-1 group-title="🦄香港频道「需魔法」",「代理」翡翠台-1080p
-http://tvbox6.com/tv/dl/dl668/hk.php?id=13
-#EXTINF:-1 group-title="🦄香港频道「需魔法」",「代理」明珠台
-http://tvbox6.com/tv/dl/dl668/hk.php?id=14
-#EXTINF:-1 group-title="🦄香港频道「需魔法」",「代理」星空卫视
-http://tvbox6.com/tv/dl/dl668/hk.php?id=16
-#EXTINF:-1 group-title="🦄香港频道「需魔法」",「代理」翡翠台
-http://tvbox6.com/tv/dl/dl668/hk.php?id=13
-#EXTINF:-1 group-title="🦄香港频道「需魔法」",「代理」翡翠台
-http://tvbox6.com/tv/dl/dl668/hk.php?id=17
-#EXTINF:-1 group-title="🦄香港频道「需魔法」",「代理」娱乐新闻
-http://tvbox6.com/tv/dl/dl668/hk.php?id=19
-#EXTINF:-1 group-title="🦄香港频道「需魔法」",「代理」TVB泰国
-http://tvbox6.com/tv/dl/dl668/hk.php?id=20
-#EXTINF:-1 group-title="🦄香港频道「需魔法」",「代理」TVB直播
-http://tvbox6.com/tv/dl/dl668/hk.php?id=21
-#EXTINF:-1 group-title="🦄香港频道「需魔法」",「代理」神州新闻
-http://tvbox6.com/tv/dl/dl668/hk.php?id=22
-#EXTINF:-1 group-title="🦄香港频道「需魔法」",「代理」武侠频道
-http://tvbox6.com/tv/dl/dl668/hk.php?id=23
 #EXTINF:-1 group-title="🦄香港频道「需魔法」",凤凰中文
 http://www.372583307.top:4022/udp/233.50.200.191:5140
 #EXTINF:-1 group-title="🦄香港频道「需魔法」",凤凰资讯
@@ -4071,8 +4061,6 @@ http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 #EXTINF:-1 group-title="🦄香港频道「需魔法」",香港卫视
 http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
-#EXTINF:-1 group-title="🦄香港频道「需魔法」",星空卫视
-http://218.202.220.2:5000/nn_live.ts?id=STARTV
 #EXTINF:-1 group-title="🦄香港频道「需魔法」",蕃薯台
 http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 #EXTINF:-1 group-title="🦄香港频道「需魔法」",香港开电视
