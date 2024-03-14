@@ -3977,6 +3977,8 @@ http://39.135.137.208/000000001000/3000000010000005180/index.m3u8
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="🦄香港频道「需魔法」",翡翠台（IPv6）
 http://iptv.hiper25.com:58080/TVB/index.m3u8
+#EXTINF:-1 group-title="🦄香港频道「需魔法」",TVB翡翠台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwwjpthjyjtjjjxcxbfhjjfjvhdtjdvbtvjsjxjfsjjcvbctvbfc.flv
 #EXTINF:-1 group-title="🦄香港频道「需魔法」",明珠台（IPv6）
 http://iptv.hiper25.com:58080/Pearl/index.m3u8
 #EXTINF:-1 group-title="🦄香港频道「需魔法」",TVB星河台
