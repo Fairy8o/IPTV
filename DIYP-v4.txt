@@ -4152,6 +4152,7 @@ BRTV8K「官方」,http://mywlkj.ddns.net:754/dl/dl668/btv8k.php?id=brtv8k
 
 🦄广东频道,#genre#
 廣東體育（IPv6）,http://iptv.hiper25.com:58080/gdty/index.m3u8
+广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
 广东体育,http://d3p7dejj.v3n.pkoplink.com:4433/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://116.21.120.40:4433/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 广东体育,http://183.6.110.242:9901/hls/1053/index.m3u8
