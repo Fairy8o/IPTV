@@ -2160,6 +2160,7 @@ Live-6323,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=
 翡翠台（IPv6）,http://iptv.hiper25.com:58080/TVB/index.m3u8
 明珠台（IPv6）,http://iptv.hiper25.com:58080/Pearl/index.m3u8
 TVB星河台,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/playlist.m3u8
+TVB翡翠台,http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwwjpthjyjtjjjxcxbfhjjfjvhdtjdvbtvjsjxjfsjjcvbctvbfc.flv
 
 重温经典 HD,http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 重温经典,http://tvbox6.com/tv/dl/dl668/bfgd.php?id=635
