@@ -1882,15 +1882,23 @@ http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 
 #EXTINF:-1 group-title="🦄香港频道「测试中」",售后唯一微信号:Cxx114x
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰卫视
+#EXTINF:-1 group-title="🦄香港频道「测试中」",重温经典
+http://43.141.130.70/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰中文台
+http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
+#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰资讯台
+http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
+#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰香港台
+http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
+#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰卫视台
 http://ali.hlspull.yximgs.com/live/huanqiuhklivetvjjpcpvuejljydjjyfjoxvchjwhjwdojjjhjjlsjhbjfhjw.flv
-#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰资讯
+#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰资讯台
 http://ali.hlspull.yximgs.com/live/huanqiuhklivetvjjpcpdvuejljyjjyfjoxvchjwhjwojjjhdjjlsjhbjfhjx.flv
 #EXTINF:-1 group-title="🦄香港频道「测试中」",TVB翡翠台
 http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwwjpthjyjtjjjxcxbfhjjfjvhdtjdvbtvjsjxjfsjjcvbctvbfc.flv
 #EXTINF:-1 group-title="🦄香港频道「测试中」",TVB明珠台
 http://ali.hlspull.yximgs.com/live/huanqiuhklivetcfjhvdjjxcodwoetjmncthvbstyreyhbnnvbdjjwthjyjtvbmj.flv
-#EXTINF:-1 group-title="🦄香港频道「测试中」",TVBJ2台
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB J2台
 http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwohdpthjyfiplhdftujfbvdimhdjnbjsjbcvxjfjsehbvbjtvbd2.flv
 #EXTINF:-1 group-title="🦄香港频道「测试中」",TVB星河台
 http://ali.hlspull.yximgs.com/live/huanqiuhklivejjmjptvjsjjwxnhjjwjjtjjjtyfjsjjsjcfjxfjwmxjdtvbxh.flv
@@ -1910,18 +1918,42 @@ http://ali.hlspull.yximgs.com/live/huanqiuhklivevhxjcvfhoejfjhdojjjyhcvxcljhjotj
 http://ali.hlspull.yximgs.com/live/huanqiuhklivefhtjjnjjdldjlujobnmjjhnbbmdjlpthjyjvjutv.flv
 #EXTINF:-1 group-title="🦄香港频道「测试中」",VIUTV6
 http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwjptdjbehjtyhbvhfjcvsjjfyjtvjutvsjx.flv
+#EXTINF:-1 group-title="🦄香港频道「测试中」",天映频道粤
+http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvnjjsfjvbhfhcvxcvjsjbcvjfdvjsfcbjbnjtypj.flv
+#EXTINF:-1 group-title="🦄香港频道「测试中」",天映经典国
+http://ali.hlspull.yximgs.com/live/huanqiuhklivevcnydsjfjsetjjfcvbcdtsjjfvxcvsjnmbnljjhjjnmyhsjjftydj.flv
+#EXTINF:-1 group-title="🦄香港频道「测试中」",有线新闻台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbncvshhjsjcvndfncvbdjpeyjhxchjsjjhjejjjyxxw.flv
+#EXTINF:-1 group-title="🦄香港频道「测试中」",有线综合台
+http://ali.hlspull.yximgs.com/live/huanqiuhkliveyvjojmfdyjjdjdjhdnowspjjlfjhjtycxjfjjojtspjjmehoytv.flv
+#EXTINF:-1 group-title="🦄香港频道「测试中」",无线资讯台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwylwpthjyjjfjxvjlmnduhyjmtvbwxcd.flv
+#EXTINF:-1 group-title="🦄香港频道「测试中」",无线明珠台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivetcfjhvdjjxcodwoetjmncthvbstyreyhbnnvbdjjwthjyjtvbmj.flv
+#EXTINF:-1 group-title="🦄香港频道「测试中」",无线星河粤
+http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",无线星河国
+http://ali.hlspull.yximgs.com/live/huanqiuhklivejjmjptvjsjjwxnhjjwjjtjjjtyfjsjjsjcfjxfjwmxjdtvbxh.flv
+#EXTINF:-1 group-title="🦄香港频道「测试中」",无线娱乐台
+http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",无线功夫台
+https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 #EXTINF:-1 group-title="🦄香港频道「测试中」",RTHK31
 http://ali.hlspull.yximgs.com/live/huanqiuhklivehpjdthpthcvhnjujulsfjhcvbjuyhbnjyjthj31.flv
 #EXTINF:-1 group-title="🦄香港频道「测试中」",RTHK32
 http://ali.hlspull.yximgs.com/live/huanqiuhklivejpjjecxvjjusjfjjfdhnbthjjsjfwdtncyjthj32.flv
-#EXTINF:-1 group-title="🦄香港频道「测试中」",天映频道
-http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvnjjsfjvbhfhcvxcvjsjbcvjfdvjsfcbjbnjtypj.flv
-#EXTINF:-1 group-title="🦄香港频道「测试中」",天映经典
-http://ali.hlspull.yximgs.com/live/huanqiuhklivevcnydsjfjsetjjfcvbcdtsjjfvxcvsjnmbnljjhjjnmyhsjjftydj.flv
+#EXTINF:-1 group-title="🦄香港频道「测试中」",RTHK33
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",RTHK34
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",RTHK35
+https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
 #EXTINF:-1 group-title="🦄香港频道「测试中」",翡翠台（IPv6）
 http://iptv.hiper25.com:58080/TVB/index.m3u8
 #EXTINF:-1 group-title="🦄香港频道「测试中」",明珠台（IPv6）
 http://iptv.hiper25.com:58080/Pearl/index.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",（此处以下频道需要魔法）
+https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="🦄香港频道「测试中」",TVB翡翠台
 http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
 #EXTINF:-1 group-title="🦄香港频道「测试中」",TVB星河台
@@ -1962,6 +1994,8 @@ http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
 https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
 #EXTINF:-1 group-title="🦄香港频道「测试中」",香港卫视
 http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",面包台
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 group-title="🦄香港频道「测试中」",蕃薯台
 http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 #EXTINF:-1 group-title="🦄香港频道「测试中」",香港开电视
@@ -1996,6 +2030,7 @@ https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:-1 group-title="🦄香港频道「测试中」",香港RHK32
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
+
 
 #EXTINF:-1 group-title="🦄澳门频道"澳門澳視（IPv6）
 http://iptv.hiper25.com:58080/TDM/index.m3u8
@@ -2067,15 +2102,25 @@ http://ali.hlspull.yximgs.com/live/huanqiuhklivejphfwnmfdcjfxcvhjjwjfbfjdyujjnmf
 http://ali.hlspull.yximgs.com/live/huanqiuhklivepdymvcjnjjjcvbcvbjtyjjjffcfjvjftojjbvcjfednhs.flv
 #EXTINF:-1 group-title="🦄湾湾频道「测试中」",台视
 http://ali.hlspull.yximgs.com/live/huanqiuhkliveptejfsxlvcjdewjjjpsjfvvxcjjjpfossvbxcfjjtjvxjhlts.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",TVBS台
-http://ali.hlspull.yximgs.com/live/huanqiuhklivejpjovdxjojfdejodsjxcvljjfvhnjljjjobjjjsvhjchtvbs.flv
 #EXTINF:-1 group-title="🦄湾湾频道「测试中」",TVBS新闻台
 http://ali.hlspull.yximgs.com/live/huanqiuhklivejojwhjxojhjjjlfhjljsjcnxjfvbhjdjwjfjjdsswvtvbsxw.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",壹新闻台
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",TVBSHD台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivejpjovdxjojfdejodsjxcvljjfvhnjljjjobjjjsvhjchtvbs.flv
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",东森新闻台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivemhjttujjcvbyjuojdjjejywefjjfbxfbxxvbjjjljjhjsxw.flv
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",三立新闻台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivehmcyoywjjubjdfjfvchtjujxcjxvcbsjfsdxcbmjsllivexw.flv
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",三立LIVE台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivehmcyoywjjubjfdjfvchtcbsjjjvfjhncvndvbsxcbmjsllive.flv
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",年代新闻台
+http://ali.hlspull.yximgs.com/live/huanqiuhkliveojevdyscvbudlojlnsfjewtjudvbbjxfjnjlvcjdjdnjxw.flv
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",非凡新闻台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivesjtnfjjojdcbfcxvjfuujjwejjjsjyuhhdjsjhjynffxw.flv
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",闽壹新闻台
 http://ali.hlspull.yximgs.com/live/huanqiuhklivemjfoyjvjsdvbnwejtjujjxjcvfjjsjfhfjddjjlhtbchyxw.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",镜新闻台
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",闽镜新闻台
 http://ali.hlspull.yximgs.com/live/huanqiuhkliveexcvjjocvuojxucfdexjpjjyxchvljxjfejhcelethjjdxw.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",华视新闻台
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",公视新闻台
 http://ali.hlspull.yximgs.com/live/huanqiuhklivencxtdtejhlvmjsjwjejwttyjhvcbjjjsjntjvbjugsxw.flv
 #EXTINF:-1 group-title="🦄湾湾频道「测试中」",中视新闻台
 http://ali.hlspull.yximgs.com/live/huanqiuhklivepnvjydstudjbsjcvbfjjjsjfjsjwetymjldhdujocnjsxw.flv
@@ -2083,18 +2128,26 @@ http://ali.hlspull.yximgs.com/live/huanqiuhklivepnvjydstudjbsjcvbfjjjsjfjsjwetym
 http://ali.hlspull.yximgs.com/live/huanqiuhklivencjjtjjudtjljcvbcvntjjjsfwetjfvcbcxvdjbjfflvcjtsxw.flv
 #EXTINF:-1 group-title="🦄湾湾频道「测试中」",寰宇新闻台
 http://ali.hlspull.yximgs.com/live/huanqiuhklivephxehmffjuxcxjvejejyhmnjjxjjhjdhnjbnxfdjfhyxw.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",中天新闻台
-http://ali.hlspull.yximgs.com/live/huanqiuhklivepjjtvvjjjyjuujjfvbscvjdjtwjfsjjsjjjcvuyjemjejtxw.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",年代新闻台
-http://ali.hlspull.yximgs.com/live/huanqiuhkliveojevdyscvbudlojlnsfjewtjudvbbjxfjnjlvcjdjdnjxw.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",东森新闻台
-http://ali.hlspull.yximgs.com/live/huanqiuhklivemhjttujjcvbyjuojdjjejywefjjfbxfbxxvbjjjljjhjsxw.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",三立新闻台
-http://ali.hlspull.yximgs.com/live/huanqiuhklivehmcyoywjjubjdfjfvchtjujxcjxvcbsjfsdxcbmjsllivexw.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",三立LIVE台
-http://ali.hlspull.yximgs.com/live/huanqiuhklivehmcyoywjjubjfdjfvchtcbsjjjvfjhncvndvbsxcbmjsllive.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",非凡新闻台
-http://ali.hlspull.yximgs.com/live/huanqiuhklivesjtnfjjojdcbfcxvjfuujjwejjjsjyuhhdjsjhjynffxw.flv
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",闽南台视台
+http://ali.hlspull.yximgs.com/live/huanqiuhkliveptejfsxlvcjdewjjjpsjfvvxcjjjpfossvbxcfjjtjvxjhlts.flv
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",闽南民视台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivephjwfpjwvnjfdlsetfjjjjsjsftewjhvcbjjfdjuoljbms.flv
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",闽南中视台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivejphfwnmfdcjfxcvhjjwjfbfjdyujjnmfcbsfjejtyhsdjs.flv
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",闽南华视台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivepdymvcjnjjjcvbcvbjtyjjjffcfjvjftojjbvcjfednhs.flv
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",龙祥电影台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivemjloehjbjjjpvboydetjewsjhthjyujfjwetyjjjhflxsj.flv
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",东森电影台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivejowdxnjltdjhecvxcjjejjejyhjdyduojuomdfjhjjjdjsjy.flv
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",龙华戏剧台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvnjjsfjvbhslcfvxcvjsjbcvjfdvjsfcbjbnjtyjd.flv
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",龙华洋片台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvbjjjfjvjhslcfvxcvxsjbcvjfdvsfcbjbnjtyxty.flv
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",好莱坞电影
+http://ali.hlspull.yximgs.com/live/huanqiuhklivejmpjjwdeyjsjjcjvsjfjljvjfhjuejdfjhjwjljcmbhlwjy.flv
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",AXN电影台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvbjjjfjvjhslcfybjssxsjbcjcfdvsfcbjbnjtyjxn.flv
 #EXTINF:-1 group-title="🦄湾湾频道「测试中」",华艺综合台
 http://ali.hlspull.yximgs.com/live/huanqiuhklivesfbxcvjsfjdhnfcvbsxjdnjsvmbnfjujfdhyujmjbvnjslhdj.flv
 #EXTINF:-1 group-title="🦄湾湾频道「测试中」",东森戏剧台
@@ -2105,52 +2158,40 @@ http://ali.hlspull.yximgs.com/live/huanqiuhkliveyvjojmfdycvbjcxljdjfxdcvnjvdwspj
 http://ali.hlspull.yximgs.com/live/huanqiuhklivejowdxnjltdjhecvxcjjejjejyhjdyduojuomdfjhjjjdjsjy.flv
 #EXTINF:-1 group-title="🦄湾湾频道「测试中」",东森洋片台
 http://ali.hlspull.yximgs.com/live/huanqiuhklivejmjptdjjxfjwetjvbjstjjjsutyhdjhfljjfhfhyjwjsyp.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",龙祥电影台
-http://ali.hlspull.yximgs.com/live/huanqiuhklivemjloehjbjjjpvboydetjewsjhthjyujfjwetyjjjhflxsj.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",龙华戏剧台
-http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvnjjsfjvbhslcfvxcvjsjbcvjfdvjsfcbjbnjtyjd.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",龙华洋片台
-http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvbjjjfjvjhslcfvxcvxsjbcvjfdvsfcbjbnjtyxty.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",好莱坞电影台
-http://ali.hlspull.yximgs.com/live/huanqiuhklivejmpjjwdeyjsjjcjvsjfjljvjfhjuejdfjhjwjljcmbhlwjy.flv
 #EXTINF:-1 group-title="🦄湾湾频道「测试中」",ELTA影剧台
 http://ali.hlspull.yximgs.com/live/huanqiuhklivesfbxcvjsfjdhnfcvbsxjdnjsvmvbsjjjfdhyujmjbvnjslhxd.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",CINEMAX电影台
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",CINEMAX台
 http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvbjjjbvyvblcfybjxdbcjcfdvsfcbjbnjtcjnemjx.flv
 #EXTINF:-1 group-title="🦄湾湾频道「测试中」",BOO恐怖台
 http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbncvshhjsjcvndfncvbdjpxyjhjchjsjbhjejjjvboo.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",Thrill台
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",Thrill影剧台
 http://ali.hlspull.yximgs.com/live/huanqiuhkliveecvjwejjosvojjjsjjjdejfjxjucjshvjcsjjfcjtchpljy.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",Thrill台
-http://ali.hlspull.yximgs.com/live/huanqiuhklivejvpjfjwjojcvljnjletfojsjjhjsjdjljdfewjjtthjjll.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",AXN台
-http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvbjjjfjvjhslcfybjssxsjbcjcfdvsfcbjbnjtyjxn.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",HBO台
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",HBO电影台
 http://ali.hlspull.yximgs.com/live/huanqiuhklivemjjljpwjdctdfhdvjdjdujlvcbeywejweefshjfhhjsjjcxhbo.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",HBO 家庭台
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",HBO家庭台
 http://ali.hlspull.yximgs.com/live/huanqiuhklivetjcvsjgcjyhpvobjxclmvhjogdjbodbsjhlelevendhbosignature.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",探索频道
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",探索频道台
 http://ali.hlspull.yximgs.com/live/huanqiuhklivejejcxlvofbjbvnjjsfjvbhfhcvbcvjfdvbnjcjjsjjjejjtspj.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",国家野生
-http://ali.hlspull.yximgs.com/live/huanqiuhklivexcvbpjyhvjbvnjjsfjvbhfhcjhbnjsjbcvjfdvjsfcbjbnjlys.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",国家地理
-http://ali.hlspull.yximgs.com/live/huanqiuhklivexcvbpjyhvjcvnjjsfvvbhfjcjhbnjsjbcvjftjjsfcbjbnjgdjl.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",动物星球
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",动物星球台
 http://ali.hlspull.yximgs.com/live/huanqiuhklivexcvbpjyhvjcvnjjsfjvbhfhcjhbnjsjbcvjfdvjsfcbjbnjjwxj.flv
 #EXTINF:-1 group-title="🦄湾湾频道「测试中」",纬来体育台
 http://ali.hlspull.yximgs.com/live/huanqiuhkliveefjjxchjhjpfjxcvdwpedypwepdjxfcvnxvsjjljhsjfhwlty.flv
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",纬来育体台
+https://cloud.yumixiu768.com/tmp/123.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",ELEVEN1台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivejjojjxcvyhjsjhtejwfhfvjjdvbdjsjjjhjljsjvcelevend.flv
 #EXTINF:-1 group-title="🦄湾湾频道「测试中」",博斯高球1台
 http://ali.hlspull.yximgs.com/live/huanqiuhklivejmxjcvpjojjdejhdbcxhvjsjtjhwojjfsjjjhvcxvhbsjjyj.flv
 #EXTINF:-1 group-title="🦄湾湾频道「测试中」",博斯高球2台
 http://ali.hlspull.yximgs.com/live/huanqiuhklivetvjjpcpvuejljyjdjyfjoxvchjwhjwojdjjhjjlsjhbjbsjjej.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",爱尔达体育Ⅰ台
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",爱尔达体育1台
 http://ali.hlspull.yximgs.com/live/huanqiuhklivejejpjxcvjpjojdxcvdjojdjpoedhopjfvxcjhetouhjjvjjjtyy.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",爱尔达体育Ⅱ台
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",爱尔达体育2台
 http://ali.hlspull.yximgs.com/live/huanqiuhklivecxvpjetjdcxojvmjljjtjwjpohudscbcxojcvmnfujlbhhjtye.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",爱尔达体育Ⅲ台
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",爱尔达体育3台
 http://ali.hlspull.yximgs.com/live/huanqiuhklivecxvpjeyjdcxojvmjljbtjwjhojudscbcxojcvmnfujlbhhjtys.flv
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",ELEVEN1台
-http://ali.hlspull.yximgs.com/live/huanqiuhklivejjojjxcvyhjsjhtejwfhfvjjdvbdjsjjjhjljsjvcelevend.flv
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",爱尔达体育4台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivexcvbpjyhvjbvnjjsfjvbhfhcjhbnjsjbcvjfdvjsfcbjbnjlys.flv
 #EXTINF:-1 group-title="🦄湾湾频道「测试中」",（此处以下频道需要湾湾节点）
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="🦄湾湾频道「测试中」",TVBS-Asia
@@ -2269,8 +2310,6 @@ http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 #EXTINF:-1 group-title="🦄湾湾频道「测试中」",中天新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-#EXTINF:-1 group-title="🦄湾湾频道「测试中」",中天新闻
-http://tv.redrainl.site:9500/live.m3u8?c=3
 #EXTINF:-1 group-title="🦄湾湾频道「测试中」",中天亚洲
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
 #EXTINF:-1 group-title="🦄湾湾频道「测试中」",TVBS亚洲
