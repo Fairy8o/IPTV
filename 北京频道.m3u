@@ -1,0 +1,136 @@
+#EXTM3U
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE local
+
+#EXTINF:-1 group-title="🦄北京频道",北京影视
+https://epg.pw/stream/cdcfe3ec6cca2a8ba74df72bc575c307bbc69e2fbf4cce276ef60356af2c472b.ctv
+#EXTINF:-1 group-title="🦄北京频道",北京文艺
+https://epg.pw/stream/482cd47d11488114d92ab5949ac22d214aeb7b1042b033dde53a158a6ab5c707.ctv
+#EXTINF:-1 group-title="🦄北京频道",北京新闻
+https://epg.pw/stream/a4ed03f7cee7d045bb9c19e183dc8e1f2b81c3ca19a06ec6f8de20a7e8dd51c4.ctv
+#EXTINF:-1 group-title="🦄北京频道",北京纪实科教
+https://epg.pw/stream/cc7f8d91f16724d656d8fdbbc8c52042928674b696e1deb4cbb336a27a722079.ctv
+#EXTINF:-1 group-title="🦄北京频道",北京生活
+https://epg.pw/stream/a40c6e875fd6274b9f3605d0d8529bc61a9409cca93d6c2f28c200e2ef9ff433.ctv
+#EXTINF:-1 group-title="🦄北京频道",北京卫视
+http://live.sjsrm.com/bjsjs/sd/live.m3u8
+#EXTINF:-1 group-title="🦄北京频道",北京财经
+https://tv.cry33.com/bj8k.php?id=bjcj
+#EXTINF:-1 group-title="🦄北京频道",北京生活
+https://tv.cry33.com/bj8k.php?id=bjsh
+#EXTINF:-1 group-title="🦄北京频道",北京卫视
+http://live.sjsrm.com/bjsjs/sd/live.m3u8
+#EXTINF:-1 group-title="🦄北京频道",北京新闻
+https://tv.cry33.com/bj8k.php?id=bjxw
+#EXTINF:-1 group-title="🦄北京频道",北京纪实
+http://mywlkj.ddns.net:754/dl/dl668/btv8k.php?id=bjjskj
+#EXTINF:-1 group-title="🦄北京频道",北京影视
+http://mywlkj.ddns.net:754/dl/dl668/btv8k.php?id=bjys
+#EXTINF:-1 group-title="🦄北京频道",北京财经
+http://mywlkj.ddns.net:754/dl/dl668/btv8k.php?id=bjcj
+#EXTINF:-1 group-title="🦄北京频道",北京新闻
+http://mywlkj.ddns.net:754/dl/dl668/btv8k.php?id=bjxw
+#EXTINF:-1 group-title="🦄北京频道",北京生活
+http://mywlkj.ddns.net:754/dl/dl668/btv8k.php?id=bjxw
+#EXTINF:-1 group-title="🦄北京频道",北京卡酷
+http://mywlkj.ddns.net:754/dl/dl668/btv8k.php?id=bjsh
+#EXTINF:-1 group-title="🦄北京频道",BRTV8K
+http://mywlkj.ddns.net:754/dl/dl668/btv8k.php?id=brtv8k
+#EXTINF:-1 group-title="🦄北京频道",北京卫视「北京联通」
+http://111.199.1.184:8686/udp/239.2.1.247:2000
+#EXTINF:-1 group-title="🦄北京频道",北京新闻「北京联通」
+http://111.199.1.184:8686/udp/239.3.1.159:8000
+#EXTINF:-1 group-title="🦄北京频道",北京财经「北京联通」
+http://111.199.1.184:8686/udp/239.3.1.116:8000
+#EXTINF:-1 group-title="🦄北京频道",北京生活「北京联通」
+http://111.199.1.184:8686/udp/239.3.1.117:8000
+#EXTINF:-1 group-title="🦄北京频道",北京文艺「北京联通」
+http://111.199.1.184:8686/udp/239.3.1.242:8000
+#EXTINF:-1 group-title="🦄北京频道",北京影视「北京联通」
+http://111.199.1.184:8686/udp/239.3.1.158:8000
+#EXTINF:-1 group-title="🦄北京频道",北京国际「北京联通」
+http://111.199.1.184:8686/udp/239.3.1.235:8000
+#EXTINF:-1 group-title="🦄北京频道",北京体育休闲
+http://111.199.1.184:8686/udp/239.3.1.243:8000
+#EXTINF:-1 group-title="🦄北京频道",北京体育休闲
+http://ainm.cc/a/play/php/gehua.php?id=bjtyxx
+#EXTINF:-1 group-title="🦄北京频道",北京体育休闲
+http://qnap.yjnhome.com:4000/rtp/239.3.1.97:8001
+#EXTINF:-1 group-title="🦄北京频道",北京体育休闲
+http://qnap.yjnhome.com:4000/rtp/239.3.1.243:8000
+#EXTINF:-1 group-title="🦄北京频道",北京IPTV淘电影
+http://home4.kmo.ink:8888/udp/239.3.1.250:8001
+#EXTINF:-1 group-title="🦄北京频道",IPTV淘剧场
+http://home4.kmo.ink:8888/udp/239.3.1.95:8001
+#EXTINF:-1 group-title="🦄北京频道",IPTV淘BABY
+http://home4.kmo.ink:8888/udp/239.3.1.238:8001
+#EXTINF:-1 group-title="🦄北京频道",IPTV萌宠TV
+http://home4.kmo.ink:8888/udp/239.3.1.102:8001
+#EXTINF:-1 group-title="🦄北京频道",IPTV淘精彩
+http://home4.kmo.ink:8888/udp/239.3.1.178:8001
+#EXTINF:-1 group-title="🦄北京频道",IPTV淘娱乐
+http://home4.kmo.ink:8888/udp/239.3.1.100:8001
+#EXTINF:-1 group-title="🦄北京频道",IPTV@大健康
+http://home4.kmo.ink:8888/udp/239.3.1.251:8001
+#EXTINF:-1 group-title="🦄北京频道",睛彩竞技
+http://home4.kmo.ink:8888/udp/239.3.1.125:8001
+#EXTINF:-1 group-title="🦄北京频道",睛彩篮球
+http://home4.kmo.ink:8888/udp/239.3.1.126:8001
+#EXTINF:-1 group-title="🦄北京频道",睛彩羽毛球
+http://home4.kmo.ink:8888/udp/239.3.1.127:8001
+#EXTINF:-1 group-title="🦄北京频道",睛彩广场舞
+http://home4.kmo.ink:8888/udp/239.3.1.128:8001
+#EXTINF:-1 group-title="🦄北京频道",北京卫视
+http://qnap.yjnhome.com:4000/rtp/239.3.1.241:8000
+#EXTINF:-1 group-title="🦄北京频道",北京新闻
+http://qnap.yjnhome.com:4000/rtp/239.3.1.159:8000
+#EXTINF:-1 group-title="🦄北京频道",北京影视
+http://qnap.yjnhome.com:4000/rtp/239.3.1.158:8000
+#EXTINF:-1 group-title="🦄北京频道",北京文艺
+http://qnap.yjnhome.com:4000/rtp/239.3.1.242:8000
+#EXTINF:-1 group-title="🦄北京频道",北京财经
+http://qnap.yjnhome.com:4000/rtp/239.3.1.116:8000
+#EXTINF:-1 group-title="🦄北京频道",北京生活
+http://qnap.yjnhome.com:4000/rtp/239.3.1.117:8000
+#EXTINF:-1 group-title="🦄北京频道",体育休闲
+http://qnap.yjnhome.com:4000/rtp/239.3.1.97:8001
+#EXTINF:-1 group-title="🦄北京频道",体育休闲
+http://qnap.yjnhome.com:4000/rtp/239.3.1.243:8000
+#EXTINF:-1 group-title="🦄北京频道",国际频道
+http://qnap.yjnhome.com:4000/rtp/239.3.1.235:8000
+#EXTINF:-1 group-title="🦄北京频道",纪实科教
+http://qnap.yjnhome.com:4000/rtp/239.3.1.115:8000
+#EXTINF:-1 group-title="🦄北京频道",卡酷少儿
+http://qnap.yjnhome.com:4000/rtp/239.3.1.189:8000
+#EXTINF:-1 group-title="🦄北京频道",朝阳融媒
+http://qnap.yjnhome.com:4000/rtp/239.3.1.163:8001
+#EXTINF:-1 group-title="🦄北京频道",通州融媒
+http://qnap.yjnhome.com:4000/rtp/239.3.1.221:8001
+#EXTINF:-1 group-title="🦄北京频道",密云台
+http://qnap.yjnhome.com:4000/rtp/239.3.1.154:8001
+#EXTINF:-1 group-title="🦄北京频道",房山台
+http://qnap.yjnhome.com:4000/rtp/239.3.1.96:8001
+#EXTINF:-1 group-title="🦄北京频道",延庆台
+http://qnap.yjnhome.com:4000/rtp/239.3.1.187:8001
+#EXTINF:-1 group-title="🦄北京频道",淘电影
+http://qnap.yjnhome.com:4000/rtp/239.3.1.250:8001
+#EXTINF:-1 group-title="🦄北京频道",淘剧场
+http://qnap.yjnhome.com:4000/rtp/239.3.1.95:8001
+#EXTINF:-1 group-title="🦄北京频道",淘娱乐
+http://qnap.yjnhome.com:4000/rtp/239.3.1.100:8001
+#EXTINF:-1 group-title="🦄北京频道",淘Baby
+http://qnap.yjnhome.com:4000/rtp/239.3.1.238:8001
+#EXTINF:-1 group-title="🦄北京频道",萌宠TV
+http://qnap.yjnhome.com:4000/rtp/239.3.1.102:8001
+#EXTINF:-1 group-title="🦄北京频道",淘精彩
+http://qnap.yjnhome.com:4000/rtp/239.3.1.178:8001
+#EXTINF:-1 group-title="🦄北京频道",大健康
+http://qnap.yjnhome.com:4000/rtp/239.3.1.251:8001
+#EXTINF:-1 group-title="🦄北京频道",北京新闻
+https://live.funhillrm.com/5/sd/live.m3u8
+#EXTINF:-1 group-title="🦄北京频道",北京卫视
+http://39.134.66.66/PLTV/88888888/224/3221225678/index.m3u8
+#EXTINF:-1 group-title="🦄北京频道",冬奥纪实
+http://39.134.66.66/PLTV/88888888/224/3221225670/index.m3u8
+#EXTINF:-1 group-title="🦄北京频道",卡酷少儿
+http://39.134.66.66/PLTV/88888888/224/3221225562/index.m3u8
