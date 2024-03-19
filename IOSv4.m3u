@@ -3442,22 +3442,6 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 #EXTINF:-1 group-title="🦄精彩频道🦄",CETV4
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
-#EXTINF:-1 group-title="🦄精彩频道🦄",CETV1
-http://tvbox6.com/tv/dl/dl668/bfgd.php?id=135
-#EXTINF:-1 group-title="🦄精彩频道🦄",CETV2
-http://tvbox6.com/tv/dl/dl668/bfgd.php?id=492
-#EXTINF:-1 group-title="🦄精彩频道🦄",CGTN
-http://tvbox6.com/tv/dl/dl668/bfgd.php?id=134
-#EXTINF:-1 group-title="🦄精彩频道🦄",CGTN西班牙语
-http://tvbox6.com/tv/dl/dl668/bfgd.php?id=306
-#EXTINF:-1 group-title="🦄精彩频道🦄",CGTN阿拉伯语
-http://tvbox6.com/tv/dl/dl668/bfgd.php?id=308
-#EXTINF:-1 group-title="🦄精彩频道🦄",CGTN法语
-http://tvbox6.com/tv/dl/dl668/bfgd.php?id=307
-#EXTINF:-1 group-title="🦄精彩频道🦄",CGTN
-http://tvbox6.com/tv/dl/dl668/bfgd.php?id=305
-#EXTINF:-1 group-title="🦄精彩频道🦄",CGTN俄语
-http://tvbox6.com/tv/dl/dl668/bfgd.php?id=309
 #EXTINF:-1 group-title="🦄精彩频道🦄",电视指南
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
 #EXTINF:-1 group-title="🦄精彩频道🦄",风云足球
@@ -3480,108 +3464,6 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
 #EXTINF:-1 group-title="🦄精彩频道🦄",央视文化
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
-#EXTINF:-1 group-title="🦄精彩频道🦄",求索动物
-http://tvbox6.com/tv/dl/dl668/bfgd.php?id=287
-#EXTINF:-1 group-title="🦄精彩频道🦄",求索生活
-http://tvbox6.com/tv/dl/dl668/bfgd.php?id=288
-#EXTINF:-1 group-title="🦄精彩频道🦄",求索地理
-http://tvbox6.com/tv/dl/dl668/bfgd.php?id=286
-#EXTINF:-1 group-title="🦄精彩频道🦄",家庭影院
-http://tvbox6.com/tv/dl/dl668/bfgd.php?id=289
-#EXTINF:-1 group-title="🦄精彩频道🦄",家庭剧场
-http://tvbox6.com/tv/dl/dl668/bfgd.php?id=290
-#EXTINF:-1 group-title="🦄精彩频道🦄",外国影院
-http://tvbox6.com/tv/dl/dl668/bfgd.php?id=291
-#EXTINF:-1 group-title="🦄精彩频道🦄",综艺
-http://tvbox6.com/tv/dl/dl668/bfgd.php?id=292
-#EXTINF:-1 group-title="🦄精彩频道🦄",午夜影院
-http://tvbox6.com/tv/dl/dl668/bfgd.php?id=294
-#EXTINF:-1 group-title="🦄精彩频道🦄",纪录片
-http://tvbox6.com/tv/dl/dl668/bfgd.php?id=295
-#EXTINF:-1 group-title="🦄精彩频道🦄",游戏竞技
-http://tvbox6.com/tv/dl/dl668/bfgd.php?id=296
-#EXTINF:-1 group-title="🦄精彩频道🦄",儿童动漫
-http://tvbox6.com/tv/dl/dl668/bfgd.php?id=293
-#EXTINF:-1 group-title="🦄精彩频道🦄",3D影院
-http://tvbox6.com/tv/dl/dl668/bfgd.php?id=298
-#EXTINF:-1 group-title="🦄精彩频道🦄",绘画
-http://tvbox6.com/tv/dl/dl668/bfgd.php?id=297
-#EXTINF:-1 group-title="🦄精彩频道🦄",家庭理财
-http://tvbox6.com/tv/dl/dl668/bfgd.php?id=139
-#EXTINF:-1 group-title="🦄精彩频道🦄",网络棋牌
-http://tvbox6.com/tv/dl/dl668/bfgd.php?id=141
-#EXTINF:-1 group-title="🦄精彩频道🦄",游戏竞技
-http://tvbox6.com/tv/dl/dl668/bfgd.php?id=142
-#EXTINF:-1 group-title="🦄精彩频道🦄",天元围棋
-http://tvbox6.com/tv/dl/dl668/bfgd.php?id=144
-#EXTINF:-1 group-title="🦄精彩频道🦄",电子体育
-http://tvbox6.com/tv/dl/dl668/bfgd.php?id=143
-#EXTINF:-1 group-title="🦄精彩频道🦄",环球旅游
-http://tvbox6.com/tv/dl/dl668/bfgd.php?id=147
-#EXTINF:-1 group-title="🦄精彩频道🦄",车迷频道
-http://tvbox6.com/tv/dl/dl668/bfgd.php?id=146
-#EXTINF:-1 group-title="🦄精彩频道🦄",生态环境
-http://tvbox6.com/tv/dl/dl668/bfgd.php?id=149
-#EXTINF:-1 group-title="🦄精彩频道🦄",发现之旅
-http://tvbox6.com/tv/dl/dl668/bfgd.php?id=151
-#EXTINF:-1 group-title="🦄精彩频道🦄",优优宝贝
-http://tvbox6.com/tv/dl/dl668/bfgd.php?id=153
-#EXTINF:-1 group-title="🦄精彩频道🦄",新疆卫视
-http://tvbox6.com/tv/dl/dl668/bfgd.php?id=150
-#EXTINF:-1 group-title="🦄精彩频道🦄",收藏天下
-http://tvbox6.com/tv/dl/dl668/bfgd.php?id=155
-#EXTINF:-1 group-title="🦄精彩频道🦄",中华特产
-http://tvbox6.com/tv/dl/dl668/bfgd.php?id=158
-#EXTINF:-1 group-title="🦄精彩频道🦄",中国天气
-http://tvbox6.com/tv/dl/dl668/bfgd.php?id=160
-#EXTINF:-1 group-title="🦄精彩频道🦄",法治天地
-http://tvbox6.com/tv/dl/dl668/bfgd.php?id=162
-#EXTINF:-1 group-title="🦄精彩频道🦄",电视指南
-http://tvbox6.com/tv/dl/dl668/bfgd.php?id=164
-#EXTINF:-1 group-title="🦄精彩频道🦄",家政
-http://tvbox6.com/tv/dl/dl668/bfgd.php?id=167
-#EXTINF:-1 group-title="🦄精彩频道🦄",重庆汽摩
-http://tvbox6.com/tv/dl/dl668/bfgd.php?id=168
-#EXTINF:-1 group-title="🦄精彩频道🦄",国学频道
-http://tvbox6.com/tv/dl/dl668/bfgd.php?id=169
-#EXTINF:-1 group-title="🦄精彩频道🦄",老故事
-http://tvbox6.com/tv/dl/dl668/bfgd.php?id=166
-#EXTINF:-1 group-title="🦄精彩频道🦄",女性时尚
-http://tvbox6.com/tv/dl/dl668/bfgd.php?id=176
-#EXTINF:-1 group-title="🦄精彩频道🦄",世界地理
-http://tvbox6.com/tv/dl/dl668/bfgd.php?id=177
-#EXTINF:-1 group-title="🦄精彩频道🦄",茶频道
-http://tvbox6.com/tv/dl/dl668/bfgd.php?id=181
-#EXTINF:-1 group-title="🦄精彩频道🦄",书画
-http://tvbox6.com/tv/dl/dl668/bfgd.php?id=180
-#EXTINF:-1 group-title="🦄精彩频道🦄",百姓健康
-http://tvbox6.com/tv/dl/dl668/bfgd.php?id=219
-#EXTINF:-1 group-title="🦄精彩频道🦄",摄影频道
-http://tvbox6.com/tv/dl/dl668/bfgd.php?id=222
-#EXTINF:-1 group-title="🦄精彩频道🦄",财富天下
-http://tvbox6.com/tv/dl/dl668/bfgd.php?id=231
-#EXTINF:-1 group-title="🦄精彩频道🦄",四海钓鱼
-http://tvbox6.com/tv/dl/dl668/bfgd.php?id=229
-#EXTINF:-1 group-title="🦄精彩频道🦄",风尚音乐
-http://tvbox6.com/tv/dl/dl668/bfgd.php?id=294
-#EXTINF:-1 group-title="🦄精彩频道🦄",重温经典
-http://tvbox6.com/tv/dl/dl668/bfgd.php?id=635
-#EXTINF:-1 group-title="🦄精彩频道🦄",都市剧场
-http://tvbox6.com/tv/dl/dl668/migu.php?3659
-#EXTINF:-1 group-title="🦄精彩频道🦄",炫动3D
-http://tvbox6.com/tv/dl/dl668/migu.php?3669
-#EXTINF:-1 group-title="🦄精彩频道🦄",3D动画片
-http://tvbox6.com/tv/dl/dl668/migu.php?3671
-#EXTINF:-1 group-title="🦄精彩频道🦄",电视剧
-http://tvbox6.com/tv/dl/dl668/migu.php?3674
-#EXTINF:-1 group-title="🦄精彩频道🦄",游戏风云
-http://tvbox6.com/tv/dl/dl668/migu.php?3683
-#EXTINF:-1 group-title="🦄精彩频道🦄",美食频道
-http://tvbox6.com/tv/dl/dl668/migu.php?3688
-#EXTINF:-1 group-title="🦄精彩频道🦄",纪录片
-http://tvbox6.com/tv/dl/dl668/migu.php?3638
-#EXTINF:-1 group-title="🦄精彩频道🦄",3D频道
-http://tvbox6.com/tv/dl/dl668/migu.php?3754
 #EXTINF:-1 group-title="🦄精彩频道🦄",电视剧轮播
 http://59.48.75.130:3052/tsfile/live/1002_1.m3u8?key=tvbox6_com&playlive=1&authid=0
 #EXTINF:-1 group-title="🦄精彩频道🦄",经典电影
