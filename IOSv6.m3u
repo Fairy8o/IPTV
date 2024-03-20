@@ -2006,6 +2006,10 @@ http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 group-title="🦄香港频道「测试中」",售后唯一微信号:Cxx114x
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="🦄香港频道「测试中」",重温经典
+http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8 
+#EXTINF:-1 group-title="🦄香港频道「测试中」",重温经典
+http://221.204.43.29/a18f4a1e8ee5c9fe3d0f338af6467843.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",重温经典
 http://43.141.130.70/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 #EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰中文台
 http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
@@ -2081,8 +2085,6 @@ https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
 #EXTINF:-1 group-title="🦄香港频道「测试中」",TVB星河台
 https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/playlist.m3u8
-#EXTINF:-1 group-title="🦄香港频道「测试中」",重温经典 HD
-http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 #EXTINF:-1 group-title="🦄香港频道「测试中」",香港文旅台
 http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
 #EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰资讯台
