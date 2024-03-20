@@ -1136,6 +1136,17 @@ http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001322/index.m3
 #EXTINF:-1 group-title="🦄数字高清",劲爆体育
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001326/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
+#EXTINF:-1 group-title="🦄数字高清",环球旅游
+http://36.129.204.120:880/CCN74.m3u8
+#EXTINF:-1 group-title="🦄数字高清",环球旅游
+http://121.17.146.201:2022/rtp/239.253.93.220:6398
+#EXTINF:-1 group-title="🦄数字高清",环球旅游
+http://113.24.136.82:8082/udp/239.1.1.116:8116
+#EXTINF:-1 group-title="🦄数字高清",环球奇观
+https://epg.pw/stream/d443d28e02a336b1ea90fafcfac5cb8e5470bc6bb372e0fd72b33f639d310013.ctv
+#EXTINF:-1 group-title="🦄数字高清",环球奇观
+http://36.129.204.120:880/CCN75.m3u8
+
 #EXTINF:-1 group-title="🦄数字高清",凤凰中文
 http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/1.m3u8
 #EXTINF:-1 group-title="🦄数字高清",凤凰资讯
