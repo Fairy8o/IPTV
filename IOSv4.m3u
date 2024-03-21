@@ -10401,6 +10401,49 @@ https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1612881417-0-0-bc7ddba0
 #EXTINF:-1 group-title="🦄广东频道",GRTN文化
 https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935
 
+#EXTINF:-1 group-title="🦄湖南频道",湖南卫视
+https://epg.pw/stream/fa1b3bb4fc54d2dbfaac1190fc6535d9902ce54b749c945cbe8aa021ecea9bc1.m3u8
+#EXTINF:-1 group-title="🦄湖南频道",湖南经视
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/mgtv/main/m3u8/hn01.m3u8
+#EXTINF:-1 group-title="🦄湖南频道",湖南都市
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/mgtv/main/m3u8/hn02.m3u8
+#EXTINF:-1 group-title="🦄湖南频道",湖南爱晚
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/mgtv/main/m3u8/hn05.m3u8
+#EXTINF:-1 group-title="🦄湖南频道",湖南国际
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/mgtv/main/m3u8/hn06.m3u8
+#EXTINF:-1 group-title="🦄湖南频道",湖南娱乐
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/mgtv/main/m3u8/hn07.m3u8
+#EXTINF:-1 group-title="🦄湖南频道",湖南电影
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/mgtv/main/m3u8/hn04.m3u8
+#EXTINF:-1 group-title="🦄湖南频道",湖南电视剧
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/mgtv/main/m3u8/hn03.m3u8
+#EXTINF:-1 group-title="🦄湖南频道",长沙新闻
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/mgtv/main/m3u8/hn14.m3u8
+#EXTINF:-1 group-title="🦄湖南频道",长沙政法
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/mgtv/main/m3u8/hn15.m3u8
+#EXTINF:-1 group-title="🦄湖南频道",长沙女性
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/mgtv/main/m3u8/hn16.m3u8
+#EXTINF:-1 group-title="🦄湖南频道",湖南娱乐(组播)
+http://118.249.23.5:8989/rtp/239.76.253.105:9000
+#EXTINF:-1 group-title="🦄湖南频道",湖南经视
+http://php.jdshipin.com:8880/iptv.php?id=hnjs
+#EXTINF:-1 group-title="🦄湖南频道",湖南爱晚
+http://php.jdshipin.com:8880/iptv.php?id=hngg
+#EXTINF:-1 group-title="🦄湖南频道",湖南娱乐
+http://php.jdshipin.com:8880/iptv.php?id=hnyl
+#EXTINF:-1 group-title="🦄湖南频道",湖南国际
+http://php.jdshipin.com:8880/iptv.php?id=hngj
+#EXTINF:-1 group-title="🦄湖南频道",通道时政,http://live.tongdaotv.com:8087/live/tdtv.m3u8
+#EXTINF:-1 group-title="🦄湖南频道",湘潭公共
+http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8?auth=654837809071524@615@2E9A5FD0B225B012E3178551CF3754A8&BVUUID=C236454D-5355-2F5F-FA96-1887C72E55CE
+#EXTINF:-1 group-title="🦄湖南频道",湘潭公共
+http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
+#EXTINF:-1 group-title="🦄湖南频道",湘潭公共
+http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8?zhund
+#EXTINF:-1 group-title="🦄湖南频道",湘潭综合
+http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
+#EXTINF:-1 group-title="🦄湖南频道",湘潭新闻
+http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8?zhund
 
 #EXTINF:-1 group-title="🦄纪录片频道",人与自然
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1425e1d505654cb48ba82b807b221193/1200.m3u8
