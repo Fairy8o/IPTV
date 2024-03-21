@@ -686,20 +686,306 @@ CGTN记录,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch000000909900000029
 CGTN,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225604/index.m3u8
 CGTN纪录,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225602/index.m3u8
 
+🦄国内体育,#genre#
+超级体育 8M,http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000009601/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=3
+超级体育 8M,http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000030/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000030&livemode=1&stbId=3
+超级体育 8M,http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000009204/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009204&livemode=1&stbId=3
+超级体育 8M,http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000007755/index.m3u8?channel-id=ystenlive&Contentid=1000000004000007755&livemode=1&stbId=3
+超级体育,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+超级体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+精品体育,http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000021/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000021&livemode=1&stbId=3
+精品体育,http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw520038825_-1252386603/ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8?icpid =3&RTS=1674380635&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
+精品体育,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225674/1.m3u8
+IHOT爱体育,http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000060/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000060&livemode=1&stbId=3
+IHOT爱体育,http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000290630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3
+咪咕体育1,http://[2409:8087:2001:20:2800:0:df6e:eb0f]:80/wh7f454c46tw1758408081_1139282982/ott.mobaibox.com/PLTV/3/224/3221228206/index.m3u8?icpid= 3&RTS=1674386168&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
 
-🦄体育频道,#genre#
+欧洲体育2,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12048/index.m3u8
 曼联官方 MUTV,https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 广东体育,http://iptv.eatuo.com:9901/tsfile/live/1004_1.m3u8
-纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
 安徽体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
-CCTV5体育,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
-CCTV5+体育赛事,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
+安徽体育,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829415240627.m3u8
+安徽体育,http://mmitv.top/test/ahtv.php?id=17
+安徽体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv
+北京纪实科教,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+陕西体育休闲,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226363/index.m3u8
+CCTV-16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
+CCTV-5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+CCTV-5+,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8？
+CCTV-5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+CCTV-5,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8？
+
 风云足球,https://live.goodiptv.club/api/yqgd.php?id=fyzq
 皇马RMTV,https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 劲爆体育,https://live.goodiptv.club/api/yqgd.php?id=jbtyhd
-劲爆体育,https://live.v1.mk/api/ghyx.php?id=JinBaoTiYuHD_6000
-五星体育,http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
-Bahrain Sports 2,https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8?checkedby:iptvcat.com
+五星体育,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
+百视通体育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225848/index.m3u8
+纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
+纬来体育,https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+纬来体育,http://ali.hlspull.yximgs.com/live/7qvlzZeiRYNkx1Dwn6mLv3PM8GERr19J.flv
+纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+澳门体育,http://61.244.22.5/ch4/sport_ch4.live/playelist.m3u8
+晴彩篮球,http://home4.kmo.ink:8888/udp/239.3.1.126:8001
+晴彩竞技,http://home4.kmo.ink:8888/udp/239.3.1.125:8001
+羽毛球台,http://blc.zmychn.cn:4000/udp/225.1.2.1:5002
+美国摔跤,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+安徽体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
+小七直播不定时,https://pull.lianggexinxi.xyz/live/stream-418311_lsd.m3u8?_=1698249099856
+大邱直播不定时,https://pull.lianggexinxi.xyz/live/stream-600428_lsd.m3u8?_=1697006121706
+大神直播不定时,https://pull.lianggexinxi.xyz/live/stream-600428_lsd.m3u8?_=1697004264631
+米哥直播不定时,https://pull.lianggexinxi.xyz/live/stream-431228_lsd.m3u8?_=1698248787521
+
+
+🦄海外体育,#genre#
+beIN SPORTS 1,https://edge1.laotv.la/live/Bsport1/index.m3u8
+beIN SPORTS 2,https://edge2.laotv.la/live/Bsport2/index.m3u8
+beIN SPORTS 2,https://edge2.laotv.la/live/Bsport2/sc-gaFECQ/v0_index.m3u8
+beIN SPORTS 2,https://edge2.laotv.la/live/Bsport2/sc-gaFECQ/a0_index.m3u8
+Sky Sports,https://hls.streambtw.com/live/stream_1.m3u8
+MAT体育2,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/522/index.m3u8
+福克斯体育,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7323/index.m3u8
+格极限斗,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/144/index.m3u8
+BT体育1,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2505/index.m3u8
+拜仁体育,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6097/index.m3u8
+澳视体育,http://61.244.22.5/ch4/sport_ch4.live/chunklist_w1501922041.m3u8
+MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3u8
+欧洲体育1,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/141/index.m3u8
+欧洲体育2,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12048/index.m3u8
+极限运动,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/144/index.m3u8
+俄罗斯体育,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/530/index.m3u8
+拜仁体育,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6097/index.m3u8
+贝因体育 ,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2499/index.m3u8
+贝因体育 3,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6124/index.m3u8
+贝因体育 3,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2501/index.m3u8
+天空体育 新闻,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2477/index.m3u8
+天空体育 德甲,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7234/index.m3u8
+天空体育 格斗,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/15097/index.m3u8
+天空体育 ,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7341/index.m3u8
+天空体育 板球,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7343/index.m3u8
+天空体育 足球,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7336/index.m3u8
+
+SKY SPORTS F1 4K FHD,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/50276
+SKY SPORTS F1 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/138141
+SKY SPORTS-主赛事,https://epg.pw/stream/2e2d5b3516f5e2bba808f3a821e219c19b5b575f9d5c05eed6abceaa3efad406.ctv
+SKY SPORTS-超级联赛,https://epg.pw/stream/4a76d9e59eec10d4d59d4a7f31f30f23dd64ce786472c57b3c54eae0ebe83673.ctv
+SKY SPORTS-新闻,https://epg.pw/stream/c376926078d1628c58c69f117f3afccd1b9e680925b9fd155ae19ad6197b6a99.ctv
+SKY SPORTS-高尔夫,https://epg.pw/stream/a74943c8dc3f1760e0c39a0b5e811e1c448619fb52ba0148d979dca4976f7751.ctv
+SKY SPORTS-网球,https://epg.pw/stream/b3a03c24d4bfa0a3467846be5890028a65cc84356c8fba97b7ff66fbbf736db0.ctv
+SKY SPORTS-足球,https://epg.pw/stream/b806e4ad453a1d474ed52cea98a0ae2b95f82aed7a14f672b9b7b82d55524d5a.ctv
+SKY SPORTS-橄榄球,https://epg.pw/stream/246be03cb9ac6d829f2875a787be75e2ffbbd019dc87582ff9ec1d5637566813.ctv
+
+天空体育 F1,https://epg.pw/stream/9da0153da74525c2ab3b6587886960417baf3c049121696cb30dc38ea43b371b.ctv
+天空体育 F1,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7342/index.m3u8
+天空体育 综合,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7337/index.m3u8
+天空体育 足球,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7336/index.m3u8
+天空体育 格斗,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/15097/index.m3u8
+天空体育 德甲,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7234/index.m3u8
+天空体育 足球,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7338/index.m3u8
+天空体育 足球,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7340/index.m3u8
+天空体育 足球,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7341/index.m3u8
+天空体育 新闻,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2477/index.m3u8
+天空体育 板球,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7343/index.m3u8
+天空体育 英超,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7335/index.m3u8
+天空体育 澳洲,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2492/index.m3u8
+天空体育 高尔夫,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7344/index.m3u8
+
+|UK| SKY SPORTS MAIN EVENT ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/50271
+|UK| SKY SPORTS MAIN EVENT 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/138134
+|UK| SKY SPORTS PREMIER LEAGUE ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/50272
+|UK| SKY CINEMA PREMIER 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/190958
+|UK| SKY SPORTS ACTION 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/190954
+|UK| SKY SPORTS MIX 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/190955
+|UK| SKY SPORTS PREMIER LEAGUE 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/190956
+|UK| SKY SPORTS FOOTBALL  ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/50273
+|UK| SKY SPORTS FOOTBALL 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/138135
+|UK| SKY SPORTS CRICKET ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/50274
+|UK| SKY SPORTS CRICKET 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/138140
+|UK| SKY SPORTS GOLF ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/50275
+|UK| SKY SPORTS GOLF 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/138139
+|UK| SKY SPORTS F1 ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/50276
+|UK| SKY SPORTS F1 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/138141
+|UK| SKY SPORTS ACTION ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/50277
+|UK| SKY CINEMA ACTION 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/138160
+|UK| SKY SPORTS ARENA ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/50278
+|UK| SKY SPORTS ARENA 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/138137
+|UK| SKY SPORTS RACING ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/50280
+|UK| SKY SPORTS RACING 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/138143
+|UK| SKY SPORTS NEWS ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/50281
+|UK| SKY SPORTS NEWS 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/138133
+
+|UK| SKY SPORTS ᵁᴴᴰ NFL,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10524
+|UK| SKY SPORTS F1 ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/303265
+|UK| SKY SPORTS ᵁᴴᴰ MAIN EVENT ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10518
+|UK| SKY SPORTS ᵁᴴᴰ PREMIER LEAGUE,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10517
+|UK| SKY SPORTS RACING ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/205918
+|UK| SKY SPORTS PREMIER LEAGUE ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/205919
+|UK| SKY SPORTS NEWS ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/205920
+|UK| SKY MIX ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/205921
+|UK| SKY MAIN EVENT ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/205922
+|UK| SKY F1 ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/205923
+|UK| SKY SPORTS FOOTBALL ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/205924
+|UK| SKY GOLF ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/205925
+|UK| SKY CRICKET ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/205926
+|UK| SKY ARENA ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/205927
+|UK| SKY MAX ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/205892
+
+|UK| SKY SPORTS FOOTBALL 50 FPS,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/303268
+|UK| SKY SPORTS FOOTBALL ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10516
+|UK| SKY SPORTS NEWS  ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/303260
+|UK| SKY SPORTS NEWS ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/22202
+|UK| SKY SPORTS RACING ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/303261
+|UK| SKY SPORTS RACING ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/48168
+|UK| SKY SPORTS RACING ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/48169
+|UK|Racing ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/628656
+|UK| Racing UK ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/628657
+|UK| SKY SPORTS NEWS ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10512
+|UK| SKY SPORTS CRICKET ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/303266
+|UK| SKY SPORTS CRICKET ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10527
+|UK| SKY SPORTS CRICKET ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10526
+|UK| SKY SPORTS F1 HD,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10525
+|UK| SKY SPORTS ARENA ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/303263
+|UK| SKY SPORTS ARENA ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10528
+|UK| SKY SPORTS NFL ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10529
+|UK| SKY SPORTS PREMIER LEAUGE 50FPS,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/303269
+|UK| SKY SPORTS PREMIER LEAGUE ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10511
+|UK| SKY SPORTS MAIN EVENT ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10514
+|UK| SKY SPORTS GOLF 50FPS,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/303267
+|UK| SKY SPORTS ACTION / NFL  ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/303264
+|UK| SKY SPORTS NFL,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/91620
+|UK| SKY SPORTS MIX ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/303262
+|UK| SKY SPORTS MIX ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10513
+UK Sky Sports Tennis ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/605469
+UK Sky Sports Tennis ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/605470
+UK Sky Sports Tennis 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/605472
+UK Sky Sports Tennis ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/605471
+
+
+beIN Sports 1 ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/1
+beIN Sports 1ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/534831
+BEIN SPORTS 1 TOD,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/272468
+beIN Sports ᴴᴰ 1,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/624321
+beIN Sports 1 ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/108161
+beIN Sports 1 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/114053
+beIN Sports 1 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/3854
+beIN Sports 1 ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/2541
+beIN SPORTS 1 ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/245836
+beIN Sports 2 ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/2
+beIN Sports 2ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/534830
+BEIN SPORTS 2 TOD,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/272467
+beIN Sports ᴴᴰ 2,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/624322
+beIN Sports 2 ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/108162
+beIN Sports 2 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/114052
+beIN Sports 2 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/3853
+beIN Sports 2 ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/2540
+beIN SPORTS 2 ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/245835
+beIN Sports 3 ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/4
+beIN Sports 3ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/534829
+BEIN SPORTS 3 TOD,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/272465
+beIN Sports ᴴᴰ 3,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/624323
+beIN Sports 3 ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/108164
+beIN Sports 3 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/114050
+beIN Sports 3 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/3851
+beIN Sports 3 ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/2538
+beIN SPORTS 3 ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/245833
+beIN Sports 4 ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/5
+beIN Sports 4ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/534828
+BEIN SPORTS 4 TOD,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/272464
+beIN Sports ᴴᴰ 4,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/624324
+beIN Sports 4 ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/108165
+beIN Sports 4 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/114049
+beIN Sports 4 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/3850
+beIN Sports 4 ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10795
+beIN SPORTS 4 ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/245832
+beIN Sports 5 ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/6
+beIN Sports 5ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/534827
+BEIN SPORTS 5 TOD,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/272463
+beIN Sports ᴴᴰ 5,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/624325
+beIN Sports 5 ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/108166
+beIN Sports 5 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/114048
+beIN Sports 5 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/3849
+beIN Sports 5 ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/2536
+beIN SPORTS 5 ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/245831
+beIN Sports 6 ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/7
+beIN Sports 6ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/534826
+BEIN SPORTS 6 TOD,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/272462
+beIN Sports ᴴᴰ 6,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/624326
+beIN Sports 6 ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/108167
+beIN Sports 6 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/114047
+beIN Sports 6 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/3848
+beIN Sports 6 ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/2535
+beIN SPORTS 6 ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/245830
+beIN Sports 7 ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/8
+beIN Sports 7ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/578834
+BEIN SPORTS 7 TOD,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/272461
+beIN Sports ᴴᴰ 7,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/624327
+beIN Sports 7 ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/108168
+beIN Sports 7 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/114046
+beIN Sports 7 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/3847
+beIN Sports 7 ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/2534
+beIN SPORTS 7 ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/245829
+beIN Sports 8 ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/9
+beIN Sports 8ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/578835
+BEIN SPORTS 8 TOD,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/272460
+beIN Sports ᴴᴰ 8,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/624328
+beIN Sports 8 ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/108169
+beIN Sports 8 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/114045
+beIN Sports 8 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10361
+beIN Sports 8 ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/2533
+beIN SPORTS 8 ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/245828
+beIN Sports 9 ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10
+beIN Sports 9ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/578836
+BEIN SPORTS 9 TOD,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/272459
+beIN Sports ᴴᴰ 9,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/624329
+beIN Sports 9 ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/108170
+beIN Sports 9 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/114044
+beIN Sports 9 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10362
+beIN Sports 9 ˢᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/2532
+
+|UK| TNT SPORT 1 ᵁᴴᴰ 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/138145
+|UK| TNT SPORT 2 ᵁᴴᴰ 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/138146
+|UK| TNT SPORT 3  ᵁᴴᴰ 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/138147
+|UK| TNT SPORT 4 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/138148
+|UK| TNT SPORTS 1 ᵁᴴᴰ 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/309614
+|UK| TNT SPORTS 2 ᵁᴴᴰ 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/309613
+|UK| TNT SPORTS 3 ᵁᴴᴰ 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/309612
+|UK| TNT SPORTS 4 ᵁᴴᴰ 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/309611
+|UK| TNT SPORTS 4 4K,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/190957
+
+|UK| EUROSPORT  1 ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/22226
+|UK| EUROSPORT 1 ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/309462
+|UK| EUROSPORTS ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10503
+|UK| EUROSPORT 2 ᵁᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/22225
+|UK| EUROSPORT 2 ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/309461
+|UK| EUROSPORTS ᴴᴰ 2,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10502
+|UK| PREMIER SPORTS ᴴᴰ,http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10506
+
+supersport_motosport-fhd,https://epg.pw/stream/a3dc42ad0c9a74c9ba5c6e51a29884e79914602c5e38b284567f64eef68ffe23.ctv
+cbs_sport_network,https://epg.pw/stream/7dbde2fbdc3fda798de493cf23b9a94569b86d619e430c44df7b90d023ad9b70.ctv
+supersport_action,https://epg.pw/stream/7ef71244c47a4e63a17f5087ff77d499985f059eb6d97f8c2e5e3dcea5ade6f9.ctv
+tntsports4,https://epg.pw/stream/054e7d4d72ea07976f03474864773060d02020a0766360fcad0a5cb480136ef6.ctv
+supersport_psl,https://epg.pw/stream/36e6f0d463059bcfb7b9e0de50e65b072d77b02e5c28eb93994137f37a2da258.ctv
+supersport_golf,https://epg.pw/stream/b2f05e99cbb12268487ccb3fb6cc47baa63b97bb41277886d0e7af347bb9bcea.ctv
+supersport_football,https://epg.pw/stream/0206a2c0da2cd863631fdc665a7f8e2be93586e33e837196259ac94508e39363.ctv
+premiersports1,https://epg.pw/stream/a0f9c1f7038352194c7817ecdd04a78c87cac7976c844bde81531c543b927716.ctv
+supersport_premier_league,https://epg.pw/stream/74941299bb4cbcc30cc7a78f9e5372638bd80b20f747a17641a48b52ae7d7081.ctv
+premiersports2,https://epg.pw/stream/5c2c362aefbba26f64a2ef3f94f06684b5b48b7e60ab19762d5eef0d3e4de46c.ctv
+supersport_psl,https://epg.pw/stream/36e6f0d463059bcfb7b9e0de50e65b072d77b02e5c28eb93994137f37a2da258.ctv
+tntsports3,https://epg.pw/stream/7fd73a3cccffde43a148fde71d3c48c34a6ad8924b9eafc8087cb1ba7b48a4b9.ctv
+tntsports3,https://epg.pw/stream/7fd73a3cccffde43a148fde71d3c48c34a6ad8924b9eafc8087cb1ba7b48a4b9.ctv
+premiersports1,https://epg.pw/stream/a0f9c1f7038352194c7817ecdd04a78c87cac7976c844bde81531c543b927716.ctv
+supersport_premier_league,https://epg.pw/stream/74941299bb4cbcc30cc7a78f9e5372638bd80b20f747a17641a48b52ae7d7081.ctv
+premiersports2,https://epg.pw/stream/5c2c362aefbba26f64a2ef3f94f06684b5b48b7e60ab19762d5eef0d3e4de46c.ctv
+digi-4k,https://epg.pw/stream/2630e0dfd64418d3d64337e1ce301bae69cede220c9670a816f9cb1b3d45fe8b.ctv
+supersport_football,https://epg.pw/stream/0206a2c0da2cd863631fdc665a7f8e2be93586e33e837196259ac94508e39363.ctv
+elevensport1-4k,https://epg.pw/stream/80f630f0c473d6ae839f363fff4665a769dc34ae8a610d7e3966ff1743d11d81.ctv
+supersport_golf,https://epg.pw/stream/b2f05e99cbb12268487ccb3fb6cc47baa63b97bb41277886d0e7af347bb9bcea.ctv
+supersport_motosport,https://epg.pw/stream/a3dc42ad0c9a74c9ba5c6e51a29884e79914602c5e38b284567f64eef68ffe23.ctv
+cbs_sport_network,https://epg.pw/stream/7dbde2fbdc3fda798de493cf23b9a94569b86d619e430c44df7b90d023ad9b70.ctv
+supersport_action,https://epg.pw/stream/7ef71244c47a4e63a17f5087ff77d499985f059eb6d97f8c2e5e3dcea5ade6f9.ctv
+tntsports4,https://epg.pw/stream/054e7d4d72ea07976f03474864773060d02020a0766360fcad0a5cb480136ef6.ctv
+
+国外体育6,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
 EDGEsport,https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 Red Bull TV HD,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 Red Bull TV HD,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
@@ -707,64 +993,12 @@ Trace Sports Stars,https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8?che
 Астрахань.Ru Sport,http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v5a1/index.m3u8
 Астрахань.Ru Sport,https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 Астрахань.Ru Sport,https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
-红牛RedBull,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 红牛RedBull,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+红牛电视,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+红牛电视,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+红牛电视,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+
 beIN SPORTS-2,https://live.9528.eu.org/783281f456d82f5fbb.m3u8
-sky sport main event UHD 4K 50帧,https://live.9528.eu.org/8ea1dd6e9a76dbc453e6dffe06879568.m3u8
-
-
-爱尔达体育2,http://198.16.100.90:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0
-纬来体育,https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
-纬来体育 FHD,http://ali.hlspull.yximgs.com/live/7qvlzZeiRYNkx1Dwn6mLv3PM8GERr19J.flv
-纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
-纬来篮球,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
-纬来篮球,https://cloud.yumixiu768.com/tmp/123.m3u8
-纬来篮球,https://epg.pw/stream/65161be2ecd7c7b2e054dbac30922b2673b4eff6497b77c71bb81215aa826cc4.m3u8
-晴彩篮球,http://home4.kmo.ink:8888/udp/239.3.1.126:8001
-晴彩竞技,http://home4.kmo.ink:8888/udp/239.3.1.125:8001
-CCTV-05,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-CCTV+5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-羽毛球台,http://blc.zmychn.cn:4000/udp/225.1.2.1:5002
-精品体育,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225674/1.m3u8
-美国摔跤,https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-CCTV5-,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
-体育1,https://edge1.laotv.la/live/Bsport1/index.m3u8
-体育2,https://edge1.laotv.la/live/Bsport1/sc-gaFECQ/v0_index.m3u8
-体育3,https://edge1.laotv.la/live/Bsport1/sc-gaFECQ/a0_index.m3u8
-beIN SPORTS 1,https://edge1.laotv.la/live/Bsport1/index.m3u8
-beIN SPORTS 1,https://p2p.cdn-domain.com/hls/live/2000341/test/level_2.m3u8
-beIN SPORTS 2,https://edge2.laotv.la/live/Bsport2/index.m3u8
-beIN SPORTS 2,https://edge2.laotv.la/live/Bsport2/sc-gaFECQ/v0_index.m3u8
-beIN SPORTS 2,https://edge2.laotv.la/live/Bsport2/sc-gaFECQ/a0_index.m3u8
-ky Sport,https://donelfantastic.github.io/live/skysportsNz8.m3u8
-Sky Sport 1,https://donelfantastic.github.io/live/skysportsNz1.m3u8
-Sky Sport 2,https://donelfantastic.github.io/live/skysportsNz2.m3u8
-Sky Sport 3,https://donelfantastic.github.io/live/skysportsNz3.m3u8
-Sky Sport 4,https://donelfantastic.github.io/live/skysportsNz4.m3u8
-Sky Sport 5,https://donelfantastic.github.io/live/skysportsNz5.m3u8
-Sky Sport 6,https://donelfantastic.github.io/live/skysportsNz6.m3u8
-Sky Sport 7,https://donelfantastic.github.io/live/skysportsNz7.m3u8
-Sky Sport 9,https://donelfantastic.github.io/live/skysportsNz9.m3u8
-Sky Sports,https://hls.streambtw.com/live/stream_1.m3u8
-Alfa Sport (1080p) [Not 24/7],https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx
-欧洲体育2,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12048/index.m3u8
-欧洲体育1,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/141/index.m3u8
-极限运动,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/144/index.m3u8
-俄罗斯体育,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/530/index.m3u8
-拜仁体育,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/6097/index.m3u8
-天空体育 足球,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7336/index.m3u8
-天空体育 新闻,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2477/index.m3u8
-天空体育 板球,http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7343/index.m3u8
-纬来篮球,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
-安徽体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
-CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
-五星体育,http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
-先锋乒羽,http://httpdvb.slave.yqdtv.com:13164/playurl?programid=4200000116&playtype=live&protocol=hls&playtoken=31603YEQXREOPEG10&accesstoken=G79E6023V21307D1TD05FABJB53102ABM786710FEI3282697DK98BDA6.m3u8
-国外体育6,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
-小七直播不定时,https://pull.lianggexinxi.xyz/live/stream-418311_lsd.m3u8?_=1698249099856
-大邱直播不定时,https://pull.lianggexinxi.xyz/live/stream-600428_lsd.m3u8?_=1697006121706
-大神直播不定时,https://pull.lianggexinxi.xyz/live/stream-600428_lsd.m3u8?_=1697004264631
-米哥直播不定时,https://pull.lianggexinxi.xyz/live/stream-431228_lsd.m3u8?_=1698248787521
 Arryadia (360p) [Not 24/7],https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia.m3u8
 ATG (432p),https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
 Awapa Sports TV (1080p) [Not 24/7],https://mgv-awapa.akamaized.net/hls/live/2104282/MGV_CHANNEL15/master.m3u8
@@ -780,11 +1014,9 @@ DeporTV (1080p) [Not 24/7],https://538d0bde28ccf.streamlock.net/live-cont.ar/dep
 DSTV (720p),http://79.120.178.90:1935/dstv/dstvlive/playlist.m3u8
 Fight Network (1080p),https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 FightBox,http://stream01.vnet.am/Fightbox/mono.m3u8
-FTV (720p),https://master.tucableip.com/ftv/index.m3u8
 fubo Sports Network (720p),https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
 FUEL TV (1080p),https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/fuel-tv/606c2f67-acff-4152-975a-e5bfef54eb61/2.m3u8
 Gaora Sports (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
-Golf Network (720p),http://203.162.235.41:28107
 IMPACT Wrestling (1080p),https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 J Sports 1 (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
 J Sports 2 (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
@@ -792,7 +1024,6 @@ J Sports 3 (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8
 J Sports 4 (544p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
 La Redonda TV (1080p) [Not 24/7],https://ythls.armelin.one/channel/UCG_S--F4wcdre2-8PG9YlhA.m3u8
 M-Net Sport (720p),http://ares.mnet.mk/hls/mnet-sport.m3u8
-MNB Sport (576p),https://live.mnb.mn/live/mnb_sport.stream/playlist.m3u8
 MUTV (720p),https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 Ovacion TV (720p) [Not 24/7],http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 Pac 12 Insider (1080p),https://pac12-roku-us.amagi.tv/playlist.m3u8
