@@ -1,0 +1,96 @@
+#EXTM3U
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE local
+
+#EXTINF:-1 group-title="🦄国内体育",超级体育 8M
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000009601/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄国内体育",超级体育 8M
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000030/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000030&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄国内体育",超级体育 8M
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000001000009204/index.m3u8?channel-id=ystenlive&Contentid=1000000001000009204&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄国内体育",超级体育 8M
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000007755/index.m3u8?channel-id=ystenlive&Contentid=1000000004000007755&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄国内体育",超级体育
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1 group-title="🦄国内体育",超级体育
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1 group-title="🦄国内体育",精品体育
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
+#EXTINF:-1 group-title="🦄国内体育",精品体育
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000003000000021/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000021&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄国内体育",精品体育
+http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw520038825_-1252386603/ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8?icpid%20=3&RTS=1674380635&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
+#EXTINF:-1 group-title="🦄国内体育",精品体育
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225674/1.m3u8
+#EXTINF:-1 group-title="🦄国内体育",IHOT爱体育
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000060/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000060&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄国内体育",IHOT爱体育
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000290630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄国内体育",咪咕体育1
+http://[2409:8087:2001:20:2800:0:df6e:eb0f]:80/wh7f454c46tw1758408081_1139282982/ott.mobaibox.com/PLTV/3/224/3221228206/index.m3u8?icpid=%203&RTS=1674386168&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
+#EXTINF:-1 group-title="🦄国内体育",欧洲体育2
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/12048/index.m3u8
+#EXTINF:-1 group-title="🦄国内体育",曼联官方 MUTV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+#EXTINF:-1 group-title="🦄国内体育",广东体育
+http://iptv.eatuo.com:9901/tsfile/live/1004_1.m3u8
+#EXTINF:-1 group-title="🦄国内体育",安徽体育
+http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
+#EXTINF:-1 group-title="🦄国内体育",安徽体育
+http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829415240627.m3u8
+#EXTINF:-1 group-title="🦄国内体育",安徽体育
+http://mmitv.top/test/ahtv.php?id=17
+#EXTINF:-1 group-title="🦄国内体育",安徽体育
+http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv
+#EXTINF:-1 group-title="🦄国内体育",北京纪实科教
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="🦄国内体育",陕西体育休闲
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226363/index.m3u8
+#EXTINF:-1 group-title="🦄国内体育",CCTV-16
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
+#EXTINF:-1 group-title="🦄国内体育",CCTV-5+
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+#EXTINF:-1 group-title="🦄国内体育",CCTV-5+
+http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8%EF%BC%9F
+#EXTINF:-1 group-title="🦄国内体育",CCTV-5
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+#EXTINF:-1 group-title="🦄国内体育",CCTV-5
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8%EF%BC%9F
+#EXTINF:-1 group-title="🦄国内体育",风云足球
+https://live.goodiptv.club/api/yqgd.php?id=fyzq
+#EXTINF:-1 group-title="🦄国内体育",皇马RMTV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
+#EXTINF:-1 group-title="🦄国内体育",劲爆体育
+https://live.goodiptv.club/api/yqgd.php?id=jbtyhd
+#EXTINF:-1 group-title="🦄国内体育",五星体育
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄国内体育",百视通体育
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225848/index.m3u8
+#EXTINF:-1 group-title="🦄国内体育",纬来体育
+https://cloud.yumixiu768.com/tmp/123.m3u8
+#EXTINF:-1 group-title="🦄国内体育",纬来体育
+https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+#EXTINF:-1 group-title="🦄国内体育",纬来体育
+http://ali.hlspull.yximgs.com/live/7qvlzZeiRYNkx1Dwn6mLv3PM8GERr19J.flv
+#EXTINF:-1 group-title="🦄国内体育",纬来体育
+http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+#EXTINF:-1 group-title="🦄国内体育",澳门体育
+http://61.244.22.5/ch4/sport_ch4.live/playelist.m3u8
+#EXTINF:-1 group-title="🦄国内体育",晴彩篮球
+http://home4.kmo.ink:8888/udp/239.3.1.126:8001
+#EXTINF:-1 group-title="🦄国内体育",晴彩竞技
+http://home4.kmo.ink:8888/udp/239.3.1.125:8001
+#EXTINF:-1 group-title="🦄国内体育",羽毛球台
+http://blc.zmychn.cn:4000/udp/225.1.2.1:5002
+#EXTINF:-1 group-title="🦄国内体育",美国摔跤
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 group-title="🦄国内体育",安徽体育
+http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
+#EXTINF:-1 group-title="🦄国内体育",小七直播不定时
+https://pull.lianggexinxi.xyz/live/stream-418311_lsd.m3u8?_=1698249099856
+#EXTINF:-1 group-title="🦄国内体育",大邱直播不定时
+https://pull.lianggexinxi.xyz/live/stream-600428_lsd.m3u8?_=1697006121706
+#EXTINF:-1 group-title="🦄国内体育",大神直播不定时
+https://pull.lianggexinxi.xyz/live/stream-600428_lsd.m3u8?_=1697004264631
+#EXTINF:-1 group-title="🦄国内体育",米哥直播不定时
+https://pull.lianggexinxi.xyz/live/stream-431228_lsd.m3u8?_=1698248787521
