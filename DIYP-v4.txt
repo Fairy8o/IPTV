@@ -21,24 +21,26 @@ CCTV15-音乐 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/progra
 CCTV16-奥运 8M,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV17-农业 8M,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
-CCTV1-综合 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/cctv1hd8m/8000000/mnf.m3u8
-CCTV2-财经 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/cctv2hd8m/8000000/mnf.m3u8
-CCTV3-综艺 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/cctv38m/8000000/mnf.m3u8
-CCTV4-国际 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/cctv4hd8m/8000000/mnf.m3u8
-CCTV5-体育 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/cctv58m/8000000/mnf.m3u8
-CCTV5+-赛事 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/cctv5phd8m/8000000/mnf.m3u8
-CCTV6-电影 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/cctv6hd8m/8000000/mnf.m3u8
-CCTV7-军农 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/cctv7hd8m/8000000/mnf.m3u8
-CCTV8-电视剧 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/cctv8hd8m/8000000/mnf.m3u8
-CCTV9-纪录 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/cctv9hd8m/8000000/mnf.m3u8
-CCTV10-科教 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/cctv10hd8m/8000000/mnf.m3u8
-CCTV11-戏曲 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/cctv11hd8m/8000000/mnf.m3u8
-CCTV12-社会 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/cctv12hd8m/8000000/mnf.m3u8
-CCTV13-新闻 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
-CCTV14-少儿 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/cctvsehd8m/8000000/mnf.m3u8
-CCTV15-音乐 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/cctv15hd8m/8000000/mnf.m3u8
-CCTV16-奥运 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/cctv16hd8m/8000000/mnf.m3u8
-CCTV17-农业 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/cctv17hd8m/8000000/mnf.m3u8
+CCTV1-综合 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=1
+CCTV2-财经 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=2
+CCTV3-综艺 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=3
+CCTV4-国际 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=4
+CCTV5-体育 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=5
+CCTV5+-赛事 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=6
+CCTV6-电影 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=7
+CCTV7-军农 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=8
+CCTV8-电视剧 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=9
+CCTV9-纪录 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=10
+CCTV10-科教 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=11
+CCTV11-戏曲 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=12
+CCTV12-社会 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=13
+CCTV13-新闻 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=14
+CCTV14-少儿 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=15
+CCTV15-音乐 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=16
+CCTV16-奥运 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=17
+CCTV17-农业 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=18
+CCTV-4K 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=19
+CCTV-8K 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=20
 
 北京卫视 8M,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
 北京卫视 8M,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
@@ -77,119 +79,29 @@ CCTV17-农业 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/progra
 海南卫视 8M,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225639/index.m3u8
 安多卫视 8M,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
 
-北京卫视 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/bjwshd8m/8000000/mnf.m3u8
-东方卫视 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/dfwshd8m/8000000/mnf.m3u8
-天津卫视 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/tjwshd8m/8000000/mnf.m3u8
-重庆卫视 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/cqws8m/8000000/mnf.m3u8
-黑龙江卫视 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/hljwshd8m/8000000/mnf.m3u8
-吉林卫视 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/jlwshd8m/8000000/mnf.m3u8
-辽宁卫视 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/lnwshd8m/8000000/mnf.m3u8
-内蒙古卫视 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/nmgws/1300000/mnf.m3u8
-宁夏卫视 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/nxws/1300000/mnf.m3u8
-甘肃卫视 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/gswshd8m/8000000/mnf.m3u8
-青海卫视 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/qhws/1300000/mnf.m3u8
-陕西卫视 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/xsjhd8m/8000000/mnf.m3u8
-河北卫视 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/hbwshd8m/8000000/mnf.m3u8
-山西卫视 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/shanxiws/1300000/mnf.m3u8
-山东卫视 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/sdws8m/8000000/mnf.m3u8
-安徽卫视 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/ahwshd8m/8000000/mnf.m3u8
-河南卫视 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/hnwshd8m/8000000/mnf.m3u8
-湖北卫视 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/hubeiws8m/8000000/mnf.m3u8
-湖南卫视 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/hunanwshd8m/8000000/mnf.m3u8
-江西卫视 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/jxws8m/8000000/mnf.m3u8
-江苏卫视 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/jswshd8m/8000000/mnf.m3u8
-浙江卫视 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/zjwshd8m/8000000/mnf.m3u8
-东南卫视 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/dnwshd8m/8000000/mnf.m3u8
-广东卫视 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/gdwshd8m/8000000/mnf.m3u8
-深圳卫视 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/szwshd8m/8000000/mnf.m3u8
-广西卫视 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/gxwshd8m/8000000/mnf.m3u8
-云南卫视 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/ynwshd8m/8000000/mnf.m3u8
-贵州卫视 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/gzwshd8m/8000000/mnf.m3u8
-四川卫视 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/scwshd/8000000/mnf.m3u8
-新疆卫视 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/xjws/13000000/mnf.m3u8
-兵团卫视 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/btws/13000000/mnf.m3u8
-西藏卫视 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/xzws/25000000/mnf.m3u8
-海南卫视 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/hainanwshd/8000000/mnf.m3u8
-厦门卫视 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/xmws/13000000/mnf.m3u8
-康巴卫视 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/kbws/13000000/mnf.m3u8
-
-电竞天堂 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/djtt8m/8000000/mnf.m3u8
-青春动漫 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/qcdm8m/8000000/mnf.m3u8
-宝宝动画 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/bbdh8m/8000000/mnf.m3u8
-卡酷少儿 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/kkse8m/8000000/mnf.m3u8
-炫动卡通 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/hhxd8m/8000000/mnf.m3u8
-动漫秀场 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/dmxc8m/8000000/mnf.m3u8
-
-中国教育-1 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/zgjy1t8m/8000000/mnf.m3u8
-中国教育-2 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/cetv2/2500000/mnf.m3u8
-中国教育-4 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/zgjy4hd8m/8000000/mnf.m3u8
-
-欢笑剧场 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/hxjc8m/8000000/mnf.m3u8
-快乐垂钓 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/klcd8m/8000000/mnf.m3u8
-金鹰纪实 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/jyjs8m/8000000/mnf.m3u8
-戏曲精选 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/xqjx8m/8000000/mnf.m3u8
-茶频道 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/cpdhdavs8m/8000000/mnf.m3u8
-财富天下 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/cftx/2500000/mnf.m3u8
-中国天气 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/zgqx/1300000/mnf.m3u8
-看天下精选 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/ktxjx8m/8000000/mnf.m3u8
-华语影院 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/hyyy8m/8000000/mnf.m3u8
-星光影院 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/xgyy8m/8000000/mnf.m3u8
-谍战剧场 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/dzjc8m/8000000/mnf.m3u8
-都市剧场 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/dsjc8m/8000000/mnf.m3u8
-全球大片 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/qqdp8m/8000000/mnf.m3u8
-热门剧场 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/rmjc8m/8000000/mnf.m3u8
-纪实科教 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/dajs8m/8000000/mnf.m3u8
-全纪实 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/qjshd8m/8000000/mnf.m3u8
-足球高清 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/zqpd8m/8000000/mnf.m3u8
-魅力足球 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/mlyyhd8m/8000000/mnf.m3u8
-
-上海新闻 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/xwzhhd8m/8000000/mnf.m3u8
-上海都市 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/dshd8m/8000000/mnf.m3u8
-上海教育 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/setvhd/8000000/mnf.m3u8
-上海纪实 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/jspdhd8m/8000000/mnf.m3u8
-上视外语 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/icshd8m/8000000/mnf.m3u8
-东方影视 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/dfyshd8m/8000000/mnf.m3u8
-五星体育 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/wxtyhd8m/8000000/mnf.m3u8
-七彩戏剧 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/qcxjhd8m/8000000/mnf.m3u8
-新视觉 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/xsjhd8m/8000000/mnf.m3u8
-生活时尚 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/shss8m/8000000/mnf.m3u8
-游戏风云 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/yxfy8m/8000000/mnf.m3u8
-热门综艺 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/rmzy8m/8000000/mnf.m3u8
-劲爆体育 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/jbtyhd8m/8000000/mnf.m3u8
-健康养生 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/jkys8m/8000000/mnf.m3u8
-百变课堂 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/bbkt8m/8000000/mnf.m3u8
-东方财经 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/dfcjhd8m/8000000/mnf.m3u8
-上海财经 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/dycjhd8m/8000000/mnf.m3u8
-乐游 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/qjshd8m/8000000/mnf.m3u8
-法治天地 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/fztd8m/8000000/mnf.m3u8
-金色学堂 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/program/live/jingsepd8m/8000000/mnf.m3u8
-
-黑莓动画 8M,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
-古装剧场 8M,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
-未知卫视 8M,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
-惊悚悬疑 8M,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-军事评论 8M,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
-爱情喜剧 8M,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
-精品大剧 8M,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
-泰剧剧场 8M,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
-怡伴健康 8M,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
-军旅剧场 8M,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
-家庭剧场 8M,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
-中国功夫 8M,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
-农业致富 8M,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
-潮妈辣婆 8M,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
-超级综艺 8M,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
-超级体育 8M,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
-超级电影 8M,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-炫舞未来 8M,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
-纪实人文 8M,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
-东北热剧 8M,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-欢乐剧场 8M,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-黑莓电影 8M,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-新闻综合 8M,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226437/index.m3u8
-超级电视剧 8M,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-动作电影 8M,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-上海纪实 8M,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
+北京卫视 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=34
+辽宁卫视 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=35
+河南卫视 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=36
+湖南卫视 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=37
+浙江卫视 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=38
+广东卫视 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=39
+新疆卫视 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=40
+海南卫视 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=41
+黑龙江卫视 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=42
+山东卫视 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=43
+广西卫视 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=44
+江西卫视 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=45
+东方卫视 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=46
+重庆卫视 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=47
+深圳卫视 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=48
+贵州卫视 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=49
+湖北卫视 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=50
+天津卫视 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=51
+安徽卫视 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=52
+河北卫视 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=53
+江苏卫视 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=54
+东南卫视 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=55
+四川卫视 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=56
 
 
 🦄独家线路🐯,#genre#
@@ -595,22 +507,26 @@ CCTV15,http://120.238.13.198:8000/hls/15/index.m3u8
 CCTV16,http://120.238.13.198:8000/hls/16/index.m3u8
 CCTV17,http://120.238.13.198:8000/hls/17/index.m3u8
 
-CCTV1,http://113.57.150.190:9000/tsfile/live/0001_1.m3u8
-CCTV2,http://113.57.150.190:9000/tsfile/live/0002_1.m3u8
-CCTV3,http://113.57.150.190:9000/tsfile/live/0003_1.m3u8
-CCTV4,http://113.57.150.190:9000/tsfile/live/0004_1.m3u8
-CCTV5+,http://113.57.150.190:9000/tsfile/live/0005_1.m3u8
-CCTV6,http://113.57.150.190:9000/tsfile/live/0006_1.m3u8
-CCTV7,http://113.57.150.190:9000/tsfile/live/0007_1.m3u8
-CCTV8,http://113.57.150.190:9000/tsfile/live/0008_1.m3u8
-CCTV9,http://113.57.150.190:9000/tsfile/live/0009_1.m3u8
-CCTV10,http://113.57.150.190:9000/tsfile/live/0010_1.m3u8
-CCTV11,http://113.57.150.190:9000/tsfile/live/0011_1.m3u8
-CCTV12,http://113.57.150.190:9000/tsfile/live/0012_1.m3u8
-CCTV13,http://113.57.150.190:9000/tsfile/live/0013_1.m3u8
-CCTV14,http://113.57.150.190:9000/tsfile/live/0014_1.m3u8
-CCTV15,http://113.57.150.190:9000/tsfile/live/0015_1.m3u8
-CCTV17,http://113.57.150.190:9000/tsfile/live/0019_1.m3u8
+CCTV1,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=cctv1
+CCTV2,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=cctv2
+CCTV3,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=cctv3
+CCTV4,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=cctv4
+CCTV5,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=cctv5
+CCTV5+,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=cctv5p
+CCTV6,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=cctv6
+CCTV7,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=cctv7
+CCTV8,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=cctv8
+CCTV9,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=cctv9
+CCTV10,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=cctv10
+CCTV11,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=cctv11
+CCTV12,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=cctv12
+CCTV13,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=cctv13
+CCTV14,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=cctv14
+CCTV15,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=cctv15
+CCTV16,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=cctv16
+CCTV17,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=cctv17
+CCTV超高清-4K,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=cctv4k
+CCTV16-4K,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=cctv164k
 
 CCTV1,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
@@ -998,30 +914,40 @@ CETV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 农林卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
 农林卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8?
 
-东方卫视,http://113.57.150.190:9000/tsfile/live/0107_1.m3u8
-北京卫视,http://113.57.150.190:9000/tsfile/live/1017_1.m3u8
-天津卫视,http://113.57.150.190:9000/tsfile/live/1016_1.m3u8
-湖南卫视,http://113.57.150.190:9000/tsfile/live/0128_1.m3u8
-广东卫视,http://113.57.150.190:9000/tsfile/live/0125_1.m3u8
-深圳卫视,http://113.57.150.190:9000/tsfile/live/1015_1.m3u8
-江苏卫视,http://113.57.150.190:9000/tsfile/live/0127_1.m3u8
-东南卫视,http://113.57.150.190:9000/tsfile/live/0137_1.m3u8
-浙江卫视,http://113.57.150.190:9000/tsfile/live/0124_1.m3u8
-重庆卫视,http://113.57.150.190:9000/tsfile/live/0142_1.m3u8
-湖北卫视,http://113.57.150.190:9000/tsfile/live/0132_1.m3u8
-江西卫视,http://113.57.150.190:9000/tsfile/live/0138_1.m3u8
-安徽卫视,http://113.57.150.190:9000/tsfile/live/0130_1.m3u8
-辽宁卫视,http://113.57.150.190:9000/tsfile/live/0121_1.m3u8
-广西卫视,http://113.57.150.190:9000/tsfile/live/1004_1.m3u8
-海南卫视,http://113.57.150.190:9000/tsfile/live/1005_1.m3u8
-宁夏卫视,http://113.57.150.190:9000/tsfile/live/1003_1.m3u8
-吉林卫视,http://113.57.150.190:9000/tsfile/live/1007_1.m3u8
-黑龙江卫视,http://113.57.150.190:9000/tsfile/live/1008_1.m3u8
-山西卫视,http://113.57.150.190:9000/tsfile/live/1009_1.m3u8
-云南卫视,http://113.57.150.190:9000/tsfile/live/1010_1.m3u8
-贵州卫视,http://113.57.150.190:9000/tsfile/live/1011_1.m3u8
-陕西卫视,http://113.57.150.190:9000/tsfile/live/1013_1.m3u8
-青海卫视,http://113.57.150.190:9000/tsfile/live/1014_1.m3u8
+江苏卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=jsws
+广西卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=gxws
+四川卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=scws
+湖南卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=hunan
+浙江卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=zjws
+东方卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=dfws
+北京卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=bjws
+天津卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=tjws
+辽宁卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=lnws
+安徽卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=ahws
+黑龙江卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=hljws
+广东卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=gdws
+深圳卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=szws
+湖北卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=hubei
+吉林卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=jlws
+山东卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=sdws
+江西卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=jxws
+河南卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=hnws
+河北卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=hbws
+甘肃卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=gsws
+重庆卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=cqws
+东南卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=dnws
+云南卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=ynws
+贵州卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=gzws
+海南卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=hainan
+康巴卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=kbws
+内蒙古卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=nmgws
+兵团卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=btws
+新疆卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=xjws
+西藏卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=xzws
+青海卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=qhws
+宁夏卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=nxws
+山西卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=shanxi
+陕西卫视,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=sxws
 
 北京卫视,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000020451/1.m3u8?channel-id=wasusyt&Contentid=6000000001000020451&livemode=1&stbId=3
 东方卫视,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000056/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000056&livemode=1&stbId=3
