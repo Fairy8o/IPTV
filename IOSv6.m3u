@@ -2407,6 +2407,18 @@ http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcl
 http://221.204.43.29/a18f4a1e8ee5c9fe3d0f338af6467843.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 #EXTINF:-1 group-title="🦄香港频道「测试中」",重温经典
 http://43.141.130.70/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰中文
+http://n1.jimgo.win:4022/udp/239.93.0.162:2192
+#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰资讯
+http://n1.jimgo.win:4022/udp/239.93.1.4:2191
+#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰中文
+http://112.19.171.156:9999/udp/239.93.0.162:2192
+#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰资讯
+http://112.19.171.156:9999/udp/239.93.0.118:2191
+#EXTINF:-1 group-title="🦄香港频道「测试中」",星空卫视
+http://n1.jimgo.win:4022/udp/239.93.1.10:2193
+#EXTINF:-1 group-title="🦄香港频道「测试中」",星空卫视
+http://n1.jimgo.win:4022/udp/239.93.0.156:2193
 #EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰中文台
 http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
 #EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰资讯台
