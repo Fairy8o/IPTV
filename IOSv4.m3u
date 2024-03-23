@@ -3221,44 +3221,16 @@ http://222.89.107.42:9876/tsfile/live/0111_1.m3u8
 http://222.89.107.42:9876/tsfile/live/0110_1.m3u8
 
 
-#EXTINF:-1 group-title="🦄数字高清",环球旅游
+#EXTINF:-1 group-title="🦄精彩频道🦄",环球旅游
 http://117.28.177.45:8605/rtp/239.61.3.66:9914
-#EXTINF:-1 group-title="🦄数字高清",环球旅游
+#EXTINF:-1 group-title="🦄精彩频道🦄",环球旅游
 http://121.17.146.201:2022/rtp/239.253.93.220:6398
-#EXTINF:-1 group-title="🦄数字高清",环球旅游
+#EXTINF:-1 group-title="🦄精彩频道🦄",环球旅游
 http://113.24.136.82:8082/udp/239.1.1.116:8116
-#EXTINF:-1 group-title="🦄数字高清",环球奇观
+#EXTINF:-1 group-title="🦄精彩频道🦄",环球奇观
 ttp://60.223.72.168:8003/rtp/226.0.2.111:8800
-#EXTINF:-1 group-title="🦄数字高清",环球奇观
+#EXTINF:-1 group-title="🦄精彩频道🦄",环球奇观
 http://36.49.53.3:8800/rtp/239.37.0.070:5540
-#EXTINF:-1 group-title="🦄精彩频道🦄",第一剧场
-https://live.goodiptv.club/api/cqyx.php?id=diyijuchangHD
-#EXTINF:-1 group-title="🦄精彩频道🦄",都市剧场
-https://live.goodiptv.club/api/cqyx.php?id=dsjcHD
-#EXTINF:-1 group-title="🦄精彩频道🦄",动漫秀场
-https://live.goodiptv.club/api/cqyx.php?id=dmxcHD
-#EXTINF:-1 group-title="🦄精彩频道🦄",魅力足球
-https://live.goodiptv.club/api/cqyx.php?id=mlzqHD
-#EXTINF:-1 group-title="🦄精彩频道🦄",风云剧场
-https://live.goodiptv.club/api/cqyx.php?id=fyjcHD
-#EXTINF:-1 group-title="🦄精彩频道🦄",求索纪录
-https://live.goodiptv.club/api/cqyx.php?id=qsjlHD
-#EXTINF:-1 group-title="🦄精彩频道🦄",兵器科技
-https://live.goodiptv.club/api/cqyx.php?id=bqkjHD
-#EXTINF:-1 group-title="🦄精彩频道🦄",游戏风云
-https://live.goodiptv.club/api/cqyx.php?id=yxfyHD
-#EXTINF:-1 group-title="🦄精彩频道🦄",怀旧剧场
-https://live.goodiptv.club/api/cqyx.php?id=hjjcHD
-#EXTINF:-1 group-title="🦄精彩频道🦄",风云音乐
-https://live.goodiptv.club/api/cqyx.php?id=fyyyHD
-#EXTINF:-1 group-title="🦄精彩频道🦄",央视台球
-https://live.goodiptv.club/api/cqyx.php?id=ystqHD
-#EXTINF:-1 group-title="🦄精彩频道🦄",风云足球
-https://live.goodiptv.club/api/cqyx.php?id=fyzqHD
-#EXTINF:-1 group-title="🦄精彩频道🦄",文化精品
-https://live.goodiptv.club/api/cqyx.php?id=yswhHD
-#EXTINF:-1 group-title="🦄精彩频道🦄",高尔夫网球
-https://live.goodiptv.club/api/cqyx.php?id=golfHD
 #EXTINF:-1 group-title="🦄精彩频道🦄",哒啵电竞
 http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226951/index.m3u8
 #EXTINF:-1 group-title="🦄精彩频道🦄",哒啵赛事
