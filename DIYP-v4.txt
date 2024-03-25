@@ -27,26 +27,6 @@ CCTV15-音乐 8M,http://140.249.247.166/qhbuv52.live.bestvcdn.com.cn/live/progra
 CCTV16-奥运 8M,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV17-农业 8M,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
-CCTV1-综合 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=1
-CCTV2-财经 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=2
-CCTV3-综艺 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=3
-CCTV4-国际 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=4
-CCTV5-体育 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=5
-CCTV5+-赛事 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=6
-CCTV6-电影 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=7
-CCTV7-军农 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=8
-CCTV8-电视剧 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=9
-CCTV9-纪录 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=10
-CCTV10-科教 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=11
-CCTV11-戏曲 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=12
-CCTV12-社会 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=13
-CCTV13-新闻 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=14
-CCTV14-少儿 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=15
-CCTV15-音乐 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=16
-CCTV16-奥运 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=17
-CCTV17-农业 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=18
-CCTV-4K 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=19
-CCTV-8K 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=20
 
 北京卫视 8M,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
 北京卫视 8M,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
@@ -84,30 +64,6 @@ CCTV-8K 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=20
 西藏卫视 8M,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
 海南卫视 8M,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225639/index.m3u8
 安多卫视 8M,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8
-
-北京卫视 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=34
-辽宁卫视 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=35
-河南卫视 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=36
-湖南卫视 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=37
-浙江卫视 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=38
-广东卫视 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=39
-新疆卫视 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=40
-海南卫视 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=41
-黑龙江卫视 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=42
-山东卫视 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=43
-广西卫视 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=44
-江西卫视 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=45
-东方卫视 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=46
-重庆卫视 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=47
-深圳卫视 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=48
-贵州卫视 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=49
-湖北卫视 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=50
-天津卫视 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=51
-安徽卫视 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=52
-河北卫视 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=53
-江苏卫视 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=54
-东南卫视 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=55
-四川卫视 8M,http://mywlkj.ddns.net:754/tv/ysp.php?id=56
 
 
 🦄独家线路🐯,#genre#
