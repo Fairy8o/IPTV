@@ -2536,6 +2536,38 @@ MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 
+中天新聞2台,http://165.1.79.200:9000/live.m3u8?c=64
+中天新聞,http://165.1.79.200:9000/live.m3u8?c=65
+民視新聞,http://165.1.79.200:9000/live.m3u8?c=66
+TVBS新聞,http://165.1.79.200:9000/live.m3u8?c=67
+寰宇新闻,http://165.1.79.200:9000/live.m3u8?c=68
+寰宇新聞台灣台,http://165.1.79.200:9000/live.m3u8?c=69
+東森財經,http://165.1.79.200:9000/live.m3u8?c=70
+台視新聞,http://165.1.79.200:9000/live.m3u8?c=72
+中視新聞,http://165.1.79.200:9000/live.m3u8?c=74
+鏡新聞mnews,http://165.1.79.200:9000/live.m3u8?c=76
+GB News,http://165.1.79.200:9000/live.m3u8?c=82
+公視,http://165.1.79.200:9000/live.m3u8?c=83
+台灣地震監視,http://165.1.79.200:9000/live.m3u8?c=93
+中視經典綜藝,http://165.1.79.200:9000/live.m3u8?c=94
+三立新聞,http://165.1.79.200:9000/live.m3u8?c=95
+三立+,http://165.1.79.200:9000/live.m3u8?c=96
+DW德國之聲,http://165.1.79.200:9000/live.m3u8?c=97
+TRTWORLD,http://165.1.79.200:9000/live.m3u8?c=98
+Al Jazeera,http://165.1.79.200:9000/live.m3u8?c=100
+Bloomberg Quicktake,http://165.1.79.200:9000/live.m3u8?c=101
+Euronews English,http://165.1.79.200:9000/live.m3u8?c=102
+FOX Weather,http://165.1.79.200:9000/live.m3u8?c=160
+GB News,http://165.1.79.200:9000/live.m3u8?c=161
+CNA 24,http://165.1.79.200:9000/live.m3u8?c=163
+Astro AWANI,http://165.1.79.200:9000/live.m3u8?c=164
+Bloomberg Business News Live,http://165.1.79.200:9000/live.m3u8?c=172
+Sky News,http://165.1.79.200:9000/live.m3u8?c=173
+ABC Australia,http://165.1.79.200:9000/live.m3u8?c=174
+France 24 EN,http://165.1.79.200:9000/live.m3u8?c=175
+ABC News,http://165.1.79.200:9000/live.m3u8?c=176
+東森新聞,http://165.1.79.200:9000/live.m3u8?c=177
+
 (1线)中天新闻,http://111.173.81.3:3001/TW/ztxw/hls.m3u8
 (1线)中天新闻2,http://111.173.81.3:3001/TW/ztxw2/hls.m3u8
 (1线)中天综合,http://111.173.81.3:3001/TW/ztzh/hls.m3u8
