@@ -1,0 +1,116 @@
+#EXTM3U
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE local
+
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",TVBS新闻[1920x1080]
+http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",TVBS亞洲[1920x1080]
+http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",民视新闻台[1920x1080]
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",八大第一[1920x1080]
+http://198.16.100.90:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",八大第一[1920x1080]
+http://50.7.238.114:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",八大第一[1920x1080]
+http://198.16.100.90:8278/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc06a987d749e
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",八大戏剧[1920x1080]
+http://50.7.238.114:8278/badadrama/playlist.m3u8?ct=19225&tid=ME4E4734124647341246&tsum=c4e596572a79ad99675ee2137d1cc43d
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",八大综合[1920x1080]
+http://198.16.100.90:8278/badazhonghe/playlist.m3u8?tid=mfb8d64b6276514171054&ct=17874&tsum=a87466c997089ea7dce98cd17301667d
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",八大综合[1920x1080]
+http://198.16.100.90:8278/badazhonghe/playlist.m3u8?tid=MCFC9951205299512052&ct=19249&tsum=dc4ca0de5e57c9f4caee0bb4e80c098a
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",八大综合[1920x1080]
+http://198.16.100.90:8278/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0df0b92e678790
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",八大综合[1920x1080]
+http://50.7.238.114:8278/badazhonghe/playlist.m3u8?tid=MCFC9951205299512052&ct=19249&tsum=dc4ca0de5e57c9f4caee0bb4e80c098a
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",八大综合[1920x1080]
+http://50.7.238.114:8278/badazhonghe/playlist.m3u8?tid=mfb8d64b6276514171054&ct=17874&tsum=a87466c997089ea7dce98cd17301667d
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",纬来体育[1920x1080]
+http://50.7.238.114:8278/videolandsport/playlist.m3u8?tid=MD2D5343800653438006&ct=19234&tsum=1be724fb8246abfedaf2bd088ec98f03
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",TVBS[1920x1080]
+http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",TVBS欢乐[1920x1080]
+http://198.16.100.90:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111409641114096&ct=19225&tsum=600f3056bba6413dec3155efd19e2d20
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",TVBS欢乐[1920x1080]
+http://50.7.238.114:8278/tvbshuanle_twn/playlist.m3u8?tid=MA5A9262292692622926&ct=19254&tsum=cd369d68a5d2c1a2fa04df748cda142c
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",TVBS欢乐[1920x1080]
+http://198.16.100.90:8278/tvbshuanle_twn/playlist.m3u8?tid=MA5A9262292692622926&ct=19254&tsum=cd369d68a5d2c1a2fa04df748cda142c
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",民视台湾[1920x1080]
+http://50.7.238.114:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359&ct=19226&tsum=b82639ac8b4590b4206effe348e2f9c2
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",台视新闻[1280x720]
+http://50.7.238.114:8278/ttvnews_twn/playlist.m3u8?tid=MBBB6637589866375898&ct=19234&tsum=d2c641a325bf02e0b68c4f245e0165b0
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",民视新闻[1280x720]
+http://50.7.238.114:8278/ftvnew_taiwan/playlist.m3u8?tid=md953ce86cdad16241449&ct=17874&tsum=949d4aace793a001dd41392b210ba406
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",民视新闻[1280x720]
+http://198.16.100.90:8278/ftvnew_taiwan/playlist.m3u8?tid=md953ce86cdad16241449&ct=17874&tsum=949d4aace793a001dd41392b210ba406
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",TVBS[1920x1080]
+http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",ABCNews[1280x720]
+http://198.16.100.90:8278/abcnews_glo/playlist.m3u8?tid=MAEA6759929367599293&ct=19225&tsum=edd59704e2182262583ea5b0e1093b9d
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",八大戏剧[1920x1080]
+http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",八大戏剧[1920x1080]
+http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=m4a65d3abd9ee13871929&ct=17924&tsum=8e5ef501e42d00cdc6a761ca3dc693d8
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",八大第一[1920x1080]
+http://198.16.100.90:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",BBC[1280x720]
+http://198.16.100.90:8278/bbc1_antik/playlist.m3u8?tid=MA4A9532597395325973&ct=19230&tsum=730628fd737b265598d82053feb30902
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",BBC[1280x720]
+http://198.16.100.90:8278/bbc2_antik/playlist.m3u8?tid=MA6A4519490645194906&ct=19225&tsum=9b7ac03eed5276fa8bda87e0e8e64ed1
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",CBSNHD[1280x720]
+http://198.16.100.90:8278/cbsn_glo/playlist.m3u8?tid=MAFA1197236411972364&ct=19254&tsum=c1429b2e5bd7d3312b628e1c35b2e803
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",CBSN[1280x720]
+http://198.16.100.90:8278/cbsn_glo/playlist.m3u8?tid=ME2E7003518970035189&ct=19225&tsum=c1cc67ff59df6d6f608a400760be0bda
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",CNBC[1280x720]
+http://198.16.100.90:8278/cnbc_twn/playlist.m3u8?tid=MA5A9732497897324978&ct=19225&tsum=268e38e98d745f914c001c83d98b4b60
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",CNBC[1280x720]
+http://198.16.100.90:8278/cnbc_twn/playlist.m3u8?tid=MCBC5251518852515188&ct=19254&tsum=37bd48b924a593e126344eae8baec162
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",CNN[1280x720]
+http://198.16.100.90:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",中天娱乐[1920x1080]
+http://198.16.100.90:8278/ctient/playlist.m3u8?tid=m6780c60bd34a13540795&ct=17874&tsum=06089e289a460b0685447b7656d550e3
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",中天综合[1920x1080]
+http://198.16.100.90:8278/ctizhonghe/playlist.m3u8?tid=MB6B3888954738889547&ct=19254&tsum=d0cb922e44e8a16bea598530697c581e
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",非凡新闻[1920x1080]
+http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",France24(1080p)[1920x1080]
+http://198.16.100.90:8278/france24_twn/playlist.m3u8?tid=MD8D3999259739992597&ct=19225&tsum=f842be32f837e71c7df73d173c6705b1
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",民视台湾[1920x1080]
+http://198.16.100.90:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359&ct=19226&tsum=b82639ac8b4590b4206effe348e2f9c2
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",民视第一台[1280x720]
+http://198.16.100.90:8278/lunghuajingdian_twn/playlist.m3u8?tid=ME8E7785888977858889&ct=19226&tsum=a7c782372313ea616d8fced1cebdfbab
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",年代新闻[1920x1080]
+http://198.16.100.90:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",RTHK31[1280x720]
+http://198.16.100.90:8278/rhk31_twn/playlist.m3u8?tid=MA6A6225600662256006&ct=19249&tsum=7b0adccccff4fded44e906e9d848ee35
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",RTHK32[1280x720]
+http://198.16.100.90:8278/rhk32_twn/playlist.m3u8?tid=MBCB4455322944553229&ct=19226&tsum=60bac13753ada5abc8873783d6611ebd
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",ABCNews[1280x720]
+http://50.7.238.114:8278/abcnews_glo/playlist.m3u8?tid=MAEA6759929367599293&ct=19225&tsum=edd59704e2182262583ea5b0e1093b9d
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",CNN[1280x720]
+http://50.7.238.114:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",东森戏剧[1920x1080]
+http://50.7.238.114:8278/ettvdrama/playlist.m3u8?tid=m921dcb630ebe17354109&ct=17874&tsum=695370160923af940d1a90d44c262acc
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",东森超视[1920x1080]
+http://50.7.238.114:8278/ettvsuper/playlist.m3u8?tid=MA4A3005409230054092&ct=19225&tsum=c5d89f66fa1a8bcd26f482d4a370def5
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",非凡新闻[1920x1080]
+http://50.7.238.114:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",HBO [1920x1080]
+http://50.7.238.114:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",靖天国际[1280x720]
+http://50.7.238.114:8278/jingtianintl_twn/playlist.m3u8?tid=MC7C4153806141538061&ct=19254&tsum=79854f3ccdc23693ea39da52af54d35b
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",靖天国际[1280x720]
+http://50.7.238.114:8278/jingtianintl_twn/playlist.m3u8?tid=ME4E7632479576324795&ct=19226&tsum=9922eeed6392b21e1710ba791cc599d6
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",年代新闻[1920x1080]
+http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",亚洲新闻[1920x1080]
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",亚洲新闻[1280x720]
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",人間衛視[1280x720]
+https://epg.pw/stream/cab9660f86973293a2803a15f5967d07b0981cf7b2ea801d7b11070100b318f9.ctv
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",東森戲劇[1280x720]
+https://epg.pw/stream/d022283dd82f8a32737a6a8400d8e0e2f4d38e672492bb7966c25ac4950b25a3.m3u8
+#EXTINF:-1 group-title="🦄湾湾频道「测试中」",東森電影[1280x720]
+https://epg.pw/stream/382dca1621c0aecc0f0ef19a4ef53b453d932600fc491d9f56657e576996d995.m3u8
