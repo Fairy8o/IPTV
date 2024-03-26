@@ -2453,47 +2453,6 @@ MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 
-三立LIVE,http://ali.hlspull.yximgs.com/live/932fa665c9664952cd42202a584aebd9.flv
-国会频道1,http://ali.hlspull.yximgs.com/live/4c708e9434bab02c7c499ac9750740df.flv
-华视,http://ali.hlspull.yximgs.com/live/a04bb6109dcf340a49e53e21d1af78f8.flv
-靖天戏剧台,http://ali.hlspull.yximgs.com/live/e3e35e46264ed9660843b290dc5b878c.flv
-华视新闻台,http://ali.hlspull.yximgs.com/live/62678d17814b950e1cc3733a45b7cef9.flv
-八大精彩台,http://ali.hlspull.yximgs.com/live/9942b77420d0a6bd24b3eb5738f5507f.flv
-民视新闻台,http://ali.hlspull.yximgs.com/live/72e7ff8cc0608f4fb3eb94bcbbb9f652.flv
-东森新闻,http://ali.hlspull.yximgs.com/live/f956f14094fad83b26b77141f9afe6f8.flv
-寰宇新闻,http://ali.hlspull.yximgs.com:80/live/880be5d37d01f8a4218c51122c13f9f6.flv
-中视新闻,http://ali.hlspull.yximgs.com/live/32d84d8d932b1a855ac410ee9b1919b5.flv
-中天新闻,http://ali.hlspull.yximgs.com/live/b5bf3b626c45e0e390c41395dec5c1db.flv
-民视台湾,http://ali.hlspull.yximgs.com/live/0f218c197d6cf86f29566c8bc6fdeb83.flv
-中视精彩台,http://ali.hlspull.yximgs.com/live/2db588497d914fbf6564fe7b4a24fcf5.flv
-寰宇新闻tw,http://ali.hlspull.yximgs.com/live/a712b8244187bd78125f1d174378bb96.flv
-tvbs新闻台,http://ali.hlspull.yximgs.com/live/37260a15f4f850dd2b5a13033ad6f5f3.flv
-TVBS,http://ali.hlspull.yximgs.com/live/dc30fea360aa6a28de1c8708e6034fab.flv
-寰宇新闻,http://ali.hlspull.yximgs.com/live/914b3ca33738ea999a0717c940a23a18.flv
-三立,http://ali.hlspull.yximgs.com/live/b89697a4aa9eddc697250105a5eab1a2.flv
-三立新闻,http://ali.hlspull.yximgs.com/live/126ca193d8fe8a5f35ee3e107caf5e66.flv
-龙华电影,http://ali.hlspull.yximgs.com/live/012d0c30f2b89f3b5f3cfe9fc2910aef.flv
-靖天卡通,http://ali.hlspull.yximgs.com/live/c59ca50b293c025586de148f8c0beaa3.flv
-中天亚洲台,http://ali.hlspull.yximgs.com/live/3b8f7d2e8a484c945fec9c9548311591.flv
-tvbs欢乐台,http://ali.hlspull.yximgs.com/live/1a8aeaa98b1b72862f694e12869b8339.flv
-民视,http://ali.hlspull.yximgs.com/live/ea63bd85aaa340c67f818ab923ff1555.flv
-动物星球,http://ali.hlspull.yximgs.com/live/98af51650c491e7691fcd061b19c36b8.flv
-博斯高球1,http://ali.hlspull.yximgs.com/live/57ccdcaac1f5e9a6086083e3dab02dfb.flv
-博斯网球,http://ali.hlspull.yximgs.com/live/29fe002619a964d6d1d0c2ed075625fc.flv
-影迷纪实,http://ali.hlspull.yximgs.com/live/c287e492afa40aa8cc4e7b686fc69c26.flv
-居家频道,http://ali.hlspull.yximgs.com/live/b0a6206d11c9ca1f42728d09aacaf88a.flv
-ftv影剧台,http://ali.hlspull.yximgs.com/live/703c2f4babcb391fa9c1e61a3fe6e2b9.flv
-cinemax,http://ali.hlspull.yximgs.com/live/3e8d43b0ab3e5909358362a5a7d05265.flv
-HBO family,http://ali.hlspull.yximgs.com/live/6880b24672a7e1d43520ef3f11800001.flv
-HBO hits,http://ali.hlspull.yximgs.com/live/c4699099cc7f515b4bc5a0590780667a.flv
-HBO ignature,http://ali.hlspull.yximgs.com/live/7d1a8b917ed6ba002769339f067f7946.flv
-ASTRO QJ,http://ali.hlspull.yximgs.com/live/9eaf2f23e0003f1a884bf01bdbf47138.flv
-ASTRO QASIS,http://ali.hlspull.yximgs.com/live/30788ceaddcfe660a7914e2b58283312.flv
-tvbs新闻,http://ali.hlspull.yximgs.com/live/0e36b2b76a2a70fd21d9d246c1e9c652.flv
-tvbs精彩台,http://ali.hlspull.yximgs.com/live/cf466c30f3df21974790ab085342b48f.flv
-AXYN,http://ali.hlspull.yximgs.com/live/9e13a06bcef3e40d9dc49e8204e2e9c9.flv
-
-
 寰宇新聞tw,https://ali.hlspull.yximgs.com/live/dd3837eef171e753c7ecd0570a5ea284.flv
 中天新聞2台,http://165.1.79.200:9000/live.m3u8?c=64
 中天新聞,http://165.1.79.200:9000/live.m3u8?c=65
@@ -2527,6 +2486,65 @@ France 24 EN,http://165.1.79.200:9000/live.m3u8?c=175
 ABC News,http://165.1.79.200:9000/live.m3u8?c=176
 東森新聞,http://165.1.79.200:9000/live.m3u8?c=177
 
+
+（此处以下频道需要魔法）,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+TVBS新闻[1920x1080],http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
+TVBS亞洲[1920x1080],http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+民视新闻台[1920x1080],http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+八大第一[1920x1080],http://198.16.100.90:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
+八大第一[1920x1080],http://50.7.238.114:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
+八大第一[1920x1080],http://198.16.100.90:8278/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc06a987d749e
+八大戏剧[1920x1080],http://50.7.238.114:8278/badadrama/playlist.m3u8?ct=19225&tid=ME4E4734124647341246&tsum=c4e596572a79ad99675ee2137d1cc43d
+八大综合[1920x1080],http://198.16.100.90:8278/badazhonghe/playlist.m3u8?tid=mfb8d64b6276514171054&ct=17874&tsum=a87466c997089ea7dce98cd17301667d
+八大综合[1920x1080],http://198.16.100.90:8278/badazhonghe/playlist.m3u8?tid=MCFC9951205299512052&ct=19249&tsum=dc4ca0de5e57c9f4caee0bb4e80c098a
+八大综合[1920x1080],http://198.16.100.90:8278/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0df0b92e678790
+八大综合[1920x1080],http://50.7.238.114:8278/badazhonghe/playlist.m3u8?tid=MCFC9951205299512052&ct=19249&tsum=dc4ca0de5e57c9f4caee0bb4e80c098a
+八大综合[1920x1080],http://50.7.238.114:8278/badazhonghe/playlist.m3u8?tid=mfb8d64b6276514171054&ct=17874&tsum=a87466c997089ea7dce98cd17301667d
+纬来体育[1920x1080],http://50.7.238.114:8278/videolandsport/playlist.m3u8?tid=MD2D5343800653438006&ct=19234&tsum=1be724fb8246abfedaf2bd088ec98f03
+TVBS[1920x1080],http://198.16.100.90:8278/tvbs/playlist.m3u8?tid=MEFE3093330530933305&ct=19249&tsum=ce6b5e9293b3618104ad53084745a223
+TVBS欢乐[1920x1080],http://198.16.100.90:8278/tvbshuanle_twn/playlist.m3u8?tid=MA9A4111409641114096&ct=19225&tsum=600f3056bba6413dec3155efd19e2d20
+TVBS欢乐[1920x1080],http://50.7.238.114:8278/tvbshuanle_twn/playlist.m3u8?tid=MA5A9262292692622926&ct=19254&tsum=cd369d68a5d2c1a2fa04df748cda142c
+TVBS欢乐[1920x1080],http://198.16.100.90:8278/tvbshuanle_twn/playlist.m3u8?tid=MA5A9262292692622926&ct=19254&tsum=cd369d68a5d2c1a2fa04df748cda142c
+
+民视台湾[1920x1080],http://50.7.238.114:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359&ct=19226&tsum=b82639ac8b4590b4206effe348e2f9c2
+台视新闻[1280x720],http://50.7.238.114:8278/ttvnews_twn/playlist.m3u8?tid=MBBB6637589866375898&ct=19234&tsum=d2c641a325bf02e0b68c4f245e0165b0
+民视新闻[1280x720],http://50.7.238.114:8278/ftvnew_taiwan/playlist.m3u8?tid=md953ce86cdad16241449&ct=17874&tsum=949d4aace793a001dd41392b210ba406
+民视新闻[1280x720],http://198.16.100.90:8278/ftvnew_taiwan/playlist.m3u8?tid=md953ce86cdad16241449&ct=17874&tsum=949d4aace793a001dd41392b210ba406
+TVBS[1920x1080],http://50.7.238.114:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e
+ABCNews[1280x720],http://198.16.100.90:8278/abcnews_glo/playlist.m3u8?tid=MAEA6759929367599293&ct=19225&tsum=edd59704e2182262583ea5b0e1093b9d
+八大戏剧[1920x1080],http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
+八大戏剧[1920x1080],http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=m4a65d3abd9ee13871929&ct=17924&tsum=8e5ef501e42d00cdc6a761ca3dc693d8
+八大第一[1920x1080],http://198.16.100.90:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
+BBC[1280x720],http://198.16.100.90:8278/bbc1_antik/playlist.m3u8?tid=MA4A9532597395325973&ct=19230&tsum=730628fd737b265598d82053feb30902
+BBC[1280x720],http://198.16.100.90:8278/bbc2_antik/playlist.m3u8?tid=MA6A4519490645194906&ct=19225&tsum=9b7ac03eed5276fa8bda87e0e8e64ed1
+CBSNHD[1280x720],http://198.16.100.90:8278/cbsn_glo/playlist.m3u8?tid=MAFA1197236411972364&ct=19254&tsum=c1429b2e5bd7d3312b628e1c35b2e803
+CBSN[1280x720],http://198.16.100.90:8278/cbsn_glo/playlist.m3u8?tid=ME2E7003518970035189&ct=19225&tsum=c1cc67ff59df6d6f608a400760be0bda
+CNBC[1280x720],http://198.16.100.90:8278/cnbc_twn/playlist.m3u8?tid=MA5A9732497897324978&ct=19225&tsum=268e38e98d745f914c001c83d98b4b60
+CNBC[1280x720],http://198.16.100.90:8278/cnbc_twn/playlist.m3u8?tid=MCBC5251518852515188&ct=19254&tsum=37bd48b924a593e126344eae8baec162
+CNN[1280x720],http://198.16.100.90:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
+中天娱乐[1920x1080],http://198.16.100.90:8278/ctient/playlist.m3u8?tid=m6780c60bd34a13540795&ct=17874&tsum=06089e289a460b0685447b7656d550e3
+中天综合[1920x1080],http://198.16.100.90:8278/ctizhonghe/playlist.m3u8?tid=MB6B3888954738889547&ct=19254&tsum=d0cb922e44e8a16bea598530697c581e
+非凡新闻[1920x1080],http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
+France24(1080p)[1920x1080],http://198.16.100.90:8278/france24_twn/playlist.m3u8?tid=MD8D3999259739992597&ct=19225&tsum=f842be32f837e71c7df73d173c6705b1
+民视台湾[1920x1080],http://198.16.100.90:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD8196635981966359&ct=19226&tsum=b82639ac8b4590b4206effe348e2f9c2
+民视第一台[1280x720],http://198.16.100.90:8278/lunghuajingdian_twn/playlist.m3u8?tid=ME8E7785888977858889&ct=19226&tsum=a7c782372313ea616d8fced1cebdfbab
+年代新闻[1920x1080],http://198.16.100.90:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
+RTHK31[1280x720],http://198.16.100.90:8278/rhk31_twn/playlist.m3u8?tid=MA6A6225600662256006&ct=19249&tsum=7b0adccccff4fded44e906e9d848ee35
+RTHK32[1280x720],http://198.16.100.90:8278/rhk32_twn/playlist.m3u8?tid=MBCB4455322944553229&ct=19226&tsum=60bac13753ada5abc8873783d6611ebd
+ABCNews[1280x720],http://50.7.238.114:8278/abcnews_glo/playlist.m3u8?tid=MAEA6759929367599293&ct=19225&tsum=edd59704e2182262583ea5b0e1093b9d
+CNN[1280x720],http://50.7.238.114:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
+东森戏剧[1920x1080],http://50.7.238.114:8278/ettvdrama/playlist.m3u8?tid=m921dcb630ebe17354109&ct=17874&tsum=695370160923af940d1a90d44c262acc
+东森超视[1920x1080],http://50.7.238.114:8278/ettvsuper/playlist.m3u8?tid=MA4A3005409230054092&ct=19225&tsum=c5d89f66fa1a8bcd26f482d4a370def5
+非凡新闻[1920x1080],http://50.7.238.114:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
+HBO [1920x1080],http://50.7.238.114:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
+靖天国际[1280x720],http://50.7.238.114:8278/jingtianintl_twn/playlist.m3u8?tid=MC7C4153806141538061&ct=19254&tsum=79854f3ccdc23693ea39da52af54d35b
+靖天国际[1280x720],http://50.7.238.114:8278/jingtianintl_twn/playlist.m3u8?tid=ME4E7632479576324795&ct=19226&tsum=9922eeed6392b21e1710ba791cc599d6
+年代新闻[1920x1080],http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
+亚洲新闻[1920x1080],https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+亚洲新闻[1280x720],http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+人間衛視[1280x720],https://epg.pw/stream/cab9660f86973293a2803a15f5967d07b0981cf7b2ea801d7b11070100b318f9.ctv
+東森戲劇[1280x720],https://epg.pw/stream/d022283dd82f8a32737a6a8400d8e0e2f4d38e672492bb7966c25ac4950b25a3.m3u8
+東森電影[1280x720],https://epg.pw/stream/382dca1621c0aecc0f0ef19a4ef53b453d932600fc491d9f56657e576996d995.m3u8
 
 
 （此处以下频道需要湾湾节点）,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
