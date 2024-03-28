@@ -1366,6 +1366,39 @@ Live-6323,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=
 凤凰中文,http://112.19.171.156:9999/udp/239.93.0.162:2192
 凤凰资讯,http://112.19.171.156:9999/udp/239.93.0.118:2191
 
+无线新闻台,http://live.cooltv.top/tv/tvb.php?id=0
+无线财经台,http://live.cooltv.top/tv/tvb.php?id=2
+TVB亚洲武侠,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+TVB星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+翡翠台HD,http://119.34.189.27:33333/udp/224.1.100.121:11111
+凤凰卫视,http://119.34.189.27:33333/udp/224.1.100.3:11111
+翡翠台,http://119.34.189.27:33333/udp/224.1.100.1:11111
+明珠台HD,http://119.34.189.27:33333/udp/224.1.100.123:11111
+明珠台,http://119.34.189.27:33333/udp/224.1.100.2:11111
+CNA,http://ali.hlspull.yximgs.com/live/EB30BC0E5CEE1B75ace360855b75ef8b7e.flv
+无线新闻台,http://glive.grtn.cn/live/9d4ab39b4ab6325277081b76dbc3c4b9.flv
+无线新闻台,https://glive.grtn.cn/live/9d4ab39b4ab6325277081b76dbc3c4b9.m3u8
+功夫台,https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/playlist.m3u8
+Astro 翡翠台-Test,http://gmlive.ddns.net:5000/kun5g/kun5g2024/51
+TVB娱乐新闻台,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+TVBJ1,https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
+J2台,http://1.65.195.85:9981/stream/channelid/2082072924?ticket=4b3174e5f68a673f0c11bc3443bc52b1663d94f0&profile=pass
+明珠台,http://1.65.195.85:9981/stream/channelid/1803382046?ticket=81e3b97df2839ef49852fe90ddedf3533469924d&profile=pass
+
+1,https://ali.hlspull.yximgs.com/live/1dacb68526be6450b289e4bdc06f31f2.flv
+2,https://ali.hlspull.yximgs.com/live/b4af26a7b78204deb491e2508cd4ef67.flv
+3,https://ali.hlspull.yximgs.com/live/588a56e9e66c002d033f63f66aca6d65.flv
+4,https://ali.hlspull.yximgs.com/live/51c89ed30f69edbb2ad60d9a79a11448.flv
+5,https://ali.hlspull.yximgs.com/live/10406a6e5fa05e55f407360c68517717.flv
+
+hoy tv 資訊台,https://epg.pw/stream/74200280f0ef4b9c64560c319c5bbf2796d525d9c2451c8486469d7b13dd277f.m3u8
+hoy tv,https://epg.pw/stream/6c4c08eb53624afd083983403681668ad240d09e2e3cb3d86a7090554f27ebfd.m3u8
+https://epg.pw/stream/c4a2701997819a0c80fd0379bdc96c2091f8614b290ede571d5c4c2776b8cd64.ctv
+ASTRO 华丽台,https://epg.pw/stream/b9ff3a09c5b3917cb625d8e45bfaf348a905e8617a342628750deeede771a329.ctv
+ASTRO QJ,https://epg.pw/stream/8c30d426d73eaa45efcfc77100e5c65b31d2c74b7842f2161f74d07b7291b48b.ctv
+Astro欢喜台,https://epg.pw/stream/899e414bb4b03b7b9943a8ad6bdf3c355f75a075004b132f28474148e87804b5.ctv
+
+
 （此处以下频道需要魔法）,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 無線新聞台,http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
 翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MA3A7166615971666159&ct=19226&tsum=abeff4c5d0d1ad10147a21ebc6cc5182
