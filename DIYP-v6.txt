@@ -1438,10 +1438,11 @@ Live-6323,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=
 凤凰卫视高清,http://113.64.145.9:8081/hls/37/index.m3u8
 凤凰香港高清,http://113.64.145.9:8081/hls/38/index.m3u8
 
-TVB翡翠台,http://mywlkj.ddns.net:754/tv/haiou.php?id=14
+TVB翡翠台,http://mywlkj.ddns.net:754/tv/hk.php?id=9
 TVBJ2台,http://mywlkj.ddns.net:754/tv/haiou.php?id=15
-TVB明珠台,http://mywlkj.ddns.net:754/tv/haiou.php?id=16
+TVB明珠台,http://mywlkj.ddns.net:754/tv/hk.php?id=14
 TVB华丽翡翠台,http://mywlkj.ddns.net:754/tv/haiou.php?id=17
+娱乐新闻台,http://mywlkj.ddns.net:754/tv/hk.php?id=19
 TVB星河台(粤),http://mywlkj.ddns.net:754/tv/haiou.php?id=18
 TVB星河台(国),http://mywlkj.ddns.net:754/tv/haiou.php?id=19
 TVB星河台(粤),http://mywlkj.ddns.net:754/tv/haiou.php?id=20
