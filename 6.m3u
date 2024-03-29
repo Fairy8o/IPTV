@@ -1,0 +1,106 @@
+#EXTM3U
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE local
+
+#EXTINF:-1 group-title="🦄高码率专区-6🐯",CCTV1-综合
+http://1.30.18.218:20080/hls/1/index.m3u8
+#EXTINF:-1 group-title="🦄高码率专区-6🐯",CCTV2-财经
+http://1.30.18.218:20080/hls/2/index.m3u8
+#EXTINF:-1 group-title="🦄高码率专区-6🐯",CCTV3-综艺
+http://1.30.18.218:20080/hls/3/index.m3u8
+#EXTINF:-1 group-title="🦄高码率专区-6🐯",CCTV4-国际
+http://1.30.18.218:20080/hls/4/index.m3u8
+#EXTINF:-1 group-title="🦄高码率专区-6🐯",CCTV5-体育
+http://1.30.18.218:20080/hls/5/index.m3u8
+#EXTINF:-1 group-title="🦄高码率专区-6🐯",CCTV6-电影
+http://1.30.18.218:20080/hls/6/index.m3u8
+#EXTINF:-1 group-title="🦄高码率专区-6🐯",CCTV7-军农
+http://1.30.18.218:20080/hls/7/index.m3u8
+#EXTINF:-1 group-title="🦄高码率专区-6🐯",CCTV8-电视剧
+http://1.30.18.218:20080/hls/8/index.m3u8
+#EXTINF:-1 group-title="🦄高码率专区-6🐯",CCTV9-纪录
+http://1.30.18.218:20080/hls/9/index.m3u8
+#EXTINF:-1 group-title="🦄高码率专区-6🐯",CCTV10-科教
+http://1.30.18.218:20080/hls/10/index.m3u8
+#EXTINF:-1 group-title="🦄高码率专区-6🐯",CCTV11-戏曲
+http://1.30.18.218:20080/hls/11/index.m3u8
+#EXTINF:-1 group-title="🦄高码率专区-6🐯",CCTV12-社会
+http://1.30.18.218:20080/hls/12/index.m3u8
+#EXTINF:-1 group-title="🦄高码率专区-6🐯",CCTV13-新闻
+http://1.30.18.218:20080/hls/13/index.m3u8
+#EXTINF:-1 group-title="🦄高码率专区-6🐯",CCTV14-少儿
+http://1.30.18.218:20080/hls/14/index.m3u8
+#EXTINF:-1 group-title="🦄高码率专区-6🐯",CCTV15-音乐
+http://1.30.18.218:20080/hls/15/index.m3u8
+#EXTINF:-1 group-title="🦄高码率专区-6🐯",CCTV16-奥运
+http://1.30.18.218:20080/hls/16/index.m3u8
+#EXTINF:-1 group-title="🦄高码率专区-6🐯",CCTV17-农业
+http://1.30.18.218:20080/hls/17/index.m3u8
+#EXTINF:-1 group-title="🦄高码率专区-6🐯",CCTV4-欧洲
+http://1.30.18.218:20080/hls/18/index.m3u8
+#EXTINF:-1 group-title="🦄高码率专区-6🐯",CCTV4-美洲
+http://1.30.18.218:20080/hls/18/index.m3u8
+#EXTINF:-1 group-title="🦄高码率专区-6🐯",江苏卫视
+http://1.30.18.218:20080/hls/45/index.m3u8
+#EXTINF:-1 group-title="🦄高码率专区-6🐯",湖南卫视
+http://1.30.18.218:20080/hls/46/index.m3u8
+#EXTINF:-1 group-title="🦄高码率专区-6🐯",河南卫视
+http://1.30.18.218:20080/hls/47/index.m3u8
+#EXTINF:-1 group-title="🦄高码率专区-6🐯",浙江卫视
+http://1.30.18.218:20080/hls/48/index.m3u8
+#EXTINF:-1 group-title="🦄高码率专区-6🐯",湖北卫视
+http://1.30.18.218:20080/hls/49/index.m3u8
+#EXTINF:-1 group-title="🦄高码率专区-6🐯",东方卫视
+http://1.30.18.218:20080/hls/50/index.m3u8
+#EXTINF:-1 group-title="🦄高码率专区-6🐯",北京卫视
+http://1.30.18.218:20080/hls/52/index.m3u8
+#EXTINF:-1 group-title="🦄高码率专区-6🐯",天津卫视
+http://1.30.18.218:20080/hls/53/index.m3u8
+#EXTINF:-1 group-title="🦄高码率专区-6🐯",黑龙江卫视
+http://1.30.18.218:20080/hls/54/index.m3u8
+#EXTINF:-1 group-title="🦄高码率专区-6🐯",吉林卫视
+http://1.30.18.218:20080/hls/55/index.m3u8
+#EXTINF:-1 group-title="🦄高码率专区-6🐯",辽宁卫视
+http://1.30.18.218:20080/hls/56/index.m3u8
+#EXTINF:-1 group-title="🦄高码率专区-6🐯",深圳卫视
+http://1.30.18.218:20080/hls/57/index.m3u8
+#EXTINF:-1 group-title="🦄高码率专区-6🐯",河北卫视
+http://1.30.18.218:20080/hls/58/index.m3u8
+#EXTINF:-1 group-title="🦄高码率专区-6🐯",广东卫视
+http://1.30.18.218:20080/hls/59/index.m3u8
+#EXTINF:-1 group-title="🦄高码率专区-6🐯",山西卫视
+http://1.30.18.218:20080/hls/60/index.m3u8
+#EXTINF:-1 group-title="🦄高码率专区-6🐯",陕西卫视
+http://1.30.18.218:20080/hls/61/index.m3u8
+#EXTINF:-1 group-title="🦄高码率专区-6🐯",江西卫视
+http://1.30.18.218:20080/hls/62/index.m3u8
+#EXTINF:-1 group-title="🦄高码率专区-6🐯",山东卫视
+http://1.30.18.218:20080/hls/63/index.m3u8
+#EXTINF:-1 group-title="🦄高码率专区-6🐯",安徽卫视
+http://1.30.18.218:20080/hls/64/index.m3u8
+#EXTINF:-1 group-title="🦄高码率专区-6🐯",四川卫视
+http://1.30.18.218:20080/hls/65/index.m3u8
+#EXTINF:-1 group-title="🦄高码率专区-6🐯",重庆卫视
+http://1.30.18.218:20080/hls/66/index.m3u8
+#EXTINF:-1 group-title="🦄高码率专区-6🐯",东南卫视
+http://1.30.18.218:20080/hls/67/index.m3u8
+#EXTINF:-1 group-title="🦄高码率专区-6🐯",兵团卫视
+http://1.30.18.218:20080/hls/68/index.m3u8
+#EXTINF:-1 group-title="🦄高码率专区-6🐯",广西卫视
+http://1.30.18.218:20080/hls/69/index.m3u8
+#EXTINF:-1 group-title="🦄高码率专区-6🐯",贵州卫视
+http://1.30.18.218:20080/hls/70/index.m3u8
+#EXTINF:-1 group-title="🦄高码率专区-6🐯",云南卫视
+http://1.30.18.218:20080/hls/71/index.m3u8
+#EXTINF:-1 group-title="🦄高码率专区-6🐯",宁夏卫视
+http://1.30.18.218:20080/hls/72/index.m3u8
+#EXTINF:-1 group-title="🦄高码率专区-6🐯",甘肃卫视
+http://1.30.18.218:20080/hls/73/index.m3u8
+#EXTINF:-1 group-title="🦄高码率专区-6🐯",青海卫视
+http://1.30.18.218:20080/hls/74/index.m3u8
+#EXTINF:-1 group-title="🦄高码率专区-6🐯",新疆卫视
+http://1.30.18.218:20080/hls/75/index.m3u8
+#EXTINF:-1 group-title="🦄高码率专区-6🐯",西藏卫视
+http://1.30.18.218:20080/hls/76/index.m3u8
+#EXTINF:-1 group-title="🦄高码率专区-6🐯",海南卫视
+http://1.30.18.218:20080/hls/77/index.m3u8
