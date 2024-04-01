@@ -2663,6 +2663,19 @@ MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 
+TVBS NEWS,http://mywlkj.ddns.net:754/tv/tw3.php?id=3
+GTV 八大戏剧HD,http://mywlkj.ddns.net:754/tv/tw3.php?id=4
+卡通,http://mywlkj.ddns.net:754/tv/tw3.php?id=5
+三立戏剧台,http://mywlkj.ddns.net:754/tv/tw3.php?id=6
+AMC电影台,http://mywlkj.ddns.net:754/tv/tw3.php?id=7
+纬来精彩HD,http://mywlkj.ddns.net:754/tv/tw3.php?id=9
+点歌台,http://mywlkj.ddns.net:754/tv/tw3.php?id=10
+亚洲记录,http://mywlkj.ddns.net:754/tv/tw3.php?id=11
+NHK WORLD,http://mywlkj.ddns.net:754/tv/tw3.php?id=12
+GTV八大第1台HD,http://mywlkj.ddns.net:754/tv/tw3.php?id=13
+GTV八大综合台HD,http://mywlkj.ddns.net:754/tv/tw3.php?id=14
+动物星球,http://mywlkj.ddns.net:754/tv/tw3.php?id=15
+
 纬来体育,https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
 纬来体育,http://cloud.yumixiu768.com/tmp/123.m3u8
