@@ -2273,7 +2273,7 @@ NBA 3 Boston Celtics ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/5
 NBA 4 Chicago Bulls ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51224
 NBA 5 Washington Wizards ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/51225
 
-🦄NBA-CBA,#genre#
+🦄NBA-CBA「更新中」,#genre#
 👉添加售后唯一微信👈,https://cloud.lxweb.cn/f/W6OOfB/WXSP.mp4
 👉获取最新链接👈,https://cloud.lxweb.cn/f/W6OOfB/WXSP.mp4
 NBA 8M,https://live.9528.eu.org/6522644279ae1d206a3def4b33337a11.m3u8
@@ -2461,7 +2461,7 @@ Live-6264,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=
 Live-6323,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=mg2zb25
 
 
-🦄咪咕视频🏆,#genre#
+🦄咪咕视频🏆「更新中」,#genre#
 👉请添加售后唯一微信👈,https://cloud.lxweb.cn/f/W6OOfB/WXSP.mp4
 👉获取最新链接👈,https://cloud.lxweb.cn/f/W6OOfB/WXSP.mp4
 咪咕视频 30M,http://39.134.66.66/PLTV/88888888/224/3221225655/index.m3u8
@@ -2561,10 +2561,8 @@ TVB翡翠台,http://mywlkj.ddns.net:754/tv/hk.php?id=9
 TVB翡翠台,http://mywlkj.ddns.net:754/tv/fct.m3u8
 TVB翡翠台,http://mywlkj.ddns.net:754/tv/hiper25.php?id=1
 TVB明珠台,http://mywlkj.ddns.net:754/tv/hiper25.php?id=2
-TVB翡翠台,http://47.108.160.245:9092/HK/tvb/hls.m3u8
 TVB翡翠台,http://120.238.13.198:8000/hls/21/index.m3u8
 Astro 翡翠台,http://gmlive.ddns.net:5000/kun5g/kun5g2024/51
-TVB翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
 TVB翡翠台,http://120.238.13.198:8000/hls/21/index.m3u8
 TVB翡翠台,http://223.71.206.22:30080/HK/tvb/hls.m3u8
 TVB翡翠台（需魔法）,http://129.226.149.79:4785/html/V4.php?access_token=DY20240301_31_M97gdfG&id=hktvbfct
@@ -2579,6 +2577,12 @@ HOY新闻台,http://223.71.206.22:30080/HK/hoy78/hls.m3u8
 天映电影,http://171.108.239.92:8181/tsfile/live/1009_1.m3u8
 星空卫视,http://171.108.239.92:8181/tsfile/live/1012_1.m3u8
 凤凰资讯,http://171.108.239.92:8181/tsfile/live/1024_1.m3u8
+无线新闻台,http://zsntlqj.xicp.net:8896/bysid/83
+经典电影台,https://ali.hlspull.yximgs.com/live/asdfg32522.flv
+经典影视台,https://ali.hlspull.yximgs.com/live/asdfg32516.flv
+星空卫视频道,http://171.88.35.80:4000/udp/239.93.0.156:2193
+星空卫视频道,http://171.88.35.80:4000/udp/239.93.1.10:2193
+耀才财经频道,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 
 無線新聞台,https://tvb.livednow.com/C
 無線新聞台,https://tvb.livednow.com/I-NEWS
