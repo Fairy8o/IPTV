@@ -1238,7 +1238,7 @@ NBA 5 Washington Wizards ,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9C
 咪咕视频36,http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226196/1.m3u8
 咪咕视频37,http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226367/1.m3u8
 
-🦄NBA-CBA,#genre#
+🦄NBA-CBA「更新中」,#genre#
 👉添加售后唯一微信👈,https://cloud.lxweb.cn/f/W6OOfB/WXSP.mp4
 👉获取最新链接👈,https://cloud.lxweb.cn/f/W6OOfB/WXSP.mp4
 NBA 8M,https://live.9528.eu.org/6522644279ae1d206a3def4b33337a11.m3u8
