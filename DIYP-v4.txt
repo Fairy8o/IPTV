@@ -2556,6 +2556,11 @@ Live-6323,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=
 凤凰中文,http://www.372583307.top:4022/udp/233.50.200.191:5140
 凤凰资讯,http://www.372583307.top:4022/udp/233.50.200.192:5140
 
+TVB翡翠台,https://cdn-iptv.hiper25.com/TVB/video.m3u8
+TVB翡翠台,https://cdn-iptv.hiper25.com/TVB/tracks-v1a1/mono.m3u8
+TVB明珠台,https://cdn-iptv.hiper25.com/Pearl/video.m3u8
+TVB明珠台,https://cdn-iptv.hiper25.com/Pearl/tracks-v1a1/mono.m3u8
+TVB翡翠台 4K,http://free.9528.eu.org:9529/stream/hk/test/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
 TVB翡翠台,https://iptv.hiper25.com/TVB/video.m3u8
 TVB翡翠台,http://mywlkj.ddns.net:754/tv/hk.php?id=9
 TVB翡翠台,http://mywlkj.ddns.net:754/tv/fct.m3u8
