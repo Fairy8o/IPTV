@@ -1447,6 +1447,7 @@ TVB翡翠台,http://120.238.13.198:8000/hls/21/index.m3u8
 Astro 翡翠台,http://gmlive.ddns.net:5000/kun5g/kun5g2024/51
 TVB翡翠台,http://120.238.13.198:8000/hls/21/index.m3u8
 TVB翡翠台,http://223.71.206.22:30080/HK/tvb/hls.m3u8
+TVB翡翠台 4K,http://free.9528.eu.org:9529/stream/hk/test/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
 TVB翡翠台（需魔法）,http://129.226.149.79:4785/html/V4.php?access_token=DY20240301_31_M97gdfG&id=hktvbfct
 TVB J2,https://iptv.hiper25.com/Pearl/video.m3u8
 TVB星河台,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
