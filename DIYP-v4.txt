@@ -2547,6 +2547,11 @@ Live-6323,http://129.226.149.79:4785/html/SPlive.php?access_token=yyiijjuunn&id=
 凤凰中文,http://www.372583307.top:4022/udp/233.50.200.191:5140
 凤凰资讯,http://www.372583307.top:4022/udp/233.50.200.192:5140
 
+TVB翡翠台,http://158.180.67.130/live/hls/J/j.m3u8
+TVB翡翠台,https://gudou-ott.hiper25.com/live/1350_4500.m3u8
+TVB翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
+TVB翡翠台,http://120.238.13.198:8000/hls/21/index.m3u8
+TVB翡翠台,http://158.180.67.130/live/hls/JUHD/juhd.m3u8
 TVB翡翠台,https://cdn-iptv.hiper25.com/TVB/video.m3u8
 TVB翡翠台,https://cdn-iptv.hiper25.com/TVB/tracks-v1a1/mono.m3u8
 TVB明珠台,https://cdn-iptv.hiper25.com/Pearl/video.m3u8
@@ -2561,19 +2566,22 @@ TVB翡翠台,http://120.238.13.198:8000/hls/21/index.m3u8
 Astro 翡翠台,http://gmlive.ddns.net:5000/kun5g/kun5g2024/51
 TVB翡翠台,http://120.238.13.198:8000/hls/21/index.m3u8
 TVB翡翠台,http://223.71.206.22:30080/HK/tvb/hls.m3u8
-TVB翡翠台 4K,http://free.9528.eu.org:9529/stream/hk/test/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
 TVB翡翠台（需魔法）,http://129.226.149.79:4785/html/V4.php?access_token=DY20240301_31_M97gdfG&id=hktvbfct
-TVB J2,https://iptv.hiper25.com/Pearl/video.m3u8
+TVB明珠台,https://iptv.hiper25.com/Pearl/video.m3u8
 TVB星河台,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 TVB星河台,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/playlist.m3u8
 TVB星河台,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 TVB娱乐台,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 TVB功夫台,https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+HOY77,http://223.71.206.22:30080/HK/hoy77/hls.m3u8
+HOY78,http://223.71.206.22:30080/HK/hoy78/hls.m3u8 
+viu6,http://223.71.206.22:30080/HK/viu6/hls.m3u8 
 HOY新闻台,http://223.71.206.22:30080/HK/hoy78/hls.m3u8
 星河频道,http://171.108.239.92:8181/tsfile/live/1005_1.m3u8
 天映电影,http://171.108.239.92:8181/tsfile/live/1009_1.m3u8
 星空卫视,http://171.108.239.92:8181/tsfile/live/1012_1.m3u8
 凤凰资讯,http://171.108.239.92:8181/tsfile/live/1024_1.m3u8
+
 无线新闻台,http://zsntlqj.xicp.net:8896/bysid/83
 经典电影台,https://ali.hlspull.yximgs.com/live/asdfg32522.flv
 经典影视台,https://ali.hlspull.yximgs.com/live/asdfg32516.flv
