@@ -1,0 +1,2130 @@
+#EXTM3U
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE local
+
+#EXTINF:-1 group-title="🦄咪咕线路🐯",CCTV1
+http://mywlkj.ddns.net:754/tv/migu.php?id=cctv1
+#EXTINF:-1 group-title="🦄咪咕线路🐯",CCTV2
+http://mywlkj.ddns.net:754/tv/migu.php?id=cctv2
+#EXTINF:-1 group-title="🦄咪咕线路🐯",CCTV3
+http://mywlkj.ddns.net:754/tv/migu.php?id=cctv3
+#EXTINF:-1 group-title="🦄咪咕线路🐯",CCTV4
+http://mywlkj.ddns.net:754/tv/migu.php?id=cctv4
+#EXTINF:-1 group-title="🦄咪咕线路🐯",CCTV4欧洲
+http://mywlkj.ddns.net:754/tv/migu.php?id=cctv4o
+#EXTINF:-1 group-title="🦄咪咕线路🐯",CCTV4美洲
+http://mywlkj.ddns.net:754/tv/migu.php?id=cctv4a
+#EXTINF:-1 group-title="🦄咪咕线路🐯",CCTV5
+http://mywlkj.ddns.net:754/tv/migu.php?id=cctv5
+#EXTINF:-1 group-title="🦄咪咕线路🐯",CCTV5+
+http://mywlkj.ddns.net:754/tv/migu.php?id=cctv5p
+#EXTINF:-1 group-title="🦄咪咕线路🐯",CCTV6
+http://mywlkj.ddns.net:754/tv/migu.php?id=cctv6
+#EXTINF:-1 group-title="🦄咪咕线路🐯",CCTV7
+http://mywlkj.ddns.net:754/tv/migu.php?id=cctv7
+#EXTINF:-1 group-title="🦄咪咕线路🐯",CCTV8
+http://mywlkj.ddns.net:754/tv/migu.php?id=cctv8
+#EXTINF:-1 group-title="🦄咪咕线路🐯",CCTV9
+http://mywlkj.ddns.net:754/tv/migu.php?id=cctv9
+#EXTINF:-1 group-title="🦄咪咕线路🐯",CCTV10
+http://mywlkj.ddns.net:754/tv/migu.php?id=cctv10
+#EXTINF:-1 group-title="🦄咪咕线路🐯",CCTV11
+http://mywlkj.ddns.net:754/tv/migu.php?id=cctv11
+#EXTINF:-1 group-title="🦄咪咕线路🐯",CCTV12
+http://mywlkj.ddns.net:754/tv/migu.php?id=cctv12
+#EXTINF:-1 group-title="🦄咪咕线路🐯",CCTV13
+http://mywlkj.ddns.net:754/tv/migu.php?id=cctv13
+#EXTINF:-1 group-title="🦄咪咕线路🐯",CCTV14
+http://mywlkj.ddns.net:754/tv/migu.php?id=cctv14
+#EXTINF:-1 group-title="🦄咪咕线路🐯",CCTV15
+http://mywlkj.ddns.net:754/tv/migu.php?id=cctv15
+#EXTINF:-1 group-title="🦄咪咕线路🐯",CCTV17
+http://mywlkj.ddns.net:754/tv/migu.php?id=cctv17
+#EXTINF:-1 group-title="🦄咪咕线路🐯",东方卫视
+http://mywlkj.ddns.net:754/tv/migu.php?id=dfws
+#EXTINF:-1 group-title="🦄咪咕线路🐯",重庆卫视
+http://mywlkj.ddns.net:754/tv/migu.php?id=cqws
+#EXTINF:-1 group-title="🦄咪咕线路🐯",吉林卫视
+http://mywlkj.ddns.net:754/tv/migu.php?id=jlws
+#EXTINF:-1 group-title="🦄咪咕线路🐯",辽宁卫视
+http://mywlkj.ddns.net:754/tv/migu.php?id=lnws
+#EXTINF:-1 group-title="🦄咪咕线路🐯",内蒙古卫视
+http://mywlkj.ddns.net:754/tv/migu.php?id=nmws
+#EXTINF:-1 group-title="🦄咪咕线路🐯",宁夏卫视
+http://mywlkj.ddns.net:754/tv/migu.php?id=nxws
+#EXTINF:-1 group-title="🦄咪咕线路🐯",甘肃卫视
+http://mywlkj.ddns.net:754/tv/migu.php?id=gsws
+#EXTINF:-1 group-title="🦄咪咕线路🐯",青海卫视
+http://mywlkj.ddns.net:754/tv/migu.php?id=qhws
+#EXTINF:-1 group-title="🦄咪咕线路🐯",陕西卫视
+http://mywlkj.ddns.net:754/tv/migu.php?id=sxws
+#EXTINF:-1 group-title="🦄咪咕线路🐯",山东卫视
+http://mywlkj.ddns.net:754/tv/migu.php?id=sdws
+#EXTINF:-1 group-title="🦄咪咕线路🐯",河南卫视
+http://mywlkj.ddns.net:754/tv/migu.php?id=hnws
+#EXTINF:-1 group-title="🦄咪咕线路🐯",湖北卫视
+http://mywlkj.ddns.net:754/tv/migu.php?id=hubws
+#EXTINF:-1 group-title="🦄咪咕线路🐯",湖南卫视
+http://mywlkj.ddns.net:754/tv/migu.php?id=hunws
+#EXTINF:-1 group-title="🦄咪咕线路🐯",江西卫视
+http://mywlkj.ddns.net:754/tv/migu.php?id=jxws
+#EXTINF:-1 group-title="🦄咪咕线路🐯",江苏卫视
+http://mywlkj.ddns.net:754/tv/migu.php?id=jsws
+#EXTINF:-1 group-title="🦄咪咕线路🐯",广东卫视
+http://mywlkj.ddns.net:754/tv/migu.php?id=gdws
+#EXTINF:-1 group-title="🦄咪咕线路🐯",大湾区卫视
+http://mywlkj.ddns.net:754/tv/migu.php?id=dwqws
+#EXTINF:-1 group-title="🦄咪咕线路🐯",广西卫视
+http://mywlkj.ddns.net:754/tv/migu.php?id=gxws
+#EXTINF:-1 group-title="🦄咪咕线路🐯",云南卫视
+http://mywlkj.ddns.net:754/tv/migu.php?id=ynws
+#EXTINF:-1 group-title="🦄咪咕线路🐯",贵州卫视
+http://mywlkj.ddns.net:754/tv/migu.php?id=gzws
+#EXTINF:-1 group-title="🦄咪咕线路🐯",新疆卫视
+http://mywlkj.ddns.net:754/tv/migu.php?id=xjws
+#EXTINF:-1 group-title="🦄咪咕线路🐯",西藏卫视
+http://mywlkj.ddns.net:754/tv/migu.php?id=xzws
+#EXTINF:-1 group-title="🦄咪咕线路🐯",海南卫视
+http://mywlkj.ddns.net:754/tv/migu.php?id=hinws
+#EXTINF:-1 group-title="🦄咪咕线路🐯",山东教育
+http://mywlkj.ddns.net:754/tv/migu.php?id=sdjy
+#EXTINF:-1 group-title="🦄咪咕线路🐯",优漫卡通
+http://mywlkj.ddns.net:754/tv/migu.php?id=ymkt
+#EXTINF:-1 group-title="🦄咪咕线路🐯",嘉佳卡通
+http://mywlkj.ddns.net:754/tv/migu.php?id=jjkt
+#EXTINF:-1 group-title="🦄央视频线路🐯",CCTV1综合
+http://ygbh.live/ysp.php?id=cctv1
+#EXTINF:-1 group-title="🦄央视频线路🐯",CCTV2财经
+http://ygbh.live/ysp.php?id=cctv2
+#EXTINF:-1 group-title="🦄央视频线路🐯",CCTV3综艺
+http://ygbh.live/ysp.php?id=cctv3
+#EXTINF:-1 group-title="🦄央视频线路🐯",CCTV4中文国际
+http://ygbh.live/ysp.php?id=cctv4
+#EXTINF:-1 group-title="🦄央视频线路🐯",CCTV5体育
+http://ygbh.live/ysp.php?id=cctv5
+#EXTINF:-1 group-title="🦄央视频线路🐯",CCTV5+
+http://ygbh.live/ysp.php?id=cctv5p
+#EXTINF:-1 group-title="🦄央视频线路🐯",CCTV6电影
+http://ygbh.live/ysp.php?id=cctv6
+#EXTINF:-1 group-title="🦄央视频线路🐯",CCTV7国防军事
+http://ygbh.live/ysp.php?id=cctv7
+#EXTINF:-1 group-title="🦄央视频线路🐯",CCTV8电视剧
+http://ygbh.live/ysp.php?id=cctv8
+#EXTINF:-1 group-title="🦄央视频线路🐯",CCTV9纪录
+http://ygbh.live/ysp.php?id=cctv9
+#EXTINF:-1 group-title="🦄央视频线路🐯",CCTV10科教
+http://ygbh.live/ysp.php?id=cctv10
+#EXTINF:-1 group-title="🦄央视频线路🐯",CCTV11戏曲
+http://ygbh.live/ysp.php?id=cctv11
+#EXTINF:-1 group-title="🦄央视频线路🐯",CCTV12社会与法
+http://ygbh.live/ysp.php?id=cctv12
+#EXTINF:-1 group-title="🦄央视频线路🐯",CCTV13新闻
+http://ygbh.live/ysp.php?id=cctv13
+#EXTINF:-1 group-title="🦄央视频线路🐯",CCTV14少儿
+http://ygbh.live/ysp.php?id=cctv14
+#EXTINF:-1 group-title="🦄央视频线路🐯",CCTV15音乐
+http://ygbh.live/ysp.php?id=cctv15
+#EXTINF:-1 group-title="🦄央视频线路🐯",CCTV16奥林匹克
+http://ygbh.live/ysp.php?id=cctv16
+#EXTINF:-1 group-title="🦄央视频线路🐯",CCTV17农业农村
+http://ygbh.live/ysp.php?id=cctv17
+#EXTINF:-1 group-title="🦄央视频线路🐯",CCTV-4K
+http://ygbh.live/ysp.php?id=cctv4k
+#EXTINF:-1 group-title="🦄央视频线路🐯",CCTV-8K
+http://ygbh.live/ysp.php?id=cctv8k
+#EXTINF:-1 group-title="🦄央视频线路🐯",cctv兵器科技
+http://ygbh.live/ysp.php?id=bqkj
+#EXTINF:-1 group-title="🦄央视频线路🐯",cctv第一剧场
+http://ygbh.live/ysp.php?id=dyjc
+#EXTINF:-1 group-title="🦄央视频线路🐯",cctv怀旧剧场
+http://ygbh.live/ysp.php?id=hjjc
+#EXTINF:-1 group-title="🦄央视频线路🐯",cctv风云剧场
+http://ygbh.live/ysp.php?id=fyjc
+#EXTINF:-1 group-title="🦄央视频线路🐯",cctv风云音乐
+http://ygbh.live/ysp.php?id=fyyy
+#EXTINF:-1 group-title="🦄央视频线路🐯",cctv风云足球
+http://ygbh.live/ysp.php?id=fyzq
+#EXTINF:-1 group-title="🦄央视频线路🐯",cctv电视指南
+http://ygbh.live/ysp.php?id=dszn
+#EXTINF:-1 group-title="🦄央视频线路🐯",cctv女性时尚
+http://ygbh.live/ysp.php?id=nxss
+#EXTINF:-1 group-title="🦄央视频线路🐯",cctv央视文化精品
+http://ygbh.live/ysp.php?id=whjp
+#EXTINF:-1 group-title="🦄央视频线路🐯",CCTV世界地理
+http://ygbh.live/ysp.php?id=sjdl
+#EXTINF:-1 group-title="🦄央视频线路🐯",CCTV高尔夫网球
+http://ygbh.live/ysp.php?id=gefwq
+#EXTINF:-1 group-title="🦄央视频线路🐯",CCTV央视台球
+http://ygbh.live/ysp.php?id=ystq
+#EXTINF:-1 group-title="🦄央视频线路🐯",cctv卫生健康
+http://ygbh.live/ysp.php?id=wsjk
+#EXTINF:-1 group-title="🦄央视频线路🐯",广东卫视
+http://ygbh.live/ysp.php?id=gdws
+#EXTINF:-1 group-title="🦄央视频线路🐯",深圳卫视
+http://ygbh.live/ysp.php?id=szws
+#EXTINF:-1 group-title="🦄央视频线路🐯",湖南卫视
+http://ygbh.live/ysp.php?id=hnws
+#EXTINF:-1 group-title="🦄央视频线路🐯",安徽卫视
+http://ygbh.live/ysp.php?id=ahws
+#EXTINF:-1 group-title="🦄央视频线路🐯",浙江卫视
+http://ygbh.live/ysp.php?id=zsws
+#EXTINF:-1 group-title="🦄央视频线路🐯",江苏卫视
+http://ygbh.live/ysp.php?id=jsws
+#EXTINF:-1 group-title="🦄央视频线路🐯",北京卫视
+http://ygbh.live/ysp.php?id=bjws
+#EXTINF:-1 group-title="🦄央视频线路🐯",东方卫视
+http://ygbh.live/ysp.php?id=dfws
+#EXTINF:-1 group-title="🦄央视频线路🐯",天津卫视
+http://ygbh.live/ysp.php?id=tjws
+#EXTINF:-1 group-title="🦄央视频线路🐯",河南卫视
+http://ygbh.live/ysp.php?id=hnws
+#EXTINF:-1 group-title="🦄央视频线路🐯",湖北卫视
+http://ygbh.live/ysp.php?id=hubws
+#EXTINF:-1 group-title="🦄央视频线路🐯",广西卫视
+http://ygbh.live/ysp.php?id=gxws
+#EXTINF:-1 group-title="🦄央视频线路🐯",四川卫视
+http://ygbh.live/ysp.php?id=scws
+#EXTINF:-1 group-title="🦄央视频线路🐯",重庆卫视
+http://ygbh.live/ysp.php?id=cqws
+#EXTINF:-1 group-title="🦄央视频线路🐯",江西卫视
+http://ygbh.live/ysp.php?id=jxws
+#EXTINF:-1 group-title="🦄央视频线路🐯",黑龙江卫视
+http://ygbh.live/ysp.php?id=hljws
+#EXTINF:-1 group-title="🦄央视频线路🐯",辽宁卫视
+http://ygbh.live/ysp.php?id=lnws
+#EXTINF:-1 group-title="🦄央视频线路🐯",云南卫视
+http://ygbh.live/ysp.php?id=ynws
+#EXTINF:-1 group-title="🦄央视频线路🐯",河北卫视
+http://ygbh.live/ysp.php?id=hbws
+#EXTINF:-1 group-title="🦄央视频线路🐯",贵州卫视
+http://ygbh.live/ysp.php?id=gzws
+#EXTINF:-1 group-title="🦄央视频线路🐯",青海卫视
+http://ygbh.live/ysp.php?id=qhws
+#EXTINF:-1 group-title="🦄央视频线路🐯",吉林卫视
+http://ygbh.live/ysp.php?id=jlws
+#EXTINF:-1 group-title="🦄央视频线路🐯",山西卫视
+http://ygbh.live/ysp.php?id=sxws
+#EXTINF:-1 group-title="🦄央视频线路🐯",陕西卫视
+http://ygbh.live/ysp.php?id=sxws
+#EXTINF:-1 group-title="🦄央视频线路🐯",东南卫视
+http://ygbh.live/ysp.php?id=dnws
+#EXTINF:-1 group-title="🦄央视频线路🐯",新疆卫视
+http://ygbh.live/ysp.php?id=xjws
+#EXTINF:-1 group-title="🦄央视频线路🐯",西藏卫视
+http://ygbh.live/ysp.php?id=xzws
+#EXTINF:-1 group-title="🦄央视频线路🐯",山东卫视
+http://ygbh.live/ysp.php?id=sdws
+#EXTINF:-1 group-title="🦄独家线路-①🐯",CCTV-1 综合
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-①🐯",CCTV-2 财经
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-①🐯",CCTV-3 综艺
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-①🐯",CCTV-4 国际
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-①🐯",CCTV-5 体育
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-①🐯",CCTV-5+ 赛事
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-①🐯",CCTV-6 电影
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-①🐯",CCTV-7 国防
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-①🐯",CCTV-8 电视剧
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-①🐯",CCTV-9 纪录
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-①🐯",CCTV-10 科教
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-①🐯",CCTV-11 戏曲
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-①🐯",CCTV-12 社会与法
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-①🐯",CCTV-13 新闻
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-①🐯",CCTV-14 少儿
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-①🐯",CCTV-15 音乐
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-①🐯",CCTV-16 奥林匹克
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-①🐯",CCTV-17 农业农村
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-①🐯",北京卫视
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-①🐯",浙江卫视
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-①🐯",湖南卫视
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226211/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-①🐯",东方卫视
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226217/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-①🐯",辽宁卫视
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226201/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-①🐯",黑龙江视
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-①🐯",吉林卫视
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225792/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-①🐯",广西卫视
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225770/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-①🐯",江西卫视
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225764/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-①🐯",江苏卫视
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-①🐯",深圳卫视
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-①🐯",广东卫视
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226216/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-①🐯",大湾区视
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-①🐯",四川卫视
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225768/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-①🐯",重庆卫视
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226202/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-①🐯",安徽卫视
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226203/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-①🐯",天津卫视
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226204/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-①🐯",山西卫视
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225763/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-①🐯",山东卫视
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-①🐯",东南卫视
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225766/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-①🐯",海南卫视
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-①🐯",厦门卫视
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-①🐯",河南卫视
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225767/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-①🐯",湖北卫视
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226194/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-①🐯",河北卫视
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225750/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-①🐯",云南卫视
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225751/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-①🐯",贵州卫视
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225793/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-①🐯",宁夏卫视
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225748/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-①🐯",甘肃卫视
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225754/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-①🐯",西藏卫视
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-①🐯",安多卫视
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226228/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-①🐯",康巴卫视
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226234/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-①🐯",新疆卫视
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225747/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-①🐯",兵团卫视
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-①🐯",延边卫视
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226220/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-①🐯",内蒙古视
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225786/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-①🐯",康巴卫视
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226234/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-①🐯",金鹰卡通
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225744/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-①🐯",哈哈炫动
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226213/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-①🐯",优漫卡通
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225795/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-①🐯",嘉佳卡通
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-①🐯",山东教育
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226238/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-①🐯",北京卡酷
+http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-②🐯",CCTV-1 综合
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-②🐯",CCTV-1 综合
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226419/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-②🐯",CCTV-2 财经
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-②🐯",CCTV-2 财经
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-②🐯",CCTV-3 综艺
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-②🐯",CCTV-4 国际
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-②🐯",CCTV-5 体育
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-②🐯",CCTV-5+ 赛事
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-②🐯",CCTV-6 电影
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-②🐯",CCTV-7 国防
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-②🐯",CCTV-8 电视剧
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-②🐯",CCTV-9 纪录
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-②🐯",CCTV-10 科教
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-②🐯",CCTV-11 戏曲
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-②🐯",CCTV-12 社会与法
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-②🐯",CCTV-13 新闻
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-②🐯",CCTV-14 少儿
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-②🐯",CCTV-15 音乐
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-②🐯",CCTV-16 奥林匹克
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-②🐯",CCTV-17 农业农村
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-②🐯",北京卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-②🐯",卡酷少儿
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-②🐯",重庆卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-②🐯",东方卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-②🐯",东南卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-②🐯",甘肃卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-②🐯",广东卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-②🐯",广西卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-②🐯",贵州卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-②🐯",河北卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-②🐯",黑龙江卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-②🐯",河南卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-②🐯",湖北卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-②🐯",湖南卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-②🐯",江苏卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-②🐯",江西卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-②🐯",吉林卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-②🐯",辽宁卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-②🐯",内蒙古卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-②🐯",安徽卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-②🐯",兵团卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-②🐯",宁夏卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-②🐯",青海卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-②🐯",山东教育
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-②🐯",山东卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-②🐯",山西卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-②🐯",陕西卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-②🐯",深圳卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-②🐯",四川卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-②🐯",天津卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-②🐯",海南卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-②🐯",新疆卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-②🐯",西藏卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-②🐯",延边卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-②🐯",云南卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-②🐯",浙江卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-②🐯",BTV 纪实
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-③🐯",CCTV1-综合
+http://1.30.18.218:20080/hls/1/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-③🐯",CCTV2-财经
+http://1.30.18.218:20080/hls/2/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-③🐯",CCTV3-综艺
+http://1.30.18.218:20080/hls/3/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-③🐯",CCTV4-国际
+http://1.30.18.218:20080/hls/4/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-③🐯",CCTV5-体育
+http://1.30.18.218:20080/hls/5/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-③🐯",CCTV6-电影
+http://1.30.18.218:20080/hls/6/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-③🐯",CCTV7-军农
+http://1.30.18.218:20080/hls/7/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-③🐯",CCTV8-电视剧
+http://1.30.18.218:20080/hls/8/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-③🐯",CCTV9-纪录
+http://1.30.18.218:20080/hls/9/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-③🐯",CCTV10-科教
+http://1.30.18.218:20080/hls/10/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-③🐯",CCTV11-戏曲
+http://1.30.18.218:20080/hls/11/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-③🐯",CCTV12-社会
+http://1.30.18.218:20080/hls/12/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-③🐯",CCTV13-新闻
+http://1.30.18.218:20080/hls/13/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-③🐯",CCTV14-少儿
+http://1.30.18.218:20080/hls/14/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-③🐯",CCTV15-音乐
+http://1.30.18.218:20080/hls/15/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-③🐯",CCTV16-奥运
+http://1.30.18.218:20080/hls/16/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-③🐯",CCTV17-农业
+http://1.30.18.218:20080/hls/17/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-③🐯",CCTV4-欧洲
+http://1.30.18.218:20080/hls/18/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-③🐯",CCTV4-美洲
+http://1.30.18.218:20080/hls/18/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-③🐯",江苏卫视
+http://1.30.18.218:20080/hls/45/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-③🐯",湖南卫视
+http://1.30.18.218:20080/hls/46/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-③🐯",河南卫视
+http://1.30.18.218:20080/hls/47/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-③🐯",浙江卫视
+http://1.30.18.218:20080/hls/48/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-③🐯",湖北卫视
+http://1.30.18.218:20080/hls/49/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-③🐯",东方卫视
+http://1.30.18.218:20080/hls/50/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-③🐯",北京卫视
+http://1.30.18.218:20080/hls/52/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-③🐯",天津卫视
+http://1.30.18.218:20080/hls/53/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-③🐯",黑龙江卫视
+http://1.30.18.218:20080/hls/54/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-③🐯",吉林卫视
+http://1.30.18.218:20080/hls/55/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-③🐯",辽宁卫视
+http://1.30.18.218:20080/hls/56/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-③🐯",深圳卫视
+http://1.30.18.218:20080/hls/57/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-③🐯",河北卫视
+http://1.30.18.218:20080/hls/58/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-③🐯",广东卫视
+http://1.30.18.218:20080/hls/59/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-③🐯",山西卫视
+http://1.30.18.218:20080/hls/60/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-③🐯",陕西卫视
+http://1.30.18.218:20080/hls/61/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-③🐯",江西卫视
+http://1.30.18.218:20080/hls/62/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-③🐯",山东卫视
+http://1.30.18.218:20080/hls/63/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-③🐯",安徽卫视
+http://1.30.18.218:20080/hls/64/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-③🐯",四川卫视
+http://1.30.18.218:20080/hls/65/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-③🐯",东南卫视
+http://1.30.18.218:20080/hls/67/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-③🐯",兵团卫视
+http://1.30.18.218:20080/hls/68/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-③🐯",广西卫视
+http://1.30.18.218:20080/hls/69/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-③🐯",贵州卫视
+http://1.30.18.218:20080/hls/70/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-③🐯",云南卫视
+http://1.30.18.218:20080/hls/71/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-③🐯",宁夏卫视
+http://1.30.18.218:20080/hls/72/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-③🐯",青海卫视
+http://1.30.18.218:20080/hls/74/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-③🐯",新疆卫视
+http://1.30.18.218:20080/hls/75/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-③🐯",西藏卫视
+http://1.30.18.218:20080/hls/76/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-③🐯",海南卫视
+http://1.30.18.218:20080/hls/77/index.m3u8
+#EXTINF:-1 group-title="🦄独家线路-④🐯",CCTV1-综合
+http://hbyxmlg.picp.io:8088/tsfile/live/0001_1.m3u8
+#EXTINF:-1 group-title="🦄独家线路-④🐯",CCTV2-财经
+http://hbyxmlg.picp.io:8088/tsfile/live/0002_1.m3u8
+#EXTINF:-1 group-title="🦄独家线路-④🐯",CCTV3-综艺
+http://hbyxmlg.picp.io:8088/tsfile/live/0003_1.m3u8
+#EXTINF:-1 group-title="🦄独家线路-④🐯",CCTV4-国际
+http://hbyxmlg.picp.io:8088/tsfile/live/0004_1.m3u8
+#EXTINF:-1 group-title="🦄独家线路-④🐯",CCTV5-体育
+http://hbyxmlg.picp.io:8088/tsfile/live/0005_1.m3u8
+#EXTINF:-1 group-title="🦄独家线路-④🐯",CCTV6-电影
+http://hbyxmlg.picp.io:8088/tsfile/live/0006_1.m3u8
+#EXTINF:-1 group-title="🦄独家线路-④🐯",CCTV7-军农
+http://hbyxmlg.picp.io:8088/tsfile/live/0007_1.m3u8
+#EXTINF:-1 group-title="🦄独家线路-④🐯",CCTV8-电视剧
+http://hbyxmlg.picp.io:8088/tsfile/live/0008_1.m3u8
+#EXTINF:-1 group-title="🦄独家线路-④🐯",CCTV9-纪录
+http://hbyxmlg.picp.io:8088/tsfile/live/0009_1.m3u8
+#EXTINF:-1 group-title="🦄独家线路-④🐯",CCTV10-科教
+http://hbyxmlg.picp.io:8088/tsfile/live/0010_1.m3u8
+#EXTINF:-1 group-title="🦄独家线路-④🐯",CCTV11-戏曲
+http://hbyxmlg.picp.io:8088/tsfile/live/0011_1.m3u8
+#EXTINF:-1 group-title="🦄独家线路-④🐯",CCTV12-社会
+http://hbyxmlg.picp.io:8088/tsfile/live/0012_1.m3u8
+#EXTINF:-1 group-title="🦄独家线路-④🐯",CCTV13-新闻
+http://hbyxmlg.picp.io:8088/tsfile/live/0013_1.m3u8
+#EXTINF:-1 group-title="🦄独家线路-④🐯",CCTV14-少儿
+http://hbyxmlg.picp.io:8088/tsfile/live/0014_1.m3u8
+#EXTINF:-1 group-title="🦄独家线路-④🐯",CCTV15-音乐
+http://hbyxmlg.picp.io:8088/tsfile/live/0015_1.m3u8
+#EXTINF:-1 group-title="🦄独家线路-④🐯",浙江卫视
+http://hbyxmlg.picp.io:8088/tsfile/live/0124_1.m3u8
+#EXTINF:-1 group-title="🦄独家线路-④🐯",江苏卫视
+http://hbyxmlg.picp.io:8088/tsfile/live/0127_1.m3u8
+#EXTINF:-1 group-title="🦄独家线路-④🐯",安徽卫视
+http://hbyxmlg.picp.io:8088/tsfile/live/0130_1.m3u8
+#EXTINF:-1 group-title="🦄独家线路-④🐯",北京卫视
+http://hbyxmlg.picp.io:8088/tsfile/live/0122_1.m3u8
+#EXTINF:-1 group-title="🦄独家线路-④🐯",天津卫视
+http://hbyxmlg.picp.io:8088/tsfile/live/0135_1.m3u8
+#EXTINF:-1 group-title="🦄独家线路-④🐯",辽宁卫视
+http://hbyxmlg.picp.io:8088/tsfile/live/0121_1.m3u8
+#EXTINF:-1 group-title="🦄独家线路-④🐯",山东卫视
+http://hbyxmlg.picp.io:8088/tsfile/live/0131_1.m3u8
+#EXTINF:-1 group-title="🦄独家线路-④🐯",云南卫视
+http://hbyxmlg.picp.io:8088/tsfile/live/0119_1.m3u8
+#EXTINF:-1 group-title="🦄独家线路-④🐯",河北卫视
+http://hbyxmlg.picp.io:8088/tsfile/live/0117_1.m3u8
+#EXTINF:-1 group-title="🦄独家线路-④🐯",河南卫视
+http://hbyxmlg.picp.io:8088/tsfile/live/0139_1.m3u8
+#EXTINF:-1 group-title="🦄独家线路-④🐯",四川卫视
+http://hbyxmlg.picp.io:8088/tsfile/live/0123_1.m3u8
+#EXTINF:-1 group-title="🦄独家线路-④🐯",江西卫视
+http://hbyxmlg.picp.io:8088/tsfile/live/0138_1.m3u8
+#EXTINF:-1 group-title="🦄独家线路-④🐯",湖南卫视
+http://hbyxmlg.picp.io:8088/tsfile/live/0128_1.m3u8
+#EXTINF:-1 group-title="🦄独家线路-④🐯",黑龙江卫视
+http://hbyxmlg.picp.io:8088/tsfile/live/0143_1.m3u8
+#EXTINF:-1 group-title="🦄独家线路-④🐯",贵州卫视
+http://hbyxmlg.picp.io:8088/tsfile/live/0120_1.m3u8
+#EXTINF:-1 group-title="🦄独家线路-④🐯",深圳卫视
+http://hbyxmlg.picp.io:8088/tsfile/live/0126_1.m3u8
+#EXTINF:-1 group-title="🦄独家线路-④🐯",湖北卫视
+http://hbyxmlg.picp.io:8088/tsfile/live/0132_1.m3u8
+#EXTINF:-1 group-title="🦄独家线路-④🐯",东方卫视
+http://hbyxmlg.picp.io:8088/tsfile/live/0107_1.m3u8
+#EXTINF:-1 group-title="🦄独家线路-④🐯",重庆卫视
+http://hbyxmlg.picp.io:8088/tsfile/live/0142_1.m3u8
+#EXTINF:-1 group-title="🦄独家线路-④🐯",广东卫视
+http://hbyxmlg.picp.io:8088/tsfile/live/0125_1.m3u8
+#EXTINF:-1 group-title="🦄独家线路-④🐯",广西卫视
+http://hbyxmlg.picp.io:8088/tsfile/live/0113_1.m3u8
+#EXTINF:-1 group-title="🦄独家线路-④🐯",吉林卫视
+http://hbyxmlg.picp.io:8088/tsfile/live/0116_1.m3u8
+#EXTINF:-1 group-title="🦄独家线路-④🐯",陕西卫视
+http://hbyxmlg.picp.io:8088/tsfile/live/0136_1.m3u8
+#EXTINF:-1 group-title="🦄独家线路-④🐯",山西卫视
+http://hbyxmlg.picp.io:8088/tsfile/live/0118_1.m3u8
+#EXTINF:-1 group-title="🦄独家线路-④🐯",内蒙古卫视
+http://hbyxmlg.picp.io:8088/tsfile/live/0109_1.m3u8
+#EXTINF:-1 group-title="🦄独家线路-④🐯",青海卫视
+http://hbyxmlg.picp.io:8088/tsfile/live/0140_1.m3u8
+#EXTINF:-1 group-title="🦄独家线路-④🐯",宁夏卫视
+http://hbyxmlg.picp.io:8088/tsfile/live/0112_1.m3u8
+#EXTINF:-1 group-title="🦄独家线路-④🐯",西藏卫视
+http://hbyxmlg.picp.io:8088/tsfile/live/0111_1.m3u8
+#EXTINF:-1 group-title="🦄独家线路-④🐯",新疆卫视
+http://hbyxmlg.picp.io:8088/tsfile/live/0110_1.m3u8
+#EXTINF:-1 group-title="🦄独家线路-④🐯",甘肃卫视
+http://hbyxmlg.picp.io:8088/tsfile/live/0141_1.m3u8
+#EXTINF:-1 group-title="🦄独家线路-④🐯",卡酷动画
+http://hbyxmlg.picp.io:8088/tsfile/live/1009_1.m3u8
+#EXTINF:-1 group-title="🦄独家线路-④🐯",金鹰卡通
+http://hbyxmlg.picp.io:8088/tsfile/live/1010_1.m3u8
+#EXTINF:-1 group-title="🦄独家线路-④🐯",第一剧场
+http://hbyxmlg.picp.io:8088/tsfile/live/1011_1.m3u8
+#EXTINF:-1 group-title="🦄独家线路-⑤🐯",CCTV1
+http://125.210.152.19:9121/live/hzgq-cctv1gq-h264.m3u8
+#EXTINF:-1 group-title="🦄独家线路-⑤🐯",CCTV2
+http://125.210.152.19:9121/live/hzgq-cctv2gq-h264.m3u8
+#EXTINF:-1 group-title="🦄独家线路-⑤🐯",CCTV3
+http://125.210.152.19:9121/live/hzgq-cctv3gq-h264.m3u8
+#EXTINF:-1 group-title="🦄独家线路-⑤🐯",CCTV4
+http://125.210.152.19:9121/live/hzgq-cctv4gq-h264.m3u8
+#EXTINF:-1 group-title="🦄独家线路-⑤🐯",CCTV5
+http://125.210.152.19:9121/live/hzgq-cctv5gq-h264.m3u8
+#EXTINF:-1 group-title="🦄独家线路-⑤🐯",CCTV5+
+http://125.210.152.19:9121/live/hzgq-cctvzhgq-h264.m3u8
+#EXTINF:-1 group-title="🦄独家线路-⑤🐯",CCTV6
+http://125.210.152.19:9121/live/hzgq-cctv6gq-h264.m3u8
+#EXTINF:-1 group-title="🦄独家线路-⑤🐯",CCTV7
+http://125.210.152.19:9121/live/hzgq-cctv7gq-h264.m3u8
+#EXTINF:-1 group-title="🦄独家线路-⑤🐯",CTV8
+http://125.210.152.19:9121/live/hzgq-cctv8gq-h264.m3u8
+#EXTINF:-1 group-title="🦄独家线路-⑤🐯",CCTV9
+http://125.210.152.19:9121/live/hzgq-cctvjlgq-h264.m3u8
+#EXTINF:-1 group-title="🦄独家线路-⑤🐯",CCTV10
+http://125.210.152.19:9121/live/hzgq-cctv10gq-h264.m3u8
+#EXTINF:-1 group-title="🦄独家线路-⑤🐯",CCTV11
+http://125.210.152.19:9121/live/hzgq-cctv11gq-h264.m3u8
+#EXTINF:-1 group-title="🦄独家线路-⑤🐯",CCTV12
+http://125.210.152.19:9121/live/hzgq-cctv12gq-h264.m3u8
+#EXTINF:-1 group-title="🦄独家线路-⑤🐯",CCTV13
+http://125.210.152.19:9121/live/hzgq-cctvnewsgq-h264.m3u8
+#EXTINF:-1 group-title="🦄独家线路-⑤🐯",CCTV14
+http://125.210.152.19:9121/live/hzgq-cctvsegq-h264.m3u8
+#EXTINF:-1 group-title="🦄独家线路-⑤🐯",CCTV15
+http://125.210.152.19:9121/live/hzgq-cctvmusicgq-h264.m3u8
+#EXTINF:-1 group-title="🦄独家线路-⑤🐯",CCTV16
+http://125.210.152.19:9121/live/hzgq-cctv16gq-h264.m3u8
+#EXTINF:-1 group-title="🦄独家线路-⑤🐯",CCTV17
+http://125.210.152.19:9121/live/hzgq-cctv17gq-h264.m3u8
+#EXTINF:-1 group-title="🦄独家线路-⑤🐯",北京卫视
+http://27.16.161.97:8088/udp/239.254.96.141:8920
+#EXTINF:-1 group-title="🦄独家线路-⑤🐯",东方卫视
+http://27.16.161.97:8088/udp/239.254.96.142:8926
+#EXTINF:-1 group-title="🦄独家线路-⑤🐯",湖南卫视
+http://27.16.161.97:8088/udp/239.254.96.139:8908
+#EXTINF:-1 group-title="🦄独家线路-⑤🐯",浙江卫视
+http://27.16.161.97:8088/udp/239.254.96.143:8932
+#EXTINF:-1 group-title="🦄独家线路-⑤🐯",江苏卫视
+http://27.16.161.97:8088/udp/239.254.96.144:8938
+#EXTINF:-1 group-title="🦄独家线路-⑤🐯",安徽卫视
+http://27.16.161.97:8088/udp/239.69.1.70:10060
+#EXTINF:-1 group-title="🦄独家线路-⑤🐯",广东卫视
+http://27.16.161.97:8088/udp/239.254.96.140:8914
+#EXTINF:-1 group-title="🦄独家线路-⑤🐯",深圳卫视
+http://27.16.161.97:8088/udp/239.254.96.137:8896
+#EXTINF:-1 group-title="🦄独家线路-⑤🐯",辽宁卫视
+http://27.16.161.97:8088/udp/239.69.1.71:10066
+#EXTINF:-1 group-title="🦄独家线路-⑤🐯",海南卫视
+http://27.16.161.97:8088/udp/239.69.1.151:10542
+#EXTINF:-1 group-title="🦄独家线路-⑤🐯",山东卫视
+http://27.16.161.97:8088/udp/239.69.1.69:10054
+#EXTINF:-1 group-title="🦄独家线路-⑤🐯",天津卫视
+http://27.16.161.97:8088/udp/239.69.1.68:10048
+#EXTINF:-1 group-title="🦄独家线路-⑤🐯",重庆卫视
+http://27.16.161.97:8088/udp/239.69.1.149:10530
+#EXTINF:-1 group-title="🦄独家线路-⑤🐯",东南卫视
+http://27.16.161.97:8088/udp/239.69.1.108:10286
+#EXTINF:-1 group-title="🦄独家线路-⑤🐯",广西卫视
+http://27.16.161.97:8088/udp/239.69.1.191:10788
+#EXTINF:-1 group-title="🦄独家线路-⑤🐯",贵州卫视
+http://27.16.161.97:8088/udp/239.69.1.150:10536
+#EXTINF:-1 group-title="🦄独家线路-⑤🐯",河北卫视
+http://27.16.161.97:8088/udp/239.69.1.157:10578
+#EXTINF:-1 group-title="🦄独家线路-⑤🐯",黑龙江卫视
+http://27.16.161.97:8088/udp/239.254.96.138:8902
+#EXTINF:-1 group-title="🦄独家线路-⑤🐯",河南卫视
+http://27.16.161.97:8088/udp/239.69.1.168:10644
+#EXTINF:-1 group-title="🦄独家线路-⑤🐯",江西卫视
+http://27.16.161.97:8088/udp/239.69.1.126:10394
+#EXTINF:-1 group-title="🦄独家线路-⑤🐯",吉林卫视
+http://27.16.161.97:8088/udp/239.69.1.212:10914
+#EXTINF:-1 group-title="🦄独家线路-⑤🐯",内蒙古卫视
+http://27.16.161.97:8088/udp/239.254.96.41:8220
+#EXTINF:-1 group-title="🦄独家线路-⑤🐯",宁夏卫视
+http://27.16.161.97:8088/udp/239.254.96.97:8556
+#EXTINF:-1 group-title="🦄独家线路-⑤🐯",山西卫视
+http://27.16.161.97:8088/udp/239.254.96.93:8532
+#EXTINF:-1 group-title="🦄独家线路-⑤🐯",陕西卫视
+http://27.16.161.97:8088/udp/239.254.96.186:9196
+#EXTINF:-1 group-title="🦄独家线路-⑤🐯",四川卫视
+http://27.16.161.97:8088/udp/239.69.1.169:10650
+#EXTINF:-1 group-title="🦄独家线路-⑤🐯",新疆卫视
+http://27.16.161.97:8088/udp/239.254.96.47:8256
+#EXTINF:-1 group-title="🦄独家线路-⑤🐯",云南卫视
+http://27.16.161.97:8088/udp/239.254.96.30:8154
+#EXTINF:-1 group-title="🦄独家线路-⑤🐯",青海卫视
+http://27.16.161.97:8088/udp/239.254.96.95:8544
+#EXTINF:-1 group-title="🦄独家线路-⑤🐯",兵团卫视
+http://27.16.161.97:8088/udp/239.254.96.48:8262
+#EXTINF:-1 group-title="🦄独家线路-⑤🐯",卡酷动画
+http://27.16.161.97:8088/udp/239.254.96.188:9208
+#EXTINF:-1 group-title="🦄独家线路-⑤🐯",金鹰卡通
+http://27.16.161.97:8088/udp/239.69.1.248:11130
+#EXTINF:-1 group-title="🦄独家线路-⑥🐯",CCTV1-综合
+http://1.195.111.251:11190/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄独家线路-⑥🐯",CCTV2-财经
+http://1.195.111.251:11190/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄独家线路-⑥🐯",CCTV3-综艺
+http://1.195.111.251:11190/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄独家线路-⑥🐯",CCTV4-国际
+http://1.195.111.251:11190/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄独家线路-⑥🐯",CCTV5-体育
+http://1.195.111.251:11190/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄独家线路-⑥🐯",CCTV6-电影
+http://1.195.111.251:11190/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄独家线路-⑥🐯",CCTV7-军农
+http://1.195.111.251:11190/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄独家线路-⑥🐯",CCTV8-电视剧
+http://1.195.111.251:11190/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄独家线路-⑥🐯",CCTV9-纪录
+http://1.195.111.251:11190/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄独家线路-⑥🐯",CCTV10-科教
+http://1.195.111.251:11190/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄独家线路-⑥🐯",CCTV11-戏曲
+http://1.195.111.251:11190/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄独家线路-⑥🐯",CCTV12-社会与法
+http://1.195.111.251:11190/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄独家线路-⑥🐯",CCTV13-新闻
+http://1.195.111.251:11190/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄独家线路-⑥🐯",CCTV14-少儿
+http://1.195.111.251:11190/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄独家线路-⑥🐯",CCTV15-音乐
+http://1.195.111.251:11190/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄独家线路-⑥🐯",河南卫视
+http://1.195.111.251:11190/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄独家线路-⑥🐯",都市频道
+http://1.195.111.251:11190/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄独家线路-⑥🐯",焦作综合
+http://1.195.111.251:11190/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄独家线路-⑥🐯",湖南卫视
+http://1.195.111.251:11190/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄独家线路-⑥🐯",浙江卫视
+http://1.195.111.251:11190/tsfile/live/0124_2.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄独家线路-⑥🐯",北京卫视
+http://1.195.111.251:11190/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄独家线路-⑥🐯",东方卫视
+http://1.195.111.251:11190/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄独家线路-⑥🐯",天津卫视
+http://1.195.111.251:11190/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄独家线路-⑥🐯",山东卫视
+http://1.195.111.251:11190/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄独家线路-⑥🐯",安徽卫视
+http://1.195.111.251:11190/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄独家线路-⑥🐯",深圳卫视
+http://1.195.111.251:11190/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄独家线路-⑥🐯",江西卫视
+http://1.195.111.251:11190/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄独家线路-⑥🐯",湖北卫视
+http://1.195.111.251:11190/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄独家线路-⑥🐯",动作电影
+http://1.195.111.251:11190/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄独家线路-⑥🐯",环球地理
+http://1.195.111.251:11190/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-㈠❤️",CCTV1-综合
+http://61.141.202.118:9901/tsfile/live/0001_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-㈠❤️",CCTV2-财经
+http://61.141.202.118:9901/tsfile/live/0002_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-㈠❤️",CCTV3-综艺
+http://61.141.202.118:9901/tsfile/live/0003_2.m3u8
+#EXTINF:-1 group-title="🦄电信专线-㈠❤️",CCTV4-国际
+http://61.141.202.118:9901/tsfile/live/0003_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-㈠❤️",CCTV5-体育
+http://61.141.202.118:9901/tsfile/live/0005_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-㈠❤️",CCTV6-电影
+http://61.141.202.118:9901/tsfile/live/0006_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-㈠❤️",CCTV7-军农
+http://61.141.202.118:9901/tsfile/live/0007_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-㈠❤️",CCTV8-电视剧
+http://61.141.202.118:9901/tsfile/live/0008_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-㈠❤️",CCTV9-纪录
+http://61.141.202.118:9901/tsfile/live/0009_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-㈠❤️",CCTV10-科教
+http://61.141.202.118:9901/tsfile/live/0010_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-㈠❤️",CCTV11-戏曲
+http://61.141.202.118:9901/tsfile/live/0011_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-㈠❤️",CCTV12-社会与法
+http://61.141.202.118:9901/tsfile/live/0012_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-㈠❤️",CCTV13-新闻
+http://61.141.202.118:9901/tsfile/live/0013_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-㈠❤️",CCTV14-少儿
+http://61.141.202.118:9901/tsfile/live/0125_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-㈠❤️",CCTV15-音乐
+http://61.141.202.118:9901/tsfile/live/0015_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-㈠❤️",湖南卫视
+http://61.141.202.118:9901/tsfile/live/0128_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-㈠❤️",东方卫视
+http://61.141.202.118:9901/tsfile/live/0107_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-㈠❤️",浙江卫视
+http://61.141.202.118:9901/tsfile/live/0124_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-㈠❤️",江苏卫视
+http://61.141.202.118:9901/tsfile/live/0127_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-㈠❤️",北京卫视
+http://61.141.202.118:9901/tsfile/live/0122_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-㈠❤️",天津卫视
+http://61.141.202.118:9901/tsfile/live/0135_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-㈠❤️",山东卫视
+http://61.141.202.118:9901/tsfile/live/0131_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-㈠❤️",辽宁卫视
+http://61.141.202.118:9901/tsfile/live/0121_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-㈠❤️",深圳卫视
+http://61.141.202.118:9901/tsfile/live/0126_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-㈠❤️",深圳都市
+http://61.141.202.118:9901/tsfile/live/0126_2.m3u8
+#EXTINF:-1 group-title="🦄电信专线-㈠❤️",深圳电视剧
+http://61.141.202.118:9901/tsfile/live/0126_3.m3u8
+#EXTINF:-1 group-title="🦄电信专线-㈠❤️",广东卫视
+http://61.141.202.118:9901/tsfile/live/0125_2.m3u8
+#EXTINF:-1 group-title="🦄电信专线-㈠❤️",广东珠江
+http://61.141.202.118:9901/tsfile/live/0125_3.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑵❤️",CCTV1-综合
+http://59.48.75.130:3052/tsfile/live/0001_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑵❤️",CCTV2-财经
+http://59.48.75.130:3052/tsfile/live/0002_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑵❤️",CCTV3-综艺
+http://59.48.75.130:3052/tsfile/live/0003_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑵❤️",CCTV4-国际
+http://59.48.75.130:3052/tsfile/live/0004_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑵❤️",CCTV5-体育
+http://59.48.75.130:3052/tsfile/live/0005_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑵❤️",CCTV6-电影
+http://59.48.75.130:3052/tsfile/live/0006_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑵❤️",CCTV7-军农
+http://59.48.75.130:3052/tsfile/live/0007_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑵❤️",CCTV8-电视剧
+http://59.48.75.130:3052/tsfile/live/0008_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑵❤️",CCTV9-纪录
+http://59.48.75.130:3052/tsfile/live/0009_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑵❤️",CCTV10-科教
+http://59.48.75.130:3052/tsfile/live/0010_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑵❤️",CCTV11-戏曲
+http://59.48.75.130:3052/tsfile/live/0011_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑵❤️",CCTV12-社会与法
+http://59.48.75.130:3052/tsfile/live/0012_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑵❤️",CCTV13-新闻
+http://59.48.75.130:3052/tsfile/live/0013_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑵❤️",CCTV14-少儿
+http://59.48.75.130:3052/tsfile/live/0014_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑵❤️",CCTV15-音乐
+http://59.48.75.130:3052/tsfile/live/0015_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑵❤️",北京卫视
+http://59.48.75.130:3052/tsfile/live/0018_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑵❤️",东方卫视
+http://59.48.75.130:3052/tsfile/live/0016_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑵❤️",江苏卫视
+http://59.48.75.130:3052/tsfile/live/0017_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑵❤️",浙江卫视
+http://59.48.75.130:3052/tsfile/live/0019_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑵❤️",湖南卫视
+http://59.48.75.130:3052/tsfile/live/0128_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑵❤️",辽宁卫视
+http://59.48.75.130:3052/tsfile/live/0121_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑵❤️",安徽卫视
+http://59.48.75.130:3052/tsfile/live/0130_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑵❤️",山东卫视
+http://59.48.75.130:3052/tsfile/live/0131_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑵❤️",广东卫视
+http://59.48.75.130:3052/tsfile/live/0125_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑵❤️",广西卫视
+http://59.48.75.130:3052/tsfile/live/0113_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑵❤️",旅游卫视
+http://59.48.75.130:3052/tsfile/live/0114_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑵❤️",重庆卫视
+http://59.48.75.130:3052/tsfile/live/0142_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑵❤️",四川卫视
+http://59.48.75.130:3052/tsfile/live/0123_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑵❤️",河南卫视
+http://59.48.75.130:3052/tsfile/live/0139_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑵❤️",东南卫视
+http://59.48.75.130:3052/tsfile/live/0137_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑵❤️",天津卫视
+http://59.48.75.130:3052/tsfile/live/0135_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑵❤️",江西卫视
+http://59.48.75.130:3052/tsfile/live/0138_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑵❤️",湖北卫视
+http://59.48.75.130:3052/tsfile/live/0132_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑵❤️",吉林卫视
+http://59.48.75.130:3052/tsfile/live/0116_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑵❤️",黑龙江卫视
+http://59.48.75.130:3052/tsfile/live/0143_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑵❤️",山西卫视
+http://59.48.75.130:3052/tsfile/live/0118_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑵❤️",贵州卫视
+http://59.48.75.130:3052/tsfile/live/0120_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑵❤️",青海卫视
+http://59.48.75.130:3052/tsfile/live/0140_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑵❤️",云南卫视
+http://59.48.75.130:3052/tsfile/live/0119_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑵❤️",宁夏卫视
+http://59.48.75.130:3052/tsfile/live/0112_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑵❤️",陕西卫视
+http://59.48.75.130:3052/tsfile/live/0136_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑵❤️",新疆卫视
+http://59.48.75.130:3052/tsfile/live/0110_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑵❤️",西藏卫视
+http://59.48.75.130:3052/tsfile/live/0111_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑵❤️",内蒙古卫视
+http://59.48.75.130:3052/tsfile/live/0109_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑵❤️",甘肃卫视
+http://59.48.75.130:3052/tsfile/live/0141_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑵❤️",河北卫视
+http://59.48.75.130:3052/tsfile/live/0117_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑵❤️",深圳卫视
+http://59.48.75.130:3052/tsfile/live/0126_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑵❤️",厦门卫视
+http://59.48.75.130:3052/tsfile/live/0129_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑵❤️",金鹰卡通
+http://59.48.75.130:3052/tsfile/live/1000_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑵❤️",经典电影
+http://59.48.75.130:3052/tsfile/live/1001_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑵❤️",电视剧轮播
+http://59.48.75.130:3052/tsfile/live/1002_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑶❤️",CCTV1-综合
+http://124.115.205.101:8888/newlive/live/hls/2/live.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑶❤️",CCTV2-财经
+http://124.115.205.101:8888/newlive/live/hls/3/live.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑶❤️",CCTV3-综艺
+http://124.115.205.101:8888/newlive/live/hls/4/live.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑶❤️",CCTV4-国际
+http://124.115.205.101:8888/newlive/live/hls/5/live.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑶❤️",CCTV5-体育
+http://124.115.205.101:8888/newlive/live/hls/6/live.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑶❤️",CCTV5+-赛事
+http://124.115.205.101:8888/newlive/live/hls/7/live.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑶❤️",CCTV6-电影
+http://124.115.205.101:8888/newlive/live/hls/8/live.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑶❤️",CCTV7-军农
+http://124.115.205.101:8888/newlive/live/hls/9/live.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑶❤️",CCTV8-电视剧
+http://124.115.205.101:8888/newlive/live/hls/10/live.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑶❤️",CCTV9-纪录
+http://124.115.205.101:8888/newlive/live/hls/11/live.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑶❤️",CCTV10-科教
+http://124.115.205.101:8888/newlive/live/hls/12/live.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑶❤️",CCTV11-戏曲
+http://124.115.205.101:8888/newlive/live/hls/13/live.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑶❤️",CCTV12-社会与法
+http://124.115.205.101:8888/newlive/live/hls/14/live.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑶❤️",CCTV13-新闻
+http://124.115.205.101:8888/newlive/live/hls/15/live.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑶❤️",CCTV14-少儿
+http://124.115.205.101:8888/newlive/live/hls/16/live.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑶❤️",CCTV15-音乐
+http://124.115.205.101:8888/newlive/live/hls/17/live.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑶❤️",浙江卫视
+http://124.115.205.101:8888/newlive/live/hls/22/live.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑶❤️",江苏卫视
+http://124.115.205.101:8888/newlive/live/hls/23/live.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑶❤️",湖南卫视
+http://124.115.205.101:8888/newlive/live/hls/24/live.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑶❤️",河南卫视
+http://124.115.205.101:8888/newlive/live/hls/25/live.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑶❤️",湖北卫视
+http://124.115.205.101:8888/newlive/live/hls/26/live.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑶❤️",重庆卫视
+http://124.115.205.101:8888/newlive/live/hls/50/live.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑶❤️",天津卫视
+http://124.115.205.101:8888/newlive/live/hls/51/live.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑶❤️",东南卫视
+http://124.115.205.101:8888/newlive/live/hls/52/live.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑶❤️",广东卫视
+http://124.115.205.101:8888/newlive/live/hls/39/live.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑶❤️",深圳卫视
+http://124.115.205.101:8888/newlive/live/hls/40/live.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑶❤️",山东卫视
+http://124.115.205.101:8888/newlive/live/hls/42/live.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑶❤️",四川卫视
+http://124.115.205.101:8888/newlive/live/hls/43/live.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑶❤️",安徽卫视
+http://124.115.205.101:8888/newlive/live/hls/44/live.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑶❤️",山西卫视
+http://124.115.205.101:8888/newlive/live/hls/27/live.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑶❤️",甘肃卫视
+http://124.115.205.101:8888/newlive/live/hls/28/live.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑶❤️",宁夏卫视
+http://124.115.205.101:8888/newlive/live/hls/29/live.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑶❤️",海南卫视
+http://124.115.205.101:8888/newlive/live/hls/30/live.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑶❤️",广西卫视
+http://124.115.205.101:8888/newlive/live/hls/31/live.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑶❤️",青海卫视
+http://124.115.205.101:8888/newlive/live/hls/32/live.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑶❤️",西藏卫视
+http://124.115.205.101:8888/newlive/live/hls/33/live.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑶❤️",内蒙卫视
+http://124.115.205.101:8888/newlive/live/hls/34/live.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑶❤️",新疆卫视
+http://124.115.205.101:8888/newlive/live/hls/35/live.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑶❤️",云南卫视
+http://124.115.205.101:8888/newlive/live/hls/36/live.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑶❤️",厦门卫视
+http://124.115.205.101:8888/newlive/live/hls/37/live.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑶❤️",兵团卫视
+http://124.115.205.101:8888/newlive/live/hls/38/live.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑷❤️",CCTV1-综合
+http://219.135.208.218:8083/tsfile/live/0001_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑷❤️",CCTV2-财经
+http://219.135.208.218:8083/tsfile/live/0002_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑷❤️",CCTV3-综艺
+http://219.135.208.218:8083/tsfile/live/0003_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑷❤️",CCTV4-国际
+http://219.135.208.218:8083/tsfile/live/0004_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑷❤️",CCTV5-体育
+http://219.135.208.218:8083/tsfile/live/0005_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑷❤️",CCTV5+-赛事
+http://219.135.208.218:8083/tsfile/live/0016_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑷❤️",CCTV6-电影
+http://219.135.208.218:8083/tsfile/live/0006_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑷❤️",CCTV7-军农
+http://219.135.208.218:8083/tsfile/live/0007_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑷❤️",CCTV8-电视剧
+http://219.135.208.218:8083/tsfile/live/0008_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑷❤️",CCTV9-纪录
+http://219.135.208.218:8083/tsfile/live/0009_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑷❤️",CCTV10-科教
+http://219.135.208.218:8083/tsfile/live/0010_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑷❤️",CCTV11-戏曲
+http://219.135.208.218:8083/tsfile/live/0011_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑷❤️",CCTV12-社会与法
+http://219.135.208.218:8083/tsfile/live/0012_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑷❤️",CCTV13-新闻
+http://219.135.208.218:8083/tsfile/live/0013_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑷❤️",CCTV14-少儿
+http://219.135.208.218:8083/tsfile/live/0014_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑷❤️",CCTV15-音乐
+http://219.135.208.218:8083/tsfile/live/0015_1.m3u8
+#EXTINF:-1 group-title="🦄电信专线-⑸❤️",CCTV1
+http://117.27.190.42:9901/tsfile/live/23232_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑸❤️",CCTV2
+http://117.27.190.42:9901/tsfile/live/23233_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑸❤️",CCTV3
+http://117.27.190.42:9901/tsfile/live/23234_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑸❤️",CCTV4
+http://117.27.190.42:9901/tsfile/live/23235_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑸❤️",CCTV5
+http://117.27.190.42:9901/tsfile/live/23236_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑸❤️",CCTV6
+http://117.27.190.42:9901/tsfile/live/23237_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑸❤️",CCTV7
+http://117.27.190.42:9901/tsfile/live/23238_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑸❤️",CCTV8
+http://117.27.190.42:9901/tsfile/live/23239_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑸❤️",CCTV9
+http://117.27.190.42:9901/tsfile/live/23240_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑸❤️",CCTV10
+http://117.27.190.42:9901/tsfile/live/23241_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑸❤️",CCTV11
+http://117.27.190.42:9901/tsfile/live/23242_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑸❤️",CCTV12
+http://117.27.190.42:9901/tsfile/live/23243_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑸❤️",CCTV13
+http://117.27.190.42:9901/tsfile/live/23244_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑸❤️",CCTV14
+http://117.27.190.42:9901/tsfile/live/23245_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑸❤️",CCTV15
+http://117.27.190.42:9901/tsfile/live/23246_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑸❤️",CCTV17
+http://117.27.190.42:9901/tsfile/live/23247_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑸❤️",CCTV5＋
+http://117.27.190.42:9901/tsfile/live/23248_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑸❤️",CCTV16
+http://117.27.190.42:9901/tsfile/live/23249_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑸❤️",北京卫视
+http://117.27.190.42:9901/tsfile/live/23257_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑸❤️",吉林卫视
+http://117.27.190.42:9901/tsfile/live/23258_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑸❤️",天津卫视
+http://117.27.190.42:9901/tsfile/live/23259_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑸❤️",四川卫视
+http://117.27.190.42:9901/tsfile/live/23260_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑸❤️",安徽卫视
+http://117.27.190.42:9901/tsfile/live/23261_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑸❤️",安徽卫视
+http://117.27.190.42:9901/tsfile/live/23262_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑸❤️",山东卫视
+http://117.27.190.42:9901/tsfile/live/23263_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑸❤️",江苏卫视
+http://117.27.190.42:9901/tsfile/live/23264_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑸❤️",江西卫视
+http://117.27.190.42:9901/tsfile/live/23265_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑸❤️",河北卫视
+http://117.27.190.42:9901/tsfile/live/23266_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑸❤️",河南卫视
+http://117.27.190.42:9901/tsfile/live/23267_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑸❤️",东方卫视
+http://117.27.190.42:9901/tsfile/live/23268_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑸❤️",广西卫视
+http://117.27.190.42:9901/tsfile/live/23269_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑸❤️",广东卫视
+http://117.27.190.42:9901/tsfile/live/23270_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑸❤️",浙江卫视
+http://117.27.190.42:9901/tsfile/live/23271_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑸❤️",海南卫视
+http://117.27.190.42:9901/tsfile/live/23272_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑸❤️",海南卫视
+http://117.27.190.42:9901/tsfile/live/23273_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑸❤️",三沙卫视
+http://117.27.190.42:9901/tsfile/live/23250_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑸❤️",云南卫视
+http://117.27.190.42:9901/tsfile/live/23251_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑸❤️",贵州卫视
+http://117.27.190.42:9901/tsfile/live/23252_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑸❤️",辽宁卫视
+http://117.27.190.42:9901/tsfile/live/23253_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑸❤️",重庆卫视
+http://117.27.190.42:9901/tsfile/live/23254_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑸❤️",青海卫视
+http://117.27.190.42:9901/tsfile/live/23255_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑸❤️",黑龙江卫视
+http://117.27.190.42:9901/tsfile/live/23256_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑸❤️",深圳卫视
+http://117.27.190.42:9901/tsfile/live/23274_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑸❤️",湖北卫视
+http://117.27.190.42:9901/tsfile/live/23275_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑸❤️",湖南卫视
+http://117.27.190.42:9901/tsfile/live/23276_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑸❤️",甘肃卫视
+http://117.27.190.42:9901/tsfile/live/23277_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑸❤️",金鹰纪实
+http://117.27.190.42:9901/tsfile/live/23278_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑸❤️",凤凰资讯
+http://117.27.190.42:9901/tsfile/live/23279_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑸❤️",凤凰中文
+http://117.27.190.42:9901/tsfile/live/23280_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑸❤️",东南卫视
+http://117.27.190.42:9901/tsfile/live/23281_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑸❤️",厦门卫视
+http://117.27.190.42:9901/tsfile/live/23282_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑸❤️",海峡卫视
+http://117.27.190.42:9901/tsfile/live/23283_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑹❤️",CCTV1
+http://110.81.206.138:50080/tsfile/live/23001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑹❤️",CCTV2
+http://110.81.206.138:50080/tsfile/live/23002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑹❤️",CCTV3
+http://110.81.206.138:50080/tsfile/live/23003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑹❤️",CCTV4
+http://110.81.206.138:50080/tsfile/live/23004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑹❤️",CCTV5
+http://110.81.206.138:50080/tsfile/live/23005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑹❤️",CCTV6
+http://110.81.206.138:50080/tsfile/live/23006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑹❤️",CCTV7
+http://110.81.206.138:50080/tsfile/live/23007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑹❤️",CCTV8
+http://110.81.206.138:50080/tsfile/live/23008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑹❤️",CCTV9
+http://110.81.206.138:50080/tsfile/live/23009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑹❤️",CCTV10
+http://110.81.206.138:50080/tsfile/live/23010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑹❤️",CCTV11
+http://110.81.206.138:50080/tsfile/live/23011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑹❤️",CCTV12
+http://110.81.206.138:50080/tsfile/live/23012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑹❤️",CCTV13
+http://110.81.206.138:50080/tsfile/live/23013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑹❤️",CCTV14
+http://110.81.206.138:50080/tsfile/live/23014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑹❤️",CCTV15
+http://110.81.206.138:50080/tsfile/live/23015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑹❤️",CGTN
+http://110.81.206.138:50080/tsfile/live/23016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑹❤️",CCTV17
+http://110.81.206.138:50080/tsfile/live/23017_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑹❤️",CCTV5+
+http://110.81.206.138:50080/tsfile/live/23018_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑹❤️",凤凰资讯台
+http://110.81.206.138:50080/tsfile/live/23019_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑹❤️",凤凰中文台
+http://110.81.206.138:50080/tsfile/live/23020_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑹❤️",东南卫视
+http://110.81.206.138:50080/tsfile/live/23021_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑹❤️",海峡卫视
+http://110.81.206.138:50080/tsfile/live/23022_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑹❤️",福建综合
+http://110.81.206.138:50080/tsfile/live/23023_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑹❤️",福建公共
+http://110.81.206.138:50080/tsfile/live/23024_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑹❤️",福建新闻
+http://110.81.206.138:50080/tsfile/live/23025_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑹❤️",福建电视剧
+http://110.81.206.138:50080/tsfile/live/23026_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑹❤️",福建旅游
+http://110.81.206.138:50080/tsfile/live/23027_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑹❤️",福建经济生活
+http://110.81.206.138:50080/tsfile/live/23028_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑹❤️",福建体育
+http://110.81.206.138:50080/tsfile/live/23029_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑹❤️",福建少儿
+http://110.81.206.138:50080/tsfile/live/23030_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑹❤️",福建教育
+http://110.81.206.138:50080/tsfile/live/23031_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑹❤️",厦门卫视
+http://110.81.206.138:50080/tsfile/live/23032_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑹❤️",湖南卫视
+http://110.81.206.138:50080/tsfile/live/23034_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑹❤️",东方卫视
+http://110.81.206.138:50080/tsfile/live/23035_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑹❤️",浙江卫视
+http://110.81.206.138:50080/tsfile/live/23036_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑹❤️",江苏卫视
+http://110.81.206.138:50080/tsfile/live/23037_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑹❤️",北京卫视
+http://110.81.206.138:50080/tsfile/live/23038_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑹❤️",湖北卫视
+http://110.81.206.138:50080/tsfile/live/23039_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑹❤️",广东卫视
+http://110.81.206.138:50080/tsfile/live/23040_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑹❤️",深圳卫视
+http://110.81.206.138:50080/tsfile/live/23041_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑹❤️",辽宁卫视
+http://110.81.206.138:50080/tsfile/live/23042_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑹❤️",吉林卫视
+http://110.81.206.138:50080/tsfile/live/23043_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑹❤️",黑龙江卫视
+http://110.81.206.138:50080/tsfile/live/23044_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑹❤️",天津卫视
+http://110.81.206.138:50080/tsfile/live/23045_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑹❤️",河北卫视
+http://110.81.206.138:50080/tsfile/live/23046_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑹❤️",河南卫视
+http://110.81.206.138:50080/tsfile/live/23047_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑹❤️",山东卫视
+http://110.81.206.138:50080/tsfile/live/23048_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑹❤️",四川卫视
+http://110.81.206.138:50080/tsfile/live/23049_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑹❤️",重庆卫视
+http://110.81.206.138:50080/tsfile/live/23050_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑹❤️",贵州卫视
+http://110.81.206.138:50080/tsfile/live/23051_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑹❤️",安徽卫视
+http://110.81.206.138:50080/tsfile/live/23052_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑹❤️",江西卫视
+http://110.81.206.138:50080/tsfile/live/23053_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑹❤️",云南卫视
+http://110.81.206.138:50080/tsfile/live/23054_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑹❤️",广西卫视
+http://110.81.206.138:50080/tsfile/live/23055_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑹❤️",海南卫视
+http://110.81.206.138:50080/tsfile/live/23056_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑹❤️",甘肃卫视
+http://110.81.206.138:50080/tsfile/live/23059_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑹❤️",青海卫视
+http://110.81.206.138:50080/tsfile/live/23062_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑹❤️",金鹰卡通
+http://110.81.206.138:50080/tsfile/live/23065_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑹❤️",卡酷少儿
+http://110.81.206.138:50080/tsfile/live/23066_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑹❤️",哈哈炫动
+http://110.81.206.138:50080/tsfile/live/23067_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",CCTV1高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.17:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",CCTV1高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.144:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",CCTV1高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.86:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",CCTV1超清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.129:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",CCTV2高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.158:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",CCTV2高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.253.43.17:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",CCTV2高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.137:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",CCTV3高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.169:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",CCTV3超清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.175:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",CCTV4高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.163:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",CCTV4高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.166:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",CCTV4高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.78:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",CCTV5高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.241:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",CCTV5高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.170:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",CCTV5超清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.177:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",CCTV5+高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.87:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",CCTV5+高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.31:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",CCTV5+高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.147:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",CCTV6高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.171:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",CCTV6超清 (CAVS)
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.178:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",CCTV7高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.159:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",CCTV7高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.167:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",CCTV7高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.138:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",CCTV8高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.172:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",CCTV8超清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.181:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",CCTV9高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.160:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",CCTV9高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.168:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",CCTV9高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.135:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",CCTV10高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.113:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",CCTV10高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.169:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",CCTV10高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.134:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",CCTV11高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.238:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",CCTV12高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.109:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",CCTV12高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.170:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",CCTV12高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.136:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",CCTV13高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.188:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",CCTV13高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.253.43.196:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",CCTV14高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.161:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",CCTV14高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.171:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",CCTV14高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.133:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",CCTV15高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.239:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",CCTV16高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.76:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",CCTV16-4K
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.98:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",CCTV17高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.121:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",CCTV17高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.198:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",CCTV4K
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.194:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",CCTV4K50p
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.174:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",湖南卫视高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.5:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",湖南卫视高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.129:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",湖南卫视高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.88:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",湖南卫视超清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.127:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",浙江卫视高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.33:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",浙江卫视高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.150:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",浙江卫视高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.89:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",浙江卫视超清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.125:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",江苏卫视高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.18:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",江苏卫视高清 (CAVS)
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.149:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",江苏卫视高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.90:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",江苏卫视超清 (CAVS)
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.126:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",东方卫视高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.218:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",东方卫视高清 (CAVS)
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.156:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",东方卫视高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.98:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",安徽卫视高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.92:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",安徽卫视高清 (CAVS)
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.157:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",安徽卫视高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.183:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",北京卫视高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.4:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",北京卫视高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.151:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",北京卫视高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.91:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",天津卫视高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.141:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",天津卫视高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.182:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",天津卫视高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.97:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",天津卫视超清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.131:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",山东卫视高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.142:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",山东卫视高清 (CAVS)
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.153:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",山东卫视高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.94:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",山东卫视超清 (CAVS)
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.132:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",江西卫视高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.219:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",江西卫视高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.149:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",湖北卫视高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.93:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",湖北卫视高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.174:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",湖北卫视高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.95:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",湖北卫视超清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.128:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",辽宁卫视高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.103:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",辽宁卫视 高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.123:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",辽宁卫视超清 (CAVS)
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.161:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",黑龙江卫视高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.6:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",黑龙江卫视高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.179:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",黑龙江卫视高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.93:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",黑龙江卫视超清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.124:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",贵州卫视高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.221:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",贵州卫视高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.230:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",四川卫视高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.215:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",四川卫视高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.159:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",四川卫视超清 (CAVS)
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.163:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",河南卫视高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.229:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",河南卫视高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.17:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",云南卫视高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.253.43.37:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",云南卫视高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.253.43.100:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",重庆卫视高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.162:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",重庆卫视高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.210:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",重庆卫视高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.182:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",河北卫视高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.214:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",河北卫视高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.148:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",东南卫视高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.104:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",福建东南卫视高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.146:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",广西卫视高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.253.43.36:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",广西卫视高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.139:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",吉林卫视高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.111:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",吉林卫视高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.150:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",海南卫视高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.253.43.35:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",海南卫视高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.253.43.101:5146
+#EXTINF:-1 group-title="🦄电信专线-⑺❤️",甘肃卫视高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.0.189:5146
+#EXTINF:-1 group-title="🦄联通专线-①💙",CCTV-1
+http://1.30.18.218:20080/hls/1/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-①💙",CCTV-2
+http://1.30.18.218:20080/hls/2/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-①💙",CCTV-3
+http://1.30.18.218:20080/hls/3/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-①💙",CCTV-4
+http://1.30.18.218:20080/hls/4/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-①💙",CCTV-5
+http://1.30.18.218:20080/hls/5/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-①💙",CCTV-6
+http://1.30.18.218:20080/hls/6/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-①💙",CCTV-7
+http://1.30.18.218:20080/hls/7/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-①💙",CCTV-8
+http://1.30.18.218:20080/hls/8/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-①💙",CCTV-9
+http://1.30.18.218:20080/hls/9/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-①💙",CCTV-10
+http://1.30.18.218:20080/hls/10/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-①💙",CCTV-11
+http://1.30.18.218:20080/hls/11/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-①💙",CCTV-12
+http://1.30.18.218:20080/hls/12/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-①💙",CCTV-13
+http://1.30.18.218:20080/hls/13/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-①💙",CCTV-14
+http://1.30.18.218:20080/hls/14/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-①💙",CCTV-15
+http://1.30.18.218:20080/hls/15/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-①💙",CCTV-16
+http://1.30.18.218:20080/hls/16/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-①💙",CCTV-17
+http://1.30.18.218:20080/hls/17/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-①💙",江苏卫视
+http://1.30.18.218:20080/hls/45/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-①💙",湖南卫视
+http://1.30.18.218:20080/hls/46/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-①💙",河南卫视
+http://1.30.18.218:20080/hls/47/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-①💙",浙江卫视
+http://1.30.18.218:20080/hls/48/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-①💙",湖北卫视
+http://1.30.18.218:20080/hls/49/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-①💙",东方卫视
+http://1.30.18.218:20080/hls/50/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-①💙",北京卫视
+http://1.30.18.218:20080/hls/52/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-①💙",天津卫视
+http://1.30.18.218:20080/hls/53/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-①💙",黑龙江卫视
+http://1.30.18.218:20080/hls/54/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-①💙",吉林卫视
+http://1.30.18.218:20080/hls/55/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-①💙",辽宁卫视
+http://1.30.18.218:20080/hls/56/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-①💙",深圳卫视
+http://1.30.18.218:20080/hls/57/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-①💙",河北卫视
+http://1.30.18.218:20080/hls/58/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-①💙",广东卫视
+http://1.30.18.218:20080/hls/59/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-①💙",山西卫视
+http://1.30.18.218:20080/hls/60/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-①💙",陕西卫视
+http://1.30.18.218:20080/hls/61/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-①💙",江西卫视
+http://1.30.18.218:20080/hls/62/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-①💙",山东卫视
+http://1.30.18.218:20080/hls/63/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-①💙",安徽卫视
+http://1.30.18.218:20080/hls/64/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-①💙",四川卫视
+http://1.30.18.218:20080/hls/65/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-①💙",东南卫视
+http://1.30.18.218:20080/hls/67/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-①💙",兵团卫视
+http://1.30.18.218:20080/hls/68/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-①💙",广西卫视
+http://1.30.18.218:20080/hls/69/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-①💙",贵州卫视
+http://1.30.18.218:20080/hls/70/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-①💙",云南卫视
+http://1.30.18.218:20080/hls/71/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-①💙",宁夏卫视
+http://1.30.18.218:20080/hls/72/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-①💙",青海卫视
+http://1.30.18.218:20080/hls/74/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-①💙",新疆卫视
+http://1.30.18.218:20080/hls/75/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-①💙",西藏卫视
+http://1.30.18.218:20080/hls/76/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-①💙",海南卫视
+http://1.30.18.218:20080/hls/77/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-①💙",北京纪实
+http://1.30.18.218:20080/hls/81/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-②💙",CCTV-1
+http://111.160.17.2:59901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄联通专线-②💙",CCTV-2
+http://111.160.17.2:59901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄联通专线-②💙",CCTV-3
+http://111.160.17.2:59901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄联通专线-②💙",CCTV-4
+http://111.160.17.2:59901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄联通专线-②💙",CCTV-5
+http://111.160.17.2:59901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄联通专线-②💙",CCTV5+
+http://111.160.17.2:59901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄联通专线-②💙",CCTV-6
+http://111.160.17.2:59901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄联通专线-②💙",CCTV-7
+http://111.160.17.2:59901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄联通专线-②💙",CCTV-8
+http://111.160.17.2:59901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄联通专线-②💙",CCTV-9
+http://111.160.17.2:59901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄联通专线-②💙",CCTV-10
+http://111.160.17.2:59901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄联通专线-②💙",CCTV-11
+http://111.160.17.2:59901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄联通专线-②💙",CCTV-12
+http://111.160.17.2:59901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄联通专线-②💙",CCTV-13
+http://111.160.17.2:59901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄联通专线-②💙",CCTV-14
+http://111.160.17.2:59901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄联通专线-②💙",CCTV-15
+http://111.160.17.2:59901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄联通专线-②💙",CCTV-17
+http://111.160.17.2:59901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄联通专线-②💙",上海卫视
+http://111.160.17.2:59901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄联通专线-②💙",北京卫视
+http://111.160.17.2:59901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄联通专线-②💙",湖北卫视
+http://111.160.17.2:59901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄联通专线-②💙",辽宁卫视
+http://111.160.17.2:59901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄联通专线-②💙",广东卫视
+http://111.160.17.2:59901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄联通专线-②💙",甘肃卫视
+http://111.160.17.2:59901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄联通专线-②💙",陕西卫视
+http://111.160.17.2:59901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄联通专线-②💙",安徽卫视
+http://111.160.17.2:59901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄联通专线-②💙",深圳卫视
+http://111.160.17.2:59901/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄联通专线-②💙",吉林卫视
+http://111.160.17.2:59901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄联通专线-②💙",河北卫视
+http://111.160.17.2:59901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄联通专线-②💙",山西卫视
+http://111.160.17.2:59901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄联通专线-②💙",西藏卫视
+http://111.160.17.2:59901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄联通专线-②💙",江苏卫视
+http://111.160.17.2:59901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄联通专线-②💙",河南卫视
+http://111.160.17.2:59901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄联通专线-②💙",青海卫视
+http://111.160.17.2:59901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄联通专线-②💙",宁夏卫视
+http://111.160.17.2:59901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄联通专线-②💙",卡酷少儿
+http://111.160.17.2:59901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄联通专线-②💙",重庆卫视
+http://111.160.17.2:59901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄联通专线-②💙",云南卫视
+http://111.160.17.2:59901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄联通专线-②💙",贵州卫视
+http://111.160.17.2:59901/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄联通专线-②💙",内蒙古卫视
+http://111.160.17.2:59901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄联通专线-②💙",黑龙江卫视
+http://111.160.17.2:59901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄联通专线-②💙",三沙卫视
+http://111.160.17.2:59901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄联通专线-②💙",天津卫视
+http://111.160.17.2:59901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄联通专线-②💙",天津影视
+http://111.160.17.2:59901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄联通专线-②💙",天津体育
+http://111.160.17.2:59901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="🦄联通专线-③💙",CCTV1
+http://1304.hsmedia.top:8080/newlive/live/hls/2/live.m3u8
+#EXTINF:-1 group-title="🦄联通专线-③💙",CCTV2
+http://1304.hsmedia.top:8080/newlive/live/hls/3/live.m3u8
+#EXTINF:-1 group-title="🦄联通专线-③💙",CCTV3
+http://1304.hsmedia.top:8080/newlive/live/hls/4/live.m3u8
+#EXTINF:-1 group-title="🦄联通专线-③💙",CCTV4
+http://1304.hsmedia.top:8080/newlive/live/hls/5/live.m3u8
+#EXTINF:-1 group-title="🦄联通专线-③💙",CCTV5+
+http://1304.hsmedia.top:8080/newlive/live/hls/6/live.m3u8
+#EXTINF:-1 group-title="🦄联通专线-③💙",CCTV6
+http://1304.hsmedia.top:8080/newlive/live/hls/7/live.m3u8
+#EXTINF:-1 group-title="🦄联通专线-③💙",CCTV7
+http://1304.hsmedia.top:8080/newlive/live/hls/8/live.m3u8
+#EXTINF:-1 group-title="🦄联通专线-③💙",CCTV8
+http://1304.hsmedia.top:8080/newlive/live/hls/9/live.m3u8
+#EXTINF:-1 group-title="🦄联通专线-③💙",CCTV9
+http://1304.hsmedia.top:8080/newlive/live/hls/10/live.m3u8
+#EXTINF:-1 group-title="🦄联通专线-③💙",CCTV10
+http://1304.hsmedia.top:8080/newlive/live/hls/11/live.m3u8
+#EXTINF:-1 group-title="🦄联通专线-③💙",CCTV11
+http://1304.hsmedia.top:8080/newlive/live/hls/12/live.m3u8
+#EXTINF:-1 group-title="🦄联通专线-③💙",CCTV12
+http://1304.hsmedia.top:8080/newlive/live/hls/13/live.m3u8
+#EXTINF:-1 group-title="🦄联通专线-③💙",CCTV13
+http://1304.hsmedia.top:8080/newlive/live/hls/14/live.m3u8
+#EXTINF:-1 group-title="🦄联通专线-③💙",CCTV14
+http://1304.hsmedia.top:8080/newlive/live/hls/15/live.m3u8
+#EXTINF:-1 group-title="🦄联通专线-③💙",CCTV15
+http://1304.hsmedia.top:8080/newlive/live/hls/16/live.m3u8
+#EXTINF:-1 group-title="🦄联通专线-③💙",CCTV16
+http://1304.hsmedia.top:8080/newlive/live/hls/17/live.m3u8
+#EXTINF:-1 group-title="🦄联通专线-③💙",CCTV17
+http://1304.hsmedia.top:8080/newlive/live/hls/18/live.m3u8
+#EXTINF:-1 group-title="🦄联通专线-③💙",东方卫视
+http://1304.hsmedia.top:8080/newlive/live/hls/30/live.m3u8
+#EXTINF:-1 group-title="🦄联通专线-③💙",北京卫视
+http://1304.hsmedia.top:8080/newlive/live/hls/29/live.m3u8
+#EXTINF:-1 group-title="🦄联通专线-③💙",湖南卫视
+http://1304.hsmedia.top:8080/newlive/live/hls/27/live.m3u8
+#EXTINF:-1 group-title="🦄联通专线-③💙",广东卫视
+http://1304.hsmedia.top:8080/newlive/live/hls/28/live.m3u8
+#EXTINF:-1 group-title="🦄联通专线-③💙",江苏卫视
+http://1304.hsmedia.top:8080/newlive/live/hls/32/live.m3u8
+#EXTINF:-1 group-title="🦄联通专线-③💙",浙江卫视
+http://1304.hsmedia.top:8080/newlive/live/hls/31/live.m3u8
+#EXTINF:-1 group-title="🦄联通专线-③💙",山东卫视
+http://1304.hsmedia.top:8080/newlive/live/hls/35/live.m3u8
+#EXTINF:-1 group-title="🦄联通专线-③💙",湖北卫视
+http://1304.hsmedia.top:8080/newlive/live/hls/34/live.m3u8
+#EXTINF:-1 group-title="🦄联通专线-③💙",辽宁卫视
+http://1304.hsmedia.top:8080/newlive/live/hls/38/live.m3u8
+#EXTINF:-1 group-title="🦄联通专线-③💙",河北卫视
+http://1304.hsmedia.top:8080/newlive/live/hls/37/live.m3u8
+#EXTINF:-1 group-title="🦄联通专线-③💙",海南卫视
+http://1304.hsmedia.top:8080/newlive/live/hls/19/live.m3u8
+#EXTINF:-1 group-title="🦄联通专线-③💙",黑龙江卫视
+http://1304.hsmedia.top:8080/newlive/live/hls/33/live.m3u8
+#EXTINF:-1 group-title="🦄联通专线-④💙",CCTV1
+http://119.165.183.182:8888/udp/239.253.254.77:8000
+#EXTINF:-1 group-title="🦄联通专线-④💙",CCTV2
+http://119.165.183.182:8888/udp/239.253.254.232:8000
+#EXTINF:-1 group-title="🦄联通专线-④💙",CCTV3
+http://119.165.183.182:8888/udp/239.253.254.191:8000
+#EXTINF:-1 group-title="🦄联通专线-④💙",CCTV4
+http://119.165.183.182:8888/udp/239.253.254.111:8000
+#EXTINF:-1 group-title="🦄联通专线-④💙",CCTV4
+http://119.165.183.182:8888/udp/239.253.254.186:8000
+#EXTINF:-1 group-title="🦄联通专线-④💙",CCTV4
+http://119.165.183.182:8888/udp/239.253.254.187:8000
+#EXTINF:-1 group-title="🦄联通专线-④💙",CCTV5
+http://119.165.183.182:8888/udp/239.253.254.192:8000
+#EXTINF:-1 group-title="🦄联通专线-④💙",CCTV5+
+http://119.165.183.182:8888/udp/239.253.254.80:8000
+#EXTINF:-1 group-title="🦄联通专线-④💙",CCTV6
+http://119.165.183.182:8888/udp/239.253.254.193:8000
+#EXTINF:-1 group-title="🦄联通专线-④💙",CCTV7
+http://119.165.183.182:8888/udp/239.253.254.233:8000
+#EXTINF:-1 group-title="🦄联通专线-④💙",CCTV8
+http://119.165.183.182:8888/udp/239.253.254.194:8000
+#EXTINF:-1 group-title="🦄联通专线-④💙",CCTV9
+http://119.165.183.182:8888/udp/239.253.254.79:8000
+#EXTINF:-1 group-title="🦄联通专线-④💙",CCTV10
+http://119.165.183.182:8888/udp/239.253.254.234:8000
+#EXTINF:-1 group-title="🦄联通专线-④💙",CCTV11
+http://119.165.183.182:8888/udp/239.253.254.169:8000
+#EXTINF:-1 group-title="🦄联通专线-④💙",CCTV12
+http://119.165.183.182:8888/udp/239.253.254.235:8000
+#EXTINF:-1 group-title="🦄联通专线-④💙",CCTV13
+http://119.165.183.182:8888/udp/239.253.254.175:8000
+#EXTINF:-1 group-title="🦄联通专线-④💙",CCTV14
+http://119.165.183.182:8888/udp/239.253.254.236:8000
+#EXTINF:-1 group-title="🦄联通专线-④💙",CCTV15
+http://119.165.183.182:8888/udp/239.253.254.170:8000
+#EXTINF:-1 group-title="🦄联通专线-④💙",CCTV17
+http://119.165.183.182:8888/udp/239.253.254.168:8000
+#EXTINF:-1 group-title="🦄联通专线-④💙",CHC动作电影
+http://119.165.183.182:8888/udp/239.253.254.153:8000
+#EXTINF:-1 group-title="🦄联通专线-④💙",CHC高清电影
+http://119.165.183.182:8888/udp/239.253.254.154:8000
+#EXTINF:-1 group-title="🦄联通专线-④💙",CHC家庭影院
+http://119.165.183.182:8888/udp/239.253.254.152:8000
+#EXTINF:-1 group-title="🦄联通专线-④💙",安徽卫视
+http://119.165.183.182:8888/udp/239.253.254.87:8000
+#EXTINF:-1 group-title="🦄联通专线-④💙",北京卫视
+http://119.165.183.182:8888/udp/239.253.254.85:8000
+#EXTINF:-1 group-title="🦄联通专线-④💙",茶频道
+http://119.165.183.182:8888/udp/239.253.254.143:8000
+#EXTINF:-1 group-title="🦄联通专线-④💙",东方财经
+http://119.165.183.182:8888/udp/239.253.254.94:8000
+#EXTINF:-1 group-title="🦄联通专线-④💙",东方卫视
+http://119.165.183.182:8888/udp/239.253.254.86:8000
+#EXTINF:-1 group-title="🦄联通专线-④💙",东南卫视
+http://119.165.183.182:8888/udp/239.253.254.105:8000
+#EXTINF:-1 group-title="🦄联通专线-④💙",动漫秀场
+http://119.165.183.182:8888/udp/239.253.254.115:8000
+#EXTINF:-1 group-title="🦄联通专线-④💙",都市剧场
+http://119.165.183.182:8888/udp/239.253.254.98:8000
+#EXTINF:-1 group-title="🦄联通专线-④💙",法治天地
+http://119.165.183.182:8888/udp/239.253.254.96:8000
+#EXTINF:-1 group-title="🦄联通专线-④💙",甘肃卫视
+http://119.165.183.182:8888/udp/239.253.254.74:8000
+#EXTINF:-1 group-title="🦄联通专线-④💙",广东卫视
+http://119.165.183.182:8888/udp/239.253.254.90:8000
+#EXTINF:-1 group-title="🦄联通专线-④💙",广西卫视
+http://119.165.183.182:8888/udp/239.253.254.197:8000
+#EXTINF:-1 group-title="🦄联通专线-④💙",贵州卫视
+http://119.165.183.182:8888/udp/239.253.254.113:8000
+#EXTINF:-1 group-title="🦄联通专线-④💙",海南卫视
+http://119.165.183.182:8888/udp/239.253.254.179:8000
+#EXTINF:-1 group-title="🦄联通专线-④💙",河北卫视
+http://119.165.183.182:8888/udp/239.253.254.112:8000
+#EXTINF:-1 group-title="🦄联通专线-④💙",河南卫视
+http://119.165.183.182:8888/udp/239.253.254.190:8000
+#EXTINF:-1 group-title="🦄联通专线-④💙",黑龙江卫视
+http://119.165.183.182:8888/udp/239.253.254.93:8000
+#EXTINF:-1 group-title="🦄联通专线-④💙",湖北卫视
+http://119.165.183.182:8888/udp/239.253.254.88:8000
+#EXTINF:-1 group-title="🦄联通专线-④💙",湖南卫视
+http://119.165.183.182:8888/udp/239.253.254.82:8000
+#EXTINF:-1 group-title="🦄联通专线-④💙",吉林卫视
+http://119.165.183.182:8888/udp/239.253.254.173:8000
+#EXTINF:-1 group-title="🦄联通专线-④💙",江苏卫视
+http://119.165.183.182:8888/udp/239.253.254.83:8000
+#EXTINF:-1 group-title="🦄联通专线-④💙",江西卫视
+http://119.165.183.182:8888/udp/239.253.254.47:8000
+#EXTINF:-1 group-title="🦄联通专线-④💙",金色学堂
+http://119.165.183.182:8888/udp/239.253.254.101:8000
+#EXTINF:-1 group-title="🦄联通专线-④💙",金鹰纪实
+http://119.165.183.182:8888/udp/239.253.254.103:8000
+#EXTINF:-1 group-title="🦄联通专线-④💙",金鹰卡通
+http://119.165.183.182:8888/udp/239.253.254.117:8000
+#EXTINF:-1 group-title="🦄联通专线-④💙",精彩电影
+http://119.165.183.182:8888/udp/239.253.254.142:8000
+#EXTINF:-1 group-title="🦄联通专线-④💙",卡酷少儿
+http://119.165.183.182:8888/udp/239.253.254.66:8000
+#EXTINF:-1 group-title="🦄联通专线-④💙",梨园频道
+http://119.165.183.182:8888/udp/239.253.254.139:8000
+#EXTINF:-1 group-title="🦄联通专线-④💙",辽宁卫视
+http://119.165.183.182:8888/udp/239.253.254.92:8000
+#EXTINF:-1 group-title="🦄联通专线-④💙",深圳卫视
+http://119.165.183.182:8888/udp/239.253.254.91:8000
+#EXTINF:-1 group-title="🦄联通专线-④💙",四川卫视
+http://119.165.183.182:8888/udp/239.253.254.180:8000
+#EXTINF:-1 group-title="🦄联通专线-④💙",天津卫视
+http://119.165.183.182:8888/udp/239.253.254.89:8000
+#EXTINF:-1 group-title="🦄联通专线-④💙",云南卫视
+http://119.165.183.182:8888/udp/239.253.254.196:8000
+#EXTINF:-1 group-title="🦄联通专线-④💙",浙江卫视
+http://119.165.183.182:8888/udp/239.253.254.84:8000
+#EXTINF:-1 group-title="🦄联通专线-④💙",重庆卫视
+http://119.165.183.182:8888/udp/239.253.254.38:8000
+#EXTINF:-1 group-title="🦄联通专线-⑤💙",CCTV1
+http://121.23.184.27:808/hls/1/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-⑤💙",CCTV2
+http://121.23.184.27:808/hls/2/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-⑤💙",CCTV3
+http://121.23.184.27:808/hls/3/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-⑤💙",CCTV4
+http://121.23.184.27:808/hls/4/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-⑤💙",CCTV5
+http://121.23.184.27:808/hls/5/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-⑤💙",CCTV5+
+http://121.23.184.27:808/hls/16/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-⑤💙",CCTV6
+http://121.23.184.27:808/hls/6/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-⑤💙",CCTV7
+http://121.23.184.27:808/hls/7/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-⑤💙",CCTV8
+http://121.23.184.27:808/hls/8/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-⑤💙",CCTV9
+http://121.23.184.27:808/hls/9/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-⑤💙",CCTV10
+http://121.23.184.27:808/hls/10/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-⑤💙",CCTV11
+http://121.23.184.27:808/hls/11/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-⑤💙",CCTV12
+http://121.23.184.27:808/hls/12/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-⑤💙",CCTV13
+http://121.23.184.27:808/hls/13/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-⑤💙",CCTV14
+http://121.23.184.27:808/hls/14/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-⑤💙",CCTV15
+http://121.23.184.27:808/hls/15/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-⑤💙",河北卫视
+http://121.23.184.27:808/hls/17/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-⑤💙",湖南卫视
+http://121.23.184.27:808/hls/18/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-⑤💙",江苏卫视
+http://121.23.184.27:808/hls/19/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-⑤💙",天津卫视
+http://121.23.184.27:808/hls/20/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-⑤💙",深圳卫视
+http://121.23.184.27:808/hls/21/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-⑤💙",山东卫视
+http://121.23.184.27:808/hls/22/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-⑤💙",广东卫视
+http://121.23.184.27:808/hls/23/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-⑤💙",北京卫视
+http://121.23.184.27:808/hls/24/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-⑤💙",东方卫视
+http://121.23.184.27:808/hls/25/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-⑤💙",黑龙江卫视
+http://121.23.184.27:808/hls/26/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-⑤💙",浙江卫视
+http://121.23.184.27:808/hls/27/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-⑤💙",安徽卫视
+http://121.23.184.27:808/hls/28/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-⑤💙",湖北卫视
+http://121.23.184.27:808/hls/29/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-⑤💙",四川卫视
+http://121.23.184.27:808/hls/30/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-⑤💙",重庆卫视
+http://121.23.184.27:808/hls/31/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-⑤💙",东南卫视
+http://121.23.184.27:808/hls/32/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-⑤💙",广西卫视
+http://121.23.184.27:808/hls/33/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-⑤💙",吉林卫视
+http://121.23.184.27:808/hls/34/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-⑤💙",陕西卫视
+http://121.23.184.27:808/hls/35/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-⑤💙",山西卫视
+http://121.23.184.27:808/hls/36/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-⑤💙",内蒙古卫视
+http://121.23.184.27:808/hls/37/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-⑤💙",青海卫视
+http://121.23.184.27:808/hls/38/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-⑤💙",宁夏卫视
+http://121.23.184.27:808/hls/39/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-⑤💙",西藏卫视
+http://121.23.184.27:808/hls/40/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-⑤💙",新疆卫视
+http://121.23.184.27:808/hls/41/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-⑤💙",甘肃卫视
+http://121.23.184.27:808/hls/42/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-⑤💙",河南卫视
+http://121.23.184.27:808/hls/43/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-⑤💙",贵州卫视
+http://121.23.184.27:808/hls/44/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-⑤💙",云南卫视
+http://121.23.184.27:808/hls/45/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-⑤💙",辽宁卫视
+http://121.23.184.27:808/hls/48/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-⑤💙",浙江卫视
+http://121.23.184.27:808/hls/49/index.m3u8
+#EXTINF:-1 group-title="🦄联通专线-⑤💙",河北影视
+http://121.23.184.27:808/hls/52/index.m3u8
+#EXTINF:-1 group-title="🦄移动专线-①💙",CCTV1
+http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000029752/1.m3u8?channel-id=wasusyt&Contentid=6000000001000029752&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄移动专线-①💙",CCTV2
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000023315/1.m3u8?channel-id=ystenlive&Contentid=1000000001000023315&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄移动专线-①💙",CCTV3
+http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000022313/1.m3u8?channel-id=wasusyt&Contentid=6000000001000022313&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄移动专线-①💙",CCTV4
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031102/1.m3u8?channel-id=bestzb&Contentid=5000000011000031102&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄移动专线-①💙",CCTV5
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000003000030177/1.m3u8?channel-id=ystenlive&Contentid=1000000003000030177&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄移动专线-①💙",CCTV5+
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000018504/1.m3u8?channel-id=ystenlive&Contentid=1000000001000018504&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄移动专线-①💙",CCTV6
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000016466/1.m3u8?channel-id=ystenlive&Contentid=1000000001000016466&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄移动专线-①💙",CCTV7
+http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000009055/1.m3u8?channel-id=wasusyt&Contentid=6000000001000009055&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄移动专线-①💙",CCTV8
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000031433/1.m3u8?channel-id=ystenlive&Contentid=1000000001000031433&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄移动专线-①💙",CCTV9
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000014583/1.m3u8?channel-id=ystenlive&Contentid=1000000001000014583&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄移动专线-①💙",CCTV10
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000016738/1.m3u8?channel-id=bestzb&Contentid=5000000010000016738&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄移动专线-①💙",CCTV11
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031106/1.m3u8?channel-id=bestzb&Contentid=5000000011000031106&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄移动专线-①💙",CCTV12
+http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000022586/1.m3u8?channel-id=wasusyt&Contentid=6000000001000022586&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄移动专线-①💙",CCTV13
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000005000001827/1.m3u8?channel-id=bestzb&Contentid=5000000005000001827&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄移动专线-①💙",CCTV14
+http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000013647/1.m3u8?channel-id=wasusyt&Contentid=6000000001000013647&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄移动专线-①💙",CCTV15
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000265014/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265014&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄移动专线-①💙",CCTV16
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000008000023254/1.m3u8?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄移动专线-①💙",CCTV17
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000265015/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265015&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄移动专线-①💙",CCTV兵器科技
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002515/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="🦄移动专线-①💙",CCTV第一剧场
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002498/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="🦄移动专线-①💙",CCTV风云剧场
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002505/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="🦄移动专线-①💙",CCTV风云音乐
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002525/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="🦄移动专线-①💙",CCTV风云足球
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002499/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="🦄移动专线-①💙",CCTV高尔夫网球
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002497/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="🦄移动专线-①💙",CCTV怀旧剧场
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226972/index.m3u8
+#EXTINF:-1 group-title="🦄移动专线-①💙",CCTV女性时尚
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002475/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="🦄移动专线-①💙",CCTV世界地理
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002485/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="🦄移动专线-①💙",CCTV央视文化精品
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002535/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="🦄移动专线-①💙",CCTV央视台球
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002496/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 group-title="🦄移动专线-①💙",东方卫视
+http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000056/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000056&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄移动专线-①💙",天津卫视
+http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000009186/1.m3u8?channel-id=wasusyt&Contentid=6000000001000009186&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄移动专线-①💙",重庆卫视
+https://sjlivecdn9.cbg.cn/204912315959/app_2/_definst_/ls_2.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🦄移动专线-①💙",黑龙江卫视
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000001925/1.m3u8?channel-id=ystenlive&Contentid=1000000001000001925&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄移动专线-①💙",辽宁卫视
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000011671/1.m3u8?channel-id=bestzb&Contentid=5000000004000011671&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄移动专线-①💙",吉林卫视
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031117/1.m3u8?channel-id=bestzb&Contentid=5000000011000031117&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄移动专线-①💙",内蒙古卫视
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000014080/1.m3u8?channel-id=ystenlive&Contentid=1000000002000014080&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄移动专线-①💙",河北卫视
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000006000040016/1.m3u8?channel-id=bestzb&Contentid=5000000006000040016&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄移动专线-①💙",河南卫视
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031119/1.m3u8?channel-id=bestzb&Contentid=5000000011000031119&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄移动专线-①💙",山东卫视
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000016568/1.m3u8?channel-id=ystenlive&Contentid=1000000001000016568&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄移动专线-①💙",山西卫视
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000021220/1.m3u8?channel-id=ystenlive&Contentid=1000000002000021220&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄移动专线-①💙",山东教育卫视
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000004097/1.m3u8?channel-id=ystenlive&Contentid=1000000002000004097&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄移动专线-①💙",湖北卫视
+http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000015436/1.m3u8?channel-id=wasusyt&Contentid=6000000001000015436&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄移动专线-①💙",湖南卫视
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000006692/1.m3u8?channel-id=bestzb&Contentid=5000000004000006692&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄移动专线-①💙",广东卫视
+http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000031076/1.m3u8?channel-id=wasusyt&Contentid=6000000001000031076&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄移动专线-①💙",大湾区卫视
+http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000045/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000045&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄移动专线-①💙",广东珠江
+http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000033/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000033&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄移动专线-①💙",深圳卫视
+http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000002116/1.m3u8?channel-id=wasusyt&Contentid=6000000001000002116&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄移动专线-①💙",海南卫视
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000006211/1.m3u8?channel-id=bestzb&Contentid=5000000004000006211&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄移动专线-①💙",广西卫视
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031118/1.m3u8?channel-id=bestzb&Contentid=5000000011000031118&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄移动专线-①💙",安徽卫视
+http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000009954/1.m3u8?channel-id=wasusyt&Contentid=6000000001000009954&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄移动专线-①💙",浙江卫视
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000009806/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009806&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄移动专线-①💙",江苏卫视
+http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000014861/1.m3u8?channel-id=wasusyt&Contentid=6000000001000014861&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄移动专线-①💙",江西卫视
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000006000268001/1.m3u8?channel-id=ystenlive&Contentid=1000000006000268001&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄移动专线-①💙",财富天下
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031208/1.m3u8?channel-id=bestzb&Contentid=5000000011000031208&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄移动专线-①💙",东南卫视
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000004000010584/1.m3u8?channel-id=bestzb&Contentid=5000000004000010584&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄移动专线-①💙",厦门卫视
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000266006/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266006&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄移动专线-①💙",云南卫视
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000024694/1.m3u8?channel-id=ystenlive&Contentid=1000000002000024694&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄移动专线-①💙",康巴卫视
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000266002/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266002&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄移动专线-①💙",陕西卫视
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000006000040017/1.m3u8?channel-id=bestzb&Contentid=5000000006000040017&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄移动专线-①💙",农林卫视
+http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000046/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000046&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄移动专线-①💙",甘肃卫视
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031121/1.m3u8?channel-id=bestzb&Contentid=5000000011000031121&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄移动专线-①💙",宁夏卫视
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000031451/1.m3u8?channel-id=ystenlive&Contentid=1000000002000031451&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄移动专线-①💙",青海卫视
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000006000040015/1.m3u8?channel-id=bestzb&Contentid=5000000006000040015&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄移动专线-①💙",安多卫视
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000266001/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266001&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄移动专线-①💙",新疆卫视
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000029441/1.m3u8?channel-id=ystenlive&Contentid=1000000002000029441&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄移动专线-①💙",西藏卫视
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000015894/1.m3u8?channel-id=ystenlive&Contentid=1000000002000015894&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄移动专线-①💙",延边卫视
+http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000049/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000049&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄移动专线-①💙",兵团卫视
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000266005/1.m3u8?channel-id=ystenlive&Contentid=1000000005000266005&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄移动专线-①💙",第一财经
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000027146/1.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄移动专线-①💙",东方财经
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000007000010003/1.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄移动专线-①💙",五星体育
+http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000007/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄移动专线-①💙",哈哈炫动
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000005000031641/1.m3u8?channel-id=bestzb&Contentid=5000000005000031641&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄移动专线-①💙",嘉佳卡通
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000025964/1.m3u8?channel-id=ystenlive&Contentid=1000000002000025964&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄移动专线-①💙",卡酷少儿
+http://zteres.sn.chinamobile.com:6060/000000001000/7851974109718180595/1.m3u8?channel-id=bestzb&Contentid=7851974109718180595&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄移动专线-①💙",金鹰卡通
+http://zteres.sn.chinamobile.com:6060/000000001000/5000000006000040024/1.m3u8?channel-id=bestzb&Contentid=5000000006000040024&livemode=1&stbId=3
+#EXTINF:-1 group-title="🦄移动专线-①💙",优漫卡通
+http://zteres.sn.chinamobile.com:6060/000000001000/1000000002000010063/1.m3u8?channel-id=ystenlive&Contentid=1000000002000010063&livemode=1&stbId=3
