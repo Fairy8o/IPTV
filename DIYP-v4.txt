@@ -2504,13 +2504,17 @@ Clarity 4K (2160p)HD,https://classicarts.akamaized.net/hls/live/1024257/CAS/mast
 台视,rtmp://f13h.mine.nu/sat/tv071
 中视,rtmp://f13h.mine.nu/sat/tv091
 华视,rtmp://f13h.mine.nu/sat/tv111
+TVBS欢乐,rtmp://f13h.mine.nu/sat/tv421
+TVBS新闻,rtmp://f13h.mine.nu/sat/tv551
+非凡新闻,rtmp://f13h.mine.nu/sat/tv581
+东森财经,rtmp://f13h.mine.nu/sat/tv571
+东森超视,rtmp://f13h.mine.nu/sat/tv331
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
-东森超视,rtmp://f13h.mine.nu/sat/tv331
 MoMo综合,rtmp://f13h.mine.nu/sat/tv761
-ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
-ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
+DAZN体育-1,rtmp://f13h.mine.nu/sat/tv731
+DAZN体育-2,rtmp://f13h.mine.nu/sat/tv741
 
 TVBS NEWS,http://mywlkj.ddns.net:754/tv/tw3.php?id=3
 GTV 八大戏剧HD,http://mywlkj.ddns.net:754/tv/tw3.php?id=4
