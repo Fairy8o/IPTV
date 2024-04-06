@@ -2212,7 +2212,8 @@ BBC Home,https://i.mjh.nz/SamsungTVPlus/USBC600017FG.m3u8
 
 Animal Planet,http://45.159.74.14:80/AnimalPlanet/index.m3u8
 Animal Planet,http://41.205.93.154/ANIMALPLANET/index.m3u8
-
+NASA 1,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+NASA 2,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
 BBC cbeebies,http://198.16.100.90:8278/Cbeebies/playlist.m3u8?tid=ME5E7901951779019517&ct=19225&tsum=03bb5bab7f669081444ce37cda408b8d
 BBC cbeebies,https://dhx-teletubbies-1-gb.samsung.wurl.tv/playlist.m3u8
 BBC cbeebies,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=45328
