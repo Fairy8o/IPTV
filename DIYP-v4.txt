@@ -6622,7 +6622,6 @@ IPTV@大健康,http://home4.kmo.ink:8888/udp/239.3.1.251:8001
 🦄上海频道,#genre#
 新闻综合,https://epg.pw/stream/8d73975292bb5a6d540ac3536cd42045b6175d1921dc3f6fc9a0c5183f4d135a.m3u8
 第一财经,https://epg.pw/stream/e50901f8d91bbea01029258a74bf28b9c48044453b1dc2e8bc86d338f841e7d1.m3u8
-上海ics,https://epg.pw/stream/6089e60e4c19d0b5eea130e5e3436d465c895c6b04a5c93867d5f6e743575a91.ctv
 纪实人文,https://epg.pw/stream/9aefe8160883bf123f5eabef2745dff8aa16306485eea46e47c1653b0f45c886.m3u8
 金色学堂,https://epg.pw/stream/303d79304fb4c6e23c320315de037e71f67a6ee8866d45e994b896d07eede2bb.m3u8
 五星体育,https://epg.pw/stream/031acdbb137226f0c022242be1f31a039d40acf487f2c4b6fa6b40d6eb55f3f4.m3u8
@@ -6637,15 +6636,24 @@ IPTV@大健康,http://home4.kmo.ink:8888/udp/239.3.1.251:8001
 五星体育,http://api.52tb.xyz/info?id=375&token=20230331fbulna
 五星体育,http://api.52tb.xyz/info?id=399&token=20230331fbulna
 
-都市频道,http://222.71.90.218:8888/newlive/live/hls/51/live.m3u8
 东方影视,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000032212/1.m3u8?channel-id=bestzb&Contentid=5000000010000032212&livemode=1&stbId=3
 第一财经,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000027146/1.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
 哈哈炫动,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031123/1.m3u8?channel-id=bestzb&Contentid=5000000011000031123&livemode=1&stbId=3
 五星体育,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 新闻综合,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000005/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000005&livemode=1&stbId=3
 新闻综合,http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031110/1.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3
-崇明电视台,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8?zshangd
-嘉定电视台,https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8?zshangd
+
+五星体育,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=wxty
+五星体育,http://api.52tb.xyz/info?id=375&token=20230331fbulna
+五星体育,http://api.52tb.xyz/info?id=399&token=20230331fbulna
+五星体育,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000007/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
+五星体育,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
+
+五星体育,http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+五星体育,http://php.jdshipin.com:8880/bst.php?id=ssty/4000000
+五星体育「组播」,http://116.232.35.114:8888/udp/239.45.3.210:5140
+五星体育「组播」,http://116.232.152.209:8888/udp/239.45.3.210:5140
+五星体育,http://php.jdshipin.com:8880/bst.php?id=wxtyhd8m/8000000
 
 🦄广东频道,#genre#
 廣東體育（IPv6）,http://iptv.hiper25.com:58080/gdty/index.m3u8
