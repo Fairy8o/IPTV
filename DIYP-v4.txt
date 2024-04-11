@@ -7191,55 +7191,31 @@ BRTV体育休闲,http://221.221.152.35:8182/rtp/239.3.1.243:8000
 五星体育「组播」,http://222.65.170.16:8686/udp/239.45.3.210:5140
 
 🦄广东频道,#genre#
-廣東體育（IPv6）,http://iptv.hiper25.com:58080/gdty/index.m3u8
-广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
-广东体育,http://d3p7dejj.v3n.pkoplink.com:4433/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-广东体育,http://116.21.120.40:4433/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-广东体育,http://183.6.110.242:9901/hls/1053/index.m3u8
-广东体育,http://qwas.eatuo.com:9901/tsfile/live/1081_1.m3u8?key=txiptv
-汕头综合,http://61.140.124.156:8888/udp/239.77.1.130:5146
-汕头综合,http://61.140.124.156:8888/udp/239.253.43.45:5146
-汕头经济,http://61.140.124.156:8888/udp/239.77.1.131:5146
-汕头经济,http://61.140.124.156:8888/udp/239.253.43.46:5146
-汕头体育,http://61.140.124.156:8888/udp/239.77.1.132:5146
-汕头体育,http://61.140.124.156:8888/udp/239.253.43.47:5146
-汕头综合,https://stqznews.top/tv/live/stzhhd.php 
-汕头综合,http://115.45.101.165:8888/rtp/239.253.43.45:5146
-汕头综合,http://115.45.101.165:8888/rtp/239.77.1.130:5146
-汕头经济,http://115.45.101.165:8888/rtp/239.253.43.46:5146
-汕头经济,http://115.45.101.165:8888/rtp/239.77.1.131:5146
-汕头体育,http://115.45.101.165:8888/rtp/239.253.43.47:5146
-汕头体育,http://115.45.101.165:8888/rtp/239.77.1.132:5146
-汕头综合,http://14.112.83.40:2222/udp/239.77.1.130:5146
-汕头综合,http://14.112.83.40:2222/udp/239.253.43.45:5146
-汕头综合,http://61.140.124.156:8888/udp/239.77.1.130:5146
-汕头综合,http://61.140.124.156:8888/udp/239.253.43.45:5146
-汕头经济,http://61.140.124.156:8888/udp/239.77.1.131:5146
-汕头经济,http://61.140.124.156:8888/udp/239.253.43.46:5146
-汕头体育,http://61.140.124.156:8888/udp/239.77.1.132:5146
-汕头体育,http://61.140.124.156:8888/udp/239.253.43.47:5146
-汕头文旅体育,http://211.97.63.3:801/hls/80/index.m3u8
-汕头综合高清,http://211.97.63.3:801/hls/81/index.m3u8
-汕头经济生活,http://211.97.63.3:801/hls/82/index.m3u8
-潮州综合频道,http://211.97.63.3:801/hls/503/index.m3u8
-大湾区卫视,http://glive.grtn.cn/live/lizhi.m3u8
-广东珠江,http://113.119.39.121:808/hls/1/index.m3u8
-广东珠江,http://58.252.12.164:8000/udp/239.77.0.1:5146
-广东珠江,http://58.252.12.164:8000/udp/239.77.0.114:5146
-广东珠江,http://222.218.158.140:8181/tsfile/live/1000_1.m3u8
-广东珠江,http://www.biaozhun114.com/dl/dl668/jdgdjy.php?36
-广东珠江,http://113.101.119.52:808/hls/105/index.m3u8
+广东体育高清,http://183.237.246.14:9931/tsfile/live/1014_1.m3u8
+广东卫视高清,http://183.237.246.14:9931/tsfile/live/1010_1.m3u8
+广东珠江高清,http://183.237.246.14:9931/tsfile/live/1011_1.m3u8
+广东新闻高清,http://183.237.246.14:9931/tsfile/live/1012_1.m3u8
+广东公共高清,http://183.237.246.14:9931/tsfile/live/1013_1.m3u8
+广东经济科教,http://183.237.246.14:9931/tsfile/live/1016_1.m3u8
+广东南方卫视,http://183.237.246.14:9931/tsfile/live/1017_1.m3u8
+广东影视高清,http://183.237.246.14:9931/tsfile/live/1018_1.m3u8
+广东少儿高清,http://183.237.246.14:9931/tsfile/live/1019_1.m3u8
+广州综合HD,http://183.237.246.14:9931/tsfile/live/1137_1.m3u8
+广州新闻HD,http://183.237.246.14:9931/tsfile/live/1138_1.m3u8
+翡翠台,http://183.237.246.14:9931/tsfile/live/1007_1.m3u8
+明珠台,http://183.237.246.14:9931/tsfile/live/1009_1.m3u8
+星空卫视,http://183.237.246.14:9931/tsfile/live/1039_1.m3u8
+凤凰中文,http://183.237.246.14:9931/tsfile/live/1037_1.m3u8
+天映频道,http://183.237.246.14:9931/tsfile/live/1043_1.m3u8
+CHC家庭电影,http://183.237.246.14:9931/tsfile/live/1046_1.m3u8
+CHC动作电影,http://183.237.246.14:9931/tsfile/live/1047_1.m3u8
 
-广东综艺 4K,http://58.252.12.164:8000/udp/239.77.1.236:5146
-广东综艺 4K,http://58.252.12.164:8000/udp/239.77.1.237:5146
-广东综艺 4k,http://58.252.12.164:8000/udp/239.77.0.244:5146
-广东综艺 4K,http://58.252.12.164:8000/udp/239.77.0.246:5146
-广东综艺 4K,http://58.252.12.164:8000/udp/239.77.0.245:5146
-广东综艺 4K,http://58.252.12.164:8000/udp/239.77.0.252:5146
-广东经济科教,http://113.101.119.52:808/hls/129/index.m3u8
-广东经济科教,http://58.252.12.164:8000/udp/239.77.0.85:5146
-广东经济科教,http://58.252.12.164:8000/udp/239.77.0.167:5146
-广东经济科教,http://mywlkj.ddns.net:754/dl/dl668/jdgdjy.php?41
+广东体育,http://113.15.187.233:8181/tsfile/live/1001_1.m3u8
+广东珠江,http://113.15.187.233:8181/tsfile/live/1000_1.m3u8
+广东科教,http://113.15.187.233:8181/tsfile/live/1003_1.m3u8
+岭南戏剧,http://113.15.187.233:8181/tsfile/live/1006_1.m3u8
+大湾区卫视,http://glive.grtn.cn/live/lizhi.m3u8
+
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
@@ -7248,56 +7224,34 @@ BRTV体育休闲,http://221.221.152.35:8182/rtp/239.3.1.243:8000
 广州法治,http://php.jdshipin.com:8880/gztv.php?id=fazhi
 广东体育,http://219.135.208.218:8083/tsfile/live/1000_1.m3u8
 广州南国都市,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
-广东体育,https://skype.serv00.net/itouch.php?id=gdty
-广东珠江,http://php.jdshipin.com:8880/chudian.php?id=gdzj
-大湾区卫视,http://php.jdshipin.com:8880/chudian.php?id=nfws
-广东民生,http://php.jdshipin.com:8880/chudian.php?id=gdms
-广东新闻,http://php.jdshipin.com:8880/chudian.php?id=gdxw
-广东体育,http://php.jdshipin.com:8880/chudian.php?id=gdty
-广东影视,http://php.jdshipin.com:8880/chudian.php?id=gdys
-广东国际,http://php.jdshipin.com:8880/chudian.php?id=gdgj
-广东移动,http://php.jdshipin.com:8880/chudian.php?id=gdyd
-番禺电视台,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
-深圳都市「官方」,http://livepull-tcyzb.sztv.com.cn/live/dushi01.m3u8
-东莞综合「官方」,https://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8
-东莞生活「官方」,https://stream.sun0769.com/dgrtv1/mp4tv2_1500/index.m3u8
-河源综合「官方」,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
-河源公共「官方」,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
-韶关综合「官方」,https://www.sgmsw.cn/videos/tv/201805/1308/SB05RIYZOU8JR418AUQOF62CAJQ08D0E/hls/live.m3u8
-韶关公共「官方」,https://www.sgmsw.cn/videos/tv/201805/1308/9P424TC5M000AFO13CXK6GN6BOA889D2/hls/live.m3u8
-佛山综合,http://php.jdshipin.com:8880/fstv.php?id=fszh
-佛山影视,http://php.jdshipin.com:8880/fstv.php?id=fsys
-佛山公共,http://php.jdshipin.com:8880/fstv.php?id=fsgg
-佛山南海,http://php.jdshipin.com:8880/fstv.php?id=fsnh
-佛山顺德,http://php.jdshipin.com:8880/fstv.php?id=fssd
-佛山高明,http://php.jdshipin.com:8880/fstv.php?id=fsgm
-佛山三水,http://php.jdshipin.com:8880/fstv.php?id=fsss
-云浮综合,https://livestream.oeeee.com/slive/17806.m3u8
-云浮文旅,https://livestream.oeeee.com/slive/17807.m3u8
-惠东综合,http://php.jdshipin.com:8880/chudian.php?id=hdzh
-开平综合,http://php.jdshipin.com:8880/chudian.php?id=kpzh
-工布江达县广播电视台,http://php.jdshipin.com:8880/chudian.php?id=gbjd
-化州综合,http://php.jdshipin.com:8880/chudian.php?id=hzzh
-鹤山综合,http://php.jdshipin.com:8880/chudian.php?id=hszh
-普宁综合,http://php.jdshipin.com:8880/chudian.php?id=pnzh
-紫金综合,http://php.jdshipin.com:8880/chudian.php?id=zjzh
-阳春综合,http://php.jdshipin.com:8880/chudian.php?id=yczh
-怀集综合,http://php.jdshipin.com:8880/chudian.php?id=hjzh
-惠阳电视台,http://php.jdshipin.com:8880/chudian.php?id=hytv
-阳西综合,http://php.jdshipin.com:8880/chudian.php?id=yxzh
-台山台,http://php.jdshipin.com:8880/chudian.php?id=tstv
-遂溪台,http://php.jdshipin.com:8880/chudian.php?id=sxtv
-新会综合,http://php.jdshipin.com:8880/chudian.php?id=xhzh
-罗定综合,http://php.jdshipin.com:8880/chudian.php?id=ldzh
-和平综合,http://php.jdshipin.com:8880/chudian.php?id=hpzh
-东源台,http://php.jdshipin.com:8880/chudian.php?id=dytv
-吴川综合,http://php.jdshipin.com:8880/chudian.php?id=wczh
-乐昌电视台,http://php.jdshipin.com:8880/chudian.php?id=lctv
-潮安综合,http://php.jdshipin.com:8880/chudian.php?id=cazh
 深圳都市,http://livepull-tcyzb.sztv.com.cn/showto_live/dushi01.m3u8
-河源综合,https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8?_upt=f767206b1671099007
-GRTN文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1612881417-0-0-bc7ddba066481bc805fc1e800654e721
-GRTN文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8?auth_key=1617289309-0-0-7b2730980c8860963374597c20ad3935
+
+广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
+广东体育,http://113.15.187.233:8181/tsfile/live/1001_1.m3u8
+广东体育,http://125.92.140.53:8888/udp/239.77.0.112:5146
+广东体育,http://183.11.239.36:808/hls/2/index.m3u8
+广东体育,http://api.52tb.xyz/info?id=413&token=20230331fbulna
+广东体育,http://ddns.cyruslee.top:8888/udp/239.77.0.112:5146
+广东体育,http://ddns.cyruslee.top:8888/udp/239.77.0.168:5146
+广东体育,http://113.15.187.233:8181/tsfile/live/1001_1.m3u8
+
+汕头综合,http://61.140.124.156:8888/udp/239.77.1.130:5146
+汕头综合,http://61.140.124.156:8888/udp/239.253.43.45:5146
+汕头经济,http://61.140.124.156:8888/udp/239.77.1.131:5146
+汕头经济,http://61.140.124.156:8888/udp/239.253.43.46:5146
+汕头体育,http://61.140.124.156:8888/udp/239.77.1.132:5146
+汕头体育,http://61.140.124.156:8888/udp/239.253.43.47:5146
+汕头综合,https://stqznews.top/tv/live/stzhhd.php 
+汕头体育,http://211.97.63.3:801/hls/80/index.m3u8
+汕头综合,http://211.97.63.3:801/hls/81/index.m3u8
+汕头经济,http://211.97.63.3:801/hls/82/index.m3u8
+汕头综合,http://183.17.238.212:8888/rtp/239.253.43.45:5146
+汕头综合,http://183.17.238.212:8888/rtp/239.77.1.130:5146
+汕头经济,http://183.17.238.212:8888/rtp/239.253.43.46:5146
+汕头经济,http://183.17.238.212:8888/rtp/239.77.1.131:5146
+汕头体育,http://183.17.238.212:8888/rtp/239.253.43.47:5146
+汕头体育,http://183.17.238.212:8888/rtp/239.77.1.132:5146
+
 
 🦄湖南频道,#genre#
 湖南卫视,https://epg.pw/stream/fa1b3bb4fc54d2dbfaac1190fc6535d9902ce54b749c945cbe8aa021ecea9bc1.m3u8
