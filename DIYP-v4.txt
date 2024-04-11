@@ -7172,28 +7172,23 @@ BRTV体育休闲,http://221.221.152.35:8182/rtp/239.3.1.243:8000
 金色学堂,https://epg.pw/stream/303d79304fb4c6e23c320315de037e71f67a6ee8866d45e994b896d07eede2bb.m3u8
 五星体育,https://epg.pw/stream/031acdbb137226f0c022242be1f31a039d40acf487f2c4b6fa6b40d6eb55f3f4.m3u8
 五星体育,https://epg.pw/stream/f1e2ae396a78c6e9ce02e394c0d82b65cb8e4a6b4df4673722a2f36685e07719.ctv
-
 都市频道,http://api.52tb.xyz/info?id=372&token=20230331fbulna
 上海ics,http://api.52tb.xyz/info?id=373&token=20230331fbulna
 东方影视,http://api.52tb.xyz/info?id=374&token=20230331fbulna
 第一财经,http://api.52tb.xyz/info?id=377&token=20230331fbulna
 纪实人文,http://api.52tb.xyz/info?id=378&token=20230331fbulna
 哈哈炫动,http://api.52tb.xyz/info?id=379&token=20230331fbulna
+
 五星体育,http://api.52tb.xyz/info?id=375&token=20230331fbulna
 五星体育,http://api.52tb.xyz/info?id=399&token=20230331fbulna
-
-
 五星体育,http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=wxty
-五星体育,http://api.52tb.xyz/info?id=375&token=20230331fbulna
-五星体育,http://api.52tb.xyz/info?id=399&token=20230331fbulna
-五星体育,http://zteres.sn.chinamobile.com:6060/000000001000/2000000002000000007/1.m3u8?channel-id=hnbblive&Contentid=2000000002000000007&livemode=1&stbId=3
-五星体育,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
-
-五星体育,http://140.249.247.163/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/wxtyhd8m/8000000/mnf.m3u8
-五星体育,http://php.jdshipin.com:8880/bst.php?id=ssty/4000000
-五星体育「组播」,http://116.232.35.114:8888/udp/239.45.3.210:5140
-五星体育「组播」,http://116.232.152.209:8888/udp/239.45.3.210:5140
 五星体育,http://php.jdshipin.com:8880/bst.php?id=wxtyhd8m/8000000
+五星体育,http://php.jdshipin.com:8880/bst.php?id=ssty/4000000
+五星体育「组播」,http://61.173.41.241:8222/udp/239.45.3.210:5140
+五星体育「组播」,http://61.173.41.241:8222/udp/239.45.3.210:5140
+五星体育「组播」,http://222.71.11.180:4022/udp/239.45.3.210:5140
+五星体育「组播」,http://218.80.114.192:58888/udp/239.45.3.210:5140
+五星体育「组播」,http://222.65.170.16:8686/udp/239.45.3.210:5140
 
 🦄广东频道,#genre#
 廣東體育（IPv6）,http://iptv.hiper25.com:58080/gdty/index.m3u8
