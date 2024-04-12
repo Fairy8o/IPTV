@@ -1,0 +1,58 @@
+#EXTM3U
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE local
+
+#EXTINF:-1 group-title="未分类",CCTV电视指南高清
+http://113.24.136.208:8084/udp/239.1.1.90:8090
+#EXTINF:-1 group-title="未分类",CCTV央视文化精品高清
+http://113.24.136.208:8084/udp/239.1.1.91:8091
+#EXTINF:-1 group-title="未分类",CCTV风云剧场高清
+http://113.24.136.208:8084/udp/239.1.1.93:8093
+#EXTINF:-1 group-title="未分类",CCTV第一剧场高清
+http://113.24.136.208:8084/udp/239.1.1.94:8094
+#EXTINF:-1 group-title="未分类",CCTV怀旧剧场高请
+http://113.24.136.208:8084/udp/239.1.1.95:8095
+#EXTINF:-1 group-title="未分类",CCTV风云音乐高请
+http://113.24.136.208:8084/udp/239.1.1.96:8096
+#EXTINF:-1 group-title="未分类",CCTV兵器科技高清
+http://113.24.136.208:8084/udp/239.1.1.97:8097
+#EXTINF:-1 group-title="未分类",CCTV世界地理高清
+http://113.24.136.208:8084/udp/239.1.1.99:8099
+#EXTINF:-1 group-title="未分类",CCTV央视台球高清
+http://113.24.136.208:8084/udp/239.1.1.100:8100
+#EXTINF:-1 group-title="未分类",CCTV风云足球高清
+http://113.24.136.208:8084/udp/239.1.1.101:8101
+#EXTINF:-1 group-title="未分类",CCTV高尔夫网球高清
+http://113.24.136.208:8084/udp/239.1.1.102:8102
+#EXTINF:-1 group-title="未分类",环球奇观
+http://113.24.136.208:8084/udp/239.1.1.98:8098
+#EXTINF:-1 group-title="未分类",环球旅游
+http://113.24.136.208:8084/udp/239.1.1.116:8116
+#EXTINF:-1 group-title="未分类",发现之旅
+http://113.24.136.208:8084/udp/239.1.1.103:8103
+#EXTINF:-1 group-title="未分类",中学生
+http://113.24.136.208:8084/udp/239.1.1.104:8104
+#EXTINF:-1 group-title="未分类",魅力足球高清
+http://113.24.136.208:8084/udp/239.1.1.75:8075
+#EXTINF:-1 group-title="未分类",生活时尚高清
+http://113.24.136.208:8084/udp/239.1.1.76:8076
+#EXTINF:-1 group-title="未分类",茶频道高清
+http://113.24.136.208:8084/udp/239.1.1.77:8077
+#EXTINF:-1 group-title="未分类",法治天地高清
+http://113.24.136.208:8084/udp/239.1.1.79:8079
+#EXTINF:-1 group-title="未分类",动漫秀场高清
+http://113.24.136.208:8084/udp/239.1.1.80:8080
+#EXTINF:-1 group-title="未分类",都市剧场高清
+http://113.24.136.208:8084/udp/239.1.1.81:8081
+#EXTINF:-1 group-title="未分类",金色学堂高清
+http://113.24.136.208:8084/udp/239.1.1.82:8082
+#EXTINF:-1 group-title="未分类",游戏风云高清
+http://113.24.136.208:8084/udp/239.1.1.83:8083
+#EXTINF:-1 group-title="未分类",乐游高清
+http://113.24.136.208:8084/udp/239.1.1.84:8084
+#EXTINF:-1 group-title="未分类",快乐垂钓高清
+http://113.24.136.208:8084/udp/239.1.1.86:8086
+#EXTINF:-1 group-title="未分类",老故事
+http://113.24.136.208:8084/udp/239.1.1.87:8087
+#EXTINF:-1 group-title="未分类",书画频道
+http://113.24.136.208:8084/udp/239.1.1.88:8088
