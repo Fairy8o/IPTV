@@ -1553,7 +1553,7 @@ CCTV17,http://nas.8211321.com:5555/rtp/239.61.3.9:9572
 三沙卫视,http://www.liruixiang.cc:9000/rtp/239.3.1.155:4120
 陕西卫视,http://www.liruixiang.cc:9000/rtp/239.3.1.41:8140
 青海卫视,http://www.liruixiang.cc:9000/rtp/239.3.1.44:8184
-内蒙古视,http://www.liruixiang.cc:9000/rtp/239.3.1.43:8176
+内蒙古卫视,http://www.liruixiang.cc:9000/rtp/239.3.1.43:8176
 
 北京卫视,http://fxgm.fxjf.work:19901/tsfile/live/0122_1.m3u8
 浙江卫视,http://fxgm.fxjf.work:19901/tsfile/live/0124_1.m3u8
@@ -1578,13 +1578,13 @@ CCTV17,http://nas.8211321.com:5555/rtp/239.61.3.9:9572
 云南卫视,http://fxgm.fxjf.work:19901/tsfile/live/0119_1.m3u8
 辽宁卫视,http://fxgm.fxjf.work:19901/tsfile/live/0121_1.m3u8
 陕西卫视,http://fxgm.fxjf.work:19901/tsfile/live/0136_1.m3u8
-内蒙古视,http://fxgm.fxjf.work:19901/tsfile/live/0109_1.m3u8
+内蒙古卫视,http://fxgm.fxjf.work:19901/tsfile/live/0109_1.m3u8
 宁夏卫视,http://fxgm.fxjf.work:19901/tsfile/live/0112_1.m3u8
 吉林卫视,http://fxgm.fxjf.work:19901/tsfile/live/0116_1.m3u8
 新疆卫视,http://fxgm.fxjf.work:19901/tsfile/live/0110_1.m3u8
 甘肃卫视,http://fxgm.fxjf.work:19901/tsfile/live/0141_1.m3u8
 西藏卫视,http://fxgm.fxjf.work:19901/tsfile/live/0111_1.m3u8
-黑龙江视,http://fxgm.fxjf.work:19901/tsfile/live/0143_1.m3u8
+黑龙江卫视,http://fxgm.fxjf.work:19901/tsfile/live/0143_1.m3u8
 厦门卫视,http://fxgm.fxjf.work:19901/tsfile/live/0129_1.m3u8
 兵团卫视,http://fxgm.fxjf.work:19901/tsfile/live/0115_1.m3u8
 海南卫视,http://fxgm.fxjf.work:19901/tsfile/live/1010_1.m3u8
