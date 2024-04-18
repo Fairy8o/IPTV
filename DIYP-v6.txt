@@ -642,6 +642,7 @@ CCTV16 4K,http://ddns.cyruslee.top:8888/udp/239.77.1.98:5146
 
 🦄4K-8K频道,#genre#
 北京纪实科教-8K,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
+FTV-UHD 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 CCTV-4K 超高清,http://101.33.225.246:9999/iptv?type=cctv4k
 CCTV-4K 超高清,http://159.75.85.63:5679/cctv4k.php
 库尔德电影台4k,http://39.77.153.241:9981/stream/channelid/918481593?profile=pass
@@ -6112,6 +6113,7 @@ CHC动作电影,http://183.237.246.14:9931/tsfile/live/1047_1.m3u8
 广州南国都市,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
 深圳都市,http://livepull-tcyzb.sztv.com.cn/showto_live/dushi01.m3u8
 
+广东体育,http://223.109.210.41/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel34/index.m3u8
 广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
 广东体育,http://113.15.187.233:8181/tsfile/live/1001_1.m3u8
 广东体育,http://125.92.140.53:8888/udp/239.77.0.112:5146
