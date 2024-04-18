@@ -3301,6 +3301,13 @@ BBC Home,https://i.mjh.nz/SamsungTVPlus/USBC600017FG.m3u8
 
 Animal Planet,http://45.159.74.14:80/AnimalPlanet/index.m3u8
 Animal Planet,http://41.205.93.154/ANIMALPLANET/index.m3u8
+Animal Planet [可选英语、俄语],http://45.159.74.14:80/AnimalPlanet/index.m3u8
+Animal Planet,http://41.205.93.154/ANIMALPLANET/index.m3u8
+Animal Planet,https://kusnadipepenk.github.io/ntn/animal.m3u8
+Animal Planet 中字,http://50.7.238.114:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72
+beIN Sports 1,https://donelfantastic.github.io/creativemedia/intl/beinsport1EN.m3u8
+Discovery Channel,http://88.212.7.11/live/test_discovery_hd_hevc/playlist.m3u8
+Discovery Channel [可选英语、俄语],http://45.159.74.14:80/DiscoveryChannel/index.m3u8
 NASA 1,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 NASA 2,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
 BBC cbeebies,http://198.16.100.90:8278/Cbeebies/playlist.m3u8?tid=ME5E7901951779019517&ct=19225&tsum=03bb5bab7f669081444ce37cda408b8d
