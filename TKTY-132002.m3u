@@ -1,0 +1,1908 @@
+#EXTM3U
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE local
+
+#EXTINF:-1 group-title="🐉国内体育🐉",五星体育
+http://api.52tb.xyz/info?id=375&token=20230331fbulna
+#EXTINF:-1 group-title="🐉国内体育🐉",五星体育
+http://api.52tb.xyz/info?id=399&token=20230331fbulna
+#EXTINF:-1 group-title="🐉国内体育🐉",五星体育
+http://mywlkj.ddns.net:754/tv/dl/dl668/bestv.php?id=wxty
+#EXTINF:-1 group-title="🐉国内体育🐉",五星体育
+http://php.jdshipin.com:8880/bst.php?id=wxtyhd8m/8000000
+#EXTINF:-1 group-title="🐉国内体育🐉",五星体育
+http://php.jdshipin.com:8880/bst.php?id=ssty/4000000
+#EXTINF:-1 group-title="🐉国内体育🐉",五星体育
+https://epg.pw/stream/064d7dfbea25b0500dfa1262dce037279b26c7ed333b790e0d6042b1abc86975.ctv
+#EXTINF:-1 group-title="🐉国内体育🐉",五星体育「组播」
+http://58.37.189.39:8088/udp/239.45.3.210:5140
+#EXTINF:-1 group-title="🐉国内体育🐉",五星体育「组播」
+http://222.71.11.180:4022/udp/239.45.3.210:5140
+#EXTINF:-1 group-title="🐉国内体育🐉",五星体育「组播」
+http://116.233.174.144:10000/udp/239.45.3.210:5140
+#EXTINF:-1 group-title="🐉国内体育🐉",五星体育「组播」
+http://180.164.40.181:2222/udp/239.45.3.210:5140
+#EXTINF:-1 group-title="🐉国内体育🐉",广东体育
+http://113.15.187.233:8181/tsfile/live/1001_1.m3u8
+#EXTINF:-1 group-title="🐉国内体育🐉",广东体育
+http://125.92.140.53:8888/udp/239.77.0.112:5146
+#EXTINF:-1 group-title="🐉国内体育🐉",广东体育
+http://183.11.239.36:808/hls/2/index.m3u8
+#EXTINF:-1 group-title="🐉国内体育🐉",广东体育
+http://api.52tb.xyz/info?id=413&token=20230331fbulna
+#EXTINF:-1 group-title="🐉国内体育🐉",广东体育
+http://ddns.cyruslee.top:8888/udp/239.77.0.112:5146
+#EXTINF:-1 group-title="🐉国内体育🐉",广东体育
+http://ddns.cyruslee.top:8888/udp/239.77.0.168:5146
+#EXTINF:-1 group-title="🐉国内体育🐉",广东体育
+http://113.15.187.233:8181/tsfile/live/1001_1.m3u8
+#EXTINF:-1 group-title="🐉国内体育🐉",CCTV-5 体育「IPV6」
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+#EXTINF:-1 group-title="🐉国内体育🐉",CCTV-5 体育「IPV6」
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638727e617ca0/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSPTZ4CK5oLfjaEYe9dogNMSXw4ajlL%2FoUYC2RZQQDco6uQSifXBocz5ID6RePfIKQ4rFWiHjq%2FeZoDmrzW%2FKlw
+#EXTINF:-1 group-title="🐉国内体育🐉",CCTV-5+ 赛事体育「IPV6」
+http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000132/index.m3u8?IAS
+#EXTINF:-1 group-title="🐉国内体育🐉",CCTV-5+ 赛事体育「IPV6」
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63872908d48f9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSBx06ZL9Bo6JOM%2BSTjxZRK254G1jtietGzDaHvFNRtjXOvFnbf%2BTao33JqYlfMYYn2z3agOn9gvNMT9KmBaR9o
+#EXTINF:-1 group-title="🏎F1赛事🏎",4K| SKY SPORTS F1 UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1471382&extension=ts&play_token=dWS0k7M0i2
+#EXTINF:-1 group-title="🏎F1赛事🏎",4K| SKY SPORTS MAIN EVENT UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1471381&extension=ts&play_token=NfdaYR91V7
+#EXTINF:-1 group-title="🏎F1赛事🏎",Dazn F1 HD ES
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/6071/index.m3u8
+#EXTINF:-1 group-title="🏎F1赛事🏎",ES: (FHD) DAZN F1
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/5593
+#EXTINF:-1 group-title="🏎F1赛事🏎",ES: (FHD repuesto) DAZN F1
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/57361
+#EXTINF:-1 group-title="🏎F1赛事🏎",DE: SKY SPORT F1
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29544
+#EXTINF:-1 group-title="🏎F1赛事🏎",IT: SKY SPORT F1
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/24461
+#EXTINF:-1 group-title="🏎F1赛事🏎",sky Sport F1 DE
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/19022/index.m3u8
+#EXTINF:-1 group-title="🏎F1赛事🏎",Sky Sport F1 FHD DE
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/10079/index.m3u8
+#EXTINF:-1 group-title="🏎F1赛事🏎",SKY SPORTS F1 UK
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7342/index.m3u8
+#EXTINF:-1 group-title="🏌🏻‍♂️高尔夫赛事🏌🏻‍♂️",USA: VIP NBC GOLF CHANNEL
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/51089
+#EXTINF:-1 group-title="🏌🏻‍♂️高尔夫赛事🏌🏻‍♂️",USA: VIP PPV GOLF TOURNAMENTS LIVE EVENTS
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/51111
+#EXTINF:-1 group-title="🏌🏻‍♂️高尔夫赛事🏌🏻‍♂️",USA: VIP GOLF CHANNEL
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50461
+#EXTINF:-1 group-title="🏌🏻‍♂️高尔夫赛事🏌🏻‍♂️",ES: M+ GOLF
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/5649
+#EXTINF:-1 group-title="🏌🏻‍♂️高尔夫赛事🏌🏻‍♂️",ES: M+ GOLF 2
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/57256
+#EXTINF:-1 group-title="🏌🏻‍♂️高尔夫赛事🏌🏻‍♂️",PL: GOLF CHANNEL
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/10174
+#EXTINF:-1 group-title="🏌🏻‍♂️高尔夫赛事🏌🏻‍♂️",CZ: GOLF CHANNEL
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/8372
+#EXTINF:-1 group-title="🏌🏻‍♂️高尔夫赛事🏌🏻‍♂️",SWE: VIASAT GOLF
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/5537
+#EXTINF:-1 group-title="🏌🏻‍♂️高尔夫赛事🏌🏻‍♂️",AF: VIP SUPERSPORT GOLF
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/52178
+#EXTINF:-1 group-title="🏌🏻‍♂️高尔夫赛事🏌🏻‍♂️",SAF: SuperSport Golf FHD
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/57451
+#EXTINF:-1 group-title="🏌🏻‍♂️高尔夫赛事🏌🏻‍♂️",DK: VIASAT GOLF
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/9044
+#EXTINF:-1 group-title="🏌🏻‍♂️高尔夫赛事🏌🏻‍♂️",ARG: GOLF CHANNEL
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/10020
+#EXTINF:-1 group-title="🏌🏻‍♂️高尔夫赛事🏌🏻‍♂️",EX-YU: SPORT KLUB GOLF
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/51875
+#EXTINF:-1 group-title="🏌🏻‍♂️高尔夫赛事🏌🏻‍♂️",NL: ZIGGO SPORT GOLF
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/9965
+#EXTINF:-1 group-title="🏌🏻‍♂️高尔夫赛事🏌🏻‍♂️",MEX: GOLF CH
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/52540
+#EXTINF:-1 group-title="🏌🏻‍♂️高尔夫赛事🏌🏻‍♂️",MEX: NBC GOLF
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/52560
+#EXTINF:-1 group-title="🏌🏻‍♂️高尔夫赛事🏌🏻‍♂️",IN: TEN GOLF
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/53666
+#EXTINF:-1 group-title="🏌🏻‍♂️高尔夫赛事🏌🏻‍♂️",CA: GOLF CHANNEL
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/23761
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",👉添加售后微信👈
+https://cloud.lxweb.cn/f/W6OOfB/WXSP.mp4
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",👉获取最新链接👈
+https://cloud.lxweb.cn/f/W6OOfB/WXSP.mp4
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",👉有比赛时才会放直播画面👈
+https://cloud.lxweb.cn/f/KkbRsX/1.MOV
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",👉请留意赛事直播时间观看👈
+https://cloud.lxweb.cn/f/KkbRsX/1.MOV
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕视频1
+http://39.134.66.66/PLTV/88888888/224/3221225643/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕视频2
+http://39.134.66.66/PLTV/88888888/224/3221225648/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕视频3
+http://39.134.66.66/PLTV/88888888/224/3221225639/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕视频4
+http://39.134.66.66/PLTV/88888888/224/3221225652/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕视频5
+http://39.134.66.66/PLTV/88888888/224/3221225647/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕视频6
+http://39.134.66.66/PLTV/88888888/224/3221225645/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕视频7
+http://39.134.66.66/PLTV/88888888/224/3221225650/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕视频8
+http://39.134.66.66/PLTV/88888888/224/3221225641/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕视频10
+http://39.134.66.66/PLTV/88888888/224/3221225651/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕视频11
+http://39.134.66.66/PLTV/88888888/224/3221225619/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕视频12
+http://39.134.66.66/PLTV/88888888/224/3221225611/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕视频13
+http://39.134.66.66/PLTV/88888888/224/3221225649/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕视频14
+http://39.134.66.66/PLTV/88888888/224/3221225620/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕视频15
+http://39.134.66.66/PLTV/88888888/224/3221225613/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕视频16
+http://39.134.66.66/PLTV/88888888/224/3221225658/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕视频8M3
+http://39.134.66.66/PLTV/88888888/224/3221225758/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕视频8M7
+http://39.134.66.66/PLTV/88888888/224/3221225760/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕视频8M8
+http://39.134.66.66/PLTV/88888888/224/3221225756/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕视频8M10
+http://39.134.66.66/PLTV/88888888/224/3221225735/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕视频8M12
+http://39.134.66.66/PLTV/88888888/224/3221225739/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕视频8M13
+http://39.134.66.66/PLTV/88888888/224/3221225654/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕视频 30M2160HDR
+http://39.134.66.66/PLTV/88888888/224/3221225655/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",👉有比赛时才会放直播画面👈
+https://cloud.lxweb.cn/f/KkbRsX/1.MOV
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",👉请留意赛事直播时间观看👈
+https://cloud.lxweb.cn/f/KkbRsX/1.MOV
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕视频 8M1080
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕视频 8M1080
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕视频 8M1080
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕视频 8M1080
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕体育1
+http://39.134.66.2/PLTV/88888888/224/3221225658/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕体育2
+http://39.134.66.2/PLTV/88888888/224/3221225649/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕体育3
+http://39.134.66.2/PLTV/88888888/224/3221225611/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕体育4
+http://39.134.66.2/PLTV/88888888/224/3221225613/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕体育6
+http://39.134.66.2/PLTV/88888888/224/3221225619/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕体育7
+http://39.134.66.2/PLTV/88888888/224/3221225620/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕体育8
+http://39.134.66.2/PLTV/88888888/224/3221225639/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕体育9
+http://39.134.66.2/PLTV/88888888/224/3221225641/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕体育10
+http://39.134.66.2/PLTV/88888888/224/3221225643/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕体育11
+http://39.134.66.2/PLTV/88888888/224/3221225645/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕体育12
+http://39.134.66.2/PLTV/88888888/224/3221225647/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕体育13
+http://39.134.66.2/PLTV/88888888/224/3221225648/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕体育14
+http://39.134.66.2/PLTV/88888888/224/3221225650/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕体育15
+http://39.134.66.2/PLTV/88888888/224/3221225652/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕体育16
+http://39.134.66.2/PLTV/88888888/224/3221225733/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕体育17
+http://39.134.66.2/PLTV/88888888/224/3221225735/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕体育18
+http://39.134.66.2/PLTV/88888888/224/3221225737/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕体育19
+http://39.134.66.2/PLTV/88888888/224/3221225739/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕体育24
+http://39.134.66.2/PLTV/88888888/224/3221225754/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕体育25
+http://39.134.66.2/PLTV/88888888/224/3221225756/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕体育26
+http://39.134.66.2/PLTV/88888888/224/3221225758/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕体育27
+http://39.134.66.2/PLTV/88888888/224/3221225760/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕体育46
+http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕体育47
+http://39.135.134.67/000000001000/3000000001000008379/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕体育48
+http://39.135.134.67/000000001000/3000000001000008001/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕体育49
+http://39.135.134.67/000000001000/3000000001000031494/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕体育50
+http://39.135.134.67/000000001000/3000000001000008176/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕体育51
+http://39.135.134.34/000000001000/3000000001000010129/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕体育52
+http://39.135.134.67/000000001000/3000000001000010948/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕体育54
+http://39.135.134.67/000000001000/3000000001000005308/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕体育55
+http://39.135.134.67/000000001000/3000000001000005969/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕体育57
+http://39.135.137.203/000000001000/3000000010000027691/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕体育58
+http://39.135.137.203/000000001000/3000000010000015560/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕体育59
+http://39.135.137.205/000000001000/3000000010000002809/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕体育61
+http://39.135.137.206/000000001000/3000000010000000097/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕体育61
+http://39.135.137.205/000000001000/3000000010000006077/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕体育62
+http://39.135.137.203/000000001000/3000000010000012558/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕体育63
+http://39.135.137.208/000000001000/3000000010000023434/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕体育64
+http://39.135.137.203/000000001000/3000000010000003915/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕体育65
+http://39.135.137.205/000000001000/3000000010000004193/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕体育66
+http://39.135.137.205/000000001000/3000000010000021904/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕体育67
+http://39.135.137.207/000000001000/3000000010000011297/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕体育68
+http://39.135.137.208/000000001000/3000000010000006658/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕体育69
+http://39.135.137.205/000000001000/3000000010000010833/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕体育70
+http://39.135.137.203/000000001000/3000000010000025380/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕体育71
+http://39.135.137.209/000000001000/3000000010000015686/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🏆[IPV4]",咪咕体育72
+http://39.135.137.208/000000001000/3000000010000005180/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🥇[IPV6]",👉添加售后微信👈
+https://cloud.lxweb.cn/f/W6OOfB/WXSP.mp4
+#EXTINF:-1 group-title="🐉咪咕体育①🥇[IPV6]",👉获取最新链接👈
+https://cloud.lxweb.cn/f/W6OOfB/WXSP.mp4
+#EXTINF:-1 group-title="🐉咪咕体育①🥇[IPV6]",👉有比赛时才会放直播画面👈
+https://cloud.lxweb.cn/f/KkbRsX/1.MOV
+#EXTINF:-1 group-title="🐉咪咕体育①🥇[IPV6]",👉请留意赛事直播时间观看👈
+https://cloud.lxweb.cn/f/KkbRsX/1.MOV
+#EXTINF:-1 group-title="🐉咪咕体育①🥇[IPV6]",咪咕直播4K
+http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🥇[IPV6]",咪咕直播-1
+http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225611/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🥇[IPV6]",咪咕直播-3
+http://[2409:8087:1a01:df::4017]/PLTV/88888888/224/3221225619/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🥇[IPV6]",咪咕直播-4
+http://[2409:8087:1a01:df::4058]/PLTV/88888888/224/3221225620/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🥇[IPV6]",咪咕直播-5
+http://[2409:8087:1a01:df::4015]/PLTV/88888888/224/3221225639/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🥇[IPV6]",咪咕直播-6
+http://[2409:8087:1a01:df::4015]/PLTV/88888888/224/3221225641/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🥇[IPV6]",咪咕直播-7
+http://[2409:8087:1a01:df::4011]/PLTV/88888888/224/3221225643/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🥇[IPV6]",咪咕直播-8
+http://[2409:8087:1a01:df::4002]/PLTV/88888888/224/3221225645/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🥇[IPV6]",咪咕直播-9
+http://[2409:8087:1a01:df::4016]/PLTV/88888888/224/3221225647/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🥇[IPV6]",咪咕直播-10
+http://[2409:8087:1a01:df::4022]/PLTV/88888888/224/3221225648/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🥇[IPV6]",咪咕直播-11
+http://[2409:8087:1a01:df::402a]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🥇[IPV6]",咪咕直播-12
+http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🥇[IPV6]",咪咕直播-13
+http://[2409:8087:1a01:df::4014]/PLTV/88888888/224/3221225652/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🥇[IPV6]",咪咕直播-14
+http://[2409:8087:1a01:df::4013]/PLTV/88888888/224/3221225653/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🥇[IPV6]",咪咕直播-15
+http://[2409:8087:1a01:df::4017]/PLTV/88888888/224/3221225654/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🥇[IPV6]",咪咕直播-16
+http://[2409:8087:1a01:df::4019]/PLTV/88888888/224/3221225658/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🥇[IPV6]",咪咕直播-17
+http://[2409:8087:1a01:df::4012]/PLTV/88888888/224/3221225660/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🥇[IPV6]",咪咕直播-18
+http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225662/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🥇[IPV6]",咪咕直播-19
+http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221225733/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🥇[IPV6]",咪咕直播-20
+http://[2409:8087:1a01:df::4048]/PLTV/88888888/224/3221225735/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🥇[IPV6]",咪咕直播-21
+http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225737/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🥇[IPV6]",咪咕直播-22
+http://[2409:8087:1a01:df::4074]/PLTV/88888888/224/3221225739/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🥇[IPV6]",咪咕直播-23
+http://[2409:8087:1a01:df::4030]/PLTV/88888888/224/3221225754/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🥇[IPV6]",咪咕直播-24
+http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225756/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🥇[IPV6]",咪咕直播-25
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225758/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🥇[IPV6]",咪咕直播-26
+http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225760/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🥇[IPV6]",咪咕直播-27
+http://[2409:8087:1a01:df::4002]/PLTV/88888888/224/3221225895/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🥇[IPV6]",咪咕直播-28
+http://[2409:8087:1a01:df::4028]/PLTV/88888888/224/3221225897/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🥇[IPV6]",咪咕直播-29
+http://[2409:8087:1a01:df::4061]/PLTV/88888888/224/3221225899/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🥇[IPV6]",咪咕直播-30
+http://[2409:8087:1a01:df::4009]/PLTV/88888888/224/3221225901/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🥇[IPV6]",咪咕直播-31
+http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225903/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🥇[IPV6]",咪咕直播-32
+http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🥇[IPV6]",咪咕直播-33
+http://[2409:8087:1a01:df::4051]/PLTV/88888888/224/3221225905/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🥇[IPV6]",咪咕直播-34
+http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🥇[IPV6]",咪咕直播-35
+http://[2409:8087:1a01:df::4055]/PLTV/88888888/224/3221225910/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🥇[IPV6]",咪咕直播-36
+http://[2409:8087:1a01:df::4076]/PLTV/88888888/224/3221225912/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🥇[IPV6]",咪咕直播-37
+http://[2409:8087:1a01:df::4027]/PLTV/88888888/224/3221225914/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🥇[IPV6]",咪咕直播-38
+http://[2409:8087:1a01:df::4076]/PLTV/88888888/224/3221226027/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🥇[IPV6]",咪咕直播-39
+http://[2409:8087:1a01:df::4068]/PLTV/88888888/224/3221226031/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🥇[IPV6]",咪咕直播-40
+http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221226046/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🥇[IPV6]",咪咕直播-41
+http://[2409:8087:1a01:df::4041]/PLTV/88888888/224/3221226053/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🥇[IPV6]",咪咕直播-42
+http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🥇[IPV6]",咪咕直播-43
+http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育①🥇[IPV6]",咪咕直播-44
+http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育②🥇[IPV6]",👉有比赛时才会放直播画面👈
+https://cloud.lxweb.cn/f/KkbRsX/1.MOV
+#EXTINF:-1 group-title="🐉咪咕体育②🥇[IPV6]",👉请留意赛事直播时间观看👈
+https://cloud.lxweb.cn/f/KkbRsX/1.MOV
+#EXTINF:-1 group-title="🐉咪咕体育②🥇[IPV6]",咪咕直播-1
+http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225611/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育②🥇[IPV6]",咪咕直播-3
+http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育②🥇[IPV6]",咪咕直播-4
+http://[2409:8087:1a01:df::4017]/PLTV/88888888/224/3221225619/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育②🥇[IPV6]",咪咕直播-5
+http://[2409:8087:1a01:df::4058]/PLTV/88888888/224/3221225620/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育②🥇[IPV6]",咪咕直播-6
+http://[2409:8087:1a01:df::4015]/PLTV/88888888/224/3221225639/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育②🥇[IPV6]",咪咕直播-7
+http://[2409:8087:1a01:df::4015]/PLTV/88888888/224/3221225641/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育②🥇[IPV6]",咪咕直播-8
+http://[2409:8087:1a01:df::4011]/PLTV/88888888/224/3221225643/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育②🥇[IPV6]",咪咕直播-9
+http://[2409:8087:1a01:df::4002]/PLTV/88888888/224/3221225645/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育②🥇[IPV6]",咪咕直播-10
+http://[2409:8087:1a01:df::4016]/PLTV/88888888/224/3221225647/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育②🥇[IPV6]",咪咕直播-11
+http://[2409:8087:1a01:df::4022]/PLTV/88888888/224/3221225648/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育②🥇[IPV6]",咪咕直播-12
+http://[2409:8087:1a01:df::4003]/PLTV/88888888/224/3221225649/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育②🥇[IPV6]",咪咕直播-13
+http://[2409:8087:1a01:df::4003]/PLTV/88888888/224/3221225650/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育②🥇[IPV6]",咪咕直播-14
+http://[2409:8087:1a01:df::4014]/PLTV/88888888/224/3221225652/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育②🥇[IPV6]",咪咕直播-15
+http://[2409:8087:1a01:df::4013]/PLTV/88888888/224/3221225653/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育②🥇[IPV6]",咪咕直播-16
+http://[2409:8087:1a01:df::4017]/PLTV/88888888/224/3221225654/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育②🥇[IPV6]",咪咕直播-17
+http://[2409:8087:1a01:df::4019]/PLTV/88888888/224/3221225658/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育②🥇[IPV6]",咪咕直播-18
+http://[2409:8087:1a01:df::4012]/PLTV/88888888/224/3221225660/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育②🥇[IPV6]",咪咕直播-19
+http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225662/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育②🥇[IPV6]",咪咕直播-20
+http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221225733/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育②🥇[IPV6]",咪咕直播-21
+http://[2409:8087:1a01:df::4048]/PLTV/88888888/224/3221225735/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育②🥇[IPV6]",咪咕直播-22
+http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225737/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育②🥇[IPV6]",咪咕直播-23
+http://[2409:8087:1a01:df::4074]/PLTV/88888888/224/3221225739/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育②🥇[IPV6]",咪咕直播-24
+http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育②🥇[IPV6]",咪咕直播-25
+http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育②🥇[IPV6]",咪咕直播-26
+http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育②🥇[IPV6]",咪咕直播-27
+http://[2409:8087:1a01:df::402a]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育②🥇[IPV6]",咪咕直播-28
+http://[2409:8087:1a01:df::4030]/PLTV/88888888/224/3221225754/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育②🥇[IPV6]",咪咕直播-29
+http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225756/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育②🥇[IPV6]",咪咕直播-30
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225758/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育②🥇[IPV6]",咪咕直播-31
+http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225760/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育②🥇[IPV6]",咪咕直播-32
+http://[2409:8087:1a01:df::4027]/PLTV/88888888/224/3221225914/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育②🥇[IPV6]",咪咕直播-33
+http://[2409:8087:1a01:df::4076]/PLTV/88888888/224/3221226027/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育②🥇[IPV6]",咪咕直播-34
+http://[2409:8087:1a01:df::4068]/PLTV/88888888/224/3221226031/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育②🥇[IPV6]",咪咕直播-35
+http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221226046/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育②🥇[IPV6]",咪咕直播-36
+http://[2409:8087:1a01:df::4041]/PLTV/88888888/224/3221226053/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育②🥇[IPV6]",咪咕直播-37
+http://[2409:8087:1a01:df::4002]/PLTV/88888888/224/3221225895/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育②🥇[IPV6]",咪咕直播-38
+http://[2409:8087:1a01:df::4028]/PLTV/88888888/224/3221225897/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育②🥇[IPV6]",咪咕直播-39
+http://[2409:8087:1a01:df::4061]/PLTV/88888888/224/3221225899/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育②🥇[IPV6]",咪咕直播-40
+http://[2409:8087:1a01:df::4009]/PLTV/88888888/224/3221225901/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育②🥇[IPV6]",咪咕直播-41
+http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225903/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育②🥇[IPV6]",咪咕直播-43
+http://[2409:8087:1a01:df::4051]/PLTV/88888888/224/3221225905/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育②🥇[IPV6]",咪咕直播-45
+http://[2409:8087:1a01:df::4055]/PLTV/88888888/224/3221225910/index.m3u8
+#EXTINF:-1 group-title="🐉咪咕体育②🥇[IPV6]",咪咕直播-46
+http://[2409:8087:1a01:df::4076]/PLTV/88888888/224/3221225912/index.m3u8
+#EXTINF:-1 group-title="🐉赛事体育🐉",👉有比赛时才会放直播画面👈
+https://cloud.lxweb.cn/f/KkbRsX/1.MOV
+#EXTINF:-1 group-title="🐉赛事体育🐉",👉请留意赛事直播时间观看👈
+https://cloud.lxweb.cn/f/KkbRsX/1.MOV
+#EXTINF:-1 group-title="🐉赛事体育🐉",👉有比赛时才会放直播画面👈
+https://cloud.lxweb.cn/f/KkbRsX/1.MOV
+#EXTINF:-1 group-title="🐉赛事体育🐉",👉请留意赛事直播时间观看👈
+https://cloud.lxweb.cn/f/KkbRsX/1.MOV
+#EXTINF:-1 group-title="🐉赛事体育🐉",体育直播-1
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=testch1
+#EXTINF:-1 group-title="🐉赛事体育🐉",体育直播-2
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive02
+#EXTINF:-1 group-title="🐉赛事体育🐉",体育直播-3
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive03
+#EXTINF:-1 group-title="🐉赛事体育🐉",体育直播-4
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive04
+#EXTINF:-1 group-title="🐉赛事体育🐉",体育直播-5
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive05
+#EXTINF:-1 group-title="🐉赛事体育🐉",体育直播-6
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive06
+#EXTINF:-1 group-title="🐉赛事体育🐉",体育直播-7
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive07
+#EXTINF:-1 group-title="🐉赛事体育🐉",体育直播-8
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive08
+#EXTINF:-1 group-title="🐉赛事体育🐉",体育直播-9
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive09
+#EXTINF:-1 group-title="🐉赛事体育🐉",体育直播-10
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive10
+#EXTINF:-1 group-title="🐉赛事体育🐉",Now e 4K
+http://4k4.klmvhn20.com:2082/live/Noly-4Noly/xiux0qlrin/641325.ts
+#EXTINF:-1 group-title="🐉赛事体育🐉",TNT 4K
+http://4k4.klmvhn20.com:2082/live/Noly-4Noly/xiux0qlrin/522060.ts
+#EXTINF:-1 group-title="🐉赛事体育🐉",Bein Sports 4K
+http://m3u.lol:80/20821215493690/194906948679/308587
+#EXTINF:-1 group-title="🐉赛事体育🐉",Astro 体育
+https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default_primary.mpd
+#EXTINF:-1 group-title="🐉赛事体育🐉",NOW体育 4K 50M
+http://4k4.klmvhn20.com:2082/live/Noly-4Noly/xiux0qlrin/641325.ts
+#EXTINF:-1 group-title="🐉天空体育①🐉",英国: VIP SKY SPORTS NEWS
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29918
+#EXTINF:-1 group-title="🐉天空体育①🐉",4K| SKY SPORTS F1 UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1471382&extension=ts&play_token=dWS0k7M0i2
+#EXTINF:-1 group-title="🐉天空体育①🐉",4K| SKY SPORTS MAIN EVENT UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1471381&extension=ts&play_token=NfdaYR91V7
+#EXTINF:-1 group-title="🐉天空体育①🐉",UK: VIP SKY SPORTS F1
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29674
+#EXTINF:-1 group-title="🐉天空体育①🐉",UK: VIP SKY SPORTS GOLF
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29679
+#EXTINF:-1 group-title="🐉天空体育①🐉",UK: VIP SKY SPORTS MIX
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29672
+#EXTINF:-1 group-title="🐉天空体育①🐉",UK: VIP SKY SPORTS FOOTBALL
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29677
+#EXTINF:-1 group-title="🐉天空体育①🐉",UK: VIP SKY SPORTS PREMIER LEAGUE
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29676
+#EXTINF:-1 group-title="🐉天空体育①🐉",UK: VIP SKY SPORTS CRICKET
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29673
+#EXTINF:-1 group-title="🐉天空体育①🐉",UK: VIP SKY SPORTS ARENA
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29675
+#EXTINF:-1 group-title="🐉天空体育①🐉",UK: VIP SKY SPORTS ACTION
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29670
+#EXTINF:-1 group-title="🐉天空体育①🐉",UK: VIP SKY SPORTS RACING
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29671
+#EXTINF:-1 group-title="🐉天空体育①🐉",UK: VIP SKY SPORTS MAIN EVENT
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29678
+#EXTINF:-1 group-title="🐉天空体育①🐉",UK: VIP SKY SPORTS NFL
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29988
+#EXTINF:-1 group-title="🐉天空体育②🐉",德国: Sky Sports Premier League
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29617
+#EXTINF:-1 group-title="🐉天空体育②🐉",DE: Sky Sport Tennis
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29616
+#EXTINF:-1 group-title="🐉天空体育②🐉",DE: Sky Sport Mix
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29618
+#EXTINF:-1 group-title="🐉天空体育②🐉",DE: Sky Sport Golf
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29619
+#EXTINF:-1 group-title="🐉天空体育②🐉",DE: SKY SPORT NEWS
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29366
+#EXTINF:-1 group-title="🐉天空体育②🐉",DE: SKY SPORT 1
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29373
+#EXTINF:-1 group-title="🐉天空体育②🐉",DE: SKY SPORT 2
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29372
+#EXTINF:-1 group-title="🐉天空体育②🐉",DE: SKY SPORT 3 (MATCH TIME)
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29362
+#EXTINF:-1 group-title="🐉天空体育②🐉",DE: SKY SPORT 4
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29377
+#EXTINF:-1 group-title="🐉天空体育②🐉",DE: SKY SPORT 5 (MATCH TIME)
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29370
+#EXTINF:-1 group-title="🐉天空体育②🐉",DE: SKY SPORT 6 (MATCH TIME)
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29369
+#EXTINF:-1 group-title="🐉天空体育②🐉",DE: Sky Sport 7 (Match Time)
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29625
+#EXTINF:-1 group-title="🐉天空体育②🐉",DE: SKY SPORT 8
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29379
+#EXTINF:-1 group-title="🐉天空体育②🐉",DE: SKY SPORT 9
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29378
+#EXTINF:-1 group-title="🐉天空体育②🐉",DE: SKY SPORT 10 (MATCH TIME)
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29368
+#EXTINF:-1 group-title="🐉天空体育②🐉",DE: SKY SPORT 11 (MATCH TIME)
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29367
+#EXTINF:-1 group-title="🐉天空体育③🐉",意大利: SKY SPORT 24
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/24459
+#EXTINF:-1 group-title="🐉天空体育③🐉",IT: SKY SPORT F1
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/24461
+#EXTINF:-1 group-title="🐉天空体育③🐉",IT: SKY SPORT UNO
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/24458
+#EXTINF:-1 group-title="🐉天空体育③🐉",IT: SKY SPORT MOTOGP
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/24463
+#EXTINF:-1 group-title="🐉天空体育③🐉",IT: SKY SPORT NBA
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/24454
+#EXTINF:-1 group-title="🐉天空体育③🐉",IT: SKY SPORT ARENA
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/24462
+#EXTINF:-1 group-title="🐉天空体育③🐉",IT: SKY SUPER TENNIS
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/24621
+#EXTINF:-1 group-title="🐉天空体育③🐉",IT: SKY SPORT FOOTBALL
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/24460
+#EXTINF:-1 group-title="🐉天空体育③🐉",IT: SKY SPORT GOLF
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/24456
+#EXTINF:-1 group-title="🐉天空体育③🐉",IT: SKY SPORT COLLECTION
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/24453
+#EXTINF:-1 group-title="🐉天空体育③🐉",IT: SKY SPORT SERIE A
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/24457
+#EXTINF:-1 group-title="🐉天空体育③🐉",IT: SKY SPORT CALCIO
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/24620
+#EXTINF:-1 group-title="🐉天空体育④🐉",SKY SPORTS PREMIER LEAGUE UK
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7335/index.m3u8
+#EXTINF:-1 group-title="🐉天空体育④🐉",SKY SPORTS FOOTBALL UK
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7336/index.m3u8
+#EXTINF:-1 group-title="🐉天空体育④🐉",SKY SPORTS MAIN EVENT UK
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7337/index.m3u8
+#EXTINF:-1 group-title="🐉天空体育④🐉",SKY SPORTS ARENA UK
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7338/index.m3u8
+#EXTINF:-1 group-title="🐉天空体育④🐉",SKY SPORTS MIX UK
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7339/index.m3u8
+#EXTINF:-1 group-title="🐉天空体育④🐉",Sky Sports Action HD UK
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7340/index.m3u8
+#EXTINF:-1 group-title="🐉天空体育④🐉",SKY SPORTS RACING UK
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7341/index.m3u8
+#EXTINF:-1 group-title="🐉天空体育④🐉",SKY SPORTS F1 UK
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7342/index.m3u8
+#EXTINF:-1 group-title="🐉天空体育④🐉",SKY SPORTS CRICKET UK
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7343/index.m3u8
+#EXTINF:-1 group-title="🐉天空体育④🐉",SKY SPORTS GOLF UK
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7344/index.m3u8
+#EXTINF:-1 group-title="🐉天空体育⑤🐉",天空体育 F1
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7342/index.m3u8
+#EXTINF:-1 group-title="🐉天空体育⑤🐉",天空体育 综合
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7337/index.m3u8
+#EXTINF:-1 group-title="🐉天空体育⑤🐉",天空体育 足球
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7336/index.m3u8
+#EXTINF:-1 group-title="🐉天空体育⑤🐉",天空体育 格斗
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/15097/index.m3u8
+#EXTINF:-1 group-title="🐉天空体育⑤🐉",天空体育 德甲
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7234/index.m3u8
+#EXTINF:-1 group-title="🐉天空体育⑤🐉",天空体育 足球
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7338/index.m3u8
+#EXTINF:-1 group-title="🐉天空体育⑤🐉",天空体育 足球
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7340/index.m3u8
+#EXTINF:-1 group-title="🐉天空体育⑤🐉",天空体育 足球
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7341/index.m3u8
+#EXTINF:-1 group-title="🐉天空体育⑤🐉",天空体育 新闻
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2477/index.m3u8
+#EXTINF:-1 group-title="🐉天空体育⑤🐉",天空体育 板球
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7343/index.m3u8
+#EXTINF:-1 group-title="🐉天空体育⑤🐉",天空体育 英超
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7335/index.m3u8
+#EXTINF:-1 group-title="🐉天空体育⑤🐉",天空体育 澳洲
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2492/index.m3u8
+#EXTINF:-1 group-title="🐉天空体育⑤🐉",天空体育 高尔夫
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7344/index.m3u8
+#EXTINF:-1 group-title="🐉天空体育「断流」🐉",SKY main event  4K
+https://live.9528.eu.org/da9e59dda156406429c8ea42ff7d2e27.m3u8
+#EXTINF:-1 group-title="🐉天空体育「断流」🐉",SKY SPORTS F1 4K FHD
+http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/50276
+#EXTINF:-1 group-title="🐉天空体育「断流」🐉",SKY SPORTS F1 4K
+http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/138141
+#EXTINF:-1 group-title="🐉天空体育「断流」🐉",SKY SPORTS-主赛事
+https://epg.pw/stream/2e2d5b3516f5e2bba808f3a821e219c19b5b575f9d5c05eed6abceaa3efad406.ctv
+#EXTINF:-1 group-title="🐉天空体育「断流」🐉",SKY SPORTS-超级联赛
+https://epg.pw/stream/4a76d9e59eec10d4d59d4a7f31f30f23dd64ce786472c57b3c54eae0ebe83673.ctv
+#EXTINF:-1 group-title="🐉天空体育「断流」🐉",SKY SPORTS-新闻
+https://epg.pw/stream/c376926078d1628c58c69f117f3afccd1b9e680925b9fd155ae19ad6197b6a99.ctv
+#EXTINF:-1 group-title="🐉天空体育「断流」🐉",SKY SPORTS-高尔夫
+https://epg.pw/stream/a74943c8dc3f1760e0c39a0b5e811e1c448619fb52ba0148d979dca4976f7751.ctv
+#EXTINF:-1 group-title="🐉天空体育「断流」🐉",SKY SPORTS-网球
+https://epg.pw/stream/b3a03c24d4bfa0a3467846be5890028a65cc84356c8fba97b7ff66fbbf736db0.ctv
+#EXTINF:-1 group-title="🐉天空体育「断流」🐉",SKY SPORTS-足球
+https://epg.pw/stream/b806e4ad453a1d474ed52cea98a0ae2b95f82aed7a14f672b9b7b82d55524d5a.ctv
+#EXTINF:-1 group-title="🐉天空体育「断流」🐉",SKY SPORTS-橄榄球
+https://epg.pw/stream/246be03cb9ac6d829f2875a787be75e2ffbbd019dc87582ff9ec1d5637566813.ctv
+#EXTINF:-1 group-title="🐉天空体育「断流」🐉",SKY SPORTS F1
+https://epg.pw/stream/9da0153da74525c2ab3b6587886960417baf3c049121696cb30dc38ea43b371b.ctv
+#EXTINF:-1 group-title="🐉贝因体育🐉",法国: BEIN SPORTS 1
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/8298
+#EXTINF:-1 group-title="🐉贝因体育🐉",FR: BEIN SPORTS 2
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/8299
+#EXTINF:-1 group-title="🐉贝因体育🐉",FR: BEIN SPORTS 3
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/8300
+#EXTINF:-1 group-title="🐉贝因体育🐉",FR: BEIN SPORT MAX 4
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/8301
+#EXTINF:-1 group-title="🐉贝因体育🐉",FR: BEIN SPORT MAX 5
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/8302
+#EXTINF:-1 group-title="🐉贝因体育🐉",FR: BEIN SPORT MAX 6
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/8303
+#EXTINF:-1 group-title="🐉贝因体育🐉",FR: BEIN SPORT MAX 7
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/8304
+#EXTINF:-1 group-title="🐉贝因体育🐉",FR: BEIN SPORT MAX 8
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/8305
+#EXTINF:-1 group-title="🐉贝因体育🐉",FR: BEIN SPORT MAX 9
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/8306
+#EXTINF:-1 group-title="🐉贝因体育🐉",FR: BEIN SPORT MAX 10
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/8307
+#EXTINF:-1 group-title="🐉贝因体育🐉",土耳其: BEIN SPORTS 1 VIP
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/7550
+#EXTINF:-1 group-title="🐉贝因体育🐉",TR: BEIN SPORTS 2 VIP
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/7503
+#EXTINF:-1 group-title="🐉贝因体育🐉",TR: BEIN SPORTS 3 VIP
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/7552
+#EXTINF:-1 group-title="🐉贝因体育🐉",TR: BEIN SPORTS 4 VIP
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/7498
+#EXTINF:-1 group-title="🐉贝因体育🐉",TR: BEIN SPORTS MAX 1
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/7502
+#EXTINF:-1 group-title="🐉贝因体育🐉",TR: BEIN SPORTS MAX 2
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/7501
+#EXTINF:-1 group-title="🐉贝因体育🐉",TR: BEIN SPORTS HABER
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/7504
+#EXTINF:-1 group-title="🐉贝因体育🐉",阿拉伯 beIN Sports 1 HD QA
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/6123/index.m3u8
+#EXTINF:-1 group-title="🐉贝因体育🐉",beIN Sports 3 HD QA
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/6124/index.m3u8
+#EXTINF:-1 group-title="🐉贝因体育🐉",beIN Sports 4 HD QA
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/6125/index.m3u8
+#EXTINF:-1 group-title="🐉贝因体育🐉",beIN Sports 5 HD QA
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/6126/index.m3u8
+#EXTINF:-1 group-title="🐉贝因体育🐉",beIN Sports 6 HD QA
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/6127/index.m3u8
+#EXTINF:-1 group-title="🐉贝因体育🐉",beIN Sports 7 HD QA
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/6128/index.m3u8
+#EXTINF:-1 group-title="🐉贝因体育🐉",beIN Sports 1 (Yedek) HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/6817/index.m3u8
+#EXTINF:-1 group-title="🐉贝因体育🐉",beIN Sports 2 HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/6818/index.m3u8
+#EXTINF:-1 group-title="🐉贝因体育🐉",beIN Sports 2 (Yedek) HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/6819/index.m3u8
+#EXTINF:-1 group-title="🐉贝因体育🐉",beIN Sports 3 HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/6820/index.m3u8
+#EXTINF:-1 group-title="🐉贝因体育🐉",beIN Sports 3 (Yedek) HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/6821/index.m3u8
+#EXTINF:-1 group-title="🐉贝因体育🐉",beIN Sports 4 HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/6822/index.m3u8
+#EXTINF:-1 group-title="🐉贝因体育🐉",beIN Sports 4 (Yedek) HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/6823/index.m3u8
+#EXTINF:-1 group-title="🐉贝因体育🐉",beIN Sports Max 1 HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/6824/index.m3u8
+#EXTINF:-1 group-title="🐉贝因体育🐉",阿根廷: BEIN SPORTS 1
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/25106
+#EXTINF:-1 group-title="🐉贝因体育🐉",AR: BEIN SPORTS 2
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/25107
+#EXTINF:-1 group-title="🐉贝因体育🐉",AR: BEIN SPORTS 3
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/25108
+#EXTINF:-1 group-title="🐉贝因体育🐉",AR: BEIN SPORTS 4
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/25110
+#EXTINF:-1 group-title="🐉贝因体育🐉",AR: BEIN SPORTS 5
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/25109
+#EXTINF:-1 group-title="🐉贝因体育🐉",AR: BEIN SPORTS 6
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/25111
+#EXTINF:-1 group-title="🐉贝因体育🐉",AR: BEIN SPORTS 7
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/25112
+#EXTINF:-1 group-title="🐉贝因体育🐉",AR: BEIN SPORTS PREMIUM 1
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/25118
+#EXTINF:-1 group-title="🐉贝因体育🐉",AR: BEIN SPORTS PREMIUM 2
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/25119
+#EXTINF:-1 group-title="🐉贝因体育🐉",AR: BEIN SPORTS PREMIUM 3
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/25120
+#EXTINF:-1 group-title="🐉贝因体育🐉",AR: BEIN SPORTS MAX 1
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/49563
+#EXTINF:-1 group-title="🐉贝因体育🐉",AR: BEIN SPORTS MAX 2
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/49564
+#EXTINF:-1 group-title="🐉贝因体育🐉",AR: BEIN SPORTS MAX 3
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/49565
+#EXTINF:-1 group-title="🐉贝因体育🐉",AR: BEIN SPORTS MAX 4
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/49566
+#EXTINF:-1 group-title="🐉贝因体育🐉",AR: BEIN SPORTS MAX 5
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/49567
+#EXTINF:-1 group-title="🐉贝因体育🐉",AR: BEIN SPORTS MAX 6
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/49568
+#EXTINF:-1 group-title="🐉贝因体育🐉",AR: BEIN SPORTS ENG 1
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/25113
+#EXTINF:-1 group-title="🐉贝因体育🐉",AR: BEIN SPORTS ENG 2
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/25114
+#EXTINF:-1 group-title="🐉贝因体育🐉",AR: BEIN SPORTS ENG 3
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/25115
+#EXTINF:-1 group-title="🐉贝因体育🐉",AR: BEIN SPORTS NBA
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/25116
+#EXTINF:-1 group-title="🐉贝因体育🐉",AR: BEIN SPORTS NEWS
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/25117
+#EXTINF:-1 group-title="🐉贝因体育🐉",AR: BEIN SPORTS XTRA 1
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/25121
+#EXTINF:-1 group-title="🐉TNT体育🐉",TNT SPORTS 1 HD
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/19051/index.m3u8
+#EXTINF:-1 group-title="🐉TNT体育🐉",TNT SPORTS 2 HD
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/19052/index.m3u8
+#EXTINF:-1 group-title="🐉TNT体育🐉",TNT SPORTS 3 HD
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/19053/index.m3u8
+#EXTINF:-1 group-title="🐉TNT体育🐉",TNT SPORTS 4 HD
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/19054/index.m3u8
+#EXTINF:-1 group-title="🐉TNT体育🐉",TNT SPORTS 6 HD
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/19055/index.m3u8
+#EXTINF:-1 group-title="🐉DAZN体育🐉",ES: (FHD) DAZN LALIGA
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/54668
+#EXTINF:-1 group-title="🐉DAZN体育🐉",ES: (FHD repuesto) DAZN LALIGA
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/57359
+#EXTINF:-1 group-title="🐉DAZN体育🐉",ES: (FHD) DAZN F1
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/5593
+#EXTINF:-1 group-title="🐉DAZN体育🐉",ES: (FHD repuesto) DAZN F1
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/57361
+#EXTINF:-1 group-title="🐉DAZN体育🐉",Dazn 1 HD
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/19042/index.m3u8
+#EXTINF:-1 group-title="🐉DAZN体育🐉",Dazn 2 HD
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/19043/index.m3u8
+#EXTINF:-1 group-title="🐉DAZN体育🐉",Dazn F1 HD ES
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/6071/index.m3u8
+#EXTINF:-1 group-title="🐉FOX体育🐉",CNBC
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/962/index.m3u8
+#EXTINF:-1 group-title="🐉FOX体育🐉",NHL Network US
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7225/index.m3u8
+#EXTINF:-1 group-title="🐉FOX体育🐉",NBA TV HD US
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7226/index.m3u8
+#EXTINF:-1 group-title="🐉FOX体育🐉",FOX SPORTS 1 US
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7322/index.m3u8
+#EXTINF:-1 group-title="🐉FOX体育🐉",FOX SPORTS 2 US
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7323/index.m3u8
+#EXTINF:-1 group-title="🐉FOX体育🐉",Fox Sports South
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/19138/index.m3u8
+#EXTINF:-1 group-title="🐉FOX体育🐉",FOX SPORTS ARIZONA HD
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/19139/index.m3u8
+#EXTINF:-1 group-title="🐉FOX体育🐉",FOX SPORTS FLORIDA HD
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/19140/index.m3u8
+#EXTINF:-1 group-title="🐉FOX体育🐉",FOX SPORTS HOUSTON HD
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/19141/index.m3u8
+#EXTINF:-1 group-title="🐉FOX体育🐉",FOX SPORTS PRIME TICKET HD
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/19142/index.m3u8
+#EXTINF:-1 group-title="🐉FOX体育🐉",FOX SPORTS SOUTHWEST PLUS HD
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/19143/index.m3u8
+#EXTINF:-1 group-title="🐉FOX体育🐉",FOX SPORTS SPORTSTIME OHIO HD
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/19144/index.m3u8
+#EXTINF:-1 group-title="🐉FOX体育🐉",FOX SPORTS SUN HD
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/19145/index.m3u8
+#EXTINF:-1 group-title="🐉FOX体育🐉",FOX SPORTS OKLAHOMA HD
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/19146/index.m3u8
+#EXTINF:-1 group-title="🐉4K-体育🐉",4K| ZIGGO SPORT UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1481950&extension=ts&play_token=gLtBiVPSxK
+#EXTINF:-1 group-title="🐉4K-体育🐉",4K| ESPN UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1481941&extension=ts&play_token=sKY5IIYr5G
+#EXTINF:-1 group-title="🐉4K-体育🐉",4K| NESN UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1479774&extension=ts&play_token=PTcqCDhlDS
+#EXTINF:-1 group-title="🐉4K-体育🐉",4K| BLOOMBERG UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1470604&extension=ts&play_token=RKyJdF8nos
+#EXTINF:-1 group-title="🐉4K-体育🐉",4K| CNN UHD 4K
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1470653&extension=ts&play_token=8mTljJtzxT
+#EXTINF:-1 group-title="🐉4K-体育🐉",4K| LOVE NATURE UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1471386&extension=ts&play_token=pefcoTtJSW
+#EXTINF:-1 group-title="🐉4K-体育🐉",4K| SUPERSPORT 360 UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1470603&extension=ts&play_token=cN9nS0kNtO
+#EXTINF:-1 group-title="🐉4K-体育🐉",4K| ASTRO SUPERSPORT UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1479590&extension=ts&play_token=jovvqN66mh
+#EXTINF:-1 group-title="🐉4K-体育🐉",4K| SKY SPORTS F1 UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1471382&extension=ts&play_token=dWS0k7M0i2
+#EXTINF:-1 group-title="🐉4K-体育🐉",4K| SKY SPORTS MAIN EVENT UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1471381&extension=ts&play_token=NfdaYR91V7
+#EXTINF:-1 group-title="🐉4K-体育🐉",4K| VIAPLAY SPORTS UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1471379&extension=ts&play_token=o44Ftys5jf
+#EXTINF:-1 group-title="🐉4K-体育🐉",4K| TNT SPORTS UHD [EVENT]
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1479591&extension=ts&play_token=H2c8UWBBLJ
+#EXTINF:-1 group-title="🐉4K-体育🐉",4K| SKY SPORTS UHD [EVENT]
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1471387&extension=ts&play_token=sDrcFSqIOB
+#EXTINF:-1 group-title="🐉4K-体育🐉",4K| CANAL+ UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1491210&extension=ts&play_token=hTHB9QclKW
+#EXTINF:-1 group-title="🐉4K-体育🐉",4K| UHD 1 BY ASTRA
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1491209&extension=ts&play_token=HKzLesbY6R
+#EXTINF:-1 group-title="🐉4K-体育🐉",4K| QVC UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1491207&extension=ts&play_token=1QpjzhwldC
+#EXTINF:-1 group-title="🐉4K-体育🐉",4K| QVC ZWEI UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1491208&extension=ts&play_token=kRVWdCZytT
+#EXTINF:-1 group-title="🐉4K-体育🐉",4K| FOX REGIONAL UHD (EVENT ONLY)
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1491206&extension=ts&play_token=A0aApMgPD1
+#EXTINF:-1 group-title="🐉4K-体育🐉",4K| FOX UHD (EVENT ONLY)
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1491205&extension=ts&play_token=WtYG0whAzn
+#EXTINF:-1 group-title="🐉4K-体育🐉",4K| COCINA UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1471385&extension=ts&play_token=KsCVLFnmmx
+#EXTINF:-1 group-title="🐉4K-体育🐉",4K| DAZN LA LIGA TV UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1471376&extension=ts&play_token=bLC5UELGSG
+#EXTINF:-1 group-title="🐉4K-体育🐉",4K| DECASA UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1471384&extension=ts&play_token=CJcuV8xXIy
+#EXTINF:-1 group-title="🐉4K-体育🐉",4K| LIGA CAMPEONES UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1471377&extension=ts&play_token=0TtnOqMGCm
+#EXTINF:-1 group-title="🐉4K-体育🐉",4K| ODISEA UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1471383&extension=ts&play_token=pDS0dMqYkp
+#EXTINF:-1 group-title="🐉4K-体育🐉",4K| CANAL+ UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1470621&extension=ts&play_token=ocbWkS2kCc
+#EXTINF:-1 group-title="🐉4K-体育🐉",4K| NOW SPORTS (EPL) UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1470622&extension=ts&play_token=nCQDY8hq1O
+#EXTINF:-1 group-title="🐉4K-体育🐉",4K| 5SPORT UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1470620&extension=ts&play_token=OPXftfm6qk
+#EXTINF:-1 group-title="🐉4K-体育🐉",4K| ELEVEN SPORTS 1 UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1470618&extension=ts&play_token=vppCNEYK05
+#EXTINF:-1 group-title="🐉4K-体育🐉",4K| SPORT TV UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1471378&extension=ts&play_token=s4wYaed9uD
+#EXTINF:-1 group-title="🐉4K-体育🐉",4K| HUB PREMIER UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1470619&extension=ts&play_token=cEKSGTd6ZS
+#EXTINF:-1 group-title="🐉4K-体育🐉",4K| ZEE TV UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1471380&extension=ts&play_token=2Y9fQjjzzS
+#EXTINF:-1 group-title="🐉4K-体育🐉",4K| SKY PRIMAFILA 1 UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1491180&extension=ts&play_token=Tn1WmVuOkU
+#EXTINF:-1 group-title="🐉4K-体育🐉",4K| SKY PRIMAFILA 2 UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1491181&extension=ts&play_token=DBbtTkFI7g
+#EXTINF:-1 group-title="🐉4K-体育🐉",4K| SKY PRIMAFILA 3 UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1491183&extension=ts&play_token=vBmHrIAXfA
+#EXTINF:-1 group-title="🐉4K-体育🐉",4K| SKY PRIMAFILA 4 UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1491184&extension=ts&play_token=jZiLcFQW6p
+#EXTINF:-1 group-title="🐉4K-体育🐉",4K| SKY PRIMAFILA 5 UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1491185&extension=ts&play_token=h1aocx7mRr
+#EXTINF:-1 group-title="🐉4K-体育🐉",4K| SKY PRIMAFILA 6 UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1491186&extension=ts&play_token=JvIdkFcgZ7
+#EXTINF:-1 group-title="🐉4K-体育🐉",4K| SKY PRIMAFILA 7 UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1491187&extension=ts&play_token=p1KGF5CtmN
+#EXTINF:-1 group-title="🐉4K-体育🐉",4K| SKY PRIMAFILA 8 UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1491188&extension=ts&play_token=H8sBapC7J6
+#EXTINF:-1 group-title="🐉4K-体育🐉",4K| SKY PRIMAFILA 9 UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1491189&extension=ts&play_token=0SvPnhr9SC
+#EXTINF:-1 group-title="🐉其他体育🐉",博斯網球
+http://50.7.238.114:8278/bositennis_twn/playlist.m3u8?tid=MA9A5922328659223286&ct=19225&tsum=c83f112dbae37be6d20618138fddcf77
+#EXTINF:-1 group-title="🐉其他体育🐉",博斯網球
+http://50.7.238.114:8278/bositennis_twn/playlist.m3u8?tid=MDCD2148551721485517&ct=19249&tsum=bab41ccd3843b938886a64a656463af0
+#EXTINF:-1 group-title="🐉其他体育🐉",博斯運動II
+http://50.7.238.114:8278/bosisport2_twn/playlist.m3u8?tid=MDBD8051535180515351&ct=19225&tsum=807423eaabbb4cc188843b81db9cd79f
+#EXTINF:-1 group-title="🐉其他体育🐉",博斯運動II
+http://50.7.238.114:8278/bosisport2_twn/playlist.m3u8?tid=ME1E5579129055791290&ct=19234&tsum=7cd9f5d3ef18948f4e6fc12f69e2279e
+#EXTINF:-1 group-title="🐉其他体育🐉",博斯高球2
+http://50.7.238.114:8278/bosigolf2_twn/playlist.m3u8?tid=MF5F9848925298489252&ct=19225&tsum=2600464749aadbcd55d1c32ec071e36e
+#EXTINF:-1 group-title="🐉其他体育🐉",博斯魅力
+http://50.7.238.114:8278/bosisport1_twn/playlist.m3u8?tid=MF6F6900999569009995&ct=19225&tsum=1d6e966a02c88867f2a3234f3a980b7d
+#EXTINF:-1 group-title="🐉其他体育🐉",ASTRO SUPERSPORT 1
+http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/306395
+#EXTINF:-1 group-title="🐉其他体育🐉",ASTRO SUPERSPORT 2
+http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/306397
+#EXTINF:-1 group-title="🐉其他体育🐉",ASTRO SUPERSPORT 4
+http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/306399
+#EXTINF:-1 group-title="🐉其他体育🐉",|UK| EUROSPORT  1 ᵁᴴᴰ
+http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/22226
+#EXTINF:-1 group-title="🐉其他体育🐉",|UK| EUROSPORT 1 ᴴᴰ
+http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/309462
+#EXTINF:-1 group-title="🐉其他体育🐉",|UK| EUROSPORTS ᴴᴰ
+http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10503
+#EXTINF:-1 group-title="🐉其他体育🐉",|UK| EUROSPORT 2 ᵁᴴᴰ
+http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/22225
+#EXTINF:-1 group-title="🐉其他体育🐉",|UK| EUROSPORT 2 ᴴᴰ
+http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/309461
+#EXTINF:-1 group-title="🐉其他体育🐉",|UK| EUROSPORTS ᴴᴰ 2
+http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10502
+#EXTINF:-1 group-title="🐉其他体育🐉",|UK| PREMIER SPORTS ᴴᴰ
+http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10506
+#EXTINF:-1 group-title="🐉其他体育🐉",supersport_motosport-fhd
+https://epg.pw/stream/a3dc42ad0c9a74c9ba5c6e51a29884e79914602c5e38b284567f64eef68ffe23.ctv
+#EXTINF:-1 group-title="🐉其他体育🐉",tntsports4
+https://epg.pw/stream/054e7d4d72ea07976f03474864773060d02020a0766360fcad0a5cb480136ef6.ctv
+#EXTINF:-1 group-title="🐉其他体育🐉",premiersports1
+https://epg.pw/stream/a0f9c1f7038352194c7817ecdd04a78c87cac7976c844bde81531c543b927716.ctv
+#EXTINF:-1 group-title="🐉其他体育🐉",premiersports2
+https://epg.pw/stream/5c2c362aefbba26f64a2ef3f94f06684b5b48b7e60ab19762d5eef0d3e4de46c.ctv
+#EXTINF:-1 group-title="🐉其他体育🐉",tntsports3
+https://epg.pw/stream/7fd73a3cccffde43a148fde71d3c48c34a6ad8924b9eafc8087cb1ba7b48a4b9.ctv
+#EXTINF:-1 group-title="🐉其他体育🐉",tntsports3
+https://epg.pw/stream/7fd73a3cccffde43a148fde71d3c48c34a6ad8924b9eafc8087cb1ba7b48a4b9.ctv
+#EXTINF:-1 group-title="🐉其他体育🐉",premiersports1
+https://epg.pw/stream/a0f9c1f7038352194c7817ecdd04a78c87cac7976c844bde81531c543b927716.ctv
+#EXTINF:-1 group-title="🐉其他体育🐉",premiersports2
+https://epg.pw/stream/5c2c362aefbba26f64a2ef3f94f06684b5b48b7e60ab19762d5eef0d3e4de46c.ctv
+#EXTINF:-1 group-title="🐉其他体育🐉",digi-4k
+https://epg.pw/stream/2630e0dfd64418d3d64337e1ce301bae69cede220c9670a816f9cb1b3d45fe8b.ctv
+#EXTINF:-1 group-title="🐉其他体育🐉",supersport_motosport
+https://epg.pw/stream/a3dc42ad0c9a74c9ba5c6e51a29884e79914602c5e38b284567f64eef68ffe23.ctv
+#EXTINF:-1 group-title="🐉其他体育🐉",tntsports4
+https://epg.pw/stream/054e7d4d72ea07976f03474864773060d02020a0766360fcad0a5cb480136ef6.ctv
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP BEIN SPORTS 1
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29787
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP BEIN SPORTS 2
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29788
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP BEIN SPORTS 4
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29785
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP BEIN SPORTS 7
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29786
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP EUROSPORT 1
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29929
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP EUROSPORT 2
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29928
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP EIR SPORT 1
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29681
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP EIR SPORT 2
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29680
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP BT SPORT 1
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29689
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP BT SPORT 2
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29688
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP BT SPORT 3
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29687
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP BT SPORT EXTRA 1
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29685
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP BT SPORT EXTRA 2
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29684
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP BT SPORT EXTRA 3
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29683
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP BT SPORT EXTRA 4
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29682
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP PREMIERE SPORTS 1
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29925
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP PREMIER SPORTS 2
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29930
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP BT SPORT 4
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29686
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP LALIGA TV
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29926
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP RACING
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29923
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP SKY SPORTS BOX OFFICE (EVENT ONLY)
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29915
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP FREE SPORTS
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29927
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP CARTOONITO
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29690
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP CARTOON NETWORK
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29691
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP BET
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29692
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP MTV CLUB
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29693
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP FIVE
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29694
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP H&H
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29695
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP KERRANG!
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29696
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP MTV
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29697
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP MTV BASE
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29698
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP MTV CLASSIC
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29699
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP MTV DANCE
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29700
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP MTV OMG
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29701
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP MTV ROCKS
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29702
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP RTE ONE
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29703
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP RTE TWO
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29704
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP SAB TV
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29705
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP SONY CHANNEL
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29706
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP STAR BHARAT
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29707
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP STARZ TV
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29709
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP STV
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29710
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP TG 4
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29711
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP UFC FIGHT NIGHT PASS
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29712
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP UNIVERSAL CHANNEL
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29713
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP UTV IRELAND
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29714
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP VH1 CLASSIC
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29715
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP VICELAND
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29716
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP INDIA ZEE CINEMA
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29717
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP VH1
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29719
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP MTV LIVE
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29720
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP SONY MOVIE +1
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29729
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP SONY MOVIE ACTION
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29722
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP SONY MOVIE CHANNEL
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29721
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP TV ONE
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29725
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP VIRGIN MEDIA 1
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29726
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP VIRGIN MEDIA 2
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29728
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP VIRGIN MEDIA 3
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29727
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP BBC SCOTLAND
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29730
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP 4MUSIC
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29731
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP INDIA ZEE TV
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29732
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP BBC FIVE
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29746
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP ANIMAL PLANET
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29789
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP CRIME & INVESTIGATION
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29790
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP DISCOVERY CHANNEL
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29791
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP DISCOVERY HISTORY
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29792
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP DISCOVERY SCIENCE
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29793
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP DISCOVERY TURBO
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29795
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP HISTORY 2
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29796
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP HISTORY
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29797
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP HORSE AND COUNTRY
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29798
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP INVESTIGATION DISCOVERY
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29799
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP MAGIC
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29800
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP NAT GEO WILD
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29801
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP TRAVEL CHANNEL
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29802
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP YESTERDAY
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29803
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP RED BULL
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29804
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP DAVE
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29805
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP E!
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29806
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP GOLD
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29807
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP ITV
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29808
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP ITV2
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29809
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP ITV3
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29810
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP ITV4
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29811
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP SYFY
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29812
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP TLC
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29813
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP WATCH
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29814
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP CBS DRAMA
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29815
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP PARAMOUNT
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29816
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP QVC BEAUTY
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29818
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP QVC EXTRA
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29819
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP QVC STYLE
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29820
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP QUEST +1
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29821
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP ITVBE
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29822
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP BLAZE
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29826
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP DMAX
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29827
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP MORE 4
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29828
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP PICK
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29829
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP QUEST RED
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29830
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP REALLY
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29831
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP S4C
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29832
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP 4SEVEN
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29833
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP 5STAR
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29834
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP 5USA
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29835
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP AMC
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29836
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP BOX NATION
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29837
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP CBS ACTION
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29838
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP CBS JUSTICE
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29839
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP CBS REALITY
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29840
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP CHALLENGE
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29841
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP CHANNEL 4
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29842
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP CHANNEL 5
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29843
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP COMEDY CENTRAL EXTRA
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29844
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP COMEDY CENTRAL
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29845
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP DISNEY CHANNEL
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29846
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP DISNEY XD
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29847
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP DRAMA
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29848
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP E4
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29849
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP FOOD NETWORK
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29850
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP GOOD FOOD
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29851
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP LIFE TIME
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29852
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP LONDON LIVE
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29853
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP 5SELECT
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29854
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP DISNEY JUNIOR
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29855
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP NICK JR TOO
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29877
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP NICK JR
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29878
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP W
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29860
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP TOGETHER
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29861
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP ABP NEWS
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29862
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP B4U MOVIES
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29863
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP B4U PLUS
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29864
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP CHELSEA TV
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29865
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP COLORS EUROPE
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29866
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP RISHTEY
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29867
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP POP
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29868
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP RTE JR
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29869
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP TINY POP
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29870
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP CBEEBIES
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29872
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP BABY TV
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29873
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP BOOMERANG
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29874
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP CITV
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29875
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP CBBC
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29876
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP FILM 4
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29879
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP HORROR CHANNEL
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29880
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP SKY CINEMA COMEDY
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29881
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP SKY CINEMA FAMILY
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29882
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP SKY CINEMA PREMIERE
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29883
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP SKY CINEMA SCI-FI
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29884
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP SKY CINEMA SELECT
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29885
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP SKY CINEMA SHOWCASE
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29886
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP SKY CINEMA THRILLER
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29887
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP SKY CINEMA DISNEY
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29890
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP SKY CINEMA GREATS
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29891
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP SKY CINEMA HITS
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29892
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP SKY CINEMA ACTION
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29893
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP SKY CINEMA ANIMATION
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29941
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP SKY CINEMA CRIME & THRILLER
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29942
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP SKY CINEMA DRAMA
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29943
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP SKY CINEMA MUSICALS
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29944
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP SKY CINEMA ACTION N ADVENTURE
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29980
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP TCM MOVIES
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29888
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP GREAT! MOVIES
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29889
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP TALKING PICTURES
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29896
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP FRANCE 24
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29897
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP AL JAZEERA
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29898
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP BLOOMBERG
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29899
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP BBC ONE
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29900
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP BBC TWO
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29823
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP BBC THREE
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29824
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP BBC FOUR
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29825
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP BBC ALBA
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29901
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP BBC NEWS
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29902
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP BBC WORLD NEWS
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29905
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP BBC ENTERTAINMENT
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29912
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP BBC TWO ENG
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29932
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP BBC TWO NORTHERN IRELAND
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29960
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP BBC TWO (SCOTLAND)
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29963
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP CNBC
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29906
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP CNN
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29907
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP FOX
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29908
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP FOX NEWS
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29909
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP RTE NEWS NOW
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29910
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP EURONEWS
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29911
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP RUSSIA TODAY NEWS
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29913
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP SKY 1
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29916
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP SKY 2
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29917
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP SKY CRIME
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29981
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP SKY DOCUMENTARIES
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29982
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP SKY NATURE
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29983
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP SKY ARTS
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29857
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP SKY WITNESS
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29858
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP SKY ATLANTIC
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29859
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP SKY NEWS
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29914
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP AT THE RACES
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29919
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP EDEN
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29920
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP MOTORS TV
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29921
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP MUTV
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29922
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP LIVERPOOL FC
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29924
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP ALIBI
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29931
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP ESPN
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29933
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP BBC PARLIAMENT
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29947
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP NICKTOONS
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29934
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP PARAMOUNT NETWORK
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29935
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP QUEST
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29936
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP RTE 1
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29937
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP RTE 2
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29938
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP RTE NEWS
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29939
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP RT NEWS
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29940
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP COLORS
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29945
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP HOME
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29946
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP CHANNEL AKA
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29948
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP NHK WORLD
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29949
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP ALJAZEERA NEWS ENGLISH
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29950
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP ROK TV
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29951
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP ZING
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29952
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP VIVA
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29953
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP TRAVEL XP
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29954
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP PBS AMERICA
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29955
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP NOW 90S
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29956
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP NOW 80S
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29957
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP NOW 70S
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29958
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP BRITISH MUSLIM
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29959
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP ARY DIGITAL
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29961
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP B4U MUSIC
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29962
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP GB NEWS
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29964
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP GEO TV
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29965
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP HGTV
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29966
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP HUM EUROPE
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29967
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP HUM MASALA
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29968
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP LAW & CRIMEHD
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29969
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP LOVE NATURE
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29970
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP MTV HITS
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29971
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP MTV MUSIC
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29972
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP NAT GEO
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29973
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP NICKELODEON
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29974
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP PEACE TV
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29975
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP SONY MAX
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29976
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP SONY MAX 2
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29977
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP SONY SAB
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29978
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP SHOWCASE
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29979
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: Sky News
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29989
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP TRT WORLD
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29984
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP UTV
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29985
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP Sky Store 1
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/49557
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP Sky Store 2
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/49558
+#EXTINF:-1 group-title="🐉英国体育🐉",UK: VIP Sky Store 4
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/49560
+#EXTINF:-1 group-title="🐉法国体育🐉",FR: EUROSPORT 1
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/8313
+#EXTINF:-1 group-title="🐉法国体育🐉",FR: EUROSPORT 2
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/8314
+#EXTINF:-1 group-title="🐉法国体育🐉",FR: EUROSPORT 360 1
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/8315
+#EXTINF:-1 group-title="🐉法国体育🐉",FR: EUROSPORT 360 2
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/8316
+#EXTINF:-1 group-title="🐉法国体育🐉",FR: EUROSPORT 360 3
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/8317
+#EXTINF:-1 group-title="🐉法国体育🐉",FR: RMC SPORT 1
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/8338
+#EXTINF:-1 group-title="🐉法国体育🐉",FR: RMC SPORT 2
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/8339
+#EXTINF:-1 group-title="🐉法国体育🐉",FR: RMC SPORT 3
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/8340
+#EXTINF:-1 group-title="🐉法国体育🐉",FR: RMC SPORT 4
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/8341
+#EXTINF:-1 group-title="🐉法国体育🐉",FR: RMC SPORT 5 LIVE
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/8342
+#EXTINF:-1 group-title="🐉法国体育🐉",FR: RMC SPORT 6 LIVE
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/8343
+#EXTINF:-1 group-title="🐉法国体育🐉",FR: RMC SPORT 7 LIVE
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/8344
+#EXTINF:-1 group-title="🐉法国体育🐉",FR: RMC SPORT 8 LIVE
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/8345
+#EXTINF:-1 group-title="🐉法国体育🐉",FR: RMC SPORT 9 LIVE
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/8346
+#EXTINF:-1 group-title="🐉法国体育🐉",FR: RMC SPORT 10 LIVE
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/8347
+#EXTINF:-1 group-title="🐉法国体育🐉",FR: RMC SPORT 11 LIVE
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/8348
+#EXTINF:-1 group-title="🐉法国体育🐉",FR: RMC SPORT 12 LIVE
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/8349
+#EXTINF:-1 group-title="🐉法国体育🐉",FR: RMC SPORT 13 LIVE
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/8350
+#EXTINF:-1 group-title="🐉法国体育🐉",FR: RMC SPORT NEWS
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29306
+#EXTINF:-1 group-title="🐉法国体育🐉",FR: AMAZON PRIME 1 (MATCH TIME)
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/8322
+#EXTINF:-1 group-title="🐉法国体育🐉",FR: AMAZON PRIME 2 (MATCH TIME)
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/8323
+#EXTINF:-1 group-title="🐉法国体育🐉",FR: AMAZON PRIME 3 (MATCH TIME)
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/8324
+#EXTINF:-1 group-title="🐉法国体育🐉",FR: AMAZON PRIME 4 (MATCH TIME)
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/8325
+#EXTINF:-1 group-title="🐉法国体育🐉",FR: AMAZON PRIME 5 (MATCH TIME)
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/8326
+#EXTINF:-1 group-title="🐉法国体育🐉",FR: AMAZON PRIME 6 (MATCH TIME)
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/8327
+#EXTINF:-1 group-title="🐉法国体育🐉",FR: AMAZON PRIME 7 (MATCH TIME)
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/8328
+#EXTINF:-1 group-title="🐉法国体育🐉",FR: AMAZON PRIME 8 (MATCH TIME)
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29659
+#EXTINF:-1 group-title="🐉法国体育🐉",FR: AMAZON PRIME 9 (MATCH TIME)
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/29658
+#EXTINF:-1 group-title="🐉法国体育🐉",FR: AMAZON PRIME 10 (MATCH TIME)
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/8331
+#EXTINF:-1 group-title="🐉法国体育🐉",FR: AMAZON PRIME 11 HD (only events)
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/57462
+#EXTINF:-1 group-title="🐉法国体育🐉",FR: AMAZON PRIME 12 HD (only events)
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/57463
+#EXTINF:-1 group-title="🐉法国体育🐉",FR: AMAZON PRIME 13 HD (only events)
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/57464
+#EXTINF:-1 group-title="🐉法国体育🐉",FR: AMAZON PRIME 14 HD (only events)
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/57465
+#EXTINF:-1 group-title="🐉法国体育🐉",FR: AMAZON PRIME 15 HD (only events)
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/57466
+#EXTINF:-1 group-title="🐉法国体育🐉",FR: AMAZON PRIME 16 HD (only events)
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/57467
+#EXTINF:-1 group-title="🐉法国体育🐉",FR: AMAZON PRIME 17 HD (only events)
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/57468
+#EXTINF:-1 group-title="🐉法国体育🐉",FR: AMAZON PRIME 18 HD (only events)
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/57469
+#EXTINF:-1 group-title="🐉法国体育🐉",FR: AMAZON PRIME 19 HD (only events)
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/57470
+#EXTINF:-1 group-title="🐉法国体育🐉",FR: AMAZON PRIME 20 HD (only events)
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/57471
+#EXTINF:-1 group-title="🐉法国体育🐉",FR: MULTISPORTS 1
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/53833
+#EXTINF:-1 group-title="🐉法国体育🐉",FR: MULTISPORTS 2
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/53834
+#EXTINF:-1 group-title="🐉法国体育🐉",FR: MULTISPORTS 3
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/53835
+#EXTINF:-1 group-title="🐉法国体育🐉",FR: MULTISPORTS 4
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/53836
+#EXTINF:-1 group-title="🐉法国体育🐉",FR: MULTISPORTS 5
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/53837
+#EXTINF:-1 group-title="🐉法国体育🐉",FR: MULTISPORTS 6
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/53838
+#EXTINF:-1 group-title="🐉法国体育🐉",FR: EXTREME SPORTS
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/8215
+#EXTINF:-1 group-title="🐉法国体育🐉",FR: INFOSPORT+
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/8214
+#EXTINF:-1 group-title="🐉法国体育🐉",FR: EQUIDIA
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/8109
+#EXTINF:-1 group-title="🐉法国体育🐉",FR: L EQUIPE
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/8126
+#EXTINF:-1 group-title="🐉法国体育🐉",FR: AUTOMOTO
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/8085
+#EXTINF:-1 group-title="🐉法国体育🐉",FR: GOLF+
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/57342
+#EXTINF:-1 group-title="🐉法国体育🐉",FR: GOLF Channel
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/57377
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP BABY FIRST
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50344
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP CARTOON NETWORK PACIFIC
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50345
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP PBS KIDS
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50346
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP NEWS 12 THE BRONX
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50347
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP NEWS 12 NEW JERSEY
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50348
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP NEWS MAX
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50349
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP CARTOON NETWORK
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50350
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP TNT EAST
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50351
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP MTV ROCKS
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50352
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: (WLMT) MEMPHIS
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50353
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: WGN 9
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50354
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP THRILLER MAX
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50355
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: WGN AMERICA
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50356
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: WE TV
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50357
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP BLAZE TV
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50358
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP USA NETWORK EAST
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50359
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: FOX Sports FHD/4K
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50360
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP UFC CHANNEL
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50361
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP TRAVEL CHANNEL WEST
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50362
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP SNY HD
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50363
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP SMITHSONIAN CHANNEL EAST
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50364
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP PIXL
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50365
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP PAC-12 BAY AREA
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50366
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP OXYGEN (WEST)
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50367
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP NICK MUSIC
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50368
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP NESN BOSTON
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50369
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP NBN USA
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50370
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP MTV2
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50371
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP MTVU
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50372
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP MSG 2+
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50373
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP LMN
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50374
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP GRIT
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50375
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP GINX ESPORTS
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50376
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP FOX SPORTS CAROLINAS
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50377
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP FOX SPORTS ARIZONA PLUS
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50378
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP FNTSY SPORTS NETWORK
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50379
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP CORONA VIRUS
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50380
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP CHEDDAR NEWS
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50381
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP BRAVO (EAST)
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50382
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP VH1 EAST
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50383
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP TV LAND EAST
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50384
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP SCIENCE
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50385
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP DISCOVERY CHANNEL (EAST)
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50386
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP BET (EAST)
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50387
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP EPL 1 (MATCH TIME)
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50388
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP EPL 10 (MATCH TIME)
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50389
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP EPL 11 (MATCH TIME)
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50390
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP EPL 2 (MATCH TIME)
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50391
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP EPL 3 (MATCH TIME)
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50392
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP EPL 4 (MATCH TIME)
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50393
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP EPL 5 (MATCH TIME)
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50394
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: YES NETWORK
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50395
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP 5 STARMAX
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50396
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP CINEMAX ACTION
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50397
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP THE WORLD NETWORK
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50398
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP CINEMAX ACTION EAST
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50399
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP HBO 2 WEST
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50400
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP USA CW
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50401
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP BEIN SPORTS 1
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50402
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP EURONEWS
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50403
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP CINEMAX
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50404
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP BOX NATION
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50405
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP LFC TV
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50406
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP STADIUM
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50407
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP EUGENE NBC KMTR
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50408
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP CW
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50409
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP COURT TV MYSTERY
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50410
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP MUTV
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50411
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP SHOWTIME WOMEN
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50412
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP USA STARZ ENCORE
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50413
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP MYRTLE BEACH
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50414
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP LAFAYETTE NBC KLAF
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50415
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP CINEMAX 5 STAR MAX
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50416
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP FIGHT NETWORK / MMA NETWORK
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50417
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP HBO 2 COMEDY
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50418
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP SPORTSNET ONTARIO (PREMIER LEAGUE)
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50419
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP TVG NETWORK
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50420
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP MOTOR TREND
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50421
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP HDNET MOVIES
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50422
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP HBO EAST
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50423
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP HBO WEST
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50424
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP SHOWTIME FAMILY ZONE
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50425
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP SPORTSMAN CHANNEL
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50426
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP SHOWTIME NEXT
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50427
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP SHOWTIME BEYOND
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50428
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP PAC-12 WASHINGTON
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50429
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP PAC-12 OREGON
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50430
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP PAC-12 LOS ANGELES
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50431
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP PAC-12 ARIZONA
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50432
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP MSG+
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50433
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP MSG 2
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50434
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP MAV TV
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50435
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP ET LIVE
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50436
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP UFC NETWORK
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50437
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP MORE MAX
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50438
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP ACTION MAX
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50439
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP CINEMA 16 PPV
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50440
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP CINEMA 15 PPV
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50441
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP CINEMA 14 PPV
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50442
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP CINEMA 12 PPV
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50443
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP CINEMA 11 PPV
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50444
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP CINEMA 10 PPV
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50445
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP CINEMA 09 PPV
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50446
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP CINEMA 08 PPV
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50447
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP CINEMA 07 PPV
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50448
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP CINEMA 06 PPV
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50449
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP CINEMA 05 PPV
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50450
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP CINEMA 04 PPV
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50451
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP CINEMA 03 PPV
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50452
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP CINEMA 02 PPV
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50453
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP CINEMA 01 PPV
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50454
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP GOLTV (ENGLISH)
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50455
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP FUBO SPORTS NETWORK
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50456
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP FIY
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50457
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP FIGHT
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50458
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP SPORTSNET NEW YORK
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50459
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP ACC NETWORK
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50460
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP GOLF CHANNEL
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50461
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: WILLOW CRICKET
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50462
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP RETRO PLEX
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50463
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP INDIE PLEX
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50464
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP MOVIE PLEX
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50465
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP HBO 2
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50466
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP CINEMAX WEST
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50467
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP SHOWTIME WEST
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50468
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP SEC NETWORK
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50469
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP OUTDOOR CHANNEL
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50470
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: WORLD FISHING NETWORK
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50471
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP MSG
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50472
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP TSN 5
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50473
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP TSN 4
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50474
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP TSN 3
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50475
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP TSN 2
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50476
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP TSN 1
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50477
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP FASHION TV
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50478
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP BUZZR
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50479
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP SHOWTIME 2
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50480
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: WWE NETWORK
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50481
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP HBO ZONE
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50482
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP SHOWTIME PACIFIC & BEYOND
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50483
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP SHOWTIME EXTREME
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50484
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP SHOWTIME SHOWCASE
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50485
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP SPIKE TV
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50486
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP TENNIS CHANNEL
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50487
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: WEATHER CHANNEL
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50488
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP HBO SIGNATURE
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50489
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP HBO FAMILY
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50490
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP HBO COMEDY
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50491
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP GSN
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50492
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP CINEMAX MORE MAX
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50493
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP CINEMAX ACTION MAX
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50494
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP C-SPAN 3
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50495
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP BIG TEN NETWORK
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50496
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP A&E
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50497
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP STADIUM 3
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50498
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP OUTSIDE TV
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50499
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP UNIVERSO
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50500
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP LONGHORN NETWORK
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50501
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP SHOWTIME EAST
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50502
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP CINE SONY
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50503
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP MGM
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50504
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP ANIMAL PLANET
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50505
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP DISNEY CHANNEL PACIFIC
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50506
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP INVESTIGATION DISCOVERY
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50507
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP FUSION
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50508
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP HBO
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50509
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP CINEMAX EAST
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50510
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP BBC WORLD NEWS
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50511
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP BALLY SPORTS SOUTH WEST
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50512
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP BALLY SPORTS SOUTH WEST PLUS
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50513
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP NAT GEO EAST
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50514
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP HISTORY CHANNEL
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50515
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP CRIME & INVESTIGATION
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50516
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP AMERICAN HEROES CHANNEL
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50517
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP DESTINATION AMERICA
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50518
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP SMITHSONIAN CHANNEL
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50519
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP NAT GEO
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50520
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP NAT GEO WILD
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50521
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP DISCOVERY TLC
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50522
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP DISCOVERY CHANNEL (WEST)
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50523
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP DISCOVERY SCIENCE
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50524
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP DISCOVERY LIFE
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50525
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP DISCOVERY FAMILY CHANNEL
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50526
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP NAT GEO PACIFIC
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50527
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP GUSTO TV
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50528
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP VELOCITY
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50529
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP TBN
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50530
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP BOUNCE TV
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50531
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP EPIX 2
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50532
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP EPIX DRIVE IN
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50533
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP TASTEMADE
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50534
+#EXTINF:-1 group-title="🐉美国体育🐉",USA: VIP BET
+http://test.gyraci.xyz:8080/101713076012154/b31cb20dec81/50535
