@@ -5472,6 +5472,11 @@ BRTV体育休闲,http://114.254.85.117:2222/rtp/239.3.1.243:8000
 卡酷少儿,http://39.134.66.66/PLTV/88888888/224/3221225562/index.m3u8
 
 🦄上海频道,#genre#
+新闻综合,http://php.jdshipin.com:8880/bst.php?id=xwzhhd/4000000
+上海都市,http://php.jdshipin.com:8880/bst.php?id=ylpdhd/4000000
+上海外语,http://php.jdshipin.com:8880/bst.php?id=wypdhd/4000000
+上海教育,http://php.jdshipin.com:8880/bst.php?id=setvhd/8000000
+
 新闻综合,http://tv.twwhwn.cn:4022/udp/239.45.3.209:5140
 上海都市,http://tv.twwhwn.cn:4022/udp/239.45.3.236:5140
 东方影视,http://tv.twwhwn.cn:4022/udp/239.45.3.237:5140 
