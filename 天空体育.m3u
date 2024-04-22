@@ -1,0 +1,898 @@
+#EXTM3U
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE local
+
+#EXTINF:-1 group-title="🐉国内体育🐉",五星体育
+http://180.158.49.188:4022/udp/239.45.3.210:5140
+#EXTINF:-1 group-title="🐉国内体育🐉",五星体育
+http://58.37.91.53:4000/udp/239.45.3.210:5140
+#EXTINF:-1 group-title="🐉国内体育🐉",五星体育
+http://php.jdshipin.com:8880/bst.php?id=wxtyhd8m/8000000
+#EXTINF:-1 group-title="🐉国内体育🐉",五星体育
+http://php.jdshipin.com:8880/bst.php?id=ssty/4000000
+#EXTINF:-1 group-title="🐉国内体育🐉",五星体育「组播」
+http://58.37.189.39:8088/udp/239.45.3.210:5140
+#EXTINF:-1 group-title="🐉国内体育🐉",五星体育「组播」
+http://222.71.11.180:4022/udp/239.45.3.210:5140
+#EXTINF:-1 group-title="🐉国内体育🐉",五星体育「组播」
+http://116.233.174.144:10000/udp/239.45.3.210:5140
+#EXTINF:-1 group-title="🐉国内体育🐉",五星体育「组播」
+http://101.83.128.184:4022/udp/239.45.3.210:5140
+#EXTINF:-1 group-title="🐉国内体育🐉",广东体育
+http://125.92.140.53:8888/udp/239.77.0.112:5146
+#EXTINF:-1 group-title="🐉国内体育🐉",广东体育
+http://183.11.239.36:808/hls/2/index.m3u8
+#EXTINF:-1 group-title="🐉国内体育🐉",广东体育
+http://api.52tb.xyz/info?id=413&token=20230331fbulna
+#EXTINF:-1 group-title="🐉国内体育🐉",广东体育
+http://ddns.cyruslee.top:8888/udp/239.77.0.112:5146
+#EXTINF:-1 group-title="🐉国内体育🐉",广东体育
+http://ddns.cyruslee.top:8888/udp/239.77.0.168:5146
+#EXTINF:-1 group-title="🐉国内体育🐉",CCTV-5 体育「IPV6」
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+#EXTINF:-1 group-title="🐉国内体育🐉",CCTV-5 体育「IPV6」
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638727e617ca0/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSPTZ4CK5oLfjaEYe9dogNMSXw4ajlL%2FoUYC2RZQQDco6uQSifXBocz5ID6RePfIKQ4rFWiHjq%2FeZoDmrzW%2FKlw
+#EXTINF:-1 group-title="🐉国内体育🐉",CCTV-5+ 赛事「IPV6」
+http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000132/index.m3u8?IAS
+#EXTINF:-1 group-title="🐉国内体育🐉",CCTV-5+ 赛事「IPV6」
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63872908d48f9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSBx06ZL9Bo6JOM%2BSTjxZRK254G1jtietGzDaHvFNRtjXOvFnbf%2BTao33JqYlfMYYn2z3agOn9gvNMT9KmBaR9o
+#EXTINF:-1 group-title="🏎F1赛事🏎",4K| SKY SPORTS F1 UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1471382&extension=ts&play_token=dWS0k7M0i2
+#EXTINF:-1 group-title="🏎F1赛事🏎",4K| SKY SPORTS MAIN EVENT UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1471381&extension=ts&play_token=NfdaYR91V7
+#EXTINF:-1 group-title="🏎F1赛事🏎",Dazn F1 HD ES
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/6071/index.m3u8
+#EXTINF:-1 group-title="🏎F1赛事🏎",Dazn F1 HD ES
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/6071/index.m3u8
+#EXTINF:-1 group-title="🏎F1赛事🏎",sky Sport F1 DE
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/19022/index.m3u8
+#EXTINF:-1 group-title="🏎F1赛事🏎",Sky Sport F1 FHD DE
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/10079/index.m3u8
+#EXTINF:-1 group-title="🏎F1赛事🏎",SKY SPORTS F1 UK
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7342/index.m3u8
+#EXTINF:-1 group-title="🏌🏻‍♂️高尔夫赛事🏌🏻‍♂️",Golf Channel HD CA
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/6481/index.m3u8
+#EXTINF:-1 group-title="🏌🏻‍♂️高尔夫赛事🏌🏻‍♂️",Ziggo Sport Golf NL
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/2559/index.m3u8
+#EXTINF:-1 group-title="🏌🏻‍♂️高尔夫赛事🏌🏻‍♂️",Golf Channel HD
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/30089/index.m3u8
+#EXTINF:-1 group-title="🏌🏻‍♂️高尔夫赛事🏌🏻‍♂️",Golf TV FR
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/6066/index.m3u8
+#EXTINF:-1 group-title="🏌🏻‍♂️高尔夫赛事🏌🏻‍♂️",Sport Klub Golf HR
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/7277/index.m3u8
+#EXTINF:-1 group-title="🏌🏻‍♂️高尔夫赛事🏌🏻‍♂️",Golf Channel
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/31501/index.m3u8
+#EXTINF:-1 group-title="🏌🏻‍♂️高尔夫赛事🏌🏻‍♂️",C MORE GOLF HD SE
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/12033/index.m3u8
+#EXTINF:-1 group-title="🏌🏻‍♂️高尔夫赛事🏌🏻‍♂️",Movistar Golf HD ES
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/6075/index.m3u8
+#EXTINF:-1 group-title="🏌🏻‍♂️高尔夫赛事🏌🏻‍♂️",VIASAT SPORT GOLF HD SE
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/12077/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育①🏆[IPV4]",👉有比赛时才会放直播画面👈
+https://cloud.lxweb.cn/f/KkbRsX/1.MOV
+#EXTINF:-1 group-title="🏆咪咕体育①🏆[IPV4]",👉请留意赛事直播时间观看👈
+https://cloud.lxweb.cn/f/KkbRsX/1.MOV
+#EXTINF:-1 group-title="🏆咪咕体育①🏆[IPV4]",咪咕体育2
+http://39.134.66.66/PLTV/88888888/224/3221225643/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育①🏆[IPV4]",咪咕体育2
+http://39.134.66.66/PLTV/88888888/224/3221225648/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育①🏆[IPV4]",咪咕体育3
+http://39.134.66.66/PLTV/88888888/224/3221225639/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育①🏆[IPV4]",咪咕体育4
+http://39.134.66.66/PLTV/88888888/224/3221225652/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育①🏆[IPV4]",咪咕体育5
+http://39.134.66.66/PLTV/88888888/224/3221225647/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育①🏆[IPV4]",咪咕体育6
+http://39.134.66.66/PLTV/88888888/224/3221225645/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育①🏆[IPV4]",咪咕体育7
+http://39.134.66.66/PLTV/88888888/224/3221225650/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育①🏆[IPV4]",咪咕体育8
+http://39.134.66.66/PLTV/88888888/224/3221225641/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育①🏆[IPV4]",咪咕体育10
+http://39.134.66.66/PLTV/88888888/224/3221225651/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育①🏆[IPV4]",咪咕体育11
+http://39.134.66.66/PLTV/88888888/224/3221225619/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育①🏆[IPV4]",咪咕体育12
+http://39.134.66.66/PLTV/88888888/224/3221225611/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育①🏆[IPV4]",咪咕体育13
+http://39.134.66.66/PLTV/88888888/224/3221225649/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育①🏆[IPV4]",咪咕体育14
+http://39.134.66.66/PLTV/88888888/224/3221225620/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育①🏆[IPV4]",咪咕体育15
+http://39.134.66.66/PLTV/88888888/224/3221225613/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育①🏆[IPV4]",咪咕体育16
+http://39.134.66.66/PLTV/88888888/224/3221225658/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育①🏆[IPV4]",咪咕体育8M3
+http://39.134.66.66/PLTV/88888888/224/3221225758/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育①🏆[IPV4]",咪咕体育8M7
+http://39.134.66.66/PLTV/88888888/224/3221225760/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育①🏆[IPV4]",咪咕体育8M8
+http://39.134.66.66/PLTV/88888888/224/3221225756/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育①🏆[IPV4]",咪咕体育8M10
+http://39.134.66.66/PLTV/88888888/224/3221225735/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育①🏆[IPV4]",咪咕体育8M12
+http://39.134.66.66/PLTV/88888888/224/3221225739/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育①🏆[IPV4]",咪咕体育8M13
+http://39.134.66.66/PLTV/88888888/224/3221225654/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育①🏆[IPV4]",咪咕体育30M2160HDR
+http://39.134.66.66/PLTV/88888888/224/3221225655/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育②🏆[IPV4]",👉有比赛时才会放直播画面👈
+https://cloud.lxweb.cn/f/KkbRsX/1.MOV
+#EXTINF:-1 group-title="🏆咪咕体育②🏆[IPV4]",👉请留意赛事直播时间观看👈
+https://cloud.lxweb.cn/f/KkbRsX/1.MOV
+#EXTINF:-1 group-title="🏆咪咕体育②🏆[IPV4]",咪咕体育 8M
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育②🏆[IPV4]",咪咕体育 8M
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育②🏆[IPV4]",咪咕体育 8M
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育②🏆[IPV4]",咪咕体育 8M
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育②🏆[IPV4]",咪咕体育1
+http://39.134.66.2/PLTV/88888888/224/3221225658/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育②🏆[IPV4]",咪咕体育2
+http://39.134.66.2/PLTV/88888888/224/3221225649/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育②🏆[IPV4]",咪咕体育3
+http://39.134.66.2/PLTV/88888888/224/3221225611/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育②🏆[IPV4]",咪咕体育4
+http://39.134.66.2/PLTV/88888888/224/3221225613/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育②🏆[IPV4]",咪咕体育6
+http://39.134.66.2/PLTV/88888888/224/3221225619/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育②🏆[IPV4]",咪咕体育7
+http://39.134.66.2/PLTV/88888888/224/3221225620/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育②🏆[IPV4]",咪咕体育8
+http://39.134.66.2/PLTV/88888888/224/3221225639/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育②🏆[IPV4]",咪咕体育9
+http://39.134.66.2/PLTV/88888888/224/3221225641/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育②🏆[IPV4]",咪咕体育10
+http://39.134.66.2/PLTV/88888888/224/3221225643/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育②🏆[IPV4]",咪咕体育11
+http://39.134.66.2/PLTV/88888888/224/3221225645/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育②🏆[IPV4]",咪咕体育12
+http://39.134.66.2/PLTV/88888888/224/3221225647/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育②🏆[IPV4]",咪咕体育13
+http://39.134.66.2/PLTV/88888888/224/3221225648/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育②🏆[IPV4]",咪咕体育14
+http://39.134.66.2/PLTV/88888888/224/3221225650/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育②🏆[IPV4]",咪咕体育15
+http://39.134.66.2/PLTV/88888888/224/3221225652/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育②🏆[IPV4]",咪咕体育16
+http://39.134.66.2/PLTV/88888888/224/3221225733/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育②🏆[IPV4]",咪咕体育17
+http://39.134.66.2/PLTV/88888888/224/3221225735/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育②🏆[IPV4]",咪咕体育18
+http://39.134.66.2/PLTV/88888888/224/3221225737/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育②🏆[IPV4]",咪咕体育19
+http://39.134.66.2/PLTV/88888888/224/3221225739/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育②🏆[IPV4]",咪咕体育24
+http://39.134.66.2/PLTV/88888888/224/3221225754/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育②🏆[IPV4]",咪咕体育25
+http://39.134.66.2/PLTV/88888888/224/3221225756/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育②🏆[IPV4]",咪咕体育26
+http://39.134.66.2/PLTV/88888888/224/3221225758/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育②🏆[IPV4]",咪咕体育27
+http://39.134.66.2/PLTV/88888888/224/3221225760/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育②🏆[IPV4]",咪咕体育46
+http://39.135.134.67/000000001000/3000000001000028638/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育②🏆[IPV4]",咪咕体育47
+http://39.135.134.67/000000001000/3000000001000008379/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育②🏆[IPV4]",咪咕体育48
+http://39.135.134.67/000000001000/3000000001000008001/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育②🏆[IPV4]",咪咕体育49
+http://39.135.134.67/000000001000/3000000001000031494/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育②🏆[IPV4]",咪咕体育50
+http://39.135.134.67/000000001000/3000000001000008176/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育②🏆[IPV4]",咪咕体育51
+http://39.135.134.34/000000001000/3000000001000010129/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育②🏆[IPV4]",咪咕体育52
+http://39.135.134.67/000000001000/3000000001000010948/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育②🏆[IPV4]",咪咕体育54
+http://39.135.134.67/000000001000/3000000001000005308/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育②🏆[IPV4]",咪咕体育55
+http://39.135.134.67/000000001000/3000000001000005969/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育②🏆[IPV4]",咪咕体育57
+http://39.135.137.203/000000001000/3000000010000027691/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育②🏆[IPV4]",咪咕体育58
+http://39.135.137.203/000000001000/3000000010000015560/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育②🏆[IPV4]",咪咕体育59
+http://39.135.137.205/000000001000/3000000010000002809/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育②🏆[IPV4]",咪咕体育61
+http://39.135.137.206/000000001000/3000000010000000097/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育②🏆[IPV4]",咪咕体育61
+http://39.135.137.205/000000001000/3000000010000006077/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育②🏆[IPV4]",咪咕体育62
+http://39.135.137.203/000000001000/3000000010000012558/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育②🏆[IPV4]",咪咕体育63
+http://39.135.137.208/000000001000/3000000010000023434/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育②🏆[IPV4]",咪咕体育64
+http://39.135.137.203/000000001000/3000000010000003915/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育②🏆[IPV4]",咪咕体育65
+http://39.135.137.205/000000001000/3000000010000004193/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育②🏆[IPV4]",咪咕体育66
+http://39.135.137.205/000000001000/3000000010000021904/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育②🏆[IPV4]",咪咕体育67
+http://39.135.137.207/000000001000/3000000010000011297/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育②🏆[IPV4]",咪咕体育68
+http://39.135.137.208/000000001000/3000000010000006658/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育②🏆[IPV4]",咪咕体育69
+http://39.135.137.205/000000001000/3000000010000010833/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育②🏆[IPV4]",咪咕体育70
+http://39.135.137.203/000000001000/3000000010000025380/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育②🏆[IPV4]",咪咕体育71
+http://39.135.137.209/000000001000/3000000010000015686/index.m3u8
+#EXTINF:-1 group-title="🏆咪咕体育②🏆[IPV4]",咪咕体育72
+http://39.135.137.208/000000001000/3000000010000005180/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育①🥇[IPV6]",👉有比赛时才会放直播画面👈
+https://cloud.lxweb.cn/f/KkbRsX/1.MOV
+#EXTINF:-1 group-title="🥇咪咕体育①🥇[IPV6]",👉请留意赛事直播时间观看👈
+https://cloud.lxweb.cn/f/KkbRsX/1.MOV
+#EXTINF:-1 group-title="🥇咪咕体育①🥇[IPV6]",咪咕体育
+http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育①🥇[IPV6]",咪咕体育-1
+http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225611/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育①🥇[IPV6]",咪咕体育-3
+http://[2409:8087:1a01:df::4017]/PLTV/88888888/224/3221225619/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育①🥇[IPV6]",咪咕体育-4
+http://[2409:8087:1a01:df::4058]/PLTV/88888888/224/3221225620/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育①🥇[IPV6]",咪咕体育-5
+http://[2409:8087:1a01:df::4015]/PLTV/88888888/224/3221225639/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育①🥇[IPV6]",咪咕体育-6
+http://[2409:8087:1a01:df::4015]/PLTV/88888888/224/3221225641/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育①🥇[IPV6]",咪咕体育-7
+http://[2409:8087:1a01:df::4011]/PLTV/88888888/224/3221225643/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育①🥇[IPV6]",咪咕体育-8
+http://[2409:8087:1a01:df::4002]/PLTV/88888888/224/3221225645/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育①🥇[IPV6]",咪咕体育-9
+http://[2409:8087:1a01:df::4016]/PLTV/88888888/224/3221225647/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育①🥇[IPV6]",咪咕体育-10
+http://[2409:8087:1a01:df::4022]/PLTV/88888888/224/3221225648/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育①🥇[IPV6]",咪咕体育-11
+http://[2409:8087:1a01:df::402a]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育①🥇[IPV6]",咪咕体育-12
+http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育①🥇[IPV6]",咪咕体育-13
+http://[2409:8087:1a01:df::4014]/PLTV/88888888/224/3221225652/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育①🥇[IPV6]",咪咕体育-14
+http://[2409:8087:1a01:df::4013]/PLTV/88888888/224/3221225653/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育①🥇[IPV6]",咪咕体育-15
+http://[2409:8087:1a01:df::4017]/PLTV/88888888/224/3221225654/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育①🥇[IPV6]",咪咕体育-16
+http://[2409:8087:1a01:df::4019]/PLTV/88888888/224/3221225658/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育①🥇[IPV6]",咪咕体育-17
+http://[2409:8087:1a01:df::4012]/PLTV/88888888/224/3221225660/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育①🥇[IPV6]",咪咕体育-18
+http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225662/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育①🥇[IPV6]",咪咕体育-19
+http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221225733/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育①🥇[IPV6]",咪咕体育-20
+http://[2409:8087:1a01:df::4048]/PLTV/88888888/224/3221225735/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育①🥇[IPV6]",咪咕体育-21
+http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225737/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育①🥇[IPV6]",咪咕体育-22
+http://[2409:8087:1a01:df::4074]/PLTV/88888888/224/3221225739/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育①🥇[IPV6]",咪咕体育-23
+http://[2409:8087:1a01:df::4030]/PLTV/88888888/224/3221225754/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育①🥇[IPV6]",咪咕体育-24
+http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225756/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育①🥇[IPV6]",咪咕体育-25
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225758/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育①🥇[IPV6]",咪咕体育-26
+http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225760/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育①🥇[IPV6]",咪咕体育-27
+http://[2409:8087:1a01:df::4002]/PLTV/88888888/224/3221225895/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育①🥇[IPV6]",咪咕体育-28
+http://[2409:8087:1a01:df::4028]/PLTV/88888888/224/3221225897/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育①🥇[IPV6]",咪咕体育-29
+http://[2409:8087:1a01:df::4061]/PLTV/88888888/224/3221225899/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育①🥇[IPV6]",咪咕体育-30
+http://[2409:8087:1a01:df::4009]/PLTV/88888888/224/3221225901/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育①🥇[IPV6]",咪咕体育-31
+http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225903/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育①🥇[IPV6]",咪咕体育-32
+http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育①🥇[IPV6]",咪咕体育-33
+http://[2409:8087:1a01:df::4051]/PLTV/88888888/224/3221225905/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育①🥇[IPV6]",咪咕体育-34
+http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育①🥇[IPV6]",咪咕体育-35
+http://[2409:8087:1a01:df::4055]/PLTV/88888888/224/3221225910/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育①🥇[IPV6]",咪咕体育-36
+http://[2409:8087:1a01:df::4076]/PLTV/88888888/224/3221225912/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育①🥇[IPV6]",咪咕体育-37
+http://[2409:8087:1a01:df::4027]/PLTV/88888888/224/3221225914/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育①🥇[IPV6]",咪咕体育-38
+http://[2409:8087:1a01:df::4076]/PLTV/88888888/224/3221226027/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育①🥇[IPV6]",咪咕体育-39
+http://[2409:8087:1a01:df::4068]/PLTV/88888888/224/3221226031/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育①🥇[IPV6]",咪咕体育-40
+http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221226046/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育①🥇[IPV6]",咪咕体育-41
+http://[2409:8087:1a01:df::4041]/PLTV/88888888/224/3221226053/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育①🥇[IPV6]",咪咕体育-42
+http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育①🥇[IPV6]",咪咕体育-43
+http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育①🥇[IPV6]",咪咕体育-44
+http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育②🥇[IPV6]",👉有比赛时才会放直播画面👈
+https://cloud.lxweb.cn/f/KkbRsX/1.MOV
+#EXTINF:-1 group-title="🥇咪咕体育②🥇[IPV6]",👉请留意赛事直播时间观看👈
+https://cloud.lxweb.cn/f/KkbRsX/1.MOV
+#EXTINF:-1 group-title="🥇咪咕体育②🥇[IPV6]",咪咕体育-1
+http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225611/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育②🥇[IPV6]",咪咕体育-3
+http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育②🥇[IPV6]",咪咕体育-4
+http://[2409:8087:1a01:df::4017]/PLTV/88888888/224/3221225619/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育②🥇[IPV6]",咪咕体育-5
+http://[2409:8087:1a01:df::4058]/PLTV/88888888/224/3221225620/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育②🥇[IPV6]",咪咕体育-6
+http://[2409:8087:1a01:df::4015]/PLTV/88888888/224/3221225639/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育②🥇[IPV6]",咪咕体育-7
+http://[2409:8087:1a01:df::4015]/PLTV/88888888/224/3221225641/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育②🥇[IPV6]",咪咕体育-8
+http://[2409:8087:1a01:df::4011]/PLTV/88888888/224/3221225643/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育②🥇[IPV6]",咪咕体育-9
+http://[2409:8087:1a01:df::4002]/PLTV/88888888/224/3221225645/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育②🥇[IPV6]",咪咕体育-10
+http://[2409:8087:1a01:df::4016]/PLTV/88888888/224/3221225647/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育②🥇[IPV6]",咪咕体育-11
+http://[2409:8087:1a01:df::4022]/PLTV/88888888/224/3221225648/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育②🥇[IPV6]",咪咕体育-12
+http://[2409:8087:1a01:df::4003]/PLTV/88888888/224/3221225649/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育②🥇[IPV6]",咪咕体育-13
+http://[2409:8087:1a01:df::4003]/PLTV/88888888/224/3221225650/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育②🥇[IPV6]",咪咕体育-14
+http://[2409:8087:1a01:df::4014]/PLTV/88888888/224/3221225652/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育②🥇[IPV6]",咪咕体育-15
+http://[2409:8087:1a01:df::4013]/PLTV/88888888/224/3221225653/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育②🥇[IPV6]",咪咕体育-16
+http://[2409:8087:1a01:df::4017]/PLTV/88888888/224/3221225654/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育②🥇[IPV6]",咪咕体育-17
+http://[2409:8087:1a01:df::4019]/PLTV/88888888/224/3221225658/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育②🥇[IPV6]",咪咕体育-18
+http://[2409:8087:1a01:df::4012]/PLTV/88888888/224/3221225660/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育②🥇[IPV6]",咪咕体育-19
+http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225662/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育②🥇[IPV6]",咪咕体育-20
+http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221225733/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育②🥇[IPV6]",咪咕体育-21
+http://[2409:8087:1a01:df::4048]/PLTV/88888888/224/3221225735/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育②🥇[IPV6]",咪咕体育-22
+http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225737/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育②🥇[IPV6]",咪咕体育-23
+http://[2409:8087:1a01:df::4074]/PLTV/88888888/224/3221225739/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育②🥇[IPV6]",咪咕体育-24
+http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育②🥇[IPV6]",咪咕体育-25
+http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育②🥇[IPV6]",咪咕体育-26
+http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育②🥇[IPV6]",咪咕体育-27
+http://[2409:8087:1a01:df::402a]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育②🥇[IPV6]",咪咕体育-28
+http://[2409:8087:1a01:df::4030]/PLTV/88888888/224/3221225754/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育②🥇[IPV6]",咪咕体育-29
+http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225756/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育②🥇[IPV6]",咪咕体育-30
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225758/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育②🥇[IPV6]",咪咕体育-31
+http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225760/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育②🥇[IPV6]",咪咕体育-32
+http://[2409:8087:1a01:df::4027]/PLTV/88888888/224/3221225914/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育②🥇[IPV6]",咪咕体育-33
+http://[2409:8087:1a01:df::4076]/PLTV/88888888/224/3221226027/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育②🥇[IPV6]",咪咕体育-34
+http://[2409:8087:1a01:df::4068]/PLTV/88888888/224/3221226031/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育②🥇[IPV6]",咪咕体育-35
+http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221226046/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育②🥇[IPV6]",咪咕体育-36
+http://[2409:8087:1a01:df::4041]/PLTV/88888888/224/3221226053/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育②🥇[IPV6]",咪咕体育-37
+http://[2409:8087:1a01:df::4002]/PLTV/88888888/224/3221225895/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育②🥇[IPV6]",咪咕体育-38
+http://[2409:8087:1a01:df::4028]/PLTV/88888888/224/3221225897/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育②🥇[IPV6]",咪咕体育-39
+http://[2409:8087:1a01:df::4061]/PLTV/88888888/224/3221225899/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育②🥇[IPV6]",咪咕体育-40
+http://[2409:8087:1a01:df::4009]/PLTV/88888888/224/3221225901/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育②🥇[IPV6]",咪咕体育-41
+http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225903/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育②🥇[IPV6]",咪咕体育-43
+http://[2409:8087:1a01:df::4051]/PLTV/88888888/224/3221225905/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育②🥇[IPV6]",咪咕体育-45
+http://[2409:8087:1a01:df::4055]/PLTV/88888888/224/3221225910/index.m3u8
+#EXTINF:-1 group-title="🥇咪咕体育②🥇[IPV6]",咪咕体育-46
+http://[2409:8087:1a01:df::4076]/PLTV/88888888/224/3221225912/index.m3u8
+#EXTINF:-1 group-title="🏅赛事体育🏅",👉有比赛时才会放直播画面👈
+https://cloud.lxweb.cn/f/KkbRsX/1.MOV
+#EXTINF:-1 group-title="🏅赛事体育🏅",👉请留意赛事直播时间观看👈
+https://cloud.lxweb.cn/f/KkbRsX/1.MOV
+#EXTINF:-1 group-title="🏅赛事体育🏅",体育直播-1
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=testch1
+#EXTINF:-1 group-title="🏅赛事体育🏅",体育直播-2
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive02
+#EXTINF:-1 group-title="🏅赛事体育🏅",体育直播-3
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive03
+#EXTINF:-1 group-title="🏅赛事体育🏅",体育直播-4
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive04
+#EXTINF:-1 group-title="🏅赛事体育🏅",体育直播-5
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive05
+#EXTINF:-1 group-title="🏅赛事体育🏅",体育直播-6
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive06
+#EXTINF:-1 group-title="🏅赛事体育🏅",体育直播-7
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive07
+#EXTINF:-1 group-title="🏅赛事体育🏅",体育直播-8
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive08
+#EXTINF:-1 group-title="🏅赛事体育🏅",体育直播-9
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive09
+#EXTINF:-1 group-title="🏅赛事体育🏅",体育直播-10
+http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive10
+#EXTINF:-1 group-title="🏅赛事体育🏅",Now e 4K
+http://4k4.klmvhn20.com:2082/live/Noly-4Noly/xiux0qlrin/641325.ts
+#EXTINF:-1 group-title="🏅赛事体育🏅",Bein Sports 4K
+http://m3u.lol:80/20821215493690/194906948679/308587
+#EXTINF:-1 group-title="🏅赛事体育🏅",NOW体育 4K 50M
+http://4k4.klmvhn20.com:2082/live/Noly-4Noly/xiux0qlrin/641325.ts
+#EXTINF:-1 group-title="🪂天空体育①🪂",4K| SKY SPORTS F1 UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1471382&extension=ts&play_token=dWS0k7M0i2
+#EXTINF:-1 group-title="🪂天空体育①🪂",4K| SKY SPORTS MAIN EVENT UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1471381&extension=ts&play_token=NfdaYR91V7
+#EXTINF:-1 group-title="🪂天空体育①🪂",SKY SPORTS PREMIER LEAGUE UK
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/7335/index.m3u8
+#EXTINF:-1 group-title="🪂天空体育①🪂",SKY SPORTS FOOTBALL UK
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/7336/index.m3u8
+#EXTINF:-1 group-title="🪂天空体育①🪂",SKY SPORTS MAIN EVENT UK
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/7337/index.m3u8
+#EXTINF:-1 group-title="🪂天空体育①🪂",SKY SPORTS ARENA UK
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/7338/index.m3u8
+#EXTINF:-1 group-title="🪂天空体育①🪂",SKY SPORTS MIX UK
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/7339/index.m3u8
+#EXTINF:-1 group-title="🪂天空体育①🪂",Sky Sports Action HD UK
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/7340/index.m3u8
+#EXTINF:-1 group-title="🪂天空体育①🪂",SKY SPORTS RACING UK
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/7341/index.m3u8
+#EXTINF:-1 group-title="🪂天空体育①🪂",SKY SPORTS F1 UK
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/7342/index.m3u8
+#EXTINF:-1 group-title="🪂天空体育①🪂",SKY SPORTS CRICKET UK
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/7343/index.m3u8
+#EXTINF:-1 group-title="🪂天空体育①🪂",SKY SPORTS GOLF UK
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/7344/index.m3u8
+#EXTINF:-1 group-title="🪂天空体育②🪂",Sky Sport F1 FHD DE
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/10079/index.m3u8
+#EXTINF:-1 group-title="🪂天空体育②🪂",SKY SPORT 24
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/19127/index.m3u8
+#EXTINF:-1 group-title="🪂天空体育②🪂",SKY SPORT ARENA
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/19128/index.m3u8
+#EXTINF:-1 group-title="🪂天空体育②🪂",SKY SPORT CALCIO
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/19129/index.m3u8
+#EXTINF:-1 group-title="🪂天空体育②🪂",SKY SPORT FOOTBALL
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/19131/index.m3u8
+#EXTINF:-1 group-title="🪂天空体育②🪂",SKY SPORT GOLF
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/19132/index.m3u8
+#EXTINF:-1 group-title="🪂天空体育②🪂",SKY SPORT MOTOGP
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/19133/index.m3u8
+#EXTINF:-1 group-title="🪂天空体育②🪂",SKY SPORT NBA
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/19134/index.m3u8
+#EXTINF:-1 group-title="🪂天空体育②🪂",SKY SUPER TENNIS
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/19136/index.m3u8
+#EXTINF:-1 group-title="🪂天空体育③🪂",SKY SPORTS PREMIER LEAGUE UK
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7335/index.m3u8
+#EXTINF:-1 group-title="🪂天空体育③🪂",SKY SPORTS FOOTBALL UK
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7336/index.m3u8
+#EXTINF:-1 group-title="🪂天空体育③🪂",SKY SPORTS MAIN EVENT UK
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7337/index.m3u8
+#EXTINF:-1 group-title="🪂天空体育③🪂",SKY SPORTS ARENA UK
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7338/index.m3u8
+#EXTINF:-1 group-title="🪂天空体育③🪂",SKY SPORTS MIX UK
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7339/index.m3u8
+#EXTINF:-1 group-title="🪂天空体育③🪂",SkY Sports Action HD UK
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7340/index.m3u8
+#EXTINF:-1 group-title="🪂天空体育③🪂",SKY SPORTS RACING UK
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7341/index.m3u8
+#EXTINF:-1 group-title="🪂天空体育③🪂",SKY SPORTS F1 UK
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7342/index.m3u8
+#EXTINF:-1 group-title="🪂天空体育③🪂",SKY SPORTS CRICKET UK
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7343/index.m3u8
+#EXTINF:-1 group-title="🪂天空体育③🪂",SKY SPORTS GOLF UK
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7344/index.m3u8
+#EXTINF:-1 group-title="🪂天空体育④🪂",天空体育 F1
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7342/index.m3u8
+#EXTINF:-1 group-title="🪂天空体育④🪂",天空体育 综合
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7337/index.m3u8
+#EXTINF:-1 group-title="🪂天空体育④🪂",天空体育 足球
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7336/index.m3u8
+#EXTINF:-1 group-title="🪂天空体育④🪂",天空体育 格斗
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/15097/index.m3u8
+#EXTINF:-1 group-title="🪂天空体育④🪂",天空体育 德甲
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7234/index.m3u8
+#EXTINF:-1 group-title="🪂天空体育④🪂",天空体育 足球
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7338/index.m3u8
+#EXTINF:-1 group-title="🪂天空体育④🪂",天空体育 足球
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7340/index.m3u8
+#EXTINF:-1 group-title="🪂天空体育④🪂",天空体育 足球
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7341/index.m3u8
+#EXTINF:-1 group-title="🪂天空体育④🪂",天空体育 新闻
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2477/index.m3u8
+#EXTINF:-1 group-title="🪂天空体育④🪂",天空体育 板球
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7343/index.m3u8
+#EXTINF:-1 group-title="🪂天空体育④🪂",天空体育 英超
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7335/index.m3u8
+#EXTINF:-1 group-title="🪂天空体育④🪂",天空体育 澳洲
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2492/index.m3u8
+#EXTINF:-1 group-title="🪂天空体育④🪂",天空体育 高尔夫
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7344/index.m3u
+#EXTINF:-1 group-title="🛡贝因体育🛡",beIN Sports Max 1 FullHD
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/19062/index.m3u8
+#EXTINF:-1 group-title="🛡贝因体育🛡",beIN Sports Max 2 FullHD
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/19063/index.m3u8
+#EXTINF:-1 group-title="🛡贝因体育🛡",beIN Sports Haber HD
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/19064/index.m3u8
+#EXTINF:-1 group-title="🛡贝因体育🛡",beIN Sports Max 1 HD
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/19065/index.m3u8
+#EXTINF:-1 group-title="🛡贝因体育🛡",beIN Sports Max 2 HD
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/19066/index.m3u8
+#EXTINF:-1 group-title="🛡贝因体育🛡",UK| SKY SPORTS MAIN EVENT FHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=30496&extension=ts&play_token=zGKe3n2MRK
+#EXTINF:-1 group-title="🛡贝因体育🛡",UK| SKY SPORTS PL FHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=30493&extension=ts&play_token=BtfyonLlHT
+#EXTINF:-1 group-title="🛡贝因体育🛡",UK| SKY SPORTS FOOTBALL FHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=30498&extension=ts&play_token=k7D4GM1Ss9
+#EXTINF:-1 group-title="🛡贝因体育🛡",UK| SKY SPORTS ACTION FHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=30501&extension=ts&play_token=m3Tk3k8vx3
+#EXTINF:-1 group-title="🛡贝因体育🛡",UK| SKY SPORTS ARENA FHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=30500&extension=ts&play_token=Sj7Bto1jVu
+#EXTINF:-1 group-title="🛡贝因体育🛡",UK| SKY SPORTS CRICKET FHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=30502&extension=ts&play_token=zPhp1JvxP8
+#EXTINF:-1 group-title="🛡贝因体育🛡",UK| SKY SPORTS F1 FHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=30499&extension=ts&play_token=ZKTC2fQG7Q
+#EXTINF:-1 group-title="🛡贝因体育🛡",UK| SKY SPORTS GOLF FHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=30497&extension=ts&play_token=p5GpVX0ZU9
+#EXTINF:-1 group-title="🛡贝因体育🛡",UK| SKY SPORTS MIX FHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=30495&extension=ts&play_token=1ntXKlQJlf
+#EXTINF:-1 group-title="🛡贝因体育🛡",UK| SKY SPORTS NEWS FHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=30494&extension=ts&play_token=8ifXmjGTwl
+#EXTINF:-1 group-title="🛡贝因体育🛡",UK| SKY SPORTS RACING FHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=77373&extension=ts&play_token=DVMOPybzn3
+#EXTINF:-1 group-title="🛡贝因体育🛡",UK| SKY SPORTS ACTION FHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=929003&extension=ts&play_token=9NoF0QAFs1
+#EXTINF:-1 group-title="🛡贝因体育🛡",UK| SKY SPOIRTS TENNIS FHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1454232&extension=ts&play_token=uSzfHWgS7l
+#EXTINF:-1 group-title="🛡贝因体育🛡",beIN Sports 1 HD QA
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/6123/index.m3u8
+#EXTINF:-1 group-title="🛡贝因体育🛡",beIN Sports 3 HD QA
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/6124/index.m3u8
+#EXTINF:-1 group-title="🛡贝因体育🛡",beIN Sports 4 HD QA
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/6125/index.m3u8
+#EXTINF:-1 group-title="🛡贝因体育🛡",beIN Sports 5 HD QA
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/6126/index.m3u8
+#EXTINF:-1 group-title="🛡贝因体育🛡",beIN Sports 6 HD QA
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/6127/index.m3u8
+#EXTINF:-1 group-title="🛡贝因体育🛡",beIN Sports 7 HD QA
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/6128/index.m3u8
+#EXTINF:-1 group-title="🛡贝因体育🛡",beIN Sports 1 (Yedek) HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/6817/index.m3u8
+#EXTINF:-1 group-title="🛡贝因体育🛡",beIN Sports 2 HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/6818/index.m3u8
+#EXTINF:-1 group-title="🛡贝因体育🛡",beIN Sports 2 (Yedek) HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/6819/index.m3u8
+#EXTINF:-1 group-title="🛡贝因体育🛡",beIN Sports 3 HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/6820/index.m3u8
+#EXTINF:-1 group-title="🛡贝因体育🛡",beIN Sports 3 (Yedek) HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/6821/index.m3u8
+#EXTINF:-1 group-title="🛡贝因体育🛡",beIN Sports 4 HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/6822/index.m3u8
+#EXTINF:-1 group-title="🛡贝因体育🛡",beIN Sports 4 (Yedek) HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/6823/index.m3u8
+#EXTINF:-1 group-title="🛡贝因体育🛡",beIN Sports Max 1 HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/6824/index.m3u8
+#EXTINF:-1 group-title="🦉TNT体育🦉",TNT SPORTS 1 HD
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/19051/index.m3u8
+#EXTINF:-1 group-title="🦉TNT体育🦉",TNT SPORTS 2 HD
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/19052/index.m3u8
+#EXTINF:-1 group-title="🦉TNT体育🦉",TNT SPORTS 3 HD
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/19053/index.m3u8
+#EXTINF:-1 group-title="🦉TNT体育🦉",TNT SPORTS 4 HD
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/19054/index.m3u8
+#EXTINF:-1 group-title="🦉TNT体育🦉",TNT SPORTS 6 HD
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/19055/index.m3u8
+#EXTINF:-1 group-title="🦉TNT体育🦉",TNT SPORTS 1 HD
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/19051/index.m3u8
+#EXTINF:-1 group-title="🦉TNT体育🦉",TNT SPORTS 2 HD
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/19052/index.m3u8
+#EXTINF:-1 group-title="🦉TNT体育🦉",TNT SPORTS 3 HD
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/19053/index.m3u8
+#EXTINF:-1 group-title="🦉TNT体育🦉",TNT SPORTS 4 HD
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/19054/index.m3u8
+#EXTINF:-1 group-title="🦉TNT体育🦉",TNT SPORTS 6 HD
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/19055/index.m3u8
+#EXTINF:-1 group-title="🦉TNT体育🦉",UK| TNT ULTIMATE 4K+ [LIVE-EVENT]
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1379047&extension=ts&play_token=c7cuDnfn4d
+#EXTINF:-1 group-title="🦉TNT体育🦉",UK| TNT BOX OFFICE FHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1019933&extension=ts&play_token=7Dz1TOY4NN
+#EXTINF:-1 group-title="🦉TNT体育🦉",UK| TNT SPORTS ESPN FHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=30564&extension=ts&play_token=mSDRioAqy9
+#EXTINF:-1 group-title="🦉TNT体育🦉",UK| TNT SPORTS 1 FHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=30567&extension=ts&play_token=8Wo9jOretJ
+#EXTINF:-1 group-title="🦉TNT体育🦉",UK| TNT SPORTS 2 FHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=30566&extension=ts&play_token=rFtbqcttI8
+#EXTINF:-1 group-title="🦉TNT体育🦉",UK| TNT SPORTS 3 FHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=30565&extension=ts&play_token=ZImqvuUf8q
+#EXTINF:-1 group-title="🦉TNT体育🦉",UK| TNT SPORTS 4 FHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1019935&extension=ts&play_token=27PaTR1Nyg
+#EXTINF:-1 group-title="🦉TNT体育🦉",UK| TNT SPORTS 5 FHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1004548&extension=ts&play_token=D3N1wfDYYw
+#EXTINF:-1 group-title="🐍DAZN体育🐍",4K| DAZN LA LIGA TV UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1471376&extension=ts&play_token=bLC5UELGSG
+#EXTINF:-1 group-title="🐍DAZN体育🐍",Dazn 1 HD
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/19042/index.m3u8
+#EXTINF:-1 group-title="🐍DAZN体育🐍",Dazn 2 HD
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/19043/index.m3u8
+#EXTINF:-1 group-title="🐍DAZN体育🐍",Dazn 1 HD
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/19042/index.m3u8
+#EXTINF:-1 group-title="🐍DAZN体育🐍",Dazn 2 HD
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/19043/index.m3u8
+#EXTINF:-1 group-title="🐍DAZN体育🐍",Dazn F1 HD ES
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/6071/index.m3u8
+#EXTINF:-1 group-title="🐍DAZN体育🐍",CNBC
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/962/index.m3u8
+#EXTINF:-1 group-title="🐍DAZN体育🐍",NHL Network US
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7225/index.m3u8
+#EXTINF:-1 group-title="🐍DAZN体育🐍",NBA TV HD US
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7226/index.m3u8
+#EXTINF:-1 group-title="🐍DAZN PPV🐍",GB-DAZN 1 HD (D): Golden Boy| The DAZN Boxing Show Live: Press Conference| Thu 18 Apr 20:00
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1362223&extension=ts&play_token=uHF1y8uBCB
+#EXTINF:-1 group-title="🐍DAZN PPV🐍",GB-DAZN 2 HD (D): PFL Regular Season| PFL 3: Weigh_In| Fri 19 Apr 00:00
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1362224&extension=ts&play_token=sjtP6uPtiF
+#EXTINF:-1 group-title="🐍DAZN PPV🐍",GB-DAZN 3 HD (D): Saudi Pro League| Al Nassr vs. Al Fayha| Fri 19 Apr 17:00
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1362225&extension=ts&play_token=fRh5Qa3ysq
+#EXTINF:-1 group-title="🐍DAZN PPV🐍",GB-DAZN 4 HD (D): Frauen Bundesliga 2023/2024| Leipzig vs. Leverkusen| Fri 19 Apr 18:30
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1362226&extension=ts&play_token=sSbE7gsAMg
+#EXTINF:-1 group-title="🐍DAZN PPV🐍",GB-DAZN 5 HD (D): Women’s Premier League| Al Qadsiah vs. Al Nassr| Fri 19 Apr 19:00
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1362227&extension=ts&play_token=g9ZWy86Frh
+#EXTINF:-1 group-title="🐍DAZN PPV🐍",GB-DAZN 6 HD (D): Women’s Premier League| Al Ittihad vs. Al Ahli| Fri 19 Apr 19:00
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1362228&extension=ts&play_token=sXLrTHCUwZ
+#EXTINF:-1 group-title="🐍DAZN PPV🐍",GB-DAZN 7 HD (D): Golden Boy| The DAZN Boxing Show Live: Weigh_In| Fri 19 Apr 20:00
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1362229&extension=ts&play_token=1BxFow73HV
+#EXTINF:-1 group-title="🐍DAZN PPV🐍",GB-DAZN 8 HD (D): PFL Regular Season| PFL 3 | 2024: Welterweight & Featherweight| Sat 20 Apr 00:30
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1362230&extension=ts&play_token=2RlKCaEFzd
+#EXTINF:-1 group-title="🐍DAZN PPV🐍",GB-DAZN 9 HD (D): Fight Night 33 | 2024| Scoby vs. Linger (Free to Watch)| Sat 20 Apr 02:00
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1362231&extension=ts&play_token=kosfGXVRLe
+#EXTINF:-1 group-title="🐍DAZN PPV🐍",GB-DAZN 10 HD (D): UEFA Women`s Champions League 2023/2024| FC Barcelona vs. Chelsea FC Women| Sat 20 Apr 13:30
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1362232&extension=ts&play_token=ojTdMEYqMH
+#EXTINF:-1 group-title="🐍DAZN PPV🐍",GB-DAZN 11 HD (D): RWS Muay Thai| RWS: Ryan vs. Hugo| Sat 20 Apr 14:45
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1362233&extension=ts&play_token=XBaANVohkt
+#EXTINF:-1 group-title="🐍DAZN PPV🐍",GB-DAZN 12 HD (D): OKTAGON MMA| OKTAGON 56| Sat 20 Apr 18:00
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1362234&extension=ts&play_token=wQjTzDzGVu
+#EXTINF:-1 group-title="🐍DAZN PPV🐍",GB-DAZN 13 HD (D): UEFA Women`s Champions League 2023/2024| Olympique Lyonnais vs. Paris Saint_Germain| Sat 20 Apr 19:00
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1362235&extension=ts&play_token=Rix0zRGRry
+#EXTINF:-1 group-title="🐍DAZN PPV🐍",GB-DAZN 14 HD (D): KOK Fight Series: Athens_ Greece| Sat 20 Apr 19:00
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1362236&extension=ts&play_token=Yr3IELOrEW
+#EXTINF:-1 group-title="🐍DAZN PPV🐍",GB-DAZN 15 HD (D): Brave CF 81| Sat 20 Apr 19:30
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1362237&extension=ts&play_token=eV9xhSm64a
+#EXTINF:-1 group-title="🐍DAZN PPV🐍",GB-DAZN 16 HD (D): Golden Boy| Haney vs. Garcia: Prelims (Free to Watch)| Sat 20 Apr 22:35
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1362238&extension=ts&play_token=QyFFUrt5eM
+#EXTINF:-1 group-title="🐍DAZN PPV🐍",GB-DAZN 17 HD (D): WNFC| Tennessee Trojans vs. Kansas City Glory| Sun 21 Apr 01:00
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1362239&extension=ts&play_token=aZEGcjfruC
+#EXTINF:-1 group-title="🐍DAZN PPV🐍",GB-DAZN 18 HD (D): Golden Boy| Haney vs. Garcia: Fight Night _ Buy Now| Sun 21 Apr 02:00
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1362240&extension=ts&play_token=pwehA98mGm
+#EXTINF:-1 group-title="🐍DAZN PPV🐍",GB-DAZN 19 HD (D): WNFC| Mississippi Panthers vs. Texas Elite Spartans| Sun 21 Apr 02:00
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1362241&extension=ts&play_token=sGJD2loUbJ
+#EXTINF:-1 group-title="🐍DAZN PPV🐍",GB-DAZN 20 HD (D): Serie A Femminile| Sampdoria vs. AC Milan| Sun 21 Apr 12:30
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1362242&extension=ts&play_token=jR2lvSGhzv
+#EXTINF:-1 group-title="🐍DAZN PPV🐍",GB-DAZN 21 HD (D): Frauen Bundesliga 2023/2024| Duisburg vs. Wolfsburg| Sun 21 Apr 18:30
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1362243&extension=ts&play_token=2KnetIjzD8
+#EXTINF:-1 group-title="🐍DAZN PPV🐍",GB-DAZN 22 HD (D): A7FL _ Week 4| Sun 21 Apr 19:00
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1362244&extension=ts&play_token=ZJl7buIqb0
+#EXTINF:-1 group-title="🐍DAZN PPV🐍",GB-DAZN 23 HD (D)
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1362245&extension=ts&play_token=E16jWQJbpr
+#EXTINF:-1 group-title="🐍DAZN PPV🐍",GB-DAZN 24 HD (D)
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1362246&extension=ts&play_token=ysoZDkatlx
+#EXTINF:-1 group-title="🐍DAZN PPV🐍",GB-DAZN 25 HD (D)
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1362247&extension=ts&play_token=r2QqSWGtZv
+#EXTINF:-1 group-title="🐍DAZN PPV🐍",Super League Plus | Event 1 Hull FC v Huddersfield Giants | Betfred Super League Round 7 // UK Sat 6 Apr 1:55pm // ET Sat 6 Apr 8:55am
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1455581&extension=ts&play_token=SBP16qdn3Q
+#EXTINF:-1 group-title="🐍DAZN PPV🐍",Super League Plus | Event 2 Catalans Dragons v St Helens | Betfred Super League Round 7 // UK Sat 6 Apr 7:00pm // ET Sat 6 Apr 2:00pm
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1455580&extension=ts&play_token=40JJwIZ8Op
+#EXTINF:-1 group-title="🐍DAZN PPV🐍",Super League Plus | Event 3 Leeds Rhinos v Warrington Wolves | Betfred Super League Round 7 // UK Fri 5 Apr 6:55pm // ET Fri 5 Apr 1:55pm
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1455579&extension=ts&play_token=U6jJAUNkF5
+#EXTINF:-1 group-title="🐍DAZN PPV🐍",Super League Plus | Event 4
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1455578&extension=ts&play_token=1Pe3cVzGkL
+#EXTINF:-1 group-title="🐍DAZN PPV🐍",Super League Plus | Event 5
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1455577&extension=ts&play_token=C3RuVUvQ7D
+#EXTINF:-1 group-title="🐍DAZN PPV🐍",Super League Plus | Event 6
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1455576&extension=ts&play_token=Rt3L4ja5E2
+#EXTINF:-1 group-title="⛄️FOX体育⛄️",FOX SPORTS 1 US
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7322/index.m3u8
+#EXTINF:-1 group-title="⛄️FOX体育⛄️",FOX SPORTS 2 US
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7323/index.m3u8
+#EXTINF:-1 group-title="⛄️FOX体育⛄️",Fox Sports South
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/19138/index.m3u8
+#EXTINF:-1 group-title="⛄️FOX体育⛄️",FOX SPORTS ARIZONA HD
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/19139/index.m3u8
+#EXTINF:-1 group-title="⛄️FOX体育⛄️",FOX SPORTS FLORIDA HD
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/19140/index.m3u8
+#EXTINF:-1 group-title="⛄️FOX体育⛄️",FOX SPORTS HOUSTON HD
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/19141/index.m3u8
+#EXTINF:-1 group-title="⛄️FOX体育⛄️",FOX SPORTS PRIME TICKET HD
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/19142/index.m3u8
+#EXTINF:-1 group-title="⛄️FOX体育⛄️",FOX SPORTS SOUTHWEST PLUS HD
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/19143/index.m3u8
+#EXTINF:-1 group-title="⛄️FOX体育⛄️",FOX SPORTS SPORTSTIME OHIO HD
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/19144/index.m3u8
+#EXTINF:-1 group-title="⛄️FOX体育⛄️",FOX SPORTS SUN HD
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/19145/index.m3u8
+#EXTINF:-1 group-title="⛄️FOX体育⛄️",FOX SPORTS OKLAHOMA HD
+http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/19146/index.m3u8
+#EXTINF:-1 group-title="⛄️FOX体育⛄️",Fox Sports South
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/19138/index.m3u8
+#EXTINF:-1 group-title="⛄️FOX体育⛄️",FOX SPORTS ARIZONA HD
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/19139/index.m3u8
+#EXTINF:-1 group-title="⛄️FOX体育⛄️",FOX SPORTS FLORIDA HD
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/19140/index.m3u8
+#EXTINF:-1 group-title="⛄️FOX体育⛄️",FOX SPORTS HOUSTON HD
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/19141/index.m3u8
+#EXTINF:-1 group-title="⛄️FOX体育⛄️",FOX SPORTS PRIME TICKET HD
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/19142/index.m3u8
+#EXTINF:-1 group-title="⛄️FOX体育⛄️",FOX SPORTS SOUTHWEST PLUS HD
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/19143/index.m3u8
+#EXTINF:-1 group-title="⛄️FOX体育⛄️",FOX SPORTS SPORTSTIME OHIO HD
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/19144/index.m3u8
+#EXTINF:-1 group-title="⛄️FOX体育⛄️",FOX SPORTS SUN HD
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/19145/index.m3u8
+#EXTINF:-1 group-title="⛄️FOX体育⛄️",FOX SPORTS OKLAHOMA HD
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/19146/index.m3u8
+#EXTINF:-1 group-title="⛄️FOX体育⛄️",FOX NEWS CHANNEL FHD
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/19147/index.m3u8
+#EXTINF:-1 group-title="🦅ESPN体育🦅",ESPN 4K
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1481941&extension=ts&play_token=sKY5IIYr5G
+#EXTINF:-1 group-title="🦅ESPN体育🦅",NESN 4K
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1479774&extension=ts&play_token=PTcqCDhlDS
+#EXTINF:-1 group-title="🦅ESPN体育🦅",US| ESPN HD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=45579&extension=ts&play_token=jAeidlsfBy
+#EXTINF:-1 group-title="🦅ESPN体育🦅",US| ESPN 2 HD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=45580&extension=ts&play_token=HuPEjfcABi
+#EXTINF:-1 group-title="🦅ESPN体育🦅",US| ESPN NEWS HD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=45578&extension=ts&play_token=qk0nc7DPoq
+#EXTINF:-1 group-title="🦅ESPN体育🦅",US| ESPN U
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=90958&extension=ts&play_token=qDu3dqFN0H
+#EXTINF:-1 group-title="🦅ESPN体育🦅",ESPN DEPORTES HD ES
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/19166/index.m3u8
+#EXTINF:-1 group-title="🦅ESPN体育🦅",ESPN 1 HD NL
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/19201/index.m3u8
+#EXTINF:-1 group-title="🦅ESPN体育🦅",ESPN 2 HD NL
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/19202/index.m3u8
+#EXTINF:-1 group-title="🦅ESPN体育🦅",ESPN 3 HD NL
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/19203/index.m3u8
+#EXTINF:-1 group-title="🦅ESPN体育🦅",ESPN 4 HD NL
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/19204/index.m3u8
+#EXTINF:-1 group-title="🦅ESPN体育🦅",Eleven 4K
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/20068/index.m3u8
+#EXTINF:-1 group-title="🦅ESPN体育🦅",Eurosport 1 HD CEE
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/20069/index.m3u8
+#EXTINF:-1 group-title="🦅ESPN体育🦅",Eurosport 2 HD CEE
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/20070/index.m3u8
+#EXTINF:-1 group-title="🌟4K-体育🌟",4K| ZIGGO SPORT UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1481950&extension=ts&play_token=gLtBiVPSxK
+#EXTINF:-1 group-title="🌟4K-体育🌟",4K| ESPN UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1481941&extension=ts&play_token=sKY5IIYr5G
+#EXTINF:-1 group-title="🌟4K-体育🌟",4K| NESN UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1479774&extension=ts&play_token=PTcqCDhlDS
+#EXTINF:-1 group-title="🌟4K-体育🌟",4K| BLOOMBERG UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1470604&extension=ts&play_token=RKyJdF8nos
+#EXTINF:-1 group-title="🌟4K-体育🌟",4K| CNN UHD 4K
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1470653&extension=ts&play_token=8mTljJtzxT
+#EXTINF:-1 group-title="🌟4K-体育🌟",4K| LOVE NATURE UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1471386&extension=ts&play_token=pefcoTtJSW
+#EXTINF:-1 group-title="🌟4K-体育🌟",4K| SUPERSPORT 360 UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1470603&extension=ts&play_token=cN9nS0kNtO
+#EXTINF:-1 group-title="🌟4K-体育🌟",4K| ASTRO SUPERSPORT UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1479590&extension=ts&play_token=jovvqN66mh
+#EXTINF:-1 group-title="🌟4K-体育🌟",4K| SKY SPORTS F1 UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1471382&extension=ts&play_token=dWS0k7M0i2
+#EXTINF:-1 group-title="🌟4K-体育🌟",4K| SKY SPORTS MAIN EVENT UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1471381&extension=ts&play_token=NfdaYR91V7
+#EXTINF:-1 group-title="🌟4K-体育🌟",4K| CANAL+ UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1491210&extension=ts&play_token=hTHB9QclKW
+#EXTINF:-1 group-title="🌟4K-体育🌟",4K| QVC UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1491207&extension=ts&play_token=1QpjzhwldC
+#EXTINF:-1 group-title="🌟4K-体育🌟",4K| QVC ZWEI UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1491208&extension=ts&play_token=kRVWdCZytT
+#EXTINF:-1 group-title="🌟4K-体育🌟",4K| COCINA UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1471385&extension=ts&play_token=KsCVLFnmmx
+#EXTINF:-1 group-title="🌟4K-体育🌟",4K| DAZN LA LIGA TV UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1471376&extension=ts&play_token=bLC5UELGSG
+#EXTINF:-1 group-title="🌟4K-体育🌟",4K| DECASA UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1471384&extension=ts&play_token=CJcuV8xXIy
+#EXTINF:-1 group-title="🌟4K-体育🌟",4K| LIGA CAMPEONES UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1471377&extension=ts&play_token=0TtnOqMGCm
+#EXTINF:-1 group-title="🌟4K-体育🌟",4K| ODISEA UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1471383&extension=ts&play_token=pDS0dMqYkp
+#EXTINF:-1 group-title="🌟4K-体育🌟",4K| CANAL+ UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1470621&extension=ts&play_token=ocbWkS2kCc
+#EXTINF:-1 group-title="🌟4K-体育🌟",4K| NOW SPORTS (EPL) UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1470622&extension=ts&play_token=nCQDY8hq1O
+#EXTINF:-1 group-title="🌟4K-体育🌟",4K| 5SPORT UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1470620&extension=ts&play_token=OPXftfm6qk
+#EXTINF:-1 group-title="🌟4K-体育🌟",4K| ELEVEN SPORTS 1 UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1470618&extension=ts&play_token=vppCNEYK05
+#EXTINF:-1 group-title="🌟4K-体育🌟",4K| SPORT TV UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1471378&extension=ts&play_token=s4wYaed9uD
+#EXTINF:-1 group-title="🌟4K-体育🌟",4K| ZEE TV UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1471380&extension=ts&play_token=2Y9fQjjzzS
+#EXTINF:-1 group-title="🌟4K-体育🌟",4K| SKY PRIMAFILA 1 UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1491180&extension=ts&play_token=Tn1WmVuOkU
+#EXTINF:-1 group-title="🌟4K-体育🌟",4K| SKY PRIMAFILA 2 UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1491181&extension=ts&play_token=DBbtTkFI7g
+#EXTINF:-1 group-title="🌟4K-体育🌟",4K| SKY PRIMAFILA 3 UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1491183&extension=ts&play_token=vBmHrIAXfA
+#EXTINF:-1 group-title="🌟4K-体育🌟",4K| SKY PRIMAFILA 4 UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1491184&extension=ts&play_token=jZiLcFQW6p
+#EXTINF:-1 group-title="🌟4K-体育🌟",4K| SKY PRIMAFILA 5 UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1491185&extension=ts&play_token=h1aocx7mRr
+#EXTINF:-1 group-title="🌟4K-体育🌟",4K| SKY PRIMAFILA 6 UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1491186&extension=ts&play_token=JvIdkFcgZ7
+#EXTINF:-1 group-title="🌟4K-体育🌟",4K| SKY PRIMAFILA 7 UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1491187&extension=ts&play_token=p1KGF5CtmN
+#EXTINF:-1 group-title="🌟4K-体育🌟",4K| SKY PRIMAFILA 8 UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1491188&extension=ts&play_token=H8sBapC7J6
+#EXTINF:-1 group-title="🌟4K-体育🌟",4K| SKY PRIMAFILA 9 UHD
+http://line.iptveros.com:80/play/live.php?mac=00:1a:79:00:08:24&stream=1491189&extension=ts&play_token=0SvPnhr9SC
+#EXTINF:-1 group-title="☀️其他体育☀️",BT Sport 1 UK
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/2505/index.m3u8
+#EXTINF:-1 group-title="☀️其他体育☀️",itv BE
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/19190/index.m3u8
+#EXTINF:-1 group-title="☀️其他体育☀️",BT Sport 2 UK
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/2506/index.m3u8
+#EXTINF:-1 group-title="☀️其他体育☀️",Sky News UK
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/2475/index.m3u8
+#EXTINF:-1 group-title="☀️其他体育☀️",PREMIER SPORTS UK
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/6555/index.m3u8
+#EXTINF:-1 group-title="☀️其他体育☀️",EUROSPORT 2 HD UK
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/6556/index.m3u8
+#EXTINF:-1 group-title="☀️其他体育☀️",BT SPORT ESPN FHD UK
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/6563/index.m3u8
+#EXTINF:-1 group-title="☀️其他体育☀️",BT SPORT 3 FHD UK
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/6564/index.m3u8
+#EXTINF:-1 group-title="☀️其他体育☀️",BT SPORT 1 FHD UK
+http://21686ab6.cbilant.com/iptv/8N5VWM4FS7X7HP/6566/index.m3u8
+#EXTINF:-1 group-title="☀️其他体育☀️",博斯網球
+http://50.7.238.114:8278/bositennis_twn/playlist.m3u8?tid=MA9A5922328659223286&ct=19225&tsum=c83f112dbae37be6d20618138fddcf77
+#EXTINF:-1 group-title="☀️其他体育☀️",博斯網球
+http://50.7.238.114:8278/bositennis_twn/playlist.m3u8?tid=MDCD2148551721485517&ct=19249&tsum=bab41ccd3843b938886a64a656463af0
+#EXTINF:-1 group-title="☀️其他体育☀️",博斯運動II
+http://50.7.238.114:8278/bosisport2_twn/playlist.m3u8?tid=MDBD8051535180515351&ct=19225&tsum=807423eaabbb4cc188843b81db9cd79f
+#EXTINF:-1 group-title="☀️其他体育☀️",博斯運動II
+http://50.7.238.114:8278/bosisport2_twn/playlist.m3u8?tid=ME1E5579129055791290&ct=19234&tsum=7cd9f5d3ef18948f4e6fc12f69e2279e
+#EXTINF:-1 group-title="☀️其他体育☀️",博斯高球2
+http://50.7.238.114:8278/bosigolf2_twn/playlist.m3u8?tid=MF5F9848925298489252&ct=19225&tsum=2600464749aadbcd55d1c32ec071e36e
+#EXTINF:-1 group-title="☀️其他体育☀️",博斯魅力
+http://50.7.238.114:8278/bosisport1_twn/playlist.m3u8?tid=MF6F6900999569009995&ct=19225&tsum=1d6e966a02c88867f2a3234f3a980b7d
+#EXTINF:-1 group-title="☀️其他体育☀️",ASTRO SUPERSPORT 1
+http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/306395
+#EXTINF:-1 group-title="☀️其他体育☀️",ASTRO SUPERSPORT 2
+http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/306397
+#EXTINF:-1 group-title="☀️其他体育☀️",ASTRO SUPERSPORT 4
+http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/306399
+#EXTINF:-1 group-title="☀️其他体育☀️",|UK| EUROSPORTS
+http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10503
+#EXTINF:-1 group-title="☀️其他体育☀️",|UK| EUROSPORTS 2
+http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10502
+#EXTINF:-1 group-title="☀️其他体育☀️",|UK| PREMIER SPORTS
+http://4k4.klmvhn20.com:2082/Noly-4Noly/xiux0qlrin/10506
+#EXTINF:-1 group-title="☀️其他体育☀️",supersport_motosport-fhd
+https://epg.pw/stream/a3dc42ad0c9a74c9ba5c6e51a29884e79914602c5e38b284567f64eef68ffe23.ctv
+#EXTINF:-1 group-title="☀️其他体育☀️",premiersports1
+https://epg.pw/stream/a0f9c1f7038352194c7817ecdd04a78c87cac7976c844bde81531c543b927716.ctv
+#EXTINF:-1 group-title="☀️其他体育☀️",tntsports3
+https://epg.pw/stream/7fd73a3cccffde43a148fde71d3c48c34a6ad8924b9eafc8087cb1ba7b48a4b9.ctv
+#EXTINF:-1 group-title="☀️其他体育☀️",premiersports1
+https://epg.pw/stream/a0f9c1f7038352194c7817ecdd04a78c87cac7976c844bde81531c543b927716.ctv
+#EXTINF:-1 group-title="☀️其他体育☀️",premiersports2
+https://epg.pw/stream/5c2c362aefbba26f64a2ef3f94f06684b5b48b7e60ab19762d5eef0d3e4de46c.ctv
+#EXTINF:-1 group-title="☀️其他体育☀️",digi-4k
+https://epg.pw/stream/2630e0dfd64418d3d64337e1ce301bae69cede220c9670a816f9cb1b3d45fe8b.ctv
+#EXTINF:-1 group-title="☀️其他体育☀️",supersport_motosport
+https://epg.pw/stream/a3dc42ad0c9a74c9ba5c6e51a29884e79914602c5e38b284567f64eef68ffe23.ctv
+#EXTINF:-1 group-title="☀️其他体育☀️",tntsports4
+https://epg.pw/stream/054e7d4d72ea07976f03474864773060d02020a0766360fcad0a5cb480136ef6.ctv
