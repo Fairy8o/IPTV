@@ -5228,6 +5228,20 @@ BRTV体育休闲,http://114.254.85.117:2222/rtp/239.3.1.243:8000
 湘潭新闻,http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8?zhund
 
 🦄地方频道,#genre#
+浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+浙江民生休闲,http://ali-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+
+浙江经济生活,http://183.135.226.196:4022/rtp/233.50.201.133:5140
+浙江教育,http://183.135.226.196:4022/rtp/233.50.201.134:5140
+浙江民生,http://183.135.226.196:4022/rtp/233.50.201.136:5140
+浙江新闻,http://183.135.226.196:4022/rtp/233.50.201.137:5140
+浙江少儿,http://183.135.226.196:4022/rtp/233.50.201.138:5140
+
 黑龙江都市,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
 黑龙江公共,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
 黑龙江少儿,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225979/index.m3u8
