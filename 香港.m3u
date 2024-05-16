@@ -1,0 +1,202 @@
+#EXTM3U
+#EXT-X-APP APTV
+#EXT-X-APTV-TYPE local
+
+#EXTINF:-1 group-title="🦄香港频道「测试中」",👉添加售后唯一微信👈
+https://cloud.lxweb.cn/f/W6OOfB/WXSP.mp4
+#EXTINF:-1 group-title="🦄香港频道「测试中」",👉获取最新链接👈
+https://cloud.lxweb.cn/f/W6OOfB/WXSP.mp4
+#EXTINF:-1 group-title="🦄香港频道「测试中」",鳳凰资讯
+http://ytb.csscc.cc:2086/live.m3u8?c=1
+#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰资讯
+http://dms.yryyj.site:8188/udp/239.76.246.134:1234
+#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰资讯
+http://dms.yryyj.site:8188/udp/239.76.253.134:9000
+#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰中文
+http://dms.yryyj.site:8188/udp/239.76.246.135:1234
+#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰中文
+http://dms.yryyj.site:8188/udp/239.76.253.135:9000
+#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰卫视
+http://kuanglong.vicp.hk:2121/udp/239.93.16.31:8012
+#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰资讯
+http://kuanglong.vicp.hk:2121/udp/239.93.16.118:8708
+#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰中文
+http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰资讯
+http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰香港
+http://113.64.145.195:8081/hls/38/index.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰资讯
+http://113.64.145.195:8081/hls/36/index.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰中文
+http://113.64.145.195:8081/hls/37/index.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰中文
+http://171.223.215.229:4000/udp/239.93.0.162:2192
+#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰中文
+http://171.223.215.229:4000/udp/239.93.1.9:2192
+#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰资讯
+http://171.223.215.229:4000/udp/239.93.1.4:2191
+#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰中文
+http://117.28.130.162:8888/rtp/239.61.2.184:9092
+#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰资讯
+http://117.28.130.162:8888/rtp/239.61.2.183:9086
+#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰中文
+http://120.41.124.228:8888/rtp/239.61.2.184:9092
+#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰资讯
+http://120.41.124.228:8888/rtp/239.61.2.183:9086
+#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰资讯
+http://www.yao87.com:4022/udp/239.76.246.135:1234
+#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰中文
+http://171.223.215.229:4000/udp/239.93.0.162:2192
+#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰资讯
+http://vl15191373.imwork.net:8880/udp/239.93.1.4:2191
+#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰中文
+http://112.19.171.156:9999/udp/239.93.0.162:2192
+#EXTINF:-1 group-title="🦄香港频道「测试中」",凤凰资讯
+http://112.19.171.156:9999/udp/239.93.0.118:2191
+#EXTINF:-1 group-title="🦄香港频道「测试中」",重温经典
+http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+#EXTINF:-1 group-title="🦄香港频道「测试中」",星光视界
+http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+#EXTINF:-1 group-title="🦄香港频道「测试中」",华丽翡翠
+http://cdn8.jdshipin.com:8880/smt.php?id=Wlt
+#EXTINF:-1 group-title="🦄香港频道「测试中」",翡翠台
+http://cdn8.jdshipin.com:8880/smt.php?id=jade_twn
+#EXTINF:-1 group-title="🦄香港频道「测试中」",J2
+http://cdn8.jdshipin.com:8880/smt.php?id=j2_twn
+#EXTINF:-1 group-title="🦄香港频道「测试中」",明珠台
+http://cdn8.jdshipin.com:8880/smt.php?id=pearl_twn
+#EXTINF:-1 group-title="🦄香港频道「测试中」",无线新闻台
+http://cdn8.jdshipin.com:8880/smt.php?id=inews_twn
+#EXTINF:-1 group-title="🦄香港频道「测试中」",财经资讯台
+http://cdn8.jdshipin.com:8880/smt.php?id=tvbcaijing_twn
+#EXTINF:-1 group-title="🦄香港频道「测试中」",VIUTV
+http://cdn8.jdshipin.com:8880/smt.php?id=viu1_twn
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB星河
+http://cdn8.jdshipin.com:8880/smt.php?id=Xinhe
+#EXTINF:-1 group-title="🦄香港频道「测试中」",HOY77
+http://111.230.195.119:80/%E9%A6%99%E8%95%89%E5%93%A5/hoy77/hls.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",HOY78
+http://111.230.195.119:80/%E9%A6%99%E8%95%89%E5%93%A5/hoy78/hls.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB翡翠
+http://111.230.195.119:80/%E9%A6%99%E8%95%89%E5%93%A5/tvb/hls.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVN
+http://111.230.195.119:80/%E9%A6%99%E8%95%89%E5%93%A5/tvn/hls.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",JTBC
+http://111.230.195.119:80/%E9%A6%99%E8%95%89%E5%93%A5/jtbc/hls.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",明珠台
+http://113.83.152.28:1935/bysid/2
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB Plus
+http://113.83.152.28:1935/bysid/82
+#EXTINF:-1 group-title="🦄香港频道「测试中」",無綫新聞台
+http://113.83.152.28:1935/bysid/83
+#EXTINF:-1 group-title="🦄香港频道「测试中」",鳳凰香港
+http://113.83.152.28:1935/bysid/85
+#EXTINF:-1 group-title="🦄香港频道「测试中」",翡翠台
+http://grandprix2023.asuscomm.com:8889/bysid/1
+#EXTINF:-1 group-title="🦄香港频道「测试中」",ViuTVsix
+http://grandprix2023.asuscomm.com:8889/bysid/96
+#EXTINF:-1 group-title="🦄香港频道「测试中」",ViuTV
+http://grandprix2023.asuscomm.com:8889/bysid/99
+#EXTINF:-1 group-title="🦄香港频道「测试中」",Jelli
+http://grandprix2023.asuscomm.com:8890/bysid/16
+#EXTINF:-1 group-title="🦄香港频道「测试中」",明珠台
+http://grandprix2023.asuscomm.com:8892/bysid/2
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB Plus
+http://grandprix2023.asuscomm.com:8892/bysid/82
+#EXTINF:-1 group-title="🦄香港频道「测试中」",無綫新聞台
+http://grandprix2023.asuscomm.com:8892/bysid/83
+#EXTINF:-1 group-title="🦄香港频道「测试中」",鳳凰香港
+http://grandprix2023.asuscomm.com:8892/bysid/85
+#EXTINF:-1 group-title="🦄香港频道「测试中」",明珠台
+http://123.202.245.120:8008/bysid/2
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB Plus
+http://123.202.245.120:8008/bysid/82
+#EXTINF:-1 group-title="🦄香港频道「测试中」",無綫新聞台
+http://123.202.245.120:8008/bysid/83
+#EXTINF:-1 group-title="🦄香港频道「测试中」",鳳凰香港
+http://123.202.245.120:8008/bysid/85
+#EXTINF:-1 group-title="🦄香港频道「测试中」",HOY 國際財經台
+http://123.202.245.120:8009/bysid/76
+#EXTINF:-1 group-title="🦄香港频道「测试中」",HOY TV
+http://123.202.245.120:8009/bysid/77
+#EXTINF:-1 group-title="🦄香港频道「测试中」",HOY 資訊台
+http://123.202.245.120:8009/bysid/78
+#EXTINF:-1 group-title="🦄香港频道「测试中」",华丽翡翠
+http://888.iptv543.com/Smartv.php?id=Wlt
+#EXTINF:-1 group-title="🦄香港频道「测试中」",翡翠台
+http://888.iptv543.com/Smartv.php?id=jade_twn
+#EXTINF:-1 group-title="🦄香港频道「测试中」",J2
+http://888.iptv543.com/Smartv.php?id=j2_twn
+#EXTINF:-1 group-title="🦄香港频道「测试中」",明珠台
+http://888.iptv543.com/Smartv.php?id=pearl_twn
+#EXTINF:-1 group-title="🦄香港频道「测试中」",无线新闻台
+http://888.iptv543.com/Smartv.php?id=inews_twn
+#EXTINF:-1 group-title="🦄香港频道「测试中」",财经资讯台
+http://888.iptv543.com/Smartv.php?id=tvbcaijing_twn
+#EXTINF:-1 group-title="🦄香港频道「测试中」",VIUTV
+http://888.iptv543.com/Smartv.php?id=viu1_twn
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB星河
+http://888.iptv543.com/Smartv.php?id=Xinhe
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB星河
+http://888.iptv543.com/Smartv.php?id=tvbxinhe_twn
+#EXTINF:-1 group-title="🦄香港频道「测试中」",鳳凰资讯
+http://61.221.215.25:8800/hls/47/index.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB Plus
+http://ncdsrti.7766.org:7550/hls/chunklistxqsltvbj5.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",翡翠台
+http://1b6467f415.iok.la:9931/tsfile/live/1007_1.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",明珠台
+http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",星空卫视
+http://1b6467f415.iok.la:9931/tsfile/live/1039_1.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB星河台
+https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",无线娱乐新闻台
+https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",无线新闻
+http://137.175.30.127:9080/hls/inews.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB功夫台
+http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB星河台
+http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB娱乐新闻台
+http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB星河台
+http://113.64.145.195:8081/hls/135/index.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB本港台
+http://113.64.145.195:8081/hls/135/index.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB J2台
+http://nz189l149.bb27109.ctm.net:8892/bysid/82
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB翡翠台
+http://158.180.67.130/live/hls/J/j.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB翡翠台 4K
+http://158.180.67.130/live/hls/JUHD/juhd.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB翡翠台 4K
+http://free.9528.eu.org:9529/stream/hk/test/master.m3u8?u=admin&p=70db29aeaebf312fd2b93d3d69d99a16ad3319d0b354567f2be5c5e91c6be18b
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB无线新闻台
+http://zsntlqj.xicp.net:8896/bysid/83
+#EXTINF:-1 group-title="🦄香港频道「测试中」",TVB J1
+https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",Astro 欢喜台
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/52
+#EXTINF:-1 group-title="🦄香港频道「测试中」",Astro AEC
+http://gmlive.ddns.net:5000/kun5g/kun5g2024/53
+#EXTINF:-1 group-title="🦄香港频道「测试中」",星空卫视
+http://wouu.net:9977/udp/239.93.0.156:2193
+#EXTINF:-1 group-title="🦄香港频道「测试中」",耀才财经台HD
+https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",香港佛陀
+https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",面包台
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",星空卫视
+http://wouu.net:9977/udp/239.93.0.156:2193
+#EXTINF:-1 group-title="🦄香港频道「测试中」",香港卫视
+http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",香港34台全网
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",港台RTHK33HD
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
+#EXTINF:-1 group-title="🦄香港频道「测试中」",港台RTHK34HD
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
