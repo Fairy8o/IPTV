@@ -3159,6 +3159,29 @@ JTBC 뭉쳐야찬다3,https://i.mjh.nz/SamsungTVPlus/KRBC5000019FB.m3u8
 초록뱀미디어 K-STAR 골프,https://i.mjh.nz/SamsungTVPlus/KRBB5000364M.m3u8
 JTBC 골프,https://i.mjh.nz/SamsungTVPlus/KRBD5200002XY.m3u8
 JTBC 최강야구,https://i.mjh.nz/SamsungTVPlus/KR400005KB.m3u8
+KP| ARIRANG HD,http://extraott.com:80/live/7921751389/6097373662/191051.m3u8
+KP| BBS TV HD,http://extraott.com:80/live/7921751389/6097373662/380179.m3u8
+KP| CGNTV HD,http://extraott.com:80/live/7921751389/6097373662/191058.m3u8
+KP| CTS HD,http://extraott.com:80/live/7921751389/6097373662/380183.m3u8
+KP| EBS E HD,http://extraott.com:80/live/7921751389/6097373662/380184.m3u8
+KP| EBS1  HD,http://extraott.com:80/live/7921751389/6097373662/380190.m3u8
+KP| EBS+2  HD,http://extraott.com:80/live/7921751389/6097373662/380189.m3u8
+KP| GCN HD,http://extraott.com:80/live/7921751389/6097373662/380193.m3u8
+KP| GUGBANG TV HD,http://extraott.com:80/live/7921751389/6097373662/191062.m3u8
+KP| KBS WORLD 24 HD,http://extraott.com:80/live/7921751389/6097373662/380200.m3u8
+KP| NBS KOREA AGRICULTURAL BROADCASTING HD,http://extraott.com:80/live/7921751389/6097373662/191070.m3u8
+KP| TVWORKNET HD,http://extraott.com:80/live/7921751389/6097373662/191076.m3u8
+KP| YTN SCIENCE HD,http://extraott.com:80/live/7921751389/6097373662/191078.m3u8
+KP| EBS KIDS  HD,http://extraott.com:80/live/7921751389/6097373662/380188.m3u8
+KP| K+ HD,http://extraott.com:80/live/7921751389/6097373662/191063.m3u8
+KP| SBS INTERNATIONAL HD,http://extraott.com:80/live/7921751389/6097373662/191072.m3u8
+KP| SBS PLUS HD,http://extraott.com:80/live/7921751389/6097373662/191073.m3u8
+KP| KBS WORLD TV,http://extraott.com:80/live/7921751389/6097373662/380173.m3u8
+KP| TVN,http://extraott.com:80/live/7921751389/6097373662/473547.m3u8
+KP| TAN,http://extraott.com:80/live/7921751389/6097373662/473548.m3u8
+KP| EBS,http://extraott.com:80/live/7921751389/6097373662/473550.m3u8
+KP| MBN,http://extraott.com:80/live/7921751389/6097373662/473551.m3u8
+KP| MBC,http://extraott.com:80/live/7921751389/6097373662/473552.m3u8
 「韩国」BBS,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
 「韩国」EBS1,http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
 「韩国」EBS2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
@@ -3175,7 +3198,6 @@ JTBC 최강야구,https://i.mjh.nz/SamsungTVPlus/KR400005KB.m3u8
 「韩国」KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
 「韩国」CJB | SBS,http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 「韩国」MBC UHD,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
-「韩国」MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3u8
 「韩国」NBS,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 「韩国」TjB | SBS,http://1.245.74.5:1935/live/tv/.m3u8
 「韩国」KBS LIVE,http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
@@ -3197,7 +3219,6 @@ KBS世界,https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/pla
 KBS世界,https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/chunklist_b2500000.m3u8
 阿里郎,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 阿里郎,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-Mbc Yeosu,https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 Mubeat,https://stream.ads.ottera.tv/playlist.m3u8?network_id=711
 EBS 2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?
 JTV,https://tistory1.daumcdn.net/tistory/2864485/skin/images/Public_58.m3u8
@@ -3211,7 +3232,6 @@ TJBSBS,http://1.245.74.5:1935/live/tv/chunklist_w1321158460.m3u8
 CJBSBS,http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 TJBSBS,http://1.245.74.5:1935/live/tv/.m3u8
 MBN,https://wms2-kortv.akamaized.net/a_live/81992167/smil:20tv121.smil/chunklist_b2500000.m3u8
-BTN,http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 MBC,http://123.254.72.24:1935/tvlive/livestream2/chunklist_w265464937.m3u8
 job plus,http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
 국방TV,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
@@ -3219,8 +3239,6 @@ MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
 C,http://112.175.51.214:1935/live/myStream/playlist.m3u8
 JEJUMBC,https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
-CJMBC,http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
-소상공인방송,http://139.150.248.29:1935/smartlive/558/91258ac21591769e21f41b96f26d883e/playlist.m3u8
 KBC SBS,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 UBC SBS,http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
 MBC,http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
@@ -3262,10 +3280,10 @@ CJB(5G专线),http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
 BBS佛教广播(5G专线),http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
 韩国-Arirang(5G专线),https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 韩国-BBS,http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
-아름방송(5G专线),https://vod2.abn.co.kr/IPHONE/abn.m3u8
 DaNangTV2(5G专线),http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 HBTV(5G专线),http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
 ANTV(5G专线),http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
+
 
 🦄国际频道🌏,#genre#
 👉添加售后唯一微信👈,https://cloud.lxweb.cn/f/W6OOfB/WXSP.mp4
