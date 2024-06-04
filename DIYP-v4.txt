@@ -1585,7 +1585,6 @@ Clarity-4K (2160p)HD,https://classicarts.akamaized.net/hls/live/1024257/CAS/mast
 Fashion-4K,http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
 苏州-4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 苏州-4K,http://liveshowbak2.kan0512.com/norecord/csztv4k_4k.m3u8
-
 CCTV3-4K[IPV6],http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
 CCTV5-4K[IPV6],http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
 CCTV6-4K[IPV6],http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
@@ -1598,7 +1597,28 @@ CCTV8K[IPV6],http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_
 BesTV-4K[IPV6],http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
 4K-UHD[IPV6],http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
 4K-UHD[IPV6],http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-
+👉此处以下频道需要魔法👈,https://cloud.lxweb.cn/f/08QDU0/3.MOV
+RMC 体育 1 4K,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/342420
+天空体育 主赛事 4K,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/314130
+天空体育 F1 4K,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/305406
+天空体育 网球 4K,http://extraott.com:80/live/7921751389/6097373662/79112.m3u8
+壹拾壹体育 4K,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/280621
+UROSPORT 4K,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/185060
+NASA TV 4K,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/185407
+ASTRO SUPERSPORT 4K,http://extraott.com:80/live/7921751389/6097373662/7841.m3u8
+Love Nature 4Khttp://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/179698
+Fireplace 4K,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/273896
+Fashion TV 4K,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/230039
+Bloomberg TV+ 4K,https://i.mjh.nz/SamsungTVPlus/USAJ3400011A8.m3u8
+Loupe 4K,https://i.mjh.nz/SamsungTVPlus/USBB1000002TK.m3u8
+Fireplace 4K,https://i.mjh.nz/SamsungTVPlus/USBA3800004EL.m3u8
+Pro7Sat.1 4K,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/283408
+RTL 4K,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/273897
+SES UHD 4K,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/185059
+QVC Zwei 4K,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/193879
+贝因体育 1 4K,http://extraott.com:80/live/7921751389/6097373662/32911.m3u8
+贝因体育 2 4K,http://extraott.com:80/live/7921751389/6097373662/32910.m3u8
+贝因体育 3 4K,http://extraott.com:80/live/7921751389/6097373662/32909.m3u8
 
 🦄国内体育,#genre#
 👉添加售后唯一微信👈,https://cloud.lxweb.cn/f/W6OOfB/WXSP.mp4
