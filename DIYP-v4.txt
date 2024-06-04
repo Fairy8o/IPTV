@@ -3048,6 +3048,117 @@ Music Japan,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS323&r=FHD&cco
 👉添加售后唯一微信👈,https://cloud.lxweb.cn/f/W6OOfB/WXSP.mp4
 👉获取最新链接👈,https://cloud.lxweb.cn/f/W6OOfB/WXSP.mp4
 👉此处以下频道需要魔法👈,https://cloud.lxweb.cn/f/08QDU0/3.MOV
+연합뉴스TV,https://i.mjh.nz/SamsungTVPlus/KRBD1400001ED.m3u8
+YTN,https://i.mjh.nz/SamsungTVPlus/KRBD2400001XD.m3u8
+KBS 태양의 후예,https://i.mjh.nz/SamsungTVPlus/KRBC4400002AO.m3u8
+MBC 무한도전,https://i.mjh.nz/SamsungTVPlus/KRBB5000069BS.m3u8
+MBC 나혼자산다,https://i.mjh.nz/SamsungTVPlus/KRBC200002I0.m3u8
+tvN 서진이네,https://i.mjh.nz/SamsungTVPlus/KRBC3200017JQ.m3u8
+SBS TV 동물농장,https://i.mjh.nz/SamsungTVPlus/KRBB420000769.m3u8
+투니버스 명탐정 코난 (자막),https://i.mjh.nz/SamsungTVPlus/KRBC32000200B.m3u8
+tvN 미스터 션샤인,https://i.mjh.nz/SamsungTVPlus/KRBC3200028P2.m3u8
+SBS 천원짜리변호사,https://i.mjh.nz/SamsungTVPlus/KRBB42000061Z.m3u8
+JTBC 비긴어게인 - 오픈마이크,https://i.mjh.nz/SamsungTVPlus/KRBD43000023M.m3u8
+JTBC 냉장고를 부탁해,https://i.mjh.nz/SamsungTVPlus/KRBD4300003MW.m3u8
+서울경제TV,https://i.mjh.nz/SamsungTVPlus/KR7000044K.m3u8
+MBC 마이 리틀 텔레비전,https://i.mjh.nz/SamsungTVPlus/KRBC20000418.m3u8
+MBC 옷소매 붉은끝동,https://i.mjh.nz/SamsungTVPlus/KRBB5000073UD.m3u8
+KBS 1박2일 시즌1,https://i.mjh.nz/SamsungTVPlus/KRBC4400003SD.m3u8
+JTBC 한문철의 블랙박스리뷰,https://i.mjh.nz/SamsungTVPlus/KRBC5000020AF.m3u8
+JTBC 캠핑클럽,https://i.mjh.nz/SamsungTVPlus/KR40000410.m3u8
+essential; by Bugs,https://i.mjh.nz/SamsungTVPlus/KRBD4300001RQ.m3u8
+Kids time,https://i.mjh.nz/SamsungTVPlus/KR120000391.m3u8
+tvN 사랑의 불시착,https://i.mjh.nz/SamsungTVPlus/KRBC3200029C4.m3u8
+Mnet I-LAND,https://i.mjh.nz/SamsungTVPlus/KRBC3200018FU.m3u8
+tvN 유 퀴즈 온 더 블럭 HOT CLIP,https://i.mjh.nz/SamsungTVPlus/KRBD3100002JL.m3u8
+Animax 반지의 비밀일기,https://i.mjh.nz/SamsungTVPlus/KRBC40000010R.m3u8
+JTBC 비정상회담,https://i.mjh.nz/SamsungTVPlus/KRBD5200003O2.m3u8
+Mnet 커플팰리스,https://i.mjh.nz/SamsungTVPlus/KRBC3200023BG.m3u8
+SBS 궁금한 이야기 Y,https://i.mjh.nz/SamsungTVPlus/KRBB4200016TZ.m3u8
+JTBC 톡파원25시,https://i.mjh.nz/SamsungTVPlus/KRBC50000218R.m3u8
+JTBC 청춘시대1,https://i.mjh.nz/SamsungTVPlus/KR400003IP.m3u8
+SBS 나는 솔로,https://i.mjh.nz/SamsungTVPlus/KRBB4200009C3.m3u8
+TV조선 사랑의 콜센타,https://i.mjh.nz/SamsungTVPlus/KRBD27000069Q.m3u8
+KBS 고백부부,https://i.mjh.nz/SamsungTVPlus/KR7000023Z.m3u8
+KBS 추노,https://i.mjh.nz/SamsungTVPlus/KR700003L9.m3u8
+TV조선 우리 이혼했어요,https://i.mjh.nz/SamsungTVPlus/KRBD2700001QR.m3u8
+TV조선 골프왕,https://i.mjh.nz/SamsungTVPlus/KRBD2700002IV.m3u8
+SBS 하이에나,https://i.mjh.nz/SamsungTVPlus/KRBB420000180.m3u8
+SBS 웬만해선 그들을 막을 수 없다,https://i.mjh.nz/SamsungTVPlus/KRBB4200004RA.m3u8
+MBC 지붕뚫고 하이킥,https://i.mjh.nz/SamsungTVPlus/KRBC200005H6.m3u8
+MBC 거침없이 하이킥,https://i.mjh.nz/SamsungTVPlus/KRBC2000010X.m3u8
+MBC 심야괴담회,https://i.mjh.nz/SamsungTVPlus/KRBB50000711L.m3u8
+JTBC 효리네 민박1&2,https://i.mjh.nz/SamsungTVPlus/KRBD5200001G8.m3u8
+SBS 정글의 법칙,https://i.mjh.nz/SamsungTVPlus/KRBB4200012PV.m3u8
+맛있는 녀석들,https://i.mjh.nz/SamsungTVPlus/KRBC3200007D1.m3u8
+JTBC 내 아이디는 강남미인,https://i.mjh.nz/SamsungTVPlus/KR4000020F.m3u8
+채널A 이제 만나러 갑니다,https://i.mjh.nz/SamsungTVPlus/KRBC4100005N5.m3u8
+전우치,https://i.mjh.nz/SamsungTVPlus/KRBC4000003J2.m3u8
+JTBC 세계 다크투어,https://i.mjh.nz/SamsungTVPlus/KRBC46000014A.m3u8
+tvN STORY 회장님네 사람들,https://i.mjh.nz/SamsungTVPlus/KRBC32000191N.m3u8
+SBS 미추리,https://i.mjh.nz/SamsungTVPlus/KRBB4200014MY.m3u8
+tvN 벌거벗은 세계사 요약.zip,https://i.mjh.nz/SamsungTVPlus/KRBC3200021ZA.m3u8
+tvN 환혼: 빛과 그림자,https://i.mjh.nz/SamsungTVPlus/KRBC320002200.m3u8
+tvN 대탈출 전 시즌,https://i.mjh.nz/SamsungTVPlus/KRBC800016YS.m3u8
+MBN 나는 자연인이다,https://i.mjh.nz/SamsungTVPlus/KRBC3500017PO.m3u8
+ch.핑크퐁,https://i.mjh.nz/SamsungTVPlus/KRBC32000126M.m3u8
+SBS 그것이 알고싶다,https://i.mjh.nz/SamsungTVPlus/KRBB4200017HA.m3u8
+고독한 미식가,https://i.mjh.nz/SamsungTVPlus/KRBC3500014ZH.m3u8
+MBC every1 어서와 한국은 처음이지?,https://i.mjh.nz/SamsungTVPlus/KRBB500034DY.m3u8
+채널A 나만 믿고 따라와 도시어부,https://i.mjh.nz/SamsungTVPlus/KRBC4100001LY.m3u8
+TV CHOSUN 국가가 부른다,https://i.mjh.nz/SamsungTVPlus/KRBC35000169K.m3u8
+도라마코리아,https://i.mjh.nz/SamsungTVPlus/KRBC3500015BN.m3u8
+JTBC 뉴스,https://i.mjh.nz/SamsungTVPlus/KRBC46000173Y.m3u8
+BABY SHARK TV,https://i.mjh.nz/SamsungTVPlus/KRBC3500020AF.m3u8
+SBS 내남자의여자,https://i.mjh.nz/SamsungTVPlus/KRBB4200005CK.m3u8
+MBC 해를 품은 달,https://i.mjh.nz/SamsungTVPlus/KRBB5000070U4.m3u8
+뽀요TV,https://i.mjh.nz/SamsungTVPlus/KR900001U5.m3u8
+MBC 안싸우면 다행이야,https://i.mjh.nz/SamsungTVPlus/KRBC20000347.m3u8
+SBS 야인시대,https://i.mjh.nz/SamsungTVPlus/KRBB420001572.m3u8
+Animax 역시 내 청춘의 러브 코미디는 잘못됐다,https://i.mjh.nz/SamsungTVPlus/KRBC3200001VC.m3u8
+MBC every1 별순검,https://i.mjh.nz/SamsungTVPlus/KRBB500037T3.m3u8
+K-ASMR,https://i.mjh.nz/SamsungTVPlus/KRBC41000021C.m3u8
+SBS 런닝맨,https://i.mjh.nz/SamsungTVPlus/KRBB4200002MM.m3u8
+SBS 미운 우리 새끼,https://i.mjh.nz/SamsungTVPlus/KRBB4200003ZL.m3u8
+코코비TV,https://i.mjh.nz/SamsungTVPlus/KRBB500035VF.m3u8
+MBC 선을 넘는 녀석들,https://i.mjh.nz/SamsungTVPlus/KRBB50000721W.m3u8
+TV CHOSUN 식객 허영만의 백반기행,https://i.mjh.nz/SamsungTVPlus/KRBC3200008M6.m3u8
+SBS 신발 벗고 돌싱포맨,https://i.mjh.nz/SamsungTVPlus/KRBB4200008PR.m3u8
+SBS 백종원의 골목식당,https://i.mjh.nz/SamsungTVPlus/KRBB4200011RB.m3u8
+SBS 불타는 청춘,https://i.mjh.nz/SamsungTVPlus/KRBB42000100V.m3u8
+로보카폴리 TV,https://i.mjh.nz/SamsungTVPlus/KRBC3500013VH.m3u8
+iHQ 돈쭐내러 왔습니다,https://i.mjh.nz/SamsungTVPlus/KRBC4000002ME.m3u8
+E채널 토요일은 밥이 좋아,https://i.mjh.nz/SamsungTVPlus/KRBC4100008Z6.m3u8
+KBS Joy 연애의 참견,https://i.mjh.nz/SamsungTVPlus/KRBC4000005EP.m3u8
+KBS Joy 무엇이든 물어보살,https://i.mjh.nz/SamsungTVPlus/KRBC3200009M7.m3u8
+MBN 속풀이쇼 동치미,https://i.mjh.nz/SamsungTVPlus/KRBC3500019CD.m3u8
+SBS 순간포착 세상에 이런일이,https://i.mjh.nz/SamsungTVPlus/KRBB4200013L5.m3u8
+SBS 맨인블박,https://i.mjh.nz/SamsungTVPlus/KRBB4200018FT.m3u8
+MBN 휴먼다큐 사노라면,https://i.mjh.nz/SamsungTVPlus/KRBC3500018J9.m3u8
+현대홈쇼핑,https://i.mjh.nz/SamsungTVPlus/KRAH1801500A.m3u8
+우리의식탁,https://i.mjh.nz/SamsungTVPlus/KRBD2200001QD.m3u8
+인포벨 홈쇼핑,https://i.mjh.nz/SamsungTVPlus/KRBD4400001QO.m3u8
+현대홈쇼핑+Shop,https://i.mjh.nz/SamsungTVPlus/KRAH4602000A.m3u8
+OGN 스타리그,https://i.mjh.nz/SamsungTVPlus/KRBC3200005SH.m3u8
+KBS 개는 훌륭하다,https://i.mjh.nz/SamsungTVPlus/KRBC4400001TZ.m3u8
+씨네21+,https://i.mjh.nz/SamsungTVPlus/KRBD26000011V.m3u8
+PLAYY 영화,https://i.mjh.nz/SamsungTVPlus/KRBD2700007S0.m3u8
+PLAYY 가족 영화 특집,https://i.mjh.nz/SamsungTVPlus/KRBD2700008TZ.m3u8
+NEW MOVIES,https://i.mjh.nz/SamsungTVPlus/KRBC3200004D1.m3u8
+TED,https://i.mjh.nz/SamsungTVPlus/KRBD370000134.m3u8
+Bloomberg TV+ UHD,https://i.mjh.nz/SamsungTVPlus/KRBB500039Y5.m3u8
+Bloomberg Originals,https://i.mjh.nz/SamsungTVPlus/KRBB500044GP.m3u8
+글로벌 뉴스 by LeadStory,https://i.mjh.nz/SamsungTVPlus/KRBD3100006X4.m3u8
+Fireplace 4K,https://i.mjh.nz/SamsungTVPlus/KRBD44000025L.m3u8
+World Billiards TV,https://i.mjh.nz/SamsungTVPlus/KRBC3200011N3.m3u8
+tvN SPORTS,https://i.mjh.nz/SamsungTVPlus/KRBC800015MH.m3u8
+FIFA+,https://i.mjh.nz/SamsungTVPlus/KRBD1900001Y2.m3u8
+PGA Tour,https://i.mjh.nz/SamsungTVPlus/KRBD3100007WB.m3u8
+JTBC 뭉쳐야 뜬다1,https://i.mjh.nz/SamsungTVPlus/KR400006MW.m3u8
+JTBC 뭉쳐야찬다3,https://i.mjh.nz/SamsungTVPlus/KRBC5000019FB.m3u8
+초록뱀미디어 K-STAR 골프,https://i.mjh.nz/SamsungTVPlus/KRBB5000364M.m3u8
+JTBC 골프,https://i.mjh.nz/SamsungTVPlus/KRBD5200002XY.m3u8
+JTBC 최강야구,https://i.mjh.nz/SamsungTVPlus/KR400005KB.m3u8
 「韩国」BBS,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
 「韩国」EBS1,http://ebsonairios.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
 「韩国」EBS2,http://ebsonairios.ebs.co.kr/ebs2familypc/familypc1m/playlist.m3u8
@@ -3087,52 +3198,6 @@ KBS世界,https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/chu
 阿里郎,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 阿里郎,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 Mbc Yeosu,https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
-연합뉴스TV,https://i.mjh.nz/SamsungTVPlus/KRBD1400001ED.m3u8
-MBC 무한도전,https://i.mjh.nz/SamsungTVPlus/KRBB5000069BS.m3u8
-tvN 사랑의 불시착,https://i.mjh.nz/SamsungTVPlus/KRBC3200029C4.m3u8
-MBC 나혼자산다,https://i.mjh.nz/SamsungTVPlus/KRBC200002I0.m3u8
-SBS TV 동물농장,https://i.mjh.nz/SamsungTVPlus/KRBB420000769.m3u8
-tvN 미스터 션샤인,https://i.mjh.nz/SamsungTVPlus/KRBC3200028P2.m3u8
-새해웃음 특집,https://i.mjh.nz/SamsungTVPlus/KRBD2700008TZ.m3u8
-tvN 더 지니어스: 그랜드 파이널,https://i.mjh.nz/SamsungTVPlus/KRBC3200023BG.m3u8
-Fireplace 4K,https://i.mjh.nz/SamsungTVPlus/KRBD44000025L.m3u8
-MBC 나는 가수다,https://i.mjh.nz/SamsungTVPlus/KRBC20000418.m3u8
-MBC 옷소매 붉은끝동,https://i.mjh.nz/SamsungTVPlus/KRBB5000073UD.m3u8
-KBS 1박2일 시즌1,https://i.mjh.nz/SamsungTVPlus/KRBC4400003SD.m3u8
-JTBC 비긴어게인,https://i.mjh.nz/SamsungTVPlus/KRBC5000020AF.m3u8
-JTBC 크라임씬,https://i.mjh.nz/SamsungTVPlus/KRBC46000014A.m3u8
-by Bugs,https://i.mjh.nz/SamsungTVPlus/KRBD4300001RQ.m3u8
-tvN SPORTS,https://i.mjh.nz/SamsungTVPlus/KRBC800015MH.m3u8
-Mnet 스트릿 우먼 파이터 2 HOT CLIP,https://i.mjh.nz/SamsungTVPlus/KRBC3200018FU.m3u8
-tvN 유 퀴즈 온 더 블럭 HOT CLIP,https://i.mjh.nz/SamsungTVPlus/KRBD3100002JL.m3u8
-PGA Tour,https://i.mjh.nz/SamsungTVPlus/KRBD3100007WB.m3u8
-SBS 편의점 샛별이,https://i.mjh.nz/SamsungTVPlus/KRBB42000061Z.m3u8
-SBS 궁금한 이야기 Y,https://i.mjh.nz/SamsungTVPlus/KRBB4200016TZ.m3u8
-JTBC 톡파원25시,https://i.mjh.nz/SamsungTVPlus/KRBC50000218R.m3u8
-KBS 정도전,https://i.mjh.nz/SamsungTVPlus/KRBC4400002AO.m3u8
-SBS 나는 솔로,https://i.mjh.nz/SamsungTVPlus/KRBB4200009C3.m3u8
-TV조선 미스터트롯 영웅의 탄생,https://i.mjh.nz/SamsungTVPlus/KRBD27000069Q.m3u8
-TV조선 우리 이혼했어요,https://i.mjh.nz/SamsungTVPlus/KRBD2700001QR.m3u8
-TV조선 골프왕,https://i.mjh.nz/SamsungTVPlus/KRBD2700002IV.m3u8
-PLAYY 영화,https://i.mjh.nz/SamsungTVPlus/KRBD2700007S0.m3u8
-SBS 스토브리그,https://i.mjh.nz/SamsungTVPlus/KRBB420000180.m3u8
-SBS 순풍산부인과,https://i.mjh.nz/SamsungTVPlus/KRBB4200004RA.m3u8
-MBC 지붕뚫고 하이킥,https://i.mjh.nz/SamsungTVPlus/KRBC200005H6.m3u8
-SBS 정글의 법칙,https://i.mjh.nz/SamsungTVPlus/KRBB4200012PV.m3u8
-사피엔스스튜디오,https://i.mjh.nz/SamsungTVPlus/KRBC32000191N.m3u8
-역사 읽어드립니다,https://i.mjh.nz/SamsungTVPlus/KRBC32000200B.m3u8
-심리 읽어드립니다,https://i.mjh.nz/SamsungTVPlus/KRBC3200021ZA.m3u8
-tvN 환혼,https://i.mjh.nz/SamsungTVPlus/KRBC320002200.m3u8
-tvN 대탈출3,https://i.mjh.nz/SamsungTVPlus/KRBC800016YS.m3u8
-JTBC 뉴스,https://i.mjh.nz/SamsungTVPlus/KRBC46000173Y.m3u8
-tvN 윤스테이,https://i.mjh.nz/SamsungTVPlus/KRBC3200017JQ.m3u8
-SBS 빽드,https://i.mjh.nz/SamsungTVPlus/KRBB420001572.m3u8
-TED,https://i.mjh.nz/SamsungTVPlus/KRBD370000134.m3u8
-Bloomberg TV+ UHD,https://i.mjh.nz/SamsungTVPlus/KRBB500039Y5.m3u8
-Bloomberg Originals,https://i.mjh.nz/SamsungTVPlus/KRBB500044GP.m3u8
-글로벌 뉴스 by LeadStory,https://i.mjh.nz/SamsungTVPlus/KRBD3100006X4.m3u8
-JTBC 최강야구,https://i.mjh.nz/SamsungTVPlus/KRBC5000019FB.m3u8
-KBS 개는 훌륭하다,https://i.mjh.nz/SamsungTVPlus/KRBC4400001TZ.m3u8
 Mubeat,https://stream.ads.ottera.tv/playlist.m3u8?network_id=711
 EBS 2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?
 JTV,https://tistory1.daumcdn.net/tistory/2864485/skin/images/Public_58.m3u8
@@ -3161,59 +3226,12 @@ TV4,https://stream.ads.ottera.tv/playlist.m3u8?network_id=644
 TV5,https://stream.ads.ottera.tv/playlist.m3u8?network_id=742
 14,https://stream.ads.ottera.tv/playlist.m3u8?network_id=14
 EBS少儿,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
-
 KBS世界,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 KBS世界,https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 KBS世界,https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/chunklist_b2500000.m3u8
 阿里郎,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 阿里郎,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 Mbc Yeosu,https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
-연합뉴스TV,https://i.mjh.nz/SamsungTVPlus/KRBD1400001ED.m3u8
-MBC 무한도전,https://i.mjh.nz/SamsungTVPlus/KRBB5000069BS.m3u8
-tvN 사랑의 불시착,https://i.mjh.nz/SamsungTVPlus/KRBC3200029C4.m3u8
-MBC 나혼자산다,https://i.mjh.nz/SamsungTVPlus/KRBC200002I0.m3u8
-SBS TV 동물농장,https://i.mjh.nz/SamsungTVPlus/KRBB420000769.m3u8
-tvN 미스터 션샤인,https://i.mjh.nz/SamsungTVPlus/KRBC3200028P2.m3u8
-새해웃음 특집,https://i.mjh.nz/SamsungTVPlus/KRBD2700008TZ.m3u8
-tvN 더 지니어스: 그랜드 파이널,https://i.mjh.nz/SamsungTVPlus/KRBC3200023BG.m3u8
-Fireplace 4K,https://i.mjh.nz/SamsungTVPlus/KRBD44000025L.m3u8
-MBC 나는 가수다,https://i.mjh.nz/SamsungTVPlus/KRBC20000418.m3u8
-MBC 옷소매 붉은끝동,https://i.mjh.nz/SamsungTVPlus/KRBB5000073UD.m3u8
-KBS 1박2일 시즌1,https://i.mjh.nz/SamsungTVPlus/KRBC4400003SD.m3u8
-JTBC 비긴어게인,https://i.mjh.nz/SamsungTVPlus/KRBC5000020AF.m3u8
-JTBC 크라임씬,https://i.mjh.nz/SamsungTVPlus/KRBC46000014A.m3u8
-by Bugs,https://i.mjh.nz/SamsungTVPlus/KRBD4300001RQ.m3u8
-tvN SPORTS,https://i.mjh.nz/SamsungTVPlus/KRBC800015MH.m3u8
-Mnet 스트릿 우먼 파이터 2 HOT CLIP,https://i.mjh.nz/SamsungTVPlus/KRBC3200018FU.m3u8
-tvN 유 퀴즈 온 더 블럭 HOT CLIP,https://i.mjh.nz/SamsungTVPlus/KRBD3100002JL.m3u8
-PGA Tour,https://i.mjh.nz/SamsungTVPlus/KRBD3100007WB.m3u8
-SBS 편의점 샛별이,https://i.mjh.nz/SamsungTVPlus/KRBB42000061Z.m3u8
-SBS 궁금한 이야기 Y,https://i.mjh.nz/SamsungTVPlus/KRBB4200016TZ.m3u8
-JTBC 톡파원25시,https://i.mjh.nz/SamsungTVPlus/KRBC50000218R.m3u8
-KBS 정도전,https://i.mjh.nz/SamsungTVPlus/KRBC4400002AO.m3u8
-SBS 나는 솔로,https://i.mjh.nz/SamsungTVPlus/KRBB4200009C3.m3u8
-TV조선 미스터트롯 영웅의 탄생,https://i.mjh.nz/SamsungTVPlus/KRBD27000069Q.m3u8
-TV조선 우리 이혼했어요,https://i.mjh.nz/SamsungTVPlus/KRBD2700001QR.m3u8
-TV조선 골프왕,https://i.mjh.nz/SamsungTVPlus/KRBD2700002IV.m3u8
-PLAYY 영화,https://i.mjh.nz/SamsungTVPlus/KRBD2700007S0.m3u8
-SBS 스토브리그,https://i.mjh.nz/SamsungTVPlus/KRBB420000180.m3u8
-SBS 순풍산부인과,https://i.mjh.nz/SamsungTVPlus/KRBB4200004RA.m3u8
-MBC 지붕뚫고 하이킥,https://i.mjh.nz/SamsungTVPlus/KRBC200005H6.m3u8
-SBS 정글의 법칙,https://i.mjh.nz/SamsungTVPlus/KRBB4200012PV.m3u8
-사피엔스스튜디오,https://i.mjh.nz/SamsungTVPlus/KRBC32000191N.m3u8
-역사 읽어드립니다,https://i.mjh.nz/SamsungTVPlus/KRBC32000200B.m3u8
-심리 읽어드립니다,https://i.mjh.nz/SamsungTVPlus/KRBC3200021ZA.m3u8
-tvN 환혼,https://i.mjh.nz/SamsungTVPlus/KRBC320002200.m3u8
-tvN 대탈출3,https://i.mjh.nz/SamsungTVPlus/KRBC800016YS.m3u8
-JTBC 뉴스,https://i.mjh.nz/SamsungTVPlus/KRBC46000173Y.m3u8
-tvN 윤스테이,https://i.mjh.nz/SamsungTVPlus/KRBC3200017JQ.m3u8
-SBS 빽드,https://i.mjh.nz/SamsungTVPlus/KRBB420001572.m3u8
-TED,https://i.mjh.nz/SamsungTVPlus/KRBD370000134.m3u8
-Bloomberg TV+ UHD,https://i.mjh.nz/SamsungTVPlus/KRBB500039Y5.m3u8
-Bloomberg Originals,https://i.mjh.nz/SamsungTVPlus/KRBB500044GP.m3u8
-글로벌 뉴스 by LeadStory,https://i.mjh.nz/SamsungTVPlus/KRBD3100006X4.m3u8
-JTBC 최강야구,https://i.mjh.nz/SamsungTVPlus/KRBC5000019FB.m3u8
-KBS 개는 훌륭하다,https://i.mjh.nz/SamsungTVPlus/KRBC4400001TZ.m3u8
 Mubeat,https://stream.ads.ottera.tv/playlist.m3u8?network_id=711
 EBS 2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?
 JTV,https://tistory1.daumcdn.net/tistory/2864485/skin/images/Public_58.m3u8
@@ -3362,305 +3380,284 @@ CNA,http://66.165.240.154:8080/live/gapd10/hls.m3u8
 
 🦄美国频道🦅,#genre#
 👉此处以下频道需要魔法👈,https://cloud.lxweb.cn/f/08QDU0/3.MOV
-Entertainment Hub,https://i.mjh.nz/SamsungTVPlus/GBBC2300003ZQ.m3u8
-Crime Network,https://i.mjh.nz/SamsungTVPlus/GBBD4100010H1.m3u8
-Euronews Live,https://i.mjh.nz/SamsungTVPlus/GBAJ4900020VP.m3u8
-Comedy Movies - Rakuten TV,https://i.mjh.nz/SamsungTVPlus/GBAJ4900007I2.m3u8
-CNN,https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
-The Wicked Tuna Channel,https://i.mjh.nz/SamsungTVPlus/GBBC900004G9.m3u8
-Conan O'Brien TV,https://i.mjh.nz/SamsungTVPlus/GB300001QO.m3u8
-Comedy Hub,https://i.mjh.nz/SamsungTVPlus/GBBD25000038Y.m3u8
-Project Runway,https://i.mjh.nz/SamsungTVPlus/GBBB4600001IK.m3u8
-America's Got Talent,https://i.mjh.nz/SamsungTVPlus/GBBC2300002GG.m3u8
-American Idol,https://i.mjh.nz/SamsungTVPlus/GBBC2300001X5.m3u8
-
+CNBC,https://i.mjh.nz/SamsungTVPlus/ESBD36000026Z.m3u8
+CNN,https://i.mjh.nz/SamsungTVPlus/CHBD800001D0.m3u8
+CBC News Explore,https://i.mjh.nz/SamsungTVPlus/CABC2300009KD.m3u8
+CBS News 24/7,https://i.mjh.nz/SamsungTVPlus/USBA370000104.m3u8
 ABC News Live,https://i.mjh.nz/SamsungTVPlus/USBC39000171G.m3u8
 NBC News NOW,https://i.mjh.nz/SamsungTVPlus/USBB2200014DK.m3u8
-FOX Weather,https://i.mjh.nz/SamsungTVPlus/USBD700003L7.m3u8
-Sky News,https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
-CBC News International,https://i.mjh.nz/SamsungTVPlus/USBC4400003OU.m3u8
-TODAY All Day,https://i.mjh.nz/SamsungTVPlus/USBB32000251N.m3u8
-Real America's Voice,https://i.mjh.nz/SamsungTVPlus/USBB1900002KF.m3u8
-TYT Network,https://i.mjh.nz/SamsungTVPlus/USBA30002142.m3u8
-Lucky Dog,https://i.mjh.nz/SamsungTVPlus/USBA3000044BJ.m3u8
-The Bob Ross Channel,https://i.mjh.nz/SamsungTVPlus/USBD700012OA.m3u8
-Clarity 4K,https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8
-Shout! Factory,https://i.mjh.nz/SamsungTVPlus/USBD1200021JM.m3u8
-Dove Channel,https://i.mjh.nz/SamsungTVPlus/USBD700016JY.m3u8
-Cowboy Way,https://i.mjh.nz/SamsungTVPlus/USBC3200020QF.m3u8
-FOX SOUL,https://i.mjh.nz/SamsungTVPlus/USBA300032J7.m3u8
-Hollywire,https://i.mjh.nz/SamsungTVPlus/USBC2400015DO.m3u8
-World’s Most Evil Killers,https://i.mjh.nz/SamsungTVPlus/USBC1000002NP.m3u8
-IMPACT Wrestling,https://i.mjh.nz/SamsungTVPlus/USBB1000001XP.m3u8
-Home Refresh,https://i.mjh.nz/SamsungTVPlus/USBC21000142T.m3u8
-BBC Food,https://i.mjh.nz/SamsungTVPlus/USBC6000108Z.m3u8
-ViX JaJaJa,https://i.mjh.nz/SamsungTVPlus/USBC2100010OS.m3u8
-Tastemade,https://i.mjh.nz/SamsungTVPlus/USBD7000189R.m3u8
-FOX News,https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
-
-Homes Under the Hammer,https://i.mjh.nz/SamsungTVPlus/GBBC900013K9.m3u8
-Survivor,https://i.mjh.nz/SamsungTVPlus/GBBB3800007BN.m3u8
-The Chat Show Channel,https://i.mjh.nz/SamsungTVPlus/GBBD1900003JT.m3u8
-Mystery TV,https://i.mjh.nz/SamsungTVPlus/GBBD50000320.m3u8
-Deal or No Deal US,https://i.mjh.nz/SamsungTVPlus/GBBB38000068U.m3u8
-Robot Wars by Mech+,https://i.mjh.nz/SamsungTVPlus/GBBD500005ZG.m3u8
-Pointless UK: 'Powered by Banijay',https://i.mjh.nz/SamsungTVPlus/GBBD2500002QC.m3u8
-Wipeout Xtra Powered by Banijay,https://i.mjh.nz/SamsungTVPlus/GBBD3000001QB.m3u8
-Are We There Yet?,https://i.mjh.nz/SamsungTVPlus/GBBB1600006RS.m3u8
-Challenge,https://i.mjh.nz/SamsungTVPlus/GBBD3100005RX.m3u8
-Real Life,https://i.mjh.nz/SamsungTVPlus/GBBC4300003XU.m3u8
-Highway Thru Hell : Powered by Banijay,https://i.mjh.nz/SamsungTVPlus/GB500001HY.m3u8
-The Pet Collective,https://i.mjh.nz/SamsungTVPlus/GBAJ40003481.m3u8
-FailArmy,https://i.mjh.nz/SamsungTVPlus/GBAJ40003642.m3u8
-So…Real,https://i.mjh.nz/SamsungTVPlus/GBBD1100009M9.m3u8
-Real Series - Rakuten TV,https://i.mjh.nz/SamsungTVPlus/GBBD1100006DS.m3u8
-LOL! Network,https://i.mjh.nz/SamsungTVPlus/GBBC900011EC.m3u8
-Bridezillas,https://i.mjh.nz/SamsungTVPlus/GBBD3700002J9.m3u8
-Shades of Black,https://i.mjh.nz/SamsungTVPlus/GBBB3800004IV.m3u8
-Revry,https://i.mjh.nz/SamsungTVPlus/GBBA3300022EI.m3u8
-Sky Mix,https://i.mjh.nz/SamsungTVPlus/GBBD3100006XM.m3u8
-Baywatch,https://i.mjh.nz/SamsungTVPlus/GBBD600002XT.m3u8
-Mythbusters,https://i.mjh.nz/SamsungTVPlus/GB200005LI.m3u8
-Inside Crime,https://i.mjh.nz/SamsungTVPlus/GBBD500002R4.m3u8
-True Crime UK,https://i.mjh.nz/SamsungTVPlus/GBBD1100007AC.m3u8
-DATELINE 24/7,https://i.mjh.nz/SamsungTVPlus/GBBD3700001AB.m3u8
-Crime & Justice,https://i.mjh.nz/SamsungTVPlus/GBBD260000189.m3u8
-Haunt TV,https://i.mjh.nz/SamsungTVPlus/GBBC900005T0.m3u8
-Wonder,https://i.mjh.nz/SamsungTVPlus/GBBA22000063W.m3u8
-Documentaries - Rakuten TV,https://i.mjh.nz/SamsungTVPlus/GBAJ4900009UA.m3u8
-World War TV,https://i.mjh.nz/SamsungTVPlus/GBBD1100001UI.m3u8
-History Hit,https://i.mjh.nz/SamsungTVPlus/GBBA2200005ZA.m3u8
-Love the Planet,https://i.mjh.nz/SamsungTVPlus/GBBD500001F5.m3u8
-PBS History,https://i.mjh.nz/SamsungTVPlus/GBBA33000540B.m3u8
-Wild Planet,https://i.mjh.nz/SamsungTVPlus/GBBB5000002PL.m3u8
-Adventure Earth,https://i.mjh.nz/SamsungTVPlus/GBBC900015D3.m3u8
-INWILD,https://i.mjh.nz/SamsungTVPlus/GBBA220000751.m3u8
-WildEarth,https://i.mjh.nz/SamsungTVPlus/GBBC4300002RW.m3u8
-WaterBear,https://i.mjh.nz/SamsungTVPlus/GBBC300003UQ.m3u8
-CNN FAST,https://i.mjh.nz/SamsungTVPlus/GBBD1900008O3.m3u8
-FRANCE 24 FAST,https://i.mjh.nz/SamsungTVPlus/GBBD1100002L5.m3u8
-NBC News NOW,https://i.mjh.nz/SamsungTVPlus/GBBB1500004LG.m3u8
-Bloomberg TV+,https://i.mjh.nz/SamsungTVPlus/GBBA3300033C2.m3u8
-Bloomberg Originals,https://i.mjh.nz/SamsungTVPlus/GBBC900012J9.m3u8
-GB News,https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8
-The Guardian,https://i.mjh.nz/SamsungTVPlus/GBAJ2400003DD.m3u8
-Fireplace,https://i.mjh.nz/SamsungTVPlus/GBBD1500003SD.m3u8
-INTROUBLE,https://i.mjh.nz/SamsungTVPlus/GBAJ42000019J.m3u8
-Travelxp,https://i.mjh.nz/SamsungTVPlus/GBAJ49000184K.m3u8
-GoUSA TV,https://i.mjh.nz/SamsungTVPlus/GBAJ49000197P.m3u8
-Love Pets,https://i.mjh.nz/SamsungTVPlus/GBBD1100003I0.m3u8
-Royalworld - Nobility & Dynasties,https://i.mjh.nz/SamsungTVPlus/GBBD1100014ZH.m3u8
-Fashion TV,https://i.mjh.nz/SamsungTVPlus/GBAJ4900002DE.m3u8
-The Jamie Oliver Channel,https://i.mjh.nz/SamsungTVPlus/GBBC4000002H3.m3u8
-Masterchef UK: 'Powered by Banijay',https://i.mjh.nz/SamsungTVPlus/GBBD25000019N.m3u8
-Great British Menu,https://i.mjh.nz/SamsungTVPlus/GBBC900014LW.m3u8
-Tastemade,https://i.mjh.nz/SamsungTVPlus/GBBB38000093D.m3u8
-MotorRacing,https://i.mjh.nz/SamsungTVPlus/GBBA1500006H6.m3u8
-MAVTV Motorsports Network,https://i.mjh.nz/SamsungTVPlus/GBBD320000432.m3u8
-PGA Tour,https://i.mjh.nz/SamsungTVPlus/GBBB1500005BH.m3u8
-Red Bull TV,https://i.mjh.nz/SamsungTVPlus/GBBD2300003IK.m3u8
-World Poker Tour,https://i.mjh.nz/SamsungTVPlus/GBBD2900001VD.m3u8
-Tennis Channel International,https://i.mjh.nz/SamsungTVPlus/GBBA33000529G.m3u8
-Horse & Country,https://i.mjh.nz/SamsungTVPlus/GBBA2200008YU.m3u8
-Strongman Champions League,https://i.mjh.nz/SamsungTVPlus/GBBC90001089.m3u8
-The LEGO Channel,https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8
-Smurf TV,https://i.mjh.nz/SamsungTVPlus/GBBD1300001WA.m3u8
-Teletubbies,https://i.mjh.nz/SamsungTVPlus/GBBA33000286F.m3u8
-Ketchup TV,https://i.mjh.nz/SamsungTVPlus/GBBB2000004BQ.m3u8
-Tiny POP,https://i.mjh.nz/SamsungTVPlus/GBBD3200003T6.m3u8
-Family - Rakuten TV,https://i.mjh.nz/SamsungTVPlus/GBBA3300024F7.m3u8
-SuperToons TV,https://i.mjh.nz/SamsungTVPlus/GBBD5100001HL.m3u8
-Rabbids Invasion,https://i.mjh.nz/SamsungTVPlus/GBBD230000420.m3u8
-Toon Goggles,https://i.mjh.nz/SamsungTVPlus/GBBC4000017F.m3u8
-Super Anime,https://i.mjh.nz/SamsungTVPlus/GBBD1100010UB.m3u8
-Beano TV,https://i.mjh.nz/SamsungTVPlus/GBBA330002536.m3u8
-Dennis and Gnasher,https://i.mjh.nz/SamsungTVPlus/GBBD1100011V3.m3u8
-YAAAS!,https://i.mjh.nz/SamsungTVPlus/GBBA3300030OP.m3u8
-Kidoodle.TV,https://i.mjh.nz/SamsungTVPlus/GBAJ49000164E.m3u8
-pocket.watch,https://i.mjh.nz/SamsungTVPlus/GBBD1100005QY.m3u8
-Vevo Pop,https://i.mjh.nz/SamsungTVPlus/GBBC19000017V.m3u8
-Vevo Hip Hop & R&B,https://i.mjh.nz/SamsungTVPlus/GBBD2300001C0.m3u8
-Trace UK,https://i.mjh.nz/SamsungTVPlus/GBBD19000026B.m3u8
-GIGS,https://i.mjh.nz/SamsungTVPlus/GBBD3000004VR.m3u8
-Vevo '70s & '80s,https://i.mjh.nz/SamsungTVPlus/GBBD1900009UD.m3u8
-Vevo '90s & '00s,https://i.mjh.nz/SamsungTVPlus/GBBC2100002HP.m3u8
-Now 80s,https://i.mjh.nz/SamsungTVPlus/GBBC900003B2.m3u8
-Trace Urban,https://i.mjh.nz/SamsungTVPlus/GBBC900001SC.m3u8
-XITE Hits,https://i.mjh.nz/SamsungTVPlus/GBBB3800005QO.m3u8
-Moviedome,https://i.mjh.nz/SamsungTVPlus/GBBB3800003JH.m3u8
-Sparkle Movies,https://i.mjh.nz/SamsungTVPlus/GBAJ400042T1.m3u8
-Grjngo - Western Movies,https://i.mjh.nz/SamsungTVPlus/GBBD500007TG.m3u8
-Filmstream,https://i.mjh.nz/SamsungTVPlus/GBAJ4900011Y4.m3u8
-Romance Movies - Rakuten TV,https://i.mjh.nz/SamsungTVPlus/GBBA3300020DM.m3u8
-MovieSphere,https://i.mjh.nz/SamsungTVPlus/GBBA33000557H.m3u8
-Popflix,https://i.mjh.nz/SamsungTVPlus/GBAJ400045P5.m3u8
-Top Movies - Rakuten TV,https://i.mjh.nz/SamsungTVPlus/GBBC90001660.m3u8
-Drama Movies - Rakuten TV,https://i.mjh.nz/SamsungTVPlus/GBAJ49000081B.m3u8
-Action Movies - Rakuten TV,https://i.mjh.nz/SamsungTVPlus/GBAJ4900006TU.m3u8
-
-
-🦄英国频道🦁,#genre#
-👉此处以下频道需要魔法👈,https://cloud.lxweb.cn/f/08QDU0/3.MOV
-BBC Earth,https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8
-Dance Moms,https://i.mjh.nz/SamsungTVPlus/USBC3900021HS.m3u8
 LiveNOW from FOX,https://i.mjh.nz/SamsungTVPlus/USBA300024TN.m3u8
-ABC News Live,https://i.mjh.nz/SamsungTVPlus/USBC39000171G.m3u8
-NBC News NOW,https://i.mjh.nz/SamsungTVPlus/USBB2200014DK.m3u8
-CNN Headlines,https://i.mjh.nz/SamsungTVPlus/USBB32000103E.m3u8
+Scripps News,https://i.mjh.nz/SamsungTVPlus/USBD3000073N.m3u8
+NBC Bay Area News,https://i.mjh.nz/SamsungTVPlus/USBC3200005A0.m3u8
+ABC7 Bay Area,https://i.mjh.nz/SamsungTVPlus/USBC4400010RH.m3u8
+CBS News Bay Area,https://i.mjh.nz/SamsungTVPlus/USBD2700010WB.m3u8
+FOX 2 San Francisco,https://i.mjh.nz/SamsungTVPlus/USBD2700019N0.m3u8
 FOX Weather,https://i.mjh.nz/SamsungTVPlus/USBD700003L7.m3u8
+WN San Francisco,https://i.mjh.nz/SamsungTVPlus/USBB3600008BU.m3u8
 BBC News,https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
 Sky News,https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
 CBC News International,https://i.mjh.nz/SamsungTVPlus/USBC4400003OU.m3u8
-TNT,http://170.254.18.106/TNT/index.m3u8
-
-BBC News,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-BBC2,http://honeywatch.net:80/play/live.php?mac=00:1A:79:A5:9F:91&stream=1283283&extension=ts&play_token=zglR4Bz2UNAFRICABLE,http://69.64.57.208/africable/playlist.m3u8
-BBC ONE,http://81.137.213.119:4200/bysid/4164
-BBC TWO,http://81.137.213.119:4200/bysid/4287
-BBC NEWS,http://81.137.213.119:4200/bysid/4352
-BBC FOUR,http://81.137.213.119:4200/bysid/4544
-CBeebies,http://81.137.213.119:4200/bysid/4672
-BBC Parliament,http://81.137.213.119:4200/bysid/4736
-BBC NEWS,http://103.199.161.254/Content/bbcworld/Live/Channel%28BBCworld%29/index.m3u8
-BBC NEWS,http://81.137.213.119:4200/bysid/4352
-BBC Parliament,http://81.137.213.119:4200/bysid/4736
-BBC WORLD_ENG,http://89.187.177.137/BBC_WORLD_ENG/index.m3u8?token=test
-HBO Mundi,http://170.254.18.106/HBO_MUNDI/index.m3u8
-HBO Family,http://170.254.18.106/HBO_FAMILY/index.m3u8
-HBO Plus,http://170.254.18.106/HBO_PLUS/index.m3u8
-HBO 2,http://170.254.18.106/HBO2/index.m3u8
-HBO Signature,http://170.254.18.106/HBO_SIG/index.m3u8
-
-Bloomberg TV+ UHD,https://i.mjh.nz/SamsungTVPlus/USAJ3400011A8.m3u8
-Cheddar News,https://i.mjh.nz/SamsungTVPlus/USAJ3504714A.m3u8
-Yahoo Finance,https://i.mjh.nz/SamsungTVPlus/USAJ4300005PJ.m3u8
-TODAY All Day,https://i.mjh.nz/SamsungTVPlus/USBB32000251N.m3u8
-Scripps News,https://i.mjh.nz/SamsungTVPlus/USBD3000073N.m3u8
+Samsung Wild Life,https://i.mjh.nz/SamsungTVPlus/USBA3000043LH.m3u8
+American Crimes,https://i.mjh.nz/SamsungTVPlus/USBD42000250Q.m3u8
+Movie Favorites by Lifetime,https://i.mjh.nz/SamsungTVPlus/USBB5200019FO.m3u8
+T2,https://i.mjh.nz/SamsungTVPlus/USBC600001QL.m3u8
+Bloomberg TV+ 4K,https://i.mjh.nz/SamsungTVPlus/USAJ3400011A8.m3u8
 Bloomberg Originals,https://i.mjh.nz/SamsungTVPlus/USAJ30000041W.m3u8
+Yahoo Finance,https://i.mjh.nz/SamsungTVPlus/USAJ4300005PJ.m3u8
+NEWSMAX2,https://i.mjh.nz/SamsungTVPlus/USBA300028QU.m3u8
 Real America's Voice,https://i.mjh.nz/SamsungTVPlus/USBB1900002KF.m3u8
-TYT Network,https://i.mjh.nz/SamsungTVPlus/USBA30002142.m3u8
 The First,https://i.mjh.nz/SamsungTVPlus/US1000016Q.m3u8
-NBC Bay Area News,https://i.mjh.nz/SamsungTVPlus/USBC3200005A0.m3u8
-ABC7 Bay Area,https://i.mjh.nz/SamsungTVPlus/USBC4400010RH.m3u8
-WN San Francisco,https://i.mjh.nz/SamsungTVPlus/USBB3600008BU.m3u8
-CBS News Bay Area,https://i.mjh.nz/SamsungTVPlus/USBD2700010WB.m3u8
-FOX 2 San Francisco,https://i.mjh.nz/SamsungTVPlus/USBD2700019N0.m3u8
+TYT Network,https://i.mjh.nz/SamsungTVPlus/USBA30002142.m3u8
+Hallmark Movies & More,https://i.mjh.nz/SamsungTVPlus/USBD270001633.m3u8
+MovieSphere,https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8
+Pluto TV Fantastic,https://i.mjh.nz/SamsungTVPlus/USBA300017PK.m3u8
+CINEVAULT,https://i.mjh.nz/SamsungTVPlus/USAJ30000148W.m3u8
+CINEVAULT: Classics,https://i.mjh.nz/SamsungTVPlus/USBB3200015M8.m3u8
+Paramount Movie Channel,https://i.mjh.nz/SamsungTVPlus/USAJ26000054W.m3u8
+The Rotten Tomatoes Channel,https://i.mjh.nz/SamsungTVPlus/USBB3200030CG.m3u8
+Gravitas Movies,https://i.mjh.nz/SamsungTVPlus/USBD700011RE.m3u8
+MyTime Movie Network,https://i.mjh.nz/SamsungTVPlus/USBC3900018K6.m3u8
+Chicken Soup for the Soul,https://i.mjh.nz/SamsungTVPlus/USBC2100007I2.m3u8
+NEW KMOVIES,https://i.mjh.nz/SamsungTVPlus/USAJ30000122O.m3u8
+The Preview Channel,https://i.mjh.nz/SamsungTVPlus/USAJ34000175A.m3u8
+Maverick Black Cinema,https://i.mjh.nz/SamsungTVPlus/USAJ3000007MT.m3u8
+FilmRise Free Movies,https://i.mjh.nz/SamsungTVPlus/USAJ40000072X.m3u8
+FilmRise Action,https://i.mjh.nz/SamsungTVPlus/USBB3200020ID.m3u8
+CINEVAULT: Westerns,https://i.mjh.nz/SamsungTVPlus/USAK3508709A.m3u8
+Pluto TV Westerns,https://i.mjh.nz/SamsungTVPlus/USBA300005MK.m3u8
+FilmRise Western,https://i.mjh.nz/SamsungTVPlus/USBB32000196O.m3u8
+Grit Xtra,https://i.mjh.nz/SamsungTVPlus/USBC24000213P.m3u8
+Cowboy Way,https://i.mjh.nz/SamsungTVPlus/USBC3200020QF.m3u8
+Circle,https://i.mjh.nz/SamsungTVPlus/USBA300035FV.m3u8
+Shout! TV,https://i.mjh.nz/SamsungTVPlus/USBD1200021JM.m3u8
 ION,https://i.mjh.nz/SamsungTVPlus/USBD300002TU.m3u8
+ION Plus,https://i.mjh.nz/SamsungTVPlus/USBD300003LK.m3u8
+ElectricNOW,https://i.mjh.nz/SamsungTVPlus/USBC6000225M.m3u8
+Bounce XL,https://i.mjh.nz/SamsungTVPlus/USBD300008G1.m3u8
 ALLBLK Gems,https://i.mjh.nz/SamsungTVPlus/USBD300022FH.m3u8
 EBONY TV by Lionsgate,https://i.mjh.nz/SamsungTVPlus/USBD2500012DH.m3u8
-Heartland,https://i.mjh.nz/SamsungTVPlus/USBB2900003O3.m3u8
-Bounce XL,https://i.mjh.nz/SamsungTVPlus/USBD300008G1.m3u8
-ION Plus,https://i.mjh.nz/SamsungTVPlus/USBD300003LK.m3u8
-Baywatch,https://i.mjh.nz/SamsungTVPlus/USBA2000001BR.m3u8
-21 Jump Street,https://i.mjh.nz/SamsungTVPlus/USBB320000397.m3u8
-Degrassi,https://i.mjh.nz/SamsungTVPlus/USBD700010XU.m3u8
-Lucky Dog,https://i.mjh.nz/SamsungTVPlus/USBA3000044BJ.m3u8
-The Bob Ross Channel,https://i.mjh.nz/SamsungTVPlus/USBD700012OA.m3u8
-Clarity 4K,https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8
-ElectricNOW,https://i.mjh.nz/SamsungTVPlus/USBC6000225M.m3u8
-Merit Street,https://i.mjh.nz/SamsungTVPlus/US70001475.m3u8
-Nosey,https://i.mjh.nz/SamsungTVPlus/USAJ34000022E.m3u8
-Divorce Court,https://i.mjh.nz/SamsungTVPlus/USBD300006A6.m3u8
-Circle,https://i.mjh.nz/SamsungTVPlus/USBA300035FV.m3u8
-4UV,https://i.mjh.nz/SamsungTVPlus/USBD70000412.m3u8
+BET Pluto TV,https://i.mjh.nz/SamsungTVPlus/USBC450000130.m3u8
 Shades of Black,https://i.mjh.nz/SamsungTVPlus/USBC1000004G8.m3u8
-Backstage,https://i.mjh.nz/SamsungTVPlus/USBC10000129R.m3u8
-VICE,https://i.mjh.nz/SamsungTVPlus/USBB1900006NY.m3u8
-Revry,https://i.mjh.nz/SamsungTVPlus/USBA3800003VP.m3u8
-Shout! TV,https://i.mjh.nz/SamsungTVPlus/USBD1200021JM.m3u8
-Dove Channel,https://i.mjh.nz/SamsungTVPlus/USBD700016JY.m3u8
-Chicken Soup for the Soul,https://i.mjh.nz/SamsungTVPlus/USBC2100007I2.m3u8
+Drama Life,https://i.mjh.nz/SamsungTVPlus/USAJ26000015Y.m3u8
+Heartland,https://i.mjh.nz/SamsungTVPlus/USBB2900003O3.m3u8
+Baywatch,https://i.mjh.nz/SamsungTVPlus/USBA2000001BR.m3u8
+TV Land Drama,https://i.mjh.nz/SamsungTVPlus/USBB3500002FL.m3u8
+21 Jump Street,https://i.mjh.nz/SamsungTVPlus/USBB320000397.m3u8
 Highway to Heaven,https://i.mjh.nz/SamsungTVPlus/USBB19000017U.m3u8
 K-Stories by CJ ENM,https://i.mjh.nz/SamsungTVPlus/USBB2900001P9.m3u8
 MHz Now,https://i.mjh.nz/SamsungTVPlus/USAJ22000130U.m3u8
-Grit Xtra,https://i.mjh.nz/SamsungTVPlus/USBC24000213P.m3u8
-Cowboy Way,https://i.mjh.nz/SamsungTVPlus/USBC3200020QF.m3u8
+Dove Channel,https://i.mjh.nz/SamsungTVPlus/USBD700016JY.m3u8
+Degrassi,https://i.mjh.nz/SamsungTVPlus/USBD700010XU.m3u8
 Brat TV,https://i.mjh.nz/SamsungTVPlus/USBC240001823.m3u8
-FOX SOUL,https://i.mjh.nz/SamsungTVPlus/USBA300032J7.m3u8
-Hollywire,https://i.mjh.nz/SamsungTVPlus/USBC2400015DO.m3u8
-TMZ,https://i.mjh.nz/SamsungTVPlus/USBD70000213.m3u8
 ION Mystery,https://i.mjh.nz/SamsungTVPlus/USBC24000223S.m3u8
+Midsomer Murders,https://i.mjh.nz/SamsungTVPlus/USBC24000134A.m3u8
 Crime 24/7,https://i.mjh.nz/SamsungTVPlus/USAK3508703A.m3u8
 I Survived…,https://i.mjh.nz/SamsungTVPlus/USBD1700008H9.m3u8
+Dr. G: Medical Examiner,https://i.mjh.nz/SamsungTVPlus/USBB3200004X3.m3u8
 World’s Most Evil Killers,https://i.mjh.nz/SamsungTVPlus/USBC1000002NP.m3u8
 60 Days In by A&E,https://i.mjh.nz/SamsungTVPlus/USBD42000073E.m3u8
+Witness to Justice,https://i.mjh.nz/SamsungTVPlus/US700010XK.m3u8
+Dateline 24/7,https://i.mjh.nz/SamsungTVPlus/USBB5200007BY.m3u8
 REELZ Famous & Infamous,https://i.mjh.nz/SamsungTVPlus/USBB3200001MG.m3u8
-Dr. G: Medical Examiner,https://i.mjh.nz/SamsungTVPlus/USBB3200004X3.m3u8
+Crime ThrillHer,https://i.mjh.nz/SamsungTVPlus/USBB52000236D.m3u8
+Crimes Cults Killers,https://i.mjh.nz/SamsungTVPlus/USBB5200022PY.m3u8
 Forensic Files,https://i.mjh.nz/SamsungTVPlus/USBB3200017MY.m3u8
-Law & Crime,https://i.mjh.nz/SamsungTVPlus/USAK3508710A.m3u8
 Cold Case Files,https://i.mjh.nz/SamsungTVPlus/USBC390002256.m3u8
 Unsolved Mysteries,https://i.mjh.nz/SamsungTVPlus/USBB3200018Q6.m3u8
-Midsomer Murders,https://i.mjh.nz/SamsungTVPlus/USBC24000134A.m3u8
-Dateline 24/7,https://i.mjh.nz/SamsungTVPlus/USBB5200007BY.m3u8
-BUZZR,https://i.mjh.nz/SamsungTVPlus/USBD700021WG.m3u8
-Game Show Central,https://i.mjh.nz/SamsungTVPlus/USAJ3400012FA.m3u8
-Supermarket Sweep,https://i.mjh.nz/SamsungTVPlus/USBC44000087O.m3u8
-Deal or No Deal,https://i.mjh.nz/SamsungTVPlus/USBB4400017N3.m3u8
-T2,https://i.mjh.nz/SamsungTVPlus/USBC600001QL.m3u8
-GOLFPASS,https://i.mjh.nz/SamsungTVPlus/USBB400000145.m3u8
+The New Detectives,https://i.mjh.nz/SamsungTVPlus/USAJ3504547A.m3u8
+Law & Crime,https://i.mjh.nz/SamsungTVPlus/USAK3508710A.m3u8
+Court TV,https://i.mjh.nz/SamsungTVPlus/USBA34000049Z.m3u8
+All-Out Reality,https://i.mjh.nz/SamsungTVPlus/USBB4400016F9.m3u8
+Kitchen Nightmares,https://i.mjh.nz/SamsungTVPlus/USBA3000042O6.m3u8
+Little Women: LA,https://i.mjh.nz/SamsungTVPlus/USBD170000771.m3u8
+Dance Moms,https://i.mjh.nz/SamsungTVPlus/USBC3900021HS.m3u8
+Matched Married Meet,https://i.mjh.nz/SamsungTVPlus/USBC440000193.m3u8
+MTV Pluto TV,https://i.mjh.nz/SamsungTVPlus/USBA3000093U.m3u8
+Perform,https://i.mjh.nz/SamsungTVPlus/USBB520002604.m3u8
+All Reality WE tv,https://i.mjh.nz/SamsungTVPlus/USBD12000061R.m3u8
+All Weddings WE tv,https://i.mjh.nz/SamsungTVPlus/USBD1200005XR.m3u8
+Bring It!,https://i.mjh.nz/SamsungTVPlus/USBD17000040J.m3u8
+Love & Hip Hop,https://i.mjh.nz/SamsungTVPlus/USBA300020WC.m3u8
+Cheaters,https://i.mjh.nz/SamsungTVPlus/USBD3500031F3.m3u8
+Operation Repo,https://i.mjh.nz/SamsungTVPlus/USBC6000219D.m3u8
+Dog the Bounty Hunter,https://i.mjh.nz/SamsungTVPlus/US900002IH.m3u8
+Intervention by A&E,https://i.mjh.nz/SamsungTVPlus/USBD3500040WX.m3u8
+Hoarders by A&E,https://i.mjh.nz/SamsungTVPlus/USBD4200009Y4.m3u8
+Duck Dynasty,https://i.mjh.nz/SamsungTVPlus/USBC4400002GF.m3u8
+Swamp People,https://i.mjh.nz/SamsungTVPlus/USBD2700013UK.m3u8
+Mountain Men,https://i.mjh.nz/SamsungTVPlus/USBD17000051M.m3u8
+INFAST,https://i.mjh.nz/SamsungTVPlus/USBA300022JX.m3u8
+DangerTV,https://i.mjh.nz/SamsungTVPlus/USAJ3504708A.m3u8
+Caught on Tape,https://i.mjh.nz/SamsungTVPlus/US700007CV.m3u8
+Road Renegades,https://i.mjh.nz/SamsungTVPlus/US700002ZB.m3u8
+Home Refresh,https://i.mjh.nz/SamsungTVPlus/USBC21000142T.m3u8
+Home.Made.Nation,https://i.mjh.nz/SamsungTVPlus/USAJ3000006X5.m3u8
+Tiny House Nation,https://i.mjh.nz/SamsungTVPlus/USAJ3400020KC.m3u8
+This Old House,https://i.mjh.nz/SamsungTVPlus/USBC13000065U.m3u8
+This Old House Makers,https://i.mjh.nz/SamsungTVPlus/USBC1300005T6.m3u8
+Flipping Nation by A&E,https://i.mjh.nz/SamsungTVPlus/USBD4200008RS.m3u8
+Homeful,https://i.mjh.nz/SamsungTVPlus/USBD700022M5.m3u8
+At Home with Family Handyman,https://i.mjh.nz/SamsungTVPlus/USBD25000138Y.m3u8
+Tastemade Home,https://i.mjh.nz/SamsungTVPlus/USBC3200022W6.m3u8
+NBC LX Home,https://i.mjh.nz/SamsungTVPlus/USBB40000028E.m3u8
+Million Dollar Listing,https://i.mjh.nz/SamsungTVPlus/USBB3200024V5.m3u8
+The Design Network,https://i.mjh.nz/SamsungTVPlus/USBD1200022S1.m3u8
+PBS Antiques Roadshow,https://i.mjh.nz/SamsungTVPlus/USBD4200017GS.m3u8
+Antiques Roadshow,https://i.mjh.nz/SamsungTVPlus/USBC600018CF.m3u8
+BBC Home & Garden,https://i.mjh.nz/SamsungTVPlus/USBC600017FG.m3u8
+BBC Food,https://i.mjh.nz/SamsungTVPlus/USBC6000108Z.m3u8
+America's Test Kitchen,https://i.mjh.nz/SamsungTVPlus/USBA3800002KI.m3u8
+Bon Appétit,https://i.mjh.nz/SamsungTVPlus/USBC44000226R.m3u8
+Gusto TV,https://i.mjh.nz/SamsungTVPlus/USAK3508724A.m3u8
+Jamie Oliver,https://i.mjh.nz/SamsungTVPlus/USBC4400016CL.m3u8
+Hungry,https://i.mjh.nz/SamsungTVPlus/USAJ2200009C2.m3u8
+Tastemade,https://i.mjh.nz/SamsungTVPlus/USBD7000189R.m3u8
+Tastemade Travel,https://i.mjh.nz/SamsungTVPlus/USBD700017WC.m3u8
+Journy,https://i.mjh.nz/SamsungTVPlus/USBB1000003HL.m3u8
+Localish,https://i.mjh.nz/SamsungTVPlus/USBC4400005HY.m3u8
+CBS Sports HQ,https://i.mjh.nz/SamsungTVPlus/USBB4800005VO.m3u8
+NBC Sports,https://i.mjh.nz/SamsungTVPlus/USBD420002446.m3u8
+DraftKings Network,https://i.mjh.nz/SamsungTVPlus/USBD700013BW.m3u8
+SportsGrid,https://i.mjh.nz/SamsungTVPlus/USBA300031OT.m3u8
 FIFA+,https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
+beIN SPORTS XTRA,https://i.mjh.nz/SamsungTVPlus/USAJ4300001Q7.m3u8
 fubo Sports Network,https://i.mjh.nz/SamsungTVPlus/USAJ2200023Z0.m3u8
 Stadium,https://i.mjh.nz/SamsungTVPlus/USAJ3504705A.m3u8
-SportsGrid,https://i.mjh.nz/SamsungTVPlus/USBA300031OT.m3u8
 Pac-12 Insider,https://i.mjh.nz/SamsungTVPlus/USBA300034DB.m3u8
 ACC Digital Network,https://i.mjh.nz/SamsungTVPlus/USBD25000161U.m3u8
 Origin Sports,https://i.mjh.nz/SamsungTVPlus/USBD1200010I8.m3u8
 TNA Wrestling,https://i.mjh.nz/SamsungTVPlus/USBB1000001XP.m3u8
 MSG SportsZone,https://i.mjh.nz/SamsungTVPlus/USBD300021B8.m3u8
-DraftKings Network,https://i.mjh.nz/SamsungTVPlus/USBD700013BW.m3u8
 People Are Awesome,https://i.mjh.nz/SamsungTVPlus/USAJ3400015BY.m3u8
+PGA Tour,https://i.mjh.nz/SamsungTVPlus/US400001M2.m3u8
+GOLFPASS,https://i.mjh.nz/SamsungTVPlus/USBB400000145.m3u8
 PickleballTV,https://i.mjh.nz/SamsungTVPlus/USBD4200016QR.m3u8
 Billiard TV,https://i.mjh.nz/SamsungTVPlus/USBD12000183X.m3u8
 World Poker Tour,https://i.mjh.nz/SamsungTVPlus/USBD1700009P5.m3u8
+SURF NOW TV,https://i.mjh.nz/SamsungTVPlus/USBB10000058A.m3u8
+Outside,https://i.mjh.nz/SamsungTVPlus/USAJ3504707A.m3u8
+Waypoint TV,https://i.mjh.nz/SamsungTVPlus/USBB440002055.m3u8
+Pursuit UP,https://i.mjh.nz/SamsungTVPlus/USBD17000025J.m3u8
+Outdoor America,https://i.mjh.nz/SamsungTVPlus/USBD1200020Y4.m3u8
 Top Gear,https://i.mjh.nz/SamsungTVPlus/USBC2400027NG.m3u8
+Torque,https://i.mjh.nz/SamsungTVPlus/USBB5200027Z5.m3u8
+MotorTrend FAST TV,https://i.mjh.nz/SamsungTVPlus/USBC3600005U9.m3u8
 MAVTV Select,https://i.mjh.nz/SamsungTVPlus/USBD1700019RN.m3u8
 POWERNATION,https://i.mjh.nz/SamsungTVPlus/USBD2500017XQ.m3u8
-MotorTrend FAST TV,https://i.mjh.nz/SamsungTVPlus/USBC3600005U9.m3u8
 NHRA TV,https://i.mjh.nz/SamsungTVPlus/USBC3200019WF.m3u8
 Hagerty,https://i.mjh.nz/SamsungTVPlus/USBD4200011W4.m3u8
-Tastemade,https://i.mjh.nz/SamsungTVPlus/USBD7000189R.m3u8
-Bon Appétit,https://i.mjh.nz/SamsungTVPlus/USBC44000226R.m3u8
-Gusto TV,https://i.mjh.nz/SamsungTVPlus/USAK3508724A.m3u8
-America's Test Kitchen,https://i.mjh.nz/SamsungTVPlus/USBA3800002KI.m3u8
-Jamie Oliver,https://i.mjh.nz/SamsungTVPlus/USBC4400016CL.m3u8
-PBS Antiques Roadshow,https://i.mjh.nz/SamsungTVPlus/USBD4200017GS.m3u8
-Home Refresh,https://i.mjh.nz/SamsungTVPlus/USBC21000142T.m3u8
-Million Dollar Listing,https://i.mjh.nz/SamsungTVPlus/USBB3200024V5.m3u8
-Antiques Roadshow,https://i.mjh.nz/SamsungTVPlus/USBC600018CF.m3u8
-This Old House,https://i.mjh.nz/SamsungTVPlus/USBC13000065U.m3u8
-This Old House Makers,https://i.mjh.nz/SamsungTVPlus/USBC1300005T6.m3u8
-The Design Network,https://i.mjh.nz/SamsungTVPlus/USBD1200022S1.m3u8
-Flipping Nation by A&E,https://i.mjh.nz/SamsungTVPlus/USBD4200008RS.m3u8
-Homeful,https://i.mjh.nz/SamsungTVPlus/USBD700022M5.m3u8
-At Home with Family Handyman,https://i.mjh.nz/SamsungTVPlus/USBD25000138Y.m3u8
-Tastemade Home,https://i.mjh.nz/SamsungTVPlus/USBC3200022W6.m3u8
-Tastemade Travel,https://i.mjh.nz/SamsungTVPlus/USBD700017WC.m3u8
-Journy,https://i.mjh.nz/SamsungTVPlus/USBB1000003HL.m3u8
-NBC LX Home,https://i.mjh.nz/SamsungTVPlus/USBB40000028E.m3u8
-Hungry,https://i.mjh.nz/SamsungTVPlus/USAJ2200009C2.m3u8
-Localish,https://i.mjh.nz/SamsungTVPlus/USBC4400005HY.m3u8
-BBC Home & Garden,https://i.mjh.nz/SamsungTVPlus/USBC600017FG.m3u8
-BBC Food,https://i.mjh.nz/SamsungTVPlus/USBC6000108Z.m3u8
-All-Out Reality,https://i.mjh.nz/SamsungTVPlus/USBB4400016F9.m3u8
-Cheaters,https://i.mjh.nz/SamsungTVPlus/USBD3500031F3.m3u8
-Dog the Bounty Hunter,https://i.mjh.nz/SamsungTVPlus/US900002IH.m3u8
-Operation Repo,https://i.mjh.nz/SamsungTVPlus/USBC6000219D.m3u8
-Little Women: LA,https://i.mjh.nz/SamsungTVPlus/USBD170000771.m3u8
-Matched Married Meet,https://i.mjh.nz/SamsungTVPlus/USBC440000193.m3u8
-All Reality WE tv,https://i.mjh.nz/SamsungTVPlus/USBD12000061R.m3u8
+Cars,https://i.mjh.nz/SamsungTVPlus/USAJ3504545A.m3u8
+LOL! Network,https://i.mjh.nz/SamsungTVPlus/USBC1300009VM.m3u8
+Portlandia,https://i.mjh.nz/SamsungTVPlus/USBD12000038K.m3u8
+TV Land Sitcoms,https://i.mjh.nz/SamsungTVPlus/USBA300019WF.m3u8
+Family Ties,https://i.mjh.nz/SamsungTVPlus/USBB3500003D6.m3u8
+Just for Laughs GAGS,https://i.mjh.nz/SamsungTVPlus/USBC4400004KK.m3u8
+FailArmy,https://i.mjh.nz/SamsungTVPlus/USAJ3504702A.m3u8
+Always Funny Videos,https://i.mjh.nz/SamsungTVPlus/USBA1600001XM.m3u8
+Dry Bar Comedy,https://i.mjh.nz/SamsungTVPlus/USAJ30000039U.m3u8
+Comedy Dynamics,https://i.mjh.nz/SamsungTVPlus/USBD7000145C.m3u8
+RiffTrax,https://i.mjh.nz/SamsungTVPlus/USAJ3504706A.m3u8
+Hell's Kitchen,https://i.mjh.nz/SamsungTVPlus/USBB2900002Z7.m3u8
+Storage Wars: LA,https://i.mjh.nz/SamsungTVPlus/USBD1700006T2.m3u8
 Pawn Stars,https://i.mjh.nz/SamsungTVPlus/US300003S3.m3u8
-Kitchen Nightmares,https://i.mjh.nz/SamsungTVPlus/USBA3000042O6.m3u8
+Wipeout Xtra,https://i.mjh.nz/SamsungTVPlus/USBB4400018LR.m3u8
+Fear Factor,https://i.mjh.nz/SamsungTVPlus/USBB2300002Q6.m3u8
+The Challenge,https://i.mjh.nz/SamsungTVPlus/USBB3500001O6.m3u8
 American Pickers by History,https://i.mjh.nz/SamsungTVPlus/USBD3500041ZF.m3u8
-Intervention by A&E,https://i.mjh.nz/SamsungTVPlus/USBD3500040WX.m3u8
-Hoarders by A&E,https://i.mjh.nz/SamsungTVPlus/USBD4200009Y4.m3u8
-Bring It!,https://i.mjh.nz/SamsungTVPlus/USBD17000040J.m3u8
-All Weddings WE tv,https://i.mjh.nz/SamsungTVPlus/USBD1200005XR.m3u8
-INFAST,https://i.mjh.nz/SamsungTVPlus/USBA300022JX.m3u8
+Forged In Fire,https://i.mjh.nz/SamsungTVPlus/USBD2700014QW.m3u8
+Ice Road Truckers,https://i.mjh.nz/SamsungTVPlus/USBB520002173.m3u8
+Ax Men,https://i.mjh.nz/SamsungTVPlus/USBB5200020Z0.m3u8
+Alone By History,https://i.mjh.nz/SamsungTVPlus/USBD27000156I.m3u8
+Project Runway,https://i.mjh.nz/SamsungTVPlus/USBB3500004RC.m3u8
+Dallas Cowboys Cheer,https://i.mjh.nz/SamsungTVPlus/USBA300004TE.m3u8
+Deal Zone,https://i.mjh.nz/SamsungTVPlus/USBB52000246M.m3u8
+Xtreme Outdoor Presented by HISTORY,https://i.mjh.nz/SamsungTVPlus/USAK3508706A.m3u8
+IGN,https://i.mjh.nz/SamsungTVPlus/USBA30003672.m3u8
+Pluto TV Pixel World,https://i.mjh.nz/SamsungTVPlus/USAJ3504531A.m3u8
+BUZZR,https://i.mjh.nz/SamsungTVPlus/USBD700021WG.m3u8
+Game Show Central,https://i.mjh.nz/SamsungTVPlus/USAJ3400012FA.m3u8
+Supermarket Sweep,https://i.mjh.nz/SamsungTVPlus/USBC44000087O.m3u8
+Deal or No Deal,https://i.mjh.nz/SamsungTVPlus/USBB4400017N3.m3u8
+Wild 'N Out,https://i.mjh.nz/SamsungTVPlus/USBA3000100X.m3u8
+The Bob Ross Channel,https://i.mjh.nz/SamsungTVPlus/USBD700012OA.m3u8
+TODAY All Day,https://i.mjh.nz/SamsungTVPlus/USBB32000251N.m3u8
+Cheddar News,https://i.mjh.nz/SamsungTVPlus/USAJ3504714A.m3u8
+USA Today,https://i.mjh.nz/SamsungTVPlus/USBB1500001GD.m3u8
+Merit Street,https://i.mjh.nz/SamsungTVPlus/US70001475.m3u8
+Nosey,https://i.mjh.nz/SamsungTVPlus/USAJ34000022E.m3u8
+Divorce Court,https://i.mjh.nz/SamsungTVPlus/USBD300006A6.m3u8
+VICE,https://i.mjh.nz/SamsungTVPlus/USBB1900006NY.m3u8
+Backstage,https://i.mjh.nz/SamsungTVPlus/USBC10000129R.m3u8
+Documentary+,https://i.mjh.nz/SamsungTVPlus/USAJ3504701A.m3u8
+FOX SOUL,https://i.mjh.nz/SamsungTVPlus/USBA300032J7.m3u8
+4UV,https://i.mjh.nz/SamsungTVPlus/USBD70000412.m3u8
+Revry,https://i.mjh.nz/SamsungTVPlus/USBA3800003VP.m3u8
+OUTtv Proud,https://i.mjh.nz/SamsungTVPlus/US8000024G.m3u8
+ET,https://i.mjh.nz/SamsungTVPlus/USBA3700002JF.m3u8
+Hollywire,https://i.mjh.nz/SamsungTVPlus/USBC2400015DO.m3u8
+TMZ,https://i.mjh.nz/SamsungTVPlus/USBD70000213.m3u8
+Fear Zone,https://i.mjh.nz/SamsungTVPlus/USBC1300012VK.m3u8
+Mysteries Xplored,https://i.mjh.nz/SamsungTVPlus/USBB5200028MM.m3u8
+The Walking Dead Universe,https://i.mjh.nz/SamsungTVPlus/USBD1200004NS.m3u8
+OuterSphere,https://i.mjh.nz/SamsungTVPlus/USBD1200007FE.m3u8
+The Curse of Oak Island,https://i.mjh.nz/SamsungTVPlus/US300002BE.m3u8
+Haunt TV,https://i.mjh.nz/SamsungTVPlus/USBC4400006BR.m3u8
+Alien Nation by DUST,https://i.mjh.nz/SamsungTVPlus/USBC100000630.m3u8
+Unidentified,https://i.mjh.nz/SamsungTVPlus/USBB10000047W.m3u8
+The UnXplained with William Shatner,https://i.mjh.nz/SamsungTVPlus/US700011JL.m3u8
+The Asylum,https://i.mjh.nz/SamsungTVPlus/USAJ17000014C.m3u8
+Horror by ALTER,https://i.mjh.nz/SamsungTVPlus/USBC100001175.m3u8
+Midnight Pulp,https://i.mjh.nz/SamsungTVPlus/USBD700015LK.m3u8
+Anime All day,https://i.mjh.nz/SamsungTVPlus/USAJ3504502A.m3u8
+RetroCrush,https://i.mjh.nz/SamsungTVPlus/USBC36000073J.m3u8
+The Jack Hanna Channel,https://i.mjh.nz/SamsungTVPlus/USBC2100009GT.m3u8
+The Pet Collective,https://i.mjh.nz/SamsungTVPlus/USAJ3504704A.m3u8
+Lucky Dog,https://i.mjh.nz/SamsungTVPlus/USBA3000044BJ.m3u8
+Rovr Pets,https://i.mjh.nz/SamsungTVPlus/USBC2400024FN.m3u8
+Clarity 4K,https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8
+BBC Earth,https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8
+Xplore,https://i.mjh.nz/SamsungTVPlus/USBC2100008DP.m3u8
+Love Nature 4K,https://i.mjh.nz/SamsungTVPlus/USBA3400003IP.m3u8
+Magellan TV Now,https://i.mjh.nz/SamsungTVPlus/USAJ340000677.m3u8
+InWonder,https://i.mjh.nz/SamsungTVPlus/USBA300023G8.m3u8
+History 365,https://i.mjh.nz/SamsungTVPlus/USBD35000428O.m3u8
+Modern Marvels Presented by History,https://i.mjh.nz/SamsungTVPlus/USBB5200025DO.m3u8
+History & Warfare Now,https://i.mjh.nz/SamsungTVPlus/USBD1200009JI.m3u8
+Military Heroes,https://i.mjh.nz/SamsungTVPlus/USBC39000204J.m3u8
+TED,https://i.mjh.nz/SamsungTVPlus/USBC2100013WI.m3u8
+WeatherSpy,https://i.mjh.nz/SamsungTVPlus/USAJ3400014LK.m3u8
+PBS Digital Studios,https://i.mjh.nz/SamsungTVPlus/USBB800001O7.m3u8
+Nick Pluto TV,https://i.mjh.nz/SamsungTVPlus/USBA3000158L.m3u8
+Moonbug,https://i.mjh.nz/SamsungTVPlus/USBB11000015Q.m3u8
+Blippi,https://i.mjh.nz/SamsungTVPlus/US9000032J.m3u8
+Caillou,https://i.mjh.nz/SamsungTVPlus/USBD50000048H.m3u8
+Fireman Sam,https://i.mjh.nz/SamsungTVPlus/USBD42000124T.m3u8
+Baby Einstein,https://i.mjh.nz/SamsungTVPlus/USBD350002338.m3u8
+Teletubbies,https://i.mjh.nz/SamsungTVPlus/USBD3500015R5.m3u8
+Barney and Friends,https://i.mjh.nz/SamsungTVPlus/US300001UO.m3u8
+Bob the Builder,https://i.mjh.nz/SamsungTVPlus/USBC4400013R7.m3u8
+Strawberry Shortcake,https://i.mjh.nz/SamsungTVPlus/USBC4400012QS.m3u8
+HappyKids,https://i.mjh.nz/SamsungTVPlus/USBC44000072I.m3u8
+Rainbow Ruby,https://i.mjh.nz/SamsungTVPlus/USBD3300015BY.m3u8
+ZooMoo,https://i.mjh.nz/SamsungTVPlus/USBC2400019EF.m3u8
+Rev and Roll,https://i.mjh.nz/SamsungTVPlus/USBD3300016AK.m3u8
+TG Junior,https://i.mjh.nz/SamsungTVPlus/USBB3600001R6.m3u8
+All Babies Channel,https://i.mjh.nz/SamsungTVPlus/USBD3300019OU.m3u8
+Sensical Jr,https://i.mjh.nz/SamsungTVPlus/USBD3300013KV.m3u8
+The LEGO Channel,https://i.mjh.nz/SamsungTVPlus/USBA2300001S8
+Sonic The Hedgehog,https://i.mjh.nz/SamsungTVPlus/USBD3300020PM.m3u8
+Slugterra,https://i.mjh.nz/SamsungTVPlus/USBD33000180S.m3u8
+Ryan and Friends,https://i.mjh.nz/SamsungTVPlus/USBD12000239N.m3u8
+pocket.watch,https://i.mjh.nz/SamsungTVPlus/USBD12000153A.m3u8
+Toon Goggles,https://i.mjh.nz/SamsungTVPlus/USBB1900004J9.m3u8
+Kidoodle.TV,https://i.mjh.nz/SamsungTVPlus/USAK3508716A.m3u8
+Sensical Makers,https://i.mjh.nz/SamsungTVPlus/USBD3300017XB.m3u8
+batteryPOP,https://i.mjh.nz/SamsungTVPlus/USBD3300012VX.m3u8
+BBC Kids,https://i.mjh.nz/SamsungTVPlus/US800003JM.m3u8
 AMC en Español,https://i.mjh.nz/SamsungTVPlus/USBD7000017L.m3u8
 Zona TUDN,https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 Telemundo California,https://i.mjh.nz/SamsungTVPlus/USBC4400020H7.m3u8
 Telemundo Al Día,https://i.mjh.nz/SamsungTVPlus/USBB3200016HO.m3u8
-CNN RESUMEN,https://i.mjh.nz/SamsungTVPlus/USBC10000223W.m3u8
 Estrella TV,https://i.mjh.nz/SamsungTVPlus/USBA300040WR.m3u8
 Estrella News,https://i.mjh.nz/SamsungTVPlus/USAJ2200020N4.m3u8
 Estrella Games,https://i.mjh.nz/SamsungTVPlus/USBC24000145I.m3u8
@@ -3682,114 +3679,20 @@ Pequenos Gigantes,https://i.mjh.nz/SamsungTVPlus/USBD2700003F3.m3u8
 Aquí y Ahora,https://i.mjh.nz/SamsungTVPlus/USBD1700015J1.m3u8
 Noticias Univision 24/7,https://i.mjh.nz/SamsungTVPlus/USBD1700014QU.m3u8
 Cine Romantico,https://i.mjh.nz/SamsungTVPlus/USBA3800001E0.m3u8
-Duck Dynasty,https://i.mjh.nz/SamsungTVPlus/USBC4400002GF.m3u8
-Swamp People,https://i.mjh.nz/SamsungTVPlus/USBD2700013UK.m3u8
-Mountain Men,https://i.mjh.nz/SamsungTVPlus/USBD17000051M.m3u8
-DangerTV,https://i.mjh.nz/SamsungTVPlus/USAJ3504708A.m3u8
-SURF NOW TV,https://i.mjh.nz/SamsungTVPlus/USBB10000058A.m3u8
-Outside,https://i.mjh.nz/SamsungTVPlus/USAJ3504707A.m3u8
-Waypoint TV,https://i.mjh.nz/SamsungTVPlus/USBB440002055.m3u8
-Pursuit UP,https://i.mjh.nz/SamsungTVPlus/USBD17000025J.m3u8
-Outdoor America,https://i.mjh.nz/SamsungTVPlus/USBD1200020Y4.m3u8
-Just for Laughs GAGS,https://i.mjh.nz/SamsungTVPlus/USBC4400004KK.m3u8
-LOL! Network,https://i.mjh.nz/SamsungTVPlus/USBC1300009VM.m3u8
-Portlandia,https://i.mjh.nz/SamsungTVPlus/USBD12000038K.m3u8
-The Pet Collective,https://i.mjh.nz/SamsungTVPlus/USAJ3504704A.m3u8
-FailArmy,https://i.mjh.nz/SamsungTVPlus/USAJ3504702A.m3u8
-Always Funny Videos,https://i.mjh.nz/SamsungTVPlus/USBA1600001XM.m3u8
-Dry Bar Comedy,https://i.mjh.nz/SamsungTVPlus/USAJ30000039U.m3u8
-Comedy Dynamics,https://i.mjh.nz/SamsungTVPlus/USBD7000145C.m3u8
-RiffTrax,https://i.mjh.nz/SamsungTVPlus/USAJ3504706A.m3u8
-Hell's Kitchen,https://i.mjh.nz/SamsungTVPlus/USBB2900002Z7.m3u8
-Fear Factor,https://i.mjh.nz/SamsungTVPlus/USBB2300002Q6.m3u8
-Storage Wars: LA,https://i.mjh.nz/SamsungTVPlus/USBD1700006T2.m3u8
-Alone By History,https://i.mjh.nz/SamsungTVPlus/USBD27000156I.m3u8
-Forged In Fire,https://i.mjh.nz/SamsungTVPlus/USBD2700014QW.m3u8
-Wipeout Xtra,https://i.mjh.nz/SamsungTVPlus/USBB4400018LR.m3u8
-Project Runway,https://i.mjh.nz/SamsungTVPlus/USBB3500004RC.m3u8
-IGN,https://i.mjh.nz/SamsungTVPlus/USBA30003672.m3u8
-Caillou,https://i.mjh.nz/SamsungTVPlus/USBD50000048H.m3u8
-Fireman Sam,https://i.mjh.nz/SamsungTVPlus/USBD42000124T.m3u8
-Baby Einstein,https://i.mjh.nz/SamsungTVPlus/USBD350002338.m3u8
-Teletubbies,https://i.mjh.nz/SamsungTVPlus/USBD3500015R5.m3u8
-Barney and Friends,https://i.mjh.nz/SamsungTVPlus/US300001UO.m3u8
-Bob the Builder,https://i.mjh.nz/SamsungTVPlus/USBC4400013R7.m3u8
-Strawberry Shortcake,https://i.mjh.nz/SamsungTVPlus/USBC4400012QS.m3u8
-Moonbug,https://i.mjh.nz/SamsungTVPlus/USBB11000015Q.m3u8
-Ryan and Friends,https://i.mjh.nz/SamsungTVPlus/USBD12000239N.m3u8
-The LEGO Channel,https://i.mjh.nz/SamsungTVPlus/USBA2300001S8
-Sonic The Hedgehog,https://i.mjh.nz/SamsungTVPlus/USBD3300020PM.m3u8
-Slugterra,https://i.mjh.nz/SamsungTVPlus/USBD33000180S.m3u8
-HappyKids,https://i.mjh.nz/SamsungTVPlus/USBC44000072I.m3u8
-pocket.watch,https://i.mjh.nz/SamsungTVPlus/USBD12000153A.m3u8
-batteryPOP,https://i.mjh.nz/SamsungTVPlus/USBD3300012VX.m3u8
-Toon Goggles,https://i.mjh.nz/SamsungTVPlus/USBB1900004J9.m3u8
-TG Junior,https://i.mjh.nz/SamsungTVPlus/USBB3600001R6.m3u8
-All Babies Channel,https://i.mjh.nz/SamsungTVPlus/USBD3300019OU.m3u8
-Rainbow Ruby,https://i.mjh.nz/SamsungTVPlus/USBD3300015BY.m3u8
-Kidoodle.TV,https://i.mjh.nz/SamsungTVPlus/USAK3508716A.m3u8
-Sensical Jr,https://i.mjh.nz/SamsungTVPlus/USBD3300013KV.m3u8
-Sensical Makers,https://i.mjh.nz/SamsungTVPlus/USBD3300017XB.m3u8
-ZooMoo,https://i.mjh.nz/SamsungTVPlus/USBC2400019EF.m3u8
-Rev and Roll,https://i.mjh.nz/SamsungTVPlus/USBD3300016AK.m3u8
-Samsung Wild Life,https://i.mjh.nz/SamsungTVPlus/USBA3000043LH.m3u8
-History 365,https://i.mjh.nz/SamsungTVPlus/USBD35000428O.m3u8
-Military Heroes,https://i.mjh.nz/SamsungTVPlus/USBC39000204J.m3u8
-Love Nature 4K,https://i.mjh.nz/SamsungTVPlus/USBA3400003IP.m3u8
-History & Warfare Now,https://i.mjh.nz/SamsungTVPlus/USBD1200009JI.m3u8
-Xplore,https://i.mjh.nz/SamsungTVPlus/USBC2100008DP.m3u8
-The Jack Hanna Channel,https://i.mjh.nz/SamsungTVPlus/USBC2100009GT.m3u8
-Rovr Pets,https://i.mjh.nz/SamsungTVPlus/USBC2400024FN.m3u8
-InWonder,https://i.mjh.nz/SamsungTVPlus/USBA300023G8.m3u8
-Magellan TV Now,https://i.mjh.nz/SamsungTVPlus/USAJ340000677.m3u8
-WeatherSpy,https://i.mjh.nz/SamsungTVPlus/USAJ3400014LK.m3u8
-TED,https://i.mjh.nz/SamsungTVPlus/USBC2100013WI.m3u8
-ZenLIFE by Stingray,https://i.mjh.nz/SamsungTVPlus/USBD3500027DS.m3u8
-Stingray Naturescape,https://i.mjh.nz/SamsungTVPlus/USAK3508705A.m3u8
-PBS Digital Studios,https://i.mjh.nz/SamsungTVPlus/USBB800001O7.m3u8
-Loupe 4K,https://i.mjh.nz/SamsungTVPlus/USBB1000002TK.m3u8
-Fireplace 4K,https://i.mjh.nz/SamsungTVPlus/USBA3800004EL.m3u8
-Stingray Holidayscapes,https://i.mjh.nz/SamsungTVPlus/USBD3500038R6.m3u8
-Stingray Spa,https://i.mjh.nz/SamsungTVPlus/USBD3500013DG.m3u8
-Fear Zone,https://i.mjh.nz/SamsungTVPlus/USBC1300012VK.m3u8
-The Curse of Oak Island,https://i.mjh.nz/SamsungTVPlus/US300002BE.m3u8
-Mysteries Xplored,https://i.mjh.nz/SamsungTVPlus/USBB5200028MM.m3u8
-Haunt TV,https://i.mjh.nz/SamsungTVPlus/USBC4400006BR.m3u8
-OuterSphere,https://i.mjh.nz/SamsungTVPlus/USBD1200007FE.m3u8
-Unidentified,https://i.mjh.nz/SamsungTVPlus/USBB10000047W.m3u8
-The Walking Dead Universe,https://i.mjh.nz/SamsungTVPlus/USBD1200004NS.m3u8
-The Asylum,https://i.mjh.nz/SamsungTVPlus/USAJ17000014C.m3u8
-Alien Nation by DUST,https://i.mjh.nz/SamsungTVPlus/USBC100000630.m3u8
-Horror by ALTER,https://i.mjh.nz/SamsungTVPlus/USBC100001175.m3u8
-RetroCrush,https://i.mjh.nz/SamsungTVPlus/USBC36000073J.m3u8
-Midnight Pulp,https://i.mjh.nz/SamsungTVPlus/USBD700015LK.m3u8
-Hallmark Movies & More,https://i.mjh.nz/SamsungTVPlus/USBD270001633.m3u8
-MovieSphere,https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8
-FilmRise Free Movies,https://i.mjh.nz/SamsungTVPlus/USAJ40000072X.m3u8
-MyTime Movie Network,https://i.mjh.nz/SamsungTVPlus/USBC3900018K6.m3u8
-FilmRise Action,https://i.mjh.nz/SamsungTVPlus/USBB3200020ID.m3u8
-Documentary+,https://i.mjh.nz/SamsungTVPlus/USAJ3504701A.m3u8
-Maverick Black Cinema,https://i.mjh.nz/SamsungTVPlus/USAJ3000007MT.m3u8
-Gravitas Movies,https://i.mjh.nz/SamsungTVPlus/USBD700011RE.m3u8
-CINEVAULT: Classics,https://i.mjh.nz/SamsungTVPlus/USBB3200015M8.m3u8
-CINEVAULT,https://i.mjh.nz/SamsungTVPlus/USAJ30000148W.m3u8
-CINEVAULT: Westerns,https://i.mjh.nz/SamsungTVPlus/USAK3508709A.m3u8
-FilmRise Western,https://i.mjh.nz/SamsungTVPlus/USBB32000196O.m3u8
-NEW KMOVIES,https://i.mjh.nz/SamsungTVPlus/USAJ30000122O.m3u8
-The Preview Channel,https://i.mjh.nz/SamsungTVPlus/USAJ34000175A.m3u8
+FreeTV Estelar,https://i.mjh.nz/SamsungTVPlus/USAJ1700009QJ.m3u8
+XITE Celebrates,https://i.mjh.nz/SamsungTVPlus/USBD350003932.m3u8
 XITE 80s Flashback,https://i.mjh.nz/SamsungTVPlus/USBB320000647.m3u8
 XITE 90s Throwback,https://i.mjh.nz/SamsungTVPlus/USBB3200007AK.m3u8
 XITE Hits,https://i.mjh.nz/SamsungTVPlus/USBD3300004RH.m3u8
 XITE Country Today,https://i.mjh.nz/SamsungTVPlus/USBD3300006O3.m3u8
-XITE Country's Finest,https://i.mjh.nz/SamsungTVPlus/USBD3300011UT.m3u8
+XITE Classic Country,https://i.mjh.nz/SamsungTVPlus/USBD3300011UT.m3u8
 XITE Nuevo Latino,https://i.mjh.nz/SamsungTVPlus/USBD3300007PB.m3u8
 XITE Siempre Latino,https://i.mjh.nz/SamsungTVPlus/USBD3300010L9.m3u8
 XITE R&B Classic Jams,https://i.mjh.nz/SamsungTVPlus/USBD330000948.m3u8
-XITE Rock On,https://i.mjh.nz/SamsungTVPlus/USBB2300004KV.m3u8
+XITE Rock x Metal,https://i.mjh.nz/SamsungTVPlus/USBB2300004KV.m3u8
 XITE Icons,https://i.mjh.nz/SamsungTVPlus/USBD3300005EX.m3u8
 XITE Just Chill,https://i.mjh.nz/SamsungTVPlus/USBB2300003JZ.m3u8
 XITE Only Love,https://i.mjh.nz/SamsungTVPlus/USBD3300008DG.m3u8
-XITE Celebrates,https://i.mjh.nz/SamsungTVPlus/USBD350003932.m3u8
 Vevo '70s,https://i.mjh.nz/SamsungTVPlus/USBD300011KQ.m3u8
 Vevo '80s,https://i.mjh.nz/SamsungTVPlus/USBD300012YC.m3u8
 Vevo '90s,https://i.mjh.nz/SamsungTVPlus/USBD3000133M.m3u8
@@ -3818,60 +3721,312 @@ Stingray Classic Rock,https://i.mjh.nz/SamsungTVPlus/USBD35000180U.m3u8
 Stingray Hip Hop,https://i.mjh.nz/SamsungTVPlus/USBD3500010MT.m3u8
 Stingray Hot Country,https://i.mjh.nz/SamsungTVPlus/USBD3300021KV.m3u8
 Stingray Greatest Hits,https://i.mjh.nz/SamsungTVPlus/USBD3500022DN.m3u8
+Ocean Vibes,https://i.mjh.nz/SamsungTVPlus/US700012OU.m3u8
+Stingray Holidayscapes,https://i.mjh.nz/SamsungTVPlus/USBD3500038R6.m3u8
+Stingray Naturescape,https://i.mjh.nz/SamsungTVPlus/USAK3508705A.m3u8
+Loupe 4K,https://i.mjh.nz/SamsungTVPlus/USBB1000002TK.m3u8
+ZenLIFE by Stingray,https://i.mjh.nz/SamsungTVPlus/USBD3500027DS.m3u8
+Stingray Spa,https://i.mjh.nz/SamsungTVPlus/USBD3500013DG.m3u8
+Fireplace 4K,https://i.mjh.nz/SamsungTVPlus/USBA3800004EL.m3u8
+
+🦄英国频道🦁,#genre#
+👉此处以下频道需要魔法👈,https://cloud.lxweb.cn/f/08QDU0/3.MOV
+CNN,https://i.mjh.nz/SamsungTVPlus/CHBD800001D0.m3u8
+BBC News,https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
+Sky News,https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
+Entertainment Hub,https://i.mjh.nz/SamsungTVPlus/GBBC2300003ZQ.m3u8
+Crime Network,https://i.mjh.nz/SamsungTVPlus/GBBD4100010H1.m3u8
+Euronews Live,https://i.mjh.nz/SamsungTVPlus/GBAJ4900020VP.m3u8
+Comedy Movies - Rakuten TV,https://i.mjh.nz/SamsungTVPlus/GBAJ4900007I2.m3u8
+CNN,https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
+Wild Planet,https://i.mjh.nz/SamsungTVPlus/GBBB5000002PL.m3u8
+UKTV Play Laughs,https://i.mjh.nz/SamsungTVPlus/GBBD3100003J5.m3u8
+GoUSA TV,https://i.mjh.nz/SamsungTVPlus/GBAJ49000197P.m3u8
+The Graham Norton Show,https://i.mjh.nz/SamsungTVPlus/GB4000027F.m3u8
+Conan O'Brien TV,https://i.mjh.nz/SamsungTVPlus/GB300001QO.m3u8
+Comedy Hub,https://i.mjh.nz/SamsungTVPlus/GBBD25000038Y.m3u8
+Project Runway,https://i.mjh.nz/SamsungTVPlus/GBBB4600001IK.m3u8
+America's Got Talent,https://i.mjh.nz/SamsungTVPlus/GBBC2300002GG.m3u8
+American Idol,https://i.mjh.nz/SamsungTVPlus/GBBC2300001X5.m3u8
+Hell's Kitchen,https://i.mjh.nz/SamsungTVPlus/GBBC300002SA.m3u8
+Homes Under the Hammer,https://i.mjh.nz/SamsungTVPlus/GBBC900013K9.m3u8
+Come Dine With Me,https://i.mjh.nz/SamsungTVPlus/GBBC9000062G.m3u8
+Survivor,https://i.mjh.nz/SamsungTVPlus/GBBB3800007BN.m3u8
+The Chat Show Channel,https://i.mjh.nz/SamsungTVPlus/GBBD1900003JT.m3u8
+Catfish,https://i.mjh.nz/SamsungTVPlus/GBBA330003941.m3u8
+Horizons,https://i.mjh.nz/SamsungTVPlus/GBBC900002MO.m3u8
+Mystery TV,https://i.mjh.nz/SamsungTVPlus/GBBD50000320.m3u8
+Deal or No Deal US,https://i.mjh.nz/SamsungTVPlus/GBBB38000068U.m3u8
+Robot Wars by Mech+,https://i.mjh.nz/SamsungTVPlus/GBBD500005ZG.m3u8
+Pointless UK: 'Powered by Banijay',https://i.mjh.nz/SamsungTVPlus/GBBD2500002QC.m3u8
+Eggheads,https://i.mjh.nz/SamsungTVPlus/GBBD3200002CG.m3u8
+Wipeout Xtra Powered by Banijay,https://i.mjh.nz/SamsungTVPlus/GBBD3000001QB.m3u8
+Are We There Yet?,https://i.mjh.nz/SamsungTVPlus/GBBB1600006RS.m3u8
+Challenge,https://i.mjh.nz/SamsungTVPlus/GBBD3100005RX.m3u8
+Real Life,https://i.mjh.nz/SamsungTVPlus/GBBC4300003XU.m3u8
+History Hunters,https://i.mjh.nz/SamsungTVPlus/GB1200002ON.m3u8
+Highway Thru Hell : Powered by Banijay,https://i.mjh.nz/SamsungTVPlus/GB500001HY.m3u8
+The Pet Collective,https://i.mjh.nz/SamsungTVPlus/GBAJ40003481.m3u8
+FailArmy,https://i.mjh.nz/SamsungTVPlus/GBAJ40003642.m3u8
+So…Real,https://i.mjh.nz/SamsungTVPlus/GBBD1100009M9.m3u8
+Reality - Rakuten TV,https://i.mjh.nz/SamsungTVPlus/GBBD1100006DS.m3u8
+Pluto TV Classic TV,https://i.mjh.nz/SamsungTVPlus/GBAK3504525A.m3u8
+LOL! Network,https://i.mjh.nz/SamsungTVPlus/GBBC900011EC.m3u8
+NextUp LIVE Comedy,https://i.mjh.nz/SamsungTVPlus/GBBD1100012JB.m3u8
+Bridezillas,https://i.mjh.nz/SamsungTVPlus/GBBD3700002J9.m3u8
+Shades of Black,https://i.mjh.nz/SamsungTVPlus/GBBB3800004IV.m3u8
+Revry,https://i.mjh.nz/SamsungTVPlus/GBBA3300022EI.m3u8
+Sky Mix,https://i.mjh.nz/SamsungTVPlus/GBBD3100006XM.m3u8
+Baywatch,https://i.mjh.nz/SamsungTVPlus/GBBD600002XT.m3u8
+World Drama by ITV Studios,https://i.mjh.nz/SamsungTVPlus/GBBB38000106Q.m3u8
+Zee World,https://i.mjh.nz/SamsungTVPlus/GBBD1100013BJ.m3u8
+UKTV Play Uncovered,https://i.mjh.nz/SamsungTVPlus/GBBD3100004OI.m3u8
+UKTV Play Heroes,https://i.mjh.nz/SamsungTVPlus/GBBD3100002NU.m3u8
+UKTV Play Full Throttle,https://i.mjh.nz/SamsungTVPlus/GBBD3100001A8.m3u8
+Mythbusters,https://i.mjh.nz/SamsungTVPlus/GB200005LI.m3u8
+The Wicked Tuna Channel,https://i.mjh.nz/SamsungTVPlus/GBBC900004G9.m3u8
+Inside Crime,https://i.mjh.nz/SamsungTVPlus/GBBD500002R4.m3u8
+5 Cops,https://i.mjh.nz/SamsungTVPlus/GBAK3504500A.m3u8
+Homicide Hunter,https://i.mjh.nz/SamsungTVPlus/GBBA3300038UZ.m3u8
+True Crime UK,https://i.mjh.nz/SamsungTVPlus/GBBD1100007AC.m3u8
+DATELINE 24/7,https://i.mjh.nz/SamsungTVPlus/GBBD3700001AB.m3u8
+Crime & Justice,https://i.mjh.nz/SamsungTVPlus/GBBD260000189.m3u8
+Haunt TV,https://i.mjh.nz/SamsungTVPlus/GBBC900005T0.m3u8
+Pluto TV Crime,https://i.mjh.nz/SamsungTVPlus/GBAK3504516A.m3u8
+True Lives,https://i.mjh.nz/SamsungTVPlus/GBBD4100006KV.m3u8
+Pluto TV Inside,https://i.mjh.nz/SamsungTVPlus/GBAK3504518A.m3u8
+Bloomberg Originals,https://i.mjh.nz/SamsungTVPlus/GBBC900012J9.m3u8
+Deal Masters,https://i.mjh.nz/SamsungTVPlus/GB12000037Y.m3u8
+Wonder,https://i.mjh.nz/SamsungTVPlus/GBBA22000063W.m3u8
+Pluto TV Paranormal,https://i.mjh.nz/SamsungTVPlus/GBBA33000362J.m3u8
+World War TV,https://i.mjh.nz/SamsungTVPlus/GBBD1100001UI.m3u8
+History Hit,https://i.mjh.nz/SamsungTVPlus/GBBA2200005ZA.m3u8
+Real Crime,https://i.mjh.nz/SamsungTVPlus/GBBA3300061ME.m3u8
+Pluto TV Conspiracy,https://i.mjh.nz/SamsungTVPlus/GBBA33000356L.m3u8
+5 Exploring Britain,https://i.mjh.nz/SamsungTVPlus/GBAK3504501A.m3u8
+Love the Planet,https://i.mjh.nz/SamsungTVPlus/GBBD500001F5.m3u8
+PBS History,https://i.mjh.nz/SamsungTVPlus/GBBA33000540B.m3u8
+Adventure Earth,https://i.mjh.nz/SamsungTVPlus/GBBC900015D3.m3u8
+Real Wild,https://i.mjh.nz/SamsungTVPlus/GBBB1000005IO.m3u8
+Jack Hanna,https://i.mjh.nz/SamsungTVPlus/GBBD50000084W.m3u8
+Pluto TV Animals,https://i.mjh.nz/SamsungTVPlus/GBAJ700001FH.m3u8
+Earth Touch,https://i.mjh.nz/SamsungTVPlus/GBBD3200001E2.m3u8
+INWILD,https://i.mjh.nz/SamsungTVPlus/GBBA220000751.m3u8
+WildEarth,https://i.mjh.nz/SamsungTVPlus/GBBC4300002RW.m3u8
+WaterBear,https://i.mjh.nz/SamsungTVPlus/GBBC300003UQ.m3u8
+CNBC,https://i.mjh.nz/SamsungTVPlus/GBBD3600001NO.m3u8
+CNN FAST,https://i.mjh.nz/SamsungTVPlus/GBBD1900008O3.m3u8
+FRANCE 24 FAST,https://i.mjh.nz/SamsungTVPlus/GBBD1100002L5.m3u8
+TalkTV,https://i.mjh.nz/SamsungTVPlus/GBBB1000002VQ.m3u8
+NBC News NOW,https://i.mjh.nz/SamsungTVPlus/GBBB1500004LG.m3u8
+Bloomberg TV+,https://i.mjh.nz/SamsungTVPlus/GBBA3300033C2.m3u8
+Reuters,https://i.mjh.nz/SamsungTVPlus/GBBD4900001RG.m3u8
+GB News,https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8
+The Guardian,https://i.mjh.nz/SamsungTVPlus/GBAJ2400003DD.m3u8
+The Diary Of A CEO,https://i.mjh.nz/SamsungTVPlus/GB1100001EB.m3u8
+FireScape,https://i.mjh.nz/SamsungTVPlus/GBBD1500003SD.m3u8
+INTRAVEL,https://i.mjh.nz/SamsungTVPlus/GB400003BM.m3u8
+INTROUBLE,https://i.mjh.nz/SamsungTVPlus/GBAJ42000019J.m3u8
+Travelxp,https://i.mjh.nz/SamsungTVPlus/GBAJ49000184K.m3u8
+Love Pets,https://i.mjh.nz/SamsungTVPlus/GBBD1100003I0.m3u8
+Royalworld - Nobility & Dynasties,https://i.mjh.nz/SamsungTVPlus/GBBD1100014ZH.m3u8
+Fashion TV,https://i.mjh.nz/SamsungTVPlus/GBAJ4900002DE.m3u8
+The Jamie Oliver Channel,https://i.mjh.nz/SamsungTVPlus/GBBC4000002H3.m3u8
+Masterchef UK: 'Powered by Banijay',https://i.mjh.nz/SamsungTVPlus/GBBD25000019N.m3u8
+Great British Menu,https://i.mjh.nz/SamsungTVPlus/GBBC900014LW.m3u8
+Pluto TV Food,https://i.mjh.nz/SamsungTVPlus/GBAJ700002OS.m3u8
+Tastemade,https://i.mjh.nz/SamsungTVPlus/GBBB38000093D.m3u8
+Pluto TV Motor,https://i.mjh.nz/SamsungTVPlus/GBAI5000001A.m3u8
+MotorRacing,https://i.mjh.nz/SamsungTVPlus/GBBA1500006H6.m3u8
+MAVTV Motorsports Network,https://i.mjh.nz/SamsungTVPlus/GBBD320000432.m3u8
+FIFA+,https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
+PGA Tour,https://i.mjh.nz/SamsungTVPlus/GBBB1500005BH.m3u8
+Red Bull TV,https://i.mjh.nz/SamsungTVPlus/GBBD2300003IK.m3u8
+World Poker Tour,https://i.mjh.nz/SamsungTVPlus/GBBD2900001VD.m3u8
+Tennis Channel International,https://i.mjh.nz/SamsungTVPlus/GBBA33000529G.m3u8
+Horse & Country,https://i.mjh.nz/SamsungTVPlus/GBBA2200008YU.m3u8
+Strongman Champions League,https://i.mjh.nz/SamsungTVPlus/GBBC90001089.m3u8
+The LEGO Channel,https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8
+Smurf TV,https://i.mjh.nz/SamsungTVPlus/GBBD1300001WA.m3u8
+Teletubbies,https://i.mjh.nz/SamsungTVPlus/GBBA33000286F.m3u8
+Care Bears,https://i.mjh.nz/SamsungTVPlus/GB400001ZQ.m3u8
+POP,https://i.mjh.nz/SamsungTVPlus/GBBC430000128.m3u8
+Ketchup TV,https://i.mjh.nz/SamsungTVPlus/GBBB2000004BQ.m3u8
+Tiny POP,https://i.mjh.nz/SamsungTVPlus/GBBD3200003T6.m3u8
+Family - Rakuten TV,https://i.mjh.nz/SamsungTVPlus/GBBA3300024F7.m3u8
+SuperToons TV,https://i.mjh.nz/SamsungTVPlus/GBBD5100001HL.m3u8
+Pocoyo,https://i.mjh.nz/SamsungTVPlus/GB700004ET.m3u8
+Rabbids Invasion,https://i.mjh.nz/SamsungTVPlus/GBBD230000420.m3u8
+Toon Goggles,https://i.mjh.nz/SamsungTVPlus/GBBC4000017F.m3u8
+Super Anime,https://i.mjh.nz/SamsungTVPlus/GBBD1100010UB.m3u8
+Beano TV,https://i.mjh.nz/SamsungTVPlus/GBBA330002536.m3u8
+Dennis and Gnasher,https://i.mjh.nz/SamsungTVPlus/GBBD1100011V3.m3u8
+YAAAS!,https://i.mjh.nz/SamsungTVPlus/GBBA3300030OP.m3u8
+Kidoodle.TV,https://i.mjh.nz/SamsungTVPlus/GBAJ49000164E.m3u8
+pocket.watch,https://i.mjh.nz/SamsungTVPlus/GBBD1100005QY.m3u8
+Vevo Pop,https://i.mjh.nz/SamsungTVPlus/GBBC19000017V.m3u8
+Vevo Hip Hop & R&B,https://i.mjh.nz/SamsungTVPlus/GBBD2300001C0.m3u8
+Trace UK,https://i.mjh.nz/SamsungTVPlus/GBBD19000026B.m3u8
+GIGS,https://i.mjh.nz/SamsungTVPlus/GBBD3000004VR.m3u8
+Vevo '70s & '80s,https://i.mjh.nz/SamsungTVPlus/GBBD1900009UD.m3u8
+Vevo '90s & '00s,https://i.mjh.nz/SamsungTVPlus/GBBC2100002HP.m3u8
+Now 80s,https://i.mjh.nz/SamsungTVPlus/GBBC900003B2.m3u8
+Trace Urban,https://i.mjh.nz/SamsungTVPlus/GBBC900001SC.m3u8
+Qwest TV,https://i.mjh.nz/SamsungTVPlus/GBBA2200001L9.m3u8
+Staccs TV,https://i.mjh.nz/SamsungTVPlus/GBBD1100015UU.m3u8
+XITE Hits,https://i.mjh.nz/SamsungTVPlus/GBBB3800005QO.m3u8
+Pluto TV Action,https://i.mjh.nz/SamsungTVPlus/GBAK3504503A.m3u8
+Moviedome,https://i.mjh.nz/SamsungTVPlus/GBBB3800003JH.m3u8
+Sparkle Movies,https://i.mjh.nz/SamsungTVPlus/GBAJ400042T1.m3u8
+Grjngo - Western Movies,https://i.mjh.nz/SamsungTVPlus/GBBD500007TG.m3u8
+Pluto TV Romance,https://i.mjh.nz/SamsungTVPlus/GBAK3504522A.m3u8
+wedo movies,https://i.mjh.nz/SamsungTVPlus/GBBA3300050RG.m3u8
+Filmstream,https://i.mjh.nz/SamsungTVPlus/GBAJ4900011Y4.m3u8
+Pluto TV Movies,https://i.mjh.nz/SamsungTVPlus/GBAK3504504A.m3u8
+MyTime Movie Network,https://i.mjh.nz/SamsungTVPlus/GBBA3300059BU.m3u8
+Romance Movies - Rakuten TV,https://i.mjh.nz/SamsungTVPlus/GBBA3300020DM.m3u8
+MovieSphere,https://i.mjh.nz/SamsungTVPlus/GBBA33000557H.m3u8
+Icon Films,https://i.mjh.nz/SamsungTVPlus/GB12000052F.m3u8
+Popflix,https://i.mjh.nz/SamsungTVPlus/GBAJ400045P5.m3u8
+GREAT! movies,https://i.mjh.nz/SamsungTVPlus/GBBC900007Q5.m3u8
+Great! romance,https://i.mjh.nz/SamsungTVPlus/GBBC900008L9.m3u8
+Top Movies - Rakuten TV,https://i.mjh.nz/SamsungTVPlus/GBBC90001660.m3u8
+Drama Movies - Rakuten TV,https://i.mjh.nz/SamsungTVPlus/GBAJ49000081B.m3u8
+Action Movies - Rakuten TV,https://i.mjh.nz/SamsungTVPlus/GBAJ4900006TU.m3u8
 
 🦄法国频道🐓,#genre#
 👉此处以下频道需要魔法👈,https://cloud.lxweb.cn/f/08QDU0/3.MOV
-KTO,https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
-Fashion tv,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
-Fashion tv,http://80.94.54.42/fashiontv/stream/playlist.m3u8
-ABC HD,http://49.0.64.96:8007/ABC
-Action HD,http://49.0.64.96:8007/Action
-Amazing HD,http://49.0.64.96:8007/AMAZING
-Bunthengken100,http://49.0.64.96:8007/Bunthengken100
-CARTOON Umi HD,http://49.0.64.96:8007/Cartoonumi
-HI Fight HD,http://49.0.64.96:8007/HIFIGHT
-HI Sport HD,http://49.0.64.96:8007/HiSports
-IZAA HD,http://49.0.64.96:8007/IZAA
-Shop Now True Select,http://49.0.64.96:8007/JAJINGJA
-Kaset HD,http://49.0.64.96:8007/Kaset
-CH 88 HD,http://49.0.64.96:8007/M_CH88
-DTV4 M2rock HD,http://49.0.64.96:8007/M2ROCK
-DTV1 M4jazz HD,http://49.0.64.96:8007/M4JAZZ
-DTV3 M6country HD,http://49.0.64.96:8007/M6COUNTRY
-NBA One HD,http://49.0.64.96:8007/NBA
-PetClub HD,http://49.0.64.96:8007/PetClub
-PING HD,http://49.0.64.96:8007/PING
-Pluse HD,http://49.0.64.96:8007/PLUSE
-SANOOK HD,http://49.0.64.96:8007/Qartar
-RAI Asia Intl.,http://49.0.64.96:8007/RAI_Asia
-Series HD,http://49.0.64.96:8007/SERIES
-Smithsonian HD,http://49.0.64.96:8007/Smithsonian
-DTV2 Tennis HD,http://49.0.64.96:8007/TENNIS
-Top Fight HD,http://49.0.64.96:8007/TOPFIGHT
-Trace HD,http://49.0.64.96:8007/Trace
-TV5,http://49.0.64.96:8007/TV5
-WORLD ANIMAL HD,http://49.0.64.96:8007/Animal
-WSCI HD,http://49.0.64.96:8007/WSCI
-Zoomoo HD,http://49.0.64.96:8007/Zoomoo
-Africa 24,https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
-Clubbing TV,https://clubbingtv-rakuten.amagi.tv/playlist.m3u8
-France 2,http://pro-solut-xi.eu:5436/bossna/testiptvvv/10099
-France 3,http://pro-solut-xi.eu:5436/bossna/testiptvvv/10100
-France 4,http://pro-solut-xi.eu:5436/bossna/testiptvvv/10101
-France 5,http://pro-solut-xi.eu:5436/bossna/testiptvvv/10102
-Euronews France,http://pro-solut-xi.eu:5436/bossna/testiptvvv/10105
-M6,http://pro-solut-xi.eu:5436/bossna/testiptvvv/10106
-W9,http://pro-solut-xi.eu:5436/bossna/testiptvvv/10107
-C8,http://pro-solut-xi.eu:5436/bossna/testiptvvv/10108
-Arte,http://pro-solut-xi.eu:5436/bossna/testiptvvv/10110
-TF1,http://pro-solut-xi.eu:5436/bossna/testiptvvv/10111
-Gulli,http://pro-solut-xi.eu:5436/bossna/testiptvvv/10112
-Cine Premier,http://pro-solut-xi.eu:5436/bossna/testiptvvv/10113
-Cine Emotion,http://pro-solut-xi.eu:5436/bossna/testiptvvv/10114
-Disney XD,http://pro-solut-xi.eu:5436/bossna/testiptvvv/10115
-Carton Network,http://pro-solut-xi.eu:5436/bossna/testiptvvv/10116
-Canal  Series,http://pro-solut-xi.eu:5436/bossna/testiptvvv/10118
-Canal  Family,http://pro-solut-xi.eu:5436/bossna/testiptvvv/10119
+Destination Nature,https://i.mjh.nz/SamsungTVPlus/FRBC4000001IO.m3u8
+BFM TV,https://i.mjh.nz/SamsungTVPlus/FRBD410000783.m3u8
+Euronews en direct,https://i.mjh.nz/SamsungTVPlus/FRBA1000005TW.m3u8
+Films Romantiques - Rakuten TV,https://i.mjh.nz/SamsungTVPlus/FRBA33000341O.m3u8
+Plus belle la vie,https://i.mjh.nz/SamsungTVPlus/FRBD37000020Y.m3u8
+Secret Story,https://i.mjh.nz/SamsungTVPlus/FRBC3300008XK.m3u8
+L'Equipe Live 1,https://i.mjh.nz/SamsungTVPlus/FRBC4200004XH.m3u8
+RMC Story,https://i.mjh.nz/SamsungTVPlus/FRBD41000097I.m3u8
+RMC Découverte,https://i.mjh.nz/SamsungTVPlus/FRBD4100008QS.m3u8
+RMC Wow,https://i.mjh.nz/SamsungTVPlus/FR300001M1.m3u8
+RMC MYSTERE,https://i.mjh.nz/SamsungTVPlus/FR300006GF.m3u8
+J'irai dormir chez vous,https://i.mjh.nz/SamsungTVPlus/FRBD4800001P4.m3u8
+A prendre ou à laisser,https://i.mjh.nz/SamsungTVPlus/FRBC4700003FS.m3u8
+Qui veut gagner des millions ?,https://i.mjh.nz/SamsungTVPlus/FRBD1900007PQ.m3u8
+Motus,https://i.mjh.nz/SamsungTVPlus/FRBB490000412.m3u8
+Les Z'amours,https://i.mjh.nz/SamsungTVPlus/FRBD1900005BA.m3u8
+Allociné,https://i.mjh.nz/SamsungTVPlus/FRBD3900001QP.m3u8
+Ardivision,https://i.mjh.nz/SamsungTVPlus/FRBD300000170.m3u8
+Le meilleur d'Arthur,https://i.mjh.nz/SamsungTVPlus/FRBD1900006NA.m3u8
+ADN,https://i.mjh.nz/SamsungTVPlus/FRBD5100001ZA.m3u8
+Gong,https://i.mjh.nz/SamsungTVPlus/FRBB49000014I.m3u8
+Le Meilleur de la TV Réalité,https://i.mjh.nz/SamsungTVPlus/FRBD3900005MB.m3u8
+Les Anges,https://i.mjh.nz/SamsungTVPlus/FRBD4100001DF.m3u8
+MGG FAST,https://i.mjh.nz/SamsungTVPlus/FRBC3900003ZH.m3u8
+MTV Classics,https://i.mjh.nz/SamsungTVPlus/FRAJ3800004CC.m3u8
+People Are Awesome,https://i.mjh.nz/SamsungTVPlus/FRBA10000029E.m3u8
+FailArmy,https://i.mjh.nz/SamsungTVPlus/FRBA33000234L.m3u8
+MTV Catfish,https://i.mjh.nz/SamsungTVPlus/FRAJ38000050Z.m3u8
+Y'a que la vérité qui compte,https://i.mjh.nz/SamsungTVPlus/FRBC900003KP.m3u8
+Trailers,https://i.mjh.nz/SamsungTVPlus/FRBC9000041F.m3u8
+Popcorn,https://i.mjh.nz/SamsungTVPlus/FRBD4100002R7.m3u8
+Juste Pour Rire,https://i.mjh.nz/SamsungTVPlus/FRBA3300035UK.m3u8
+Culture Pub,https://i.mjh.nz/SamsungTVPlus/FRBD110000181.m3u8
+Epicurieux,https://i.mjh.nz/SamsungTVPlus/FRBD5100003TP.m3u8
+Yu-Gi-Oh!,https://i.mjh.nz/SamsungTVPlus/FRBA3300038I4.m3u8
+Wasabi,https://i.mjh.nz/SamsungTVPlus/FRBD41000051L.m3u8
+Doctor Who,https://i.mjh.nz/SamsungTVPlus/FRBA3300019CI.m3u8
+Nashville Channel,https://i.mjh.nz/SamsungTVPlus/FRBC350000148.m3u8
+Alerte à Malibu,https://i.mjh.nz/SamsungTVPlus/FRBC4700002RF.m3u8
+BBC Drama,https://i.mjh.nz/SamsungTVPlus/FRBA1000008LK.m3u8
+Crime - Rakuten TV,https://i.mjh.nz/SamsungTVPlus/FRBA33000365W.m3u8
+Televisa TeleNovelas,https://i.mjh.nz/SamsungTVPlus/FRBA3300022OA.m3u8
+Les filles d'à côté,https://i.mjh.nz/SamsungTVPlus/FRBC47000054S.m3u8
+Degrassi,https://i.mjh.nz/SamsungTVPlus/FRBD19000115C.m3u8
+Stormcast Novelas,https://i.mjh.nz/SamsungTVPlus/FRBA3300031ZC.m3u8
+Passion Novelas,https://i.mjh.nz/SamsungTVPlus/FRBD15000024B.m3u8
+Génération Sitcoms,https://i.mjh.nz/SamsungTVPlus/FRBC4700001XG.m3u8
+Fréquence Novelas,https://i.mjh.nz/SamsungTVPlus/FRBC800001X0.m3u8
+Tele.Novela,https://i.mjh.nz/SamsungTVPlus/FRBC14000010C.m3u8
+Un Village Français,https://i.mjh.nz/SamsungTVPlus/FRBC39000050N.m3u8
+Passion Bollywood,https://i.mjh.nz/SamsungTVPlus/FR1100001V1.m3u8
+RMC alerte secours,https://i.mjh.nz/SamsungTVPlus/FR30000271.m3u8
+Enquêtes de Choc,https://i.mjh.nz/SamsungTVPlus/FRBC90000220.m3u8
+100% Docs,https://i.mjh.nz/SamsungTVPlus/FRBD39000064E.m3u8
+Reportages by Spica,https://i.mjh.nz/SamsungTVPlus/FRBD3900004PH.m3u8
+Pluto TV Polar,https://i.mjh.nz/SamsungTVPlus/FRAJ38000089S.m3u8
+Doc Story,https://i.mjh.nz/SamsungTVPlus/FR1200001N2.m3u8
+BelAir TV,https://i.mjh.nz/SamsungTVPlus/FRBA3300064WS.m3u8
+Les secrets de nos régions,https://i.mjh.nz/SamsungTVPlus/FRBD410000436.m3u8
+L'effet papillon,https://i.mjh.nz/SamsungTVPlus/FRBD11000038N.m3u8
+Les 30 histoires,https://i.mjh.nz/SamsungTVPlus/FRBC4700004ZN.m3u8
+Homicide,https://i.mjh.nz/SamsungTVPlus/FRBB49000033R.m3u8
+Scènes de Crime,https://i.mjh.nz/SamsungTVPlus/FRBD39000039D.m3u8
+Love Crime & History,https://i.mjh.nz/SamsungTVPlus/FRBD43000016D.m3u8
+Documentaires - Rakuten TV,https://i.mjh.nz/SamsungTVPlus/FRAJ4500026AB.m3u8
+Love the Planet,https://i.mjh.nz/SamsungTVPlus/FRBC3900004DS.m3u8
+NatureTime,https://i.mjh.nz/SamsungTVPlus/FRBB4900002D4.m3u8
+BFM Business,https://i.mjh.nz/SamsungTVPlus/FRBD4100006OC.m3u8
+Tech & Co,https://i.mjh.nz/SamsungTVPlus/FRBD4100010ZZ.m3u8
+BFM Grands Reportages,https://i.mjh.nz/SamsungTVPlus/FR300004J5.m3u8
+RMC TALK INFO,https://i.mjh.nz/SamsungTVPlus/FR300005WY.m3u8
+Le Figaro Live,https://i.mjh.nz/SamsungTVPlus/FRBC1400002JN.m3u8
+CNN FAST,https://i.mjh.nz/SamsungTVPlus/FRBD190001055.m3u8
+Bloomberg TV+,https://i.mjh.nz/SamsungTVPlus/FRBA3300032DN.m3u8
+Reuters,https://i.mjh.nz/SamsungTVPlus/FRBD490000195.m3u8
+Top Santé,https://i.mjh.nz/SamsungTVPlus/FRBD26000031Q.m3u8
+Tahiti TV,https://i.mjh.nz/SamsungTVPlus/FRBB49000059E.m3u8
+Au coin de feu,https://i.mjh.nz/SamsungTVPlus/FRBD1500001BN.m3u8
+The Boat Show,https://i.mjh.nz/SamsungTVPlus/FRBA1500005IU.m3u8
+Echappées belles & co,https://i.mjh.nz/SamsungTVPlus/FRBC3500002E4.m3u8
+Wellbeing TV,https://i.mjh.nz/SamsungTVPlus/FRBA3300063FP.m3u8
+Le Tigre,https://i.mjh.nz/SamsungTVPlus/FRBD800001FJ.m3u8
+Maison & Travaux,https://i.mjh.nz/SamsungTVPlus/FRBD2600002CR.m3u8
+Fashion TV,https://i.mjh.nz/SamsungTVPlus/FRAJ4500020YA.m3u8
+Travelxp,https://i.mjh.nz/SamsungTVPlus/FRBA330002044.m3u8
+MasterChef,https://i.mjh.nz/SamsungTVPlus/FRBC3300009EA.m3u8
+Chefclub TV,https://i.mjh.nz/SamsungTVPlus/FRBB3900001PZ.m3u8
+Pluto TV Cuisine,https://i.mjh.nz/SamsungTVPlus/FRBA3300044VR.m3u8
+RMC MECANIC,https://i.mjh.nz/SamsungTVPlus/FR300003ZB.m3u8
+Drive TV,https://i.mjh.nz/SamsungTVPlus/FRBD3600001BQ.m3u8
+Motorvision,https://i.mjh.nz/SamsungTVPlus/FRBD3200001DV.m3u8
+Motor Racing,https://i.mjh.nz/SamsungTVPlus/FRBD4100013LN.m3u8
+L'Equipe Live 2,https://i.mjh.nz/SamsungTVPlus/FRBC4200005X2.m3u8
+RMC TALK SPORT,https://i.mjh.nz/SamsungTVPlus/FR300007IY.m3u8
+FIFA+,https://i.mjh.nz/SamsungTVPlus/FRBA3300037Y7.m3u8
+World Poker Tour,https://i.mjh.nz/SamsungTVPlus/FRBD2900001M3.m3u8
+Tortues Ninja,https://i.mjh.nz/SamsungTVPlus/FRBA3300046W4.m3u8
+SuperToons TV,https://i.mjh.nz/SamsungTVPlus/FRBD5100002NL.m3u8
+Famille - Rakuten TV,https://i.mjh.nz/SamsungTVPlus/FRBA3300026BR.m3u8
+Caillou,https://i.mjh.nz/SamsungTVPlus/FRBA3300028VI.m3u8
+Pocoyo,https://i.mjh.nz/SamsungTVPlus/FR700001VJ.m3u8
+Jellytoon,https://i.mjh.nz/SamsungTVPlus/FRBB4600001MQ.m3u8
+Xilam TV,https://i.mjh.nz/SamsungTVPlus/FRBA3300018I9.m3u8
+Les Lapins Crétins: Invasion,https://i.mjh.nz/SamsungTVPlus/FRBD2300002CM.m3u8
+Bob L'eponge,https://i.mjh.nz/SamsungTVPlus/FRAJ3800010QO.m3u8
+Pluto TV Kids Séries,https://i.mjh.nz/SamsungTVPlus/FRAJ38000035M.m3u8
+iCarly,https://i.mjh.nz/SamsungTVPlus/FRAJ38000061J.m3u8
+Charlotte aux Fraises,https://i.mjh.nz/SamsungTVPlus/FRBD1900012T7.m3u8
+Vevo Hip-Hop & R&B,https://i.mjh.nz/SamsungTVPlus/FRBC2100002JA.m3u8
+Vevo Pop,https://i.mjh.nz/SamsungTVPlus/FRBC2100001YY.m3u8
+Vevo '90s & '00s,https://i.mjh.nz/SamsungTVPlus/FRBD1900013CB.m3u8
+Qwest TV,https://i.mjh.nz/SamsungTVPlus/FRBA2200001SP.m3u8
+Deluxe Lounge HD,https://i.mjh.nz/SamsungTVPlus/FRBA1500001G6.m3u8
+Clubbing TV,https://i.mjh.nz/SamsungTVPlus/FRBB1900001FA.m3u8
+Émotion,https://i.mjh.nz/SamsungTVPlus/FRBC900001LB.m3u8
+Ciné Prime,https://i.mjh.nz/SamsungTVPlus/FRBC3000001GV.m3u8
+Ciné Western,https://i.mjh.nz/SamsungTVPlus/FRBD19000095S.m3u8
+Emotion'L,https://i.mjh.nz/SamsungTVPlus/FRBB340000115.m3u8
+MyTime Movie Network,https://i.mjh.nz/SamsungTVPlus/FRBA2200010VN.m3u8
+Scream'IN,https://i.mjh.nz/SamsungTVPlus/FRBB4600002K5.m3u8
+Wild Side TV,https://i.mjh.nz/SamsungTVPlus/FRBA3300021ME.m3u8
+Pluto TV Ciné,https://i.mjh.nz/SamsungTVPlus/FRAJ3800002W5.m3u8
+Family Club,https://i.mjh.nz/SamsungTVPlus/FRBD2300001UQ.m3u8
+Ciné Nanar,https://i.mjh.nz/SamsungTVPlus/FRBB39000020C.m3u8
+Comédies - Rakuten TV,https://i.mjh.nz/SamsungTVPlus/FRAJ4500024MR.m3u8
+UniversCiné,https://i.mjh.nz/SamsungTVPlus/FRBA2200008H8.m3u8
+Brefcinema,https://i.mjh.nz/SamsungTVPlus/FRBA1000009KO.m3u8
+Runtime,https://i.mjh.nz/SamsungTVPlus/FRBB50000016B.m3u8
+Top Films - Rakuten TV,https://i.mjh.nz/SamsungTVPlus/FRBA3300033GO.m3u8
+Films dramatiques - Rakuten TV,https://i.mjh.nz/SamsungTVPlus/FRAJ4500025AN.m3u8
+Films d'action - Rakuten TV,https://i.mjh.nz/SamsungTVPlus/FRAJ4500023UP.m3u8
 
 🙈埋堆堆🙊,#genre#
 埋堆堆1,http://cfss.cc/cdn/hy/23749096.flv
