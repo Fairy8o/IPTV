@@ -3206,40 +3206,6 @@ Korea TV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 KBC TV,https://vod.ikbc.co.kr/KBCTV/tv/chunklist_w1946374378.m3u8
 KBC TV,https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
 KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-KCTV,http://119.77.96.184:1935/chn21/chn21/playlist.m3u8
-TJBSBS,http://1.245.74.5:1935/live/tv/chunklist_w1321158460.m3u8
-MBN,https://wms2-kortv.akamaized.net/a_live/81992167/smil:20tv121.smil/chunklist_b2500000.m3u8
-BTN,http://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
-MBC,http://123.254.72.24:1935/tvlive/livestream2/chunklist_w265464937.m3u8
-국방TV,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b656000_sleng.m3u8
-C,http://112.175.51.214:1935/live/myStream/playlist.m3u8
-JEJUMBC,https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
-CJMBC,http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8
-소상공인방송,http://139.150.248.29:1935/smartlive/558/91258ac21591769e21f41b96f26d883e/playlist.m3u8
-UBC SBS,http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
-TV,https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
-TV1,https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
-TV3,https://stream.ads.ottera.tv/playlist.m3u8?network_id=630
-TV4,https://stream.ads.ottera.tv/playlist.m3u8?network_id=644
-TV5,https://stream.ads.ottera.tv/playlist.m3u8?network_id=742
-14,https://stream.ads.ottera.tv/playlist.m3u8?network_id=14
-EBS少儿,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
-KBS世界,https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
-KBS世界,https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
-KBS世界,https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/chunklist_b2500000.m3u8
-阿里郎,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-阿里郎,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-Mbc Yeosu,https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
-Mubeat,https://stream.ads.ottera.tv/playlist.m3u8?network_id=711
-EBS 2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?
-JTV,https://tistory1.daumcdn.net/tistory/2864485/skin/images/Public_58.m3u8
-JTV,http://61.85.197.53:1935/jtv_live/myStream/chunklist_w1542137203.m3u8
-Korea TV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
-KBC TV,https://vod.ikbc.co.kr/KBCTV/tv/chunklist_w1946374378.m3u8
-KBC TV,https://vod.ikbc.co.kr/KBCTV/tv/playlist.m3u8
-KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
 TJBSBS,http://1.245.74.5:1935/live/tv/chunklist_w1321158460.m3u8
 CJBSBS,http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
