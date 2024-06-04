@@ -3289,77 +3289,102 @@ ANTV(5G专线),http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 👉添加售后唯一微信👈,https://cloud.lxweb.cn/f/W6OOfB/WXSP.mp4
 👉获取最新链接👈,https://cloud.lxweb.cn/f/W6OOfB/WXSP.mp4
 👉此处以下频道需要魔法👈,https://cloud.lxweb.cn/f/08QDU0/3.MOV
-CNN,https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
-BBC,https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-NBC News Now,https://i.mjh.nz/SamsungTVPlus/CAAJ2700011IF.m3u8
+UK| BBC SCOTLAND FHD,http://extraott.com:80/live/7921751389/6097373662/14099.m3u8
+UK| BBC ONE WALES FHD,http://extraott.com:80/live/7921751389/6097373662/153881.m3u8
+UK| BBC ONE SCOTLAND FHD,http://extraott.com:80/live/7921751389/6097373662/400230281.m3u8
+UK| UTV FHD,http://extraott.com:80/live/7921751389/6097373662/153868.m3u8
+UK| CNN FHD,http://extraott.com:80/live/7921751389/6097373662/153852.m3u8
+UK| BBC NEWS HD,http://extraott.com:80/live/7921751389/6097373662/191457.m3u8
+UK| BBC WORLD NEWS HD,http://extraott.com:80/live/7921751389/6097373662/13013.m3u8
+UK| CNN HD,http://extraott.com:80/live/7921751389/6097373662/2445.m3u8
+UK| I24 NEWS HD ENGLISH,http://extraott.com:80/live/7921751389/6097373662/6890.m3u8
+UK| SKY NEWS HD,http://extraott.com:80/live/7921751389/6097373662/191677.m3u8
+UK| GB NEWS HD,http://extraott.com:80/live/7921751389/6097373662/400200059.m3u8
+UK| HGTV HD,http://extraott.com:80/live/7921751389/6097373662/39844.m3u8
+UK| CNBC HD,http://extraott.com:80/live/7921751389/6097373662/153850.m3u8
+UK| UTV HD,http://extraott.com:80/live/7921751389/6097373662/191005.m3u8
+UK| BLOOMBERG HD,http://extraott.com:80/live/7921751389/6097373662/153856.m3u8
+UK| TRT WORLD HD,http://extraott.com:80/live/7921751389/6097373662/400230338.m3u8
+UK| NBC NEWS NOW HD,http://extraott.com:80/live/7921751389/6097373662/82805.m3u8
+US| CNN HD,http://extraott.com:80/live/7921751389/6097373662/36480.m3u8
+US| MSNBC HD,http://extraott.com:80/live/7921751389/6097373662/181629.m3u8
+US| CNBC HD,http://extraott.com:80/live/7921751389/6097373662/181635.m3u8
+US| HLN HD,http://extraott.com:80/live/7921751389/6097373662/253154.m3u8
+US| THE WEATHER CHANNEL HD,http://extraott.com:80/live/7921751389/6097373662/181656.m3u8
+US| ABC NEWS LIVE HD,http://extraott.com:80/live/7921751389/6097373662/181665.m3u8
+US| NEWSMAX  HD,http://extraott.com:80/live/7921751389/6097373662/181670.m3u8
+US| FOX BUSINESS HD,http://extraott.com:80/live/7921751389/6097373662/181644.m3u8
+US| NEWS NATION HD (EAST),http://extraott.com:80/live/7921751389/6097373662/42175.m3u8
+US| NEWS NATION HD (WEST),http://extraott.com:80/live/7921751389/6097373662/42176.m3u8
+US| BBC WORLD NEWS HD,http://extraott.com:80/live/7921751389/6097373662/254686.m3u8
+US| BLOOMBERG HD,http://extraott.com:80/live/7921751389/6097373662/181653.m3u8
+US| YAHOO FINANCE LIVE HD,http://extraott.com:80/live/7921751389/6097373662/77270.m3u8
+US| BBC AMERICA HD (EAST),http://extraott.com:80/live/7921751389/6097373662/13533.m3u8
+US| CBS NEWS HD,http://extraott.com:80/live/7921751389/6097373662/181650.m3u8
+US| ONE AMERICAN NEWS NETWORK HD,http://extraott.com:80/live/7921751389/6097373662/181655.m3u8
+US| EURONEWS HD,http://extraott.com:80/live/7921751389/6097373662/181673.m3u8
+US| ACCUWEATHER NOW FHD,http://extraott.com:80/live/7921751389/6097373662/181657.m3u8
+US| CNBC WORLD,http://extraott.com:80/live/7921751389/6097373662/181634.m3u8
+US| RT NEWS AMERICA,http://extraott.com:80/live/7921751389/6097373662/181651.m3u8
+US| DW ENGLISH FHD,http://extraott.com:80/live/7921751389/6097373662/176619.m3u8
+US| CGTN HD,http://extraott.com:80/live/7921751389/6097373662/181672.m3u8
+US| NBC NEWS FHD,http://extraott.com:80/live/7921751389/6097373662/378781.m3u8
+CA| 国家地理 HD,http://extraott.com:80/live/7921751389/6097373662/176159.m3u8
+CA| 国家地理 WILD HD,http://extraott.com:80/live/7921751389/6097373662/176158.m3u8
+DSTV| 国家地理 HD,http://extraott.com:80/live/7921751389/6097373662/7261.m3u8
+DSTV| 国家地理 WILD HD,http://extraott.com:80/live/7921751389/6097373662/7260.m3u8
+CBC News Explore,https://i.mjh.nz/SamsungTVPlus/CABC2300009KD.m3u8
+CBS News 24/7,https://i.mjh.nz/SamsungTVPlus/USBA370000104.m3u8
+ABC News Live,https://i.mjh.nz/SamsungTVPlus/USBC39000171G.m3u8
+NBC News NOW,https://i.mjh.nz/SamsungTVPlus/USBB2200014DK.m3u8
+LiveNOW from FOX,https://i.mjh.nz/SamsungTVPlus/USBA300024TN.m3u8
+Scripps News,https://i.mjh.nz/SamsungTVPlus/USBD3000073N.m3u8
+NBC Bay Area News,https://i.mjh.nz/SamsungTVPlus/USBC3200005A0.m3u8
+ABC7 Bay Area,https://i.mjh.nz/SamsungTVPlus/USBC4400010RH.m3u8
+CBS News Bay Area,https://i.mjh.nz/SamsungTVPlus/USBD2700010WB.m3u8
+FOX 2 San Francisco,https://i.mjh.nz/SamsungTVPlus/USBD2700019N0.m3u8
+FOX Weather,https://i.mjh.nz/SamsungTVPlus/USBD700003L7.m3u8
+WN San Francisco,https://i.mjh.nz/SamsungTVPlus/USBB3600008BU.m3u8
+BBC News,https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
 Sky News,https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
-AXS TV Now,https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
-Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
-Dubai One,http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
-Al Jazeera,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-Arirang,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-Bloomberg Asia,https://epg.pw/stream/d2edf469b9079064a283f4b0811cbf6f2597ebbb3d08dcf77036a4b5a791b7cf.m3u8
-Bloomberg Originals,https://i.mjh.nz/SamsungTVPlus/GBBC900012J9.m3u8
-CBN News,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+CBC News International,https://i.mjh.nz/SamsungTVPlus/USBC4400003OU.m3u8
+Cheddar News,https://i.mjh.nz/SamsungTVPlus/USAJ3504714A.m3u8
+Estrella News,https://i.mjh.nz/SamsungTVPlus/USAJ2200020N4.m3u8
 GB News,https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8
-RT News,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-TBS,http://143.244.60.30/TBS/index.m3u8
-RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
-TRT World,https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
-Taiwan Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-ION Plus,https://i.mjh.nz/SamsungTVPlus/USBD300003LK.m3u8
-ION,https://i.mjh.nz/SamsungTVPlus/USBD300002TU.m3u8
-Love Nature,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-Disney International,http://sansat.net:88/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/96284
-Fashion TV,http://91.247.68.229:8000/play/Fashion/index.m3u8
-Fight Network,https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
-Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-Wild Planet,https://i.mjh.nz/SamsungTVPlus/GBBB5000002PL.m3u8
-Clarity 4K,https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8
-Stadium,https://i.mjh.nz/SamsungTVPlus/USAJ3504705A.m3u8
-Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-Tastemade,https://i.mjh.nz/SamsungTVPlus/CABD1200002T9.m3u8
-MovieSphere,https://i.mjh.nz/SamsungTVPlus/USBD17000117B.m3u8
-The Lego Channel,https://i.mjh.nz/SamsungTVPlus/GBBC4300005AL.m3u8
-NextUp Live Comedy,https://i.mjh.nz/SamsungTVPlus/GBBD1100012JB.m3u8
-
 Animal Planet,http://45.159.74.14:80/AnimalPlanet/index.m3u8
 Animal Planet,http://41.205.93.154/ANIMALPLANET/index.m3u8
 Animal Planet [可选英语、俄语],http://45.159.74.14:80/AnimalPlanet/index.m3u8
 Animal Planet,http://41.205.93.154/ANIMALPLANET/index.m3u8
-Animal Planet,https://kusnadipepenk.github.io/ntn/animal.m3u8
-Discovery Channel,http://88.212.7.11/live/test_discovery_hd_hevc/playlist.m3u8
 Discovery Channel [可选英语、俄语],http://45.159.74.14:80/DiscoveryChannel/index.m3u8
 NASA 1,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 NASA 2,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
-BBC News,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
-
-HGTV,http://66.165.240.154:8080/live/usHGTV/hls.m3u8
-CBS NEWS,http://66.165.240.154:8080/live/ustypd1/hls.m3u8
-NBATV,http://66.165.240.154:8080/live/nbaTV3/hls.m3u8
-AMC,http://66.165.240.154:8080/live/sf2xby4/hls.m3u8
-STAR LIFE,http://66.165.240.154:8080/live/sf2xby6/hls.m3u8
-NBC NEWS,http://66.165.240.154:8080/live/2WSFA1/hls.m3u8
-TSN3,http://66.165.240.154:8080/live/2cahbd7/hls.m3u8
-TSN5,http://66.165.240.154:8080/live/2cahbd9/hls.m3u8
-ABC,http://66.165.240.154:8080/live/ABCLosKABC/hls.m3u8
-Bloomberg,http://66.165.240.154:8080/live/Bloomberg/hls.m3u8
-CAFOODNETWORK,http://66.165.240.154:8080/live/CAFOODNETWORK/hls.m3u8
-CAGOLFCHANNEL,http://66.165.240.154:8080/live/CAGOLFCHANNEL/hls.m3u8
-CAOMNI,http://66.165.240.154:8080/live/CAOMNI1/hls.m3u8
-CBS,http://66.165.240.154:8080/live/CBS1/hls.m3u8
-KCBS,http://66.165.240.154:8080/live/CBSLosKCBS/hls.m3u8
-CBSNews,http://66.165.240.154:8080/live/CBSNewsLos/hls.m3u8
-FOXNews,http://66.165.240.154:8080/live/FOXNews221/hls.m3u8
-Horse1,http://66.165.240.154:8080/live/Horse1/hls.m3u8
-FOXPLUS,http://66.165.240.154:8080/live/MyLosKCOP/hls.m3u8
-KMEX,http://66.165.240.154:8080/live/UnivisionLosKMEX/hls.m3u8
-TSN1,http://66.165.240.154:8080/live/caTSN1/hls.m3u8
-Bloomberg,http://66.165.240.154:8080/live/cahbd2/hls.m3u8
-Global NEWS,http://66.165.240.154:8080/live/cahbd6/hls.m3u8
-TSN4,http://66.165.240.154:8080/live/cahbd8/hls.m3u8
-CNA,http://66.165.240.154:8080/live/gapd10/hls.m3u8
+LEGO Channel,https://i.mjh.nz/SamsungTVPlus/CABC230001363
+Euronews Live,https://i.mjh.nz/SamsungTVPlus/CHBA100000532.m3u8
+Destination Nature [FR],https://i.mjh.nz/SamsungTVPlus/CHBC4000006ZD.m3u8
+Terra Mater WILD,https://i.mjh.nz/SamsungTVPlus/CHBD2700002B7.m3u8
+Freitag Nacht News,https://i.mjh.nz/SamsungTVPlus/CHBD2700004E9.m3u8
+GB News,https://i.mjh.nz/SamsungTVPlus/GBBB1600008R3.m3u8
+Bloomberg TV+,https://i.mjh.nz/SamsungTVPlus/GBBA3300033C2.m3u8
+Love Pets,https://i.mjh.nz/SamsungTVPlus/GBBD1100003I0.m3u8
+ABP News,https://i.mjh.nz/SamsungTVPlus/INBD400006H0.m3u8
+News9 Live,https://i.mjh.nz/SamsungTVPlus/INBD25000021N.m3u8
+Ticker News,https://i.mjh.nz/SamsungTVPlus/ITBA3300038LH.m3u8
+CINEVAULT: Westerns,https://i.mjh.nz/SamsungTVPlus/USAK3508709A.m3u8
+FilmRise Western,https://i.mjh.nz/SamsungTVPlus/USBB32000196O.m3u8
+Grit Xtra,https://i.mjh.nz/SamsungTVPlus/USBC24000213P.m3u8
+Cowboy Way,https://i.mjh.nz/SamsungTVPlus/USBC3200020QF.m3u8
+Circle,https://i.mjh.nz/SamsungTVPlus/USBA300035FV.m3u8
+Shout! TV,https://i.mjh.nz/SamsungTVPlus/USBD1200021JM.m3u8
+ION,https://i.mjh.nz/SamsungTVPlus/USBD300002TU.m3u8
+ION Plus,https://i.mjh.nz/SamsungTVPlus/USBD300003LK.m3u8
+ElectricNOW,https://i.mjh.nz/SamsungTVPlus/USBC6000225M.m3u8
+PGA Tour,https://i.mjh.nz/SamsungTVPlus/US400001M2.m3u8
+GOLFPASS,https://i.mjh.nz/SamsungTVPlus/USBB400000145.m3u8
+PickleballTV,https://i.mjh.nz/SamsungTVPlus/USBD4200016QR.m3u8
+Lucky Dog,https://i.mjh.nz/SamsungTVPlus/USBA3000044BJ.m3u8
+Rovr Pets,https://i.mjh.nz/SamsungTVPlus/USBC2400024FN.m3u8
+Clarity 4K,https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8
+BBC Earth,https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8
 
 
 🦄美国频道🦅,#genre#
