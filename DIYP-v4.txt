@@ -6819,15 +6819,6 @@ BRTV冬奥纪实,http://114.254.90.19:2222/rtp/239.3.1.121:8000
 长沙政法,https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/hnmg.php?id=cszf&token=a2f138b40a133684caa8f2de620239906315a68106c49065cd3b62a9c1297977
 长沙女性,https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/hnmg.php?id=csnx&token=a2f138b40a133684caa8f2de620239906315a68106c49065cd3b62a9c1297977
 
-湖南卫视,http://biaozhun114.com/tv/vip1.php?id=43
-湖南经视,http://biaozhun114.com/tv/vip1.php?id=41
-湖南娱乐,http://biaozhun114.com/tv/vip1.php?id=47
-湖南都市,http://biaozhun114.com/tv/vip1.php?id=48
-湖南电视剧,http://biaozhun114.com/tv/vip1.php?id=49
-湖南公共,http://biaozhun114.com/tv/vip1.php?id=42
-金鹰卡通,http://biaozhun114.com/tv/vip1.php?id=44
-金鹰纪实,http://biaozhun114.com/tv/vip1.php?id=45
-
 湖南卫视,http://www.yao87.com:4022/udp/239.76.245.115:1234
 湖南经视,http://www.yao87.com:4022/udp/239.76.245.116:1234
 湖南都市,http://www.yao87.com:4022/udp/239.76.245.117:1234
