@@ -775,33 +775,32 @@ http://218.241.192.50:8808/rtp/239.3.1.149:8076
 http://218.241.192.50:8808/rtp/239.3.1.156:8148
 #EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="🦄联通线路-①⛄️",江西卫视
 http://218.241.192.50:8808/rtp/239.3.1.123:8164
-#EXTINF:-1,tvg-id="BRTV新闻" tvg-name="BRTV新闻" tvg-logo="https://epg.112114.xyz/logo/BRTV新闻.png" group-title="🦄联通线路-①⛄️",BRTV新闻
+#EXTINF:-1 tvg-id="1880" tvg-name="BTV新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV新闻.png" group-title="🦄联通线路-①⛄️",BTV新闻
 http://218.241.192.50:8808/rtp/239.3.1.159:8000
-#EXTINF:-1,tvg-id="BRTV影视" tvg-name="BRTV影视" tvg-logo="https://epg.112114.xyz/logo/BRTV影视.png" group-title="🦄联通线路-①⛄️",BRTV影视
+#EXTINF:-1 tvg-id="1875" tvg-name="BTV影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV影视.png" group-title="🦄联通线路-①⛄️",BTV影视
 http://218.241.192.50:8808/rtp/239.3.1.158:8000
-#EXTINF:-1,tvg-id="BRTV文艺" tvg-name="BRTV文艺" tvg-logo="https://epg.112114.xyz/logo/BRTV文艺.png" group-title="🦄联通线路-①⛄️",BRTV文艺
+#EXTINF:-1 tvg-id="1873" tvg-name="BTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" group-title="🦄联通线路-①⛄️",BTV文艺
 http://218.241.192.50:8808/rtp/239.3.1.242:8000
-#EXTINF:-1,tvg-id="BRTV财经" tvg-name="BRTV财经" tvg-logo="https://epg.112114.xyz/logo/BRTV财经.png" group-title="🦄联通线路-①⛄️",BRTV财经
+#EXTINF:-1 tvg-id="1876" tvg-name="BTV财经" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV财经.png" group-title="🦄联通线路-①⛄️",BTV财经
 http://218.241.192.50:8808/rtp/239.3.1.116:8000
-#EXTINF:-1,tvg-id="BRTV生活" tvg-name="BRTV生活" tvg-logo="https://epg.112114.xyz/logo/BRTV生活.png" group-title="🦄联通线路-①⛄️",BRTV生活
+#EXTINF:-1 tvg-id="1878" tvg-name="BTV生活" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV生活.png" group-title="🦄联通线路-①⛄️",BTV生活
 http://218.241.192.50:8808/rtp/239.3.1.117:8000
-#EXTINF:-1,tvg-id="BRTV青年" tvg-name="BRTV青年" tvg-logo="https://epg.112114.xyz/logo/BRTV青年.png" group-title="🦄联通线路-①⛄️",BRTV青年
-http://218.241.192.50:8808/rtp/239.3.1.118:8000
-#EXTINF:-1,tvg-id="BRTV纪实科教" tvg-name="BRTV纪实科教" tvg-logo="https://epg.112114.xyz/logo/BRTV纪实科教.png" group-title="🦄联通线路-①⛄️",BRTV纪实科教
+#EXTINF:-1 tvg-id="1874" tvg-name="BTV科教" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV科教.png" group-title="🦄联通线路-①⛄️",BTV科教
 http://218.241.192.50:8808/rtp/239.3.1.115:8000
-#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="🦄联通线路-①⛄️",BRTV卡酷动画
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="🦄联通线路-①⛄️",BTV卡酷少儿
 http://218.241.192.50:8808/rtp/239.3.1.189:8000
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="🦄联通线路-①⛄️",BRTV冬奥纪实
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="🦄联通线路-①⛄️",BTV冬奥纪实
 http://218.241.192.50:8808/rtp/239.3.1.243:8000
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="🦄联通线路-①⛄️",BRTV冬奥纪实[R]
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="🦄联通线路-①⛄️",BTV冬奥纪实
 http://218.241.192.50:8808/rtp/239.3.1.120:8000
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="🦄联通线路-①⛄️",BRTV冬奥纪实[超清]
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="🦄联通线路-①⛄️",BTV冬奥纪实
 http://218.241.192.50:8808/rtp/239.3.1.121:8000
-#EXTINF:-1,tvg-id="BRTV体育休闲[超清]" tvg-name="BRTV体育休闲[超清]" tvg-logo="https://epg.112114.xyz/logo/BRTV体育休闲.png" group-title="🦄联通线路-①⛄️",BRTV体育休闲[超清]
+#EXTINF:-1 tvg-id="1877" tvg-name="BTV体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV体育.png" group-title="🦄联通线路-①⛄️",BTV体育休闲
 http://218.241.192.50:8808/rtp/239.3.1.243:8000
-#EXTINF:-1,tvg-id="北京国际频道" tvg-name="北京国际频道" tvg-logo="https://epg.112114.xyz/logo/北京国际频道.png" group-title="🦄联通线路-①⛄️",BTV国际频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🦄联通线路-①⛄️",BTV国际频道
 http://218.241.192.50:8808/rtp/239.3.1.235:8000
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="🦄联通线路-①⛄️",BTV青年
+http://218.241.192.50:8808/rtp/239.3.1.118:8000
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="🦄联通线路-②⛄️",CCTV1
 http://60.27.20.217:4022/rtp/225.1.1.120:5002
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="🦄联通线路-②⛄️",CCTV2
