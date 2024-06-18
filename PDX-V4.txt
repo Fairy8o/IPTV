@@ -20,6 +20,16 @@
 咪咕 4K 欧洲杯 1,http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive01
 咪咕 4K 欧洲杯 2,http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive02
 咪咕 4K 欧洲杯 3,http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive03
+
+06/18 23:15 欧洲杯小组赛 土耳其vs格鲁吉亚 解说,https://livednow.com/migu/916993958?sign=gAAAAABmcae62ffwqMateGX4-BYw2r37SAwPTn-dW2iBvq-w1qnkxF-8rvupO-i4ebe--eMO6lCTQZpfskI1hcPNbUyORzladJscmojjmX3eTRnGGAuWG99iW6HTOjreZMvJuTxtAAo0Fhy3S6biFpehpEcyGdKNEJ-UWDizLSOC9w3VG3ahVjG58r5svPjREGGy1rjWYOayacxLWrgp7Yp76bSPFv6yzg%3D%3D
+06/18 23:15 欧洲杯小组赛 土耳其vs格鲁吉亚 赛场原声,https://livednow.com/migu/917096973?sign=gAAAAABmcae6A42211SqnS2yv7rlEIvqXRJn_B4x-kzzkpgduxB421G6APMZANvrgcaWsYfLGq4LZ91ahli-sqZu07sAx994GSDp-fP7Dbx_LaS4-ExAoX8MF5wI8sDib_RSgnRssLcelte_lPn1XfPiOMkHU7ZdailS72ollo054mYe3b2Q_rmQh5R1BkV3kJuWu8anZsCV0tTHLLsjf77WneCcisyiew%3D%3D
+06/18 23:15 欧洲杯小组赛 土耳其vs格鲁吉亚 AVS3,https://livednow.com/migu/917234447?sign=gAAAAABmcae69AK4BHwfJruWw7LkAzcR-G5e-JeGSGyhAo7ki09MrtoYGt2cy26yyys97yLLMCEfAImbGNgvvTrM5q158r7w59zJdjHP7BlKMa5ZmZAaRtut1kqgEc90UR6xUFTnhVa7YLs9xkn5w0Qjhw3TJfqqMnZmCiq7CPHStlxpEVS4ZS3YZCwQONpdRLEE3HyO6cLDPXZ9KxJURLjXzvCMnBkWDA%3D%3D
+06/19 02:30 欧洲杯小组赛 葡萄牙vs捷克 解说,https://livednow.com/migu/916994362?sign=gAAAAABmcae61hFV7QqxZ-sJ2GEh3QbY609Q6DVtmPclAEAsPA2uhQWXOjf5hJySCvejlU-zePh3fTb3-toxn9u8rN69hMvGhH2NCjJmCMHf8Zn1B9YQjbzOOjEfJx_hkdoQFpEvm1-4dyfu2DbR0qQKz6XimQlAeTSl5J_5l5eqG96qwW9tCwHfFFAq3viDO8hdwA6b_EgdSCTmzztq6kwf2VvKjHx5iQ%3D%3D
+06/19 02:30 欧洲杯小组赛 葡萄牙vs捷克 解说,https://livednow.com/migu/917097372?sign=gAAAAABmcae6wmB4S0EJt16q-aX7zKyUDtZ4pDeRFkYRr31SXmWUq7ZIpo9v-IvL_Eh0ON2NewNe-6E4q3IWrZ7nHkPobY9LVQnvQqAaCWsh1ZkEHpe8HATx85nxu4OsyIPgleiA9vwDw_2A0ebJvlO0h5POa4-hBVob8VLQnbUmLqTwWaqmUgiCxvaR_0fkfl0llxdMQdOgkGu3VfQ-l0Mc4mQjO8g2AA%3D%3D
+06/19 02:30 欧洲杯小组赛 葡萄牙vs捷克 赛场原声,https://livednow.com/migu/917097514?sign=gAAAAABmcae66cTT_QMEK4iP80C7PbNZ1jvEANURvrcf7kPoniGuZnQ0pQfZ0V6ettnq_I9LChC15j44FPJ_n0vGOGOk87zsLqQn4Pt3kAIZC-lwhDuvnwz6DcSV2gd0w5JbdD48vi6zyZbYBqOWX5sjvCixqVuE3kxpO2uKMgAOO33AMUdzZfkDBt49AYrHYxXXEsrOz82Hq_cRXp54f9hL8Z3Q1AwMRQ%3D%3D
+06/19 02:30 欧洲杯小组赛 葡萄牙vs捷克 粤语解说,https://livednow.com/migu/917097471?sign=gAAAAABmcae6fDRXrjH2t-r9XQwAaoiKnDl_0tMCpyPWYeD70l8nqL4G_1HWloJ5XkRG6i5vsqqFFHkBb2MuZmEPNibah_ZvzZyjfYaAV4MfR9a_DvkuzciP-3zOkqJMLkq9xtDww5dE47SlUPEijj3_bt-l9XxcIXKN1cUW_IaYH4iqFMyYHlCYtNBwgEtGnlNZrvEDr1O_1MfgaGN1brWDOKYwqN_ytg%3D%3D
+06/19 02:30 欧洲杯小组赛 葡萄牙vs捷克 AVS3,https://livednow.com/migu/917234677?sign=gAAAAABmcae6oMJA-DHYbdDR5KSy0UeSI2G62jyjDW7-ir32N3RoWjAenYSyCJJ3jh2xMqEL3o1MimKBLv8TSlJZgR71TibeCG3g7ChyFg-cvmC8o_bWz8_Ma3bkQaNyh9wGZS8hUx9RZoGh1Px767Ft_KizUSR3Hx9mYNeNQF0Wfs9iPxbotgxoiXx7uJIBodPtWtmtop0yMSq8nf64MB6lakqrqUn5bQ%3D%3D
+
 CCTV5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=93742ae45d857eb76d5fde4280c09546
 NOW体育618,http://111.160.76.101:80/香蕉哥/now体育3.live.ts
 Now Sports 3,http://histar.zapi.us.kg/?id=now-sports-3
