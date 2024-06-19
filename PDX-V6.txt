@@ -37,6 +37,7 @@
 咪咕 HD 欧洲杯 2,http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 咪咕 HD 欧洲杯 3,http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 CCTV5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=93742ae45d857eb76d5fde4280c09546
+NOW体育618,https://histar.zapi.us.kg/?id=now-sports-618
 NOW体育618,http://111.160.76.101:80/香蕉哥/now体育3.live.ts
 Now Sports 3,http://histar.zapi.us.kg/?id=now-sports-3
 Now Sports 3,http://cdn.1678520.xyz/xsj.php?id=now-sports-3
