@@ -6147,134 +6147,138 @@ CCTV-14,http://110.7.128.161:8096/tsfile/live/0014_1.m3u8
 小魔仙剧26,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/fb2239726d1e45d4a74e59a46e2d065b/1200.m3u8
 
 🦄北京频道,#genre#
-BRTV影视,https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/df.php?id=btvys&token=97e87ad51e378c60f5b6fad4443d5ce7fda52abf4c24dd77a0dfd9ee963a4dd3
-BRTV文艺,https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/df.php?id=btvwy&token=97e87ad51e378c60f5b6fad4443d5ce7fda52abf4c24dd77a0dfd9ee963a4dd3
-BRTV新闻,https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/df.php?id=btvxw&token=97e87ad51e378c60f5b6fad4443d5ce7fda52abf4c24dd77a0dfd9ee963a4dd3
-BRTV科教,https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/df.php?id=btvkj&token=97e87ad51e378c60f5b6fad4443d5ce7fda52abf4c24dd77a0dfd9ee963a4dd3
-
-北京体育休闲,http://111.196.131.234:8012/rtp/239.3.1.243:8000
-北京体育休闲,http://111.197.130.58:1314/rtp/239.3.1.243:8000
-北京体育休闲,http://61.51.141.145:8888/rtp/239.3.1.243:8000
+北京体育休闲,http://iptv.8t.cx:8180/rtp/239.3.1.243:8000
+北京体育休闲,http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.243:8000
 北京体育休闲,http://123.122.162.250:19999/rtp/239.3.1.243:8000
-北京体育休闲,http://221.220.135.32:9999/rtp/239.3.1.243:8000
-北京体育休闲,http://ainm.cc/a/play/php/gehua.php?id=bjtyxx
 北京体育休闲,http://qnap.yjnhome.com:4000/rtp/239.3.1.97:8001
 北京体育休闲,http://qnap.yjnhome.com:4000/rtp/239.3.1.243:8000
-北京体育休闲,http://114.252.199.35:10000/rtp/239.3.1.243:8000
-北京体育休闲,http://123.113.11.89:4022/rtp/239.3.1.243:8000
-北京体育休闲,http://221.217.4.51:1314/rtp/239.3.1.243:8000
 北京体育休闲,http://123.113.248.110:8888/rtp/239.3.1.243:8000
 北京体育休闲,http://221.216.132.178:8118/rtp/239.3.1.243:8000
+BTV新闻,https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/df.php?id=btvxw&token=97e87ad51e378c60f5b6fad4443d5ce7fda52abf4c24dd77a0dfd9ee963a4dd3
+BTV影视,https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/df.php?id=btvys&token=97e87ad51e378c60f5b6fad4443d5ce7fda52abf4c24dd77a0dfd9ee963a4dd3
+BTV文艺,https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/df.php?id=btvwy&token=97e87ad51e378c60f5b6fad4443d5ce7fda52abf4c24dd77a0dfd9ee963a4dd3
+BTV科教,https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/df.php?id=btvkj&token=97e87ad51e378c60f5b6fad4443d5ce7fda52abf4c24dd77a0dfd9ee963a4dd3
+「电信」北京文艺,http://115.171.216.22:4000/udp/225.1.8.22:8002
+「电信」北京科教,http://115.171.216.22:4000/udp/225.1.8.105:8002
+「电信」北京影视,http://115.171.216.22:4000/udp/225.1.8.82:8000
+「电信」北京财经,http://115.171.216.22:4000/udp/225.1.8.106:8002
+「电信」北京生活,http://115.171.216.22:4000/udp/225.1.8.108:8002
+「电信」北京青年,http://115.171.216.22:4000/udp/225.1.8.118:8002
+「电信」北京新闻,http://115.171.216.22:4000/udp/225.1.8.83:8000
+「电信」北京体育休闲,http://1.202.10.117:8888/udp/225.1.8.23:8002
+「电信」北京卡酷动画,http://115.171.216.22:4000/udp/225.1.8.35:8000
+「电信」北京冬奥纪实,http://115.171.216.22:4000/udp/225.1.8.23:8002
+「电信」北京冬奥纪实 4K,http://115.171.216.22:4000/udp/225.1.8.120:8002
+「电信」北京冬奥纪实 4K,http://115.171.216.22:4000/udp/225.1.8.164:8002
+「联通1」BTV新闻,http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.159:8000
+「联通1」BTV影视,http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.158:8000
+「联通1」BTV文艺,http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.242:8000
+「联通1」BTV财经,http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.116:8000
+「联通1」BTV生活,http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.117:8000
+「联通1」BTV青年,http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.118:8000
+「联通1」BTV纪实科教,http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.115:8000
+「联通1」BTV卡酷少儿,http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.189:8000
+「联通1」BTV冬奥纪实,http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.243:8000
+「联通1」BTV冬奥纪实[R],http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.120:8000
+「联通1」BTV冬奥纪实[超清],http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.121:8000
+「联通1」BTV体育休闲[超清],http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.243:8000
+「联通1」BTV国际频道,http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.235:8000
+「联通2」BTV新闻HD,http://iptv.8t.cx:8180/rtp/239.3.1.159:8000
+「联通2」BTV影视HD,http://iptv.8t.cx:8180/rtp/239.3.1.158:8000
+「联通2」BTV文艺HD,http://iptv.8t.cx:8180/rtp/239.3.1.242:8000
+「联通2」BTV财经HD,http://iptv.8t.cx:8180/rtp/239.3.1.116:8000
+「联通2」BTV生活HD,http://iptv.8t.cx:8180/rtp/239.3.1.117:8000
+「联通2」BTV青年HD,http://iptv.8t.cx:8180/rtp/239.3.1.118:8000
+「联通2」BTV纪实科教HD,http://iptv.8t.cx:8180/rtp/239.3.1.115:8000
+「联通2」BTV卡酷少儿HD,http://iptv.8t.cx:8180/rtp/239.3.1.189:8000
+「联通2」BTV冬奥纪实HD,http://iptv.8t.cx:8180/rtp/239.3.1.243:8000
+「联通2」BTV冬奥纪实[HDR],http://iptv.8t.cx:8180/rtp/239.3.1.120:8000
+「联通2」BTV冬奥纪实[超清],http://iptv.8t.cx:8180/rtp/239.3.1.121:8000
+「联通2」BTV体育休闲[超清],http://iptv.8t.cx:8180/rtp/239.3.1.243:8000
+「联通2」BTV国际频道,http://iptv.8t.cx:8180/rtp/239.3.1.235:8000
+「联通2」爱上4K[超清],http://iptv.8t.cx:8180/rtp/239.3.1.236:2000
+「联通2」4K超清[超清],http://iptv.8t.cx:8180/rtp/239.3.1.249:8001
+「联通2」淘电影HD,http://iptv.8t.cx:8180/rtp/239.3.1.250:8001
+「联通2」每日影院HD,http://iptv.8t.cx:8180/rtp/239.3.1.111:8001
+「联通2」星影,http://iptv.8t.cx:8180/rtp/239.3.1.94:4120
+「联通2」动作影院,http://iptv.8t.cx:8180/rtp/239.3.1.92:4120
+「联通2」光影,http://iptv.8t.cx:8180/rtp/239.3.1.84:4120
+「联通2」喜剧影院,http://iptv.8t.cx:8180/rtp/239.3.1.91:4120
+「联通2」家庭影院,http://iptv.8t.cx:8180/rtp/239.3.1.93:4120
+「联通2」精选,http://iptv.8t.cx:8180/rtp/239.3.1.74:4120
+「联通2」经典电影,http://iptv.8t.cx:8180/rtp/239.3.1.195:9024
+「联通2」纪实人文HD,http://iptv.8t.cx:8180/rtp/239.3.1.212:8060
+「联通2」金鹰纪实HD,http://iptv.8t.cx:8180/rtp/239.3.1.58:8156
+「联通2」风尚生活HD,http://iptv.8t.cx:8180/rtp/239.3.1.114:8001
+「联通2」地理,http://iptv.8t.cx:8180/rtp/239.3.1.71:4120
+「联通2」淘剧场HD,http://iptv.8t.cx:8180/rtp/239.3.1.95:8001
+「联通2」幸福剧场HD,http://iptv.8t.cx:8180/rtp/239.3.1.112:8001
+「联通2」淘娱乐HD,http://iptv.8t.cx:8180/rtp/239.3.1.100:8001
+「联通2」幸福娱乐HD,http://iptv.8t.cx:8180/rtp/239.3.1.113:8001
+「联通2」淘BabyHD,http://iptv.8t.cx:8180/rtp/239.3.1.238:8001
+「联通2」萌宠TVHD,http://iptv.8t.cx:8180/rtp/239.3.1.102:8001
 
-北京卫视,http://39.134.66.66/PLTV/88888888/224/3221225678/index.m3u8
-冬奥纪实,http://39.134.66.66/PLTV/88888888/224/3221225670/index.m3u8
-卡酷少儿,http://39.134.66.66/PLTV/88888888/224/3221225562/index.m3u8
-BRTV北京卫视HD,http://114.254.90.19:2222/rtp/239.3.1.241:8000
-BRTV新闻HD,http://114.254.90.19:2222/rtp/239.3.1.159:8000
-BRTV影视HD,http://114.254.90.19:2222/rtp/239.3.1.158:8000
-BRTV文艺HD,http://114.254.90.19:2222/rtp/239.3.1.242:8000
-BRTV财经HD,http://114.254.90.19:2222/rtp/239.3.1.116:8000
-BRTV生活HD,http://114.254.90.19:2222/rtp/239.3.1.117:8000
-BRTV青年HD,http://114.254.90.19:2222/rtp/239.3.1.118:8000
-BRTV纪实科教HD,http://114.254.90.19:2222/rtp/239.3.1.115:8000
-BRTV卡酷少儿HD,http://114.254.90.19:2222/rtp/239.3.1.189:8000
-BRTV冬奥纪实HD,http://114.254.90.19:2222/rtp/239.3.1.243:8000
-BRTV冬奥纪实,http://114.254.90.19:2222/rtp/239.3.1.120:8000
-BRTV冬奥纪实,http://114.254.90.19:2222/rtp/239.3.1.121:8000
 
 🦄上海频道,#genre#
-新闻综合,http://php.jdshipin.com:8880/bst.php?id=xwzhhd/4000000
-上海都市,http://php.jdshipin.com:8880/bst.php?id=ylpdhd/4000000
-上海外语,http://php.jdshipin.com:8880/bst.php?id=wypdhd/4000000
-上海教育,http://php.jdshipin.com:8880/bst.php?id=setvhd/8000000
-
-新闻综合,http://tv.twwhwn.cn:4022/udp/239.45.3.209:5140
-上海都市,http://tv.twwhwn.cn:4022/udp/239.45.3.236:5140
-东方影视,http://tv.twwhwn.cn:4022/udp/239.45.3.237:5140 
-五星体育,http://tv.twwhwn.cn:4022/udp/239.45.3.210:5140
-上视外语,http://tv.twwhwn.cn:4022/udp/239.45.1.127:5140
-都市剧场,http://tv.twwhwn.cn:4022/udp/239.45.3.136:5140 
-上海教育,http://tv.twwhwn.cn:4022/udp/239.45.3.122:5140
-东方财经,http://tv.twwhwn.cn:4022/udp/239.45.1.119:5140
-第一财经,http://tv.twwhwn.cn:4022/udp/239.45.3.211:5140
-
-新闻综合,http://222.71.11.180:4022/udp/239.45.3.209:5140
-东方卫视,http://222.71.11.180:4022/udp/239.45.3.146:5140
-上海都市,http://222.71.11.180:4022/udp/239.45.3.236:5140
-纪实人文,http://222.71.11.180:4022/udp/239.45.3.212:5140
-东方影视,http://222.71.11.180:4022/udp/239.45.3.237:5140
-第一财经,http://222.71.11.180:4022/udp/239.45.3.211:5140
-五星体育,http://222.71.11.180:4022/udp/239.45.3.210:5140
-哈哈炫动,http://222.71.11.180:4022/udp/239.45.1.55:5140
-上视外语,http://222.71.11.180:4022/udp/239.45.1.127:5140
-都市剧场,http://222.71.11.180:4022/udp/239.45.3.136:5140
-欢笑剧场,http://222.71.11.180:4022/udp/239.45.3.196:5140
-欢笑剧场,http://222.71.11.180:4022/udp/239.45.1.4:5140
-纪实人文,http://222.71.11.180:4022/udp/239.45.3.135:5140 
-
-新闻综合,http://222.70.172.214:4022/udp/239.45.3.209:5140
-新闻综合,http://222.70.172.214:4022/udp/239.45.3.209:5140
-东方卫视,http://222.70.172.214:4022/udp/239.45.3.146:5140
-东方卫视,http://222.70.172.214:4022/udp/239.45.3.242:5140
-东方影视,http://222.70.172.214:4022/udp/239.45.3.237:5140
-东方影视,http://222.70.172.214:4022/udp/239.45.3.245:5140
-上海都市,http://222.70.172.214:4022/udp/239.45.3.236:5140
-上海都市,http://222.70.172.214:4022/udp/239.45.3.243:5140
-五星体育,http://222.70.172.214:4022/udp/239.45.3.210:5140
-五星体育,http://222.70.172.214:4022/udp/239.45.3.112:5140
-纪实人文,http://222.70.172.214:4022/udp/239.45.3.212:5140
-纪实人文,http://222.70.172.214:4022/udp/239.45.3.247:5140
-第一财经,http://222.70.172.214:4022/udp/239.45.3.211:5140
-第一财经,http://222.70.172.214:4022/udp/239.45.3.111:5140
-东方财经,http://222.70.172.214:4022/udp/239.45.0.17:5140
-生活时尚,http://222.70.172.214:4022/udp/239.45.3.132:5140
-上海教育,http://222.70.172.214:4022/udp/239.45.0.13:5140
-上海ICS,http://222.70.172.214:4022/udp/239.45.1.127:5140
-上海ICS,http://222.70.172.214:4022/udp/239.45.3.249:5140
-都市剧场,http://222.70.172.214:4022/udp/239.45.3.136:5140
-欢笑剧场,http://222.70.172.214:4022/udp/239.45.1.4:5140
-欢笑剧场,http://222.70.172.214:4022/udp/239.45.3.196:5140
-浦东电视,http://222.70.172.214:4022/udp/239.45.3.248:5140
-嘉定电视,http://222.70.172.214:4022/udp/239.45.3.185:5140
-崇明电视,http://222.70.172.214:4022/udp/239.45.1.54:5140
-乐游,http://222.70.172.214:4022/udp/239.45.3.135:5140
-哈哈炫动,http://222.70.172.214:4022/udp/239.45.1.55:5140
-哈哈炫动,http://222.70.172.214:4022/udp/239.45.3.24:5140
-哈哈炫动,http://222.70.172.214:4022/udp/239.45.3.187:5140
-动漫秀场,http://222.70.172.214:4022/udp/239.45.3.134:5140
-法治天地,http://222.70.172.214:4022/udp/239.45.1.46:5140
-法治天地,http://222.70.172.214:4022/udp/239.45.1.192:5140
-法治天地,http://222.70.172.214:4022/udp/239.45.3.60:5140
-七彩戏剧,http://222.70.172.214:4022/udp/239.45.0.16:5140
-金色学堂,http://222.70.172.214:4022/udp/239.45.1.118:5140
-金色学堂,http://222.70.172.214:4022/udp/239.45.3.51:5140
-
-五星体育「组播」,http://116.233.217.253:10000/udp/239.45.3.210:5140
-五星体育「组播」,http://58.37.189.47:8088/udp/239.45.3.210:5140
-五星体育「组播」,http://101.224.201.56:4022/udp/239.45.3.210:5140
+新闻综合,http://8.210.140.75:68/api/channel/y3fcx/shanghaixwzh.m3u8
+都市剧场,http://8.210.140.75:68/api/channel/y3fcx/shds.m3u8
+东方影视,http://8.210.140.75:68/api/channel/y3fcx/vw3kq5.m3u8
+五星体育,http://8.210.140.75:68/api/channel/y3fcx/wuxingtiyu.m3u8
+东方财经,http://8.210.140.75:68/api/channel/y3fcx/dongfangcaijing.m3u8
+第一财经,http://8.210.140.75:68/api/channel/y3fcx/diyicj.m3u8
+法治天地,http://8.210.140.75:68/api/channel/y3fcx/fazhitiandi.m3u8
+上海ICS,http://8.210.140.75:68/api/channel/y3fcx/shics.m3u8
+上海纪实,http://8.210.140.75:68/api/channel/y3fcx/jsrw.m3u8
+七彩戏剧,http://8.210.140.75:68/api/channel/y3fcx/qcxj.m3u8
+东方影视,http://8.210.140.75:68/api/channel/y3fcx/shdfys.m3u8
+「电信1」新闻综合,http://58.41.30.154:8001/udp/239.45.3.209:5140
+「电信1」上海都市,http://58.41.30.154:8001/udp/239.45.3.236:5140
+「电信1」东方影视,http://58.41.30.154:8001/udp/239.45.3.237:5140
+「电信1」五星体育,http://58.41.30.154:8001/udp/239.45.3.210:5140
+「电信1」上视外语,http://58.41.30.154:8001/udp/239.45.1.127:5140
+「电信1」都市剧场,http://58.41.30.154:8001/udp/239.45.3.136:5140
+「电信1」上海教育,http://58.41.30.154:8001/udp/239.45.3.122:5140
+「电信1」东方财经,http://58.41.30.154:8001/udp/239.45.1.119:5140
+「电信1」第一财经,http://58.41.30.154:8001/udp/239.45.3.211:5140
+「电信2」新闻综合,http://180.171.56.24:10000/udp/239.45.3.209:5140
+「电信2」东方卫视,http://180.171.56.24:10000/udp/239.45.3.146:5140
+「电信2」都市频道,http://180.171.56.24:10000/udp/239.45.3.236:5140
+「电信2」纪实人文,http://180.171.56.24:10000/udp/239.45.3.212:5140
+「电信2」第一财经,http://180.171.56.24:10000/udp/239.45.3.211:5140
+「电信2」五星体育,http://180.171.56.24:10000/udp/239.45.3.210:5140
+「电信2」哈哈炫动,http://180.171.56.24:10000/udp/239.45.1.55:5140
+「电信2」上视外语,http://180.171.56.24:10000/udp/239.45.1.127:5140
+「电信2」都市剧场,http://180.171.56.24:10000/udp/239.45.3.136:5140
+「电信2」东方影视,http://180.171.56.24:10000/udp/239.45.3.237:5140
+「电信2」欢笑剧场,http://180.171.56.24:10000/udp/239.45.3.196:5140
+「电信2」欢笑剧场,http://180.171.56.24:10000/udp/239.45.1.4:5140
+五星体育「组播」,http://101.83.40.71:4022/udp/239.45.3.210:5140
+五星体育「组播」,http://180.158.197.149:4022/udp/239.45.3.210:5140
+五星体育「组播」,http://218.80.111.172:8880/udp/239.45.3.210:5140
 五星体育「组播」,http://211.136.186.202:8001/udp/239.45.3.210:5140
-五星体育「组播」,http://61.173.46.180:8222/udp/239.45.3.210:5140
-五星体育「组播」,http://116.232.116.101:8888/udp/239.45.3.210:5140
+五星体育「组播」,http://58.41.30.66:18888/udp/239.45.3.210:5140
+五星体育「组播」,http://180.158.164.127:8888/udp/239.45.3.210:5140
 五星体育「组播」,http://www.17888.fun:10000/udp/239.45.3.210:5140
 五星体育,http://210.22.75.86:9901/tsfile/live/1010_1.m3u8
-五星体育「IPV6」,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IAS,httpSessionId=OTT19019320240419154124000281&yang-1989
-五星体育「IPV6」,http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IAS,httpSessionId=OTT19594820240419041339000523
+五星体育「IPV6」,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IAS
+五星体育「IPV6」,http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IAS
 五星体育「IPV6」,http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8? IAS
 
-🦄广东频道,#genre#
-珠江频道,http://8.210.140.75:68/api/channel/y3fcx/zhujiangws1.m3u8
-大湾区卫视,http://8.210.140.75:68/api/channel/y3fcx/dwq2.m3u8
-广东体育,http://8.210.140.75:68/api/channel/y3fcx/gdty1.m3u8
-广东经济,http://8.210.140.75:68/api/channel/y3fcx/jjjt.m3u8
-广东影视,http://8.210.140.75:68/api/channel/y3fcx/zLk044.m3u8
-广东民生,http://8.210.140.75:68/api/channel/y3fcx/G4y183.m3u8
-广东少儿,http://8.210.140.75:68/api/channel/y3fcx/82102k.m3u8
-广州新闻,http://8.210.140.75:68/api/channel/y3fcx/k8o2l7.m3u8
-广州影视,http://8.210.140.75:68/api/channel/y3fcx/29O01L.m3u8
-广州法治,http://8.210.140.75:68/api/channel/y3fcx/h29P0y.m3u8
-广州综合,http://8.210.140.75:68/api/channel/y3fcx/O5R110.m3u8
-广州南国都市,http://8.210.140.75:68/api/channel/y3fcx/hVI2c5.m3u8
 
+🦄广东频道,#genre#
+
+珠江频道 ,http://8.210.140.75:68/api/channel/y3fcx/zhujiangws1.m3u8
+大湾区卫视 ,http://8.210.140.75:68/api/channel/y3fcx/dwq2.m3u8
+广东体育 ,http://8.210.140.75:68/api/channel/y3fcx/gdty1.m3u8
+广东经济 ,http://8.210.140.75:68/api/channel/y3fcx/jjjt.m3u8
+广东影视 ,http://8.210.140.75:68/api/channel/y3fcx/zLk044.m3u8
+广东民生,http://8.210.140.75:68/api/channel/y3fcx/G4y183.m3u8
+广东少儿 ,http://8.210.140.75:68/api/channel/y3fcx/82102k.m3u8
+广州新闻 ,http://8.210.140.75:68/api/channel/y3fcx/k8o2l7.m3u8
+广州影视 ,http://8.210.140.75:68/api/channel/y3fcx/29O01L.m3u8
+广州法治 ,http://8.210.140.75:68/api/channel/y3fcx/h29P0y.m3u8
+广州综合 ,http://8.210.140.75:68/api/channel/y3fcx/O5R110.m3u8
+广州南国都市 ,http://8.210.140.75:68/api/channel/y3fcx/hVI2c5.m3u8
 广州综合,https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/df.php?id=zhonghe&token=97e87ad51e378c60f5b6fad4443d5ce7fda52abf4c24dd77a0dfd9ee963a4dd3
 广州新闻,https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/df.php?id=xinwen&token=97e87ad51e378c60f5b6fad4443d5ce7fda52abf4c24dd77a0dfd9ee963a4dd3
 广州法制,https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/df.php?id=fazhi&token=97e87ad51e378c60f5b6fad4443d5ce7fda52abf4c24dd77a0dfd9ee963a4dd3
@@ -6284,7 +6288,6 @@ BRTV冬奥纪实,http://114.254.90.19:2222/rtp/239.3.1.121:8000
 广东珠江,https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/df.php?id=gdzj&token=97e87ad51e378c60f5b6fad4443d5ce7fda52abf4c24dd77a0dfd9ee963a4dd3
 广东珠江,https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/df.php?id=gdzjv6&token=97e87ad51e378c60f5b6fad4443d5ce7fda52abf4c24dd77a0dfd9ee963a4dd3
 大湾区卫视,https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/df.php?id=nfws&token=97e87ad51e378c60f5b6fad4443d5ce7fda52abf4c24dd77a0dfd9ee963a4dd3
-
 「电信」广东体育,http://ddns.cyruslee.top:8888/udp/239.77.0.112:5146
 「电信」广东体育,http://ddns.cyruslee.top:8888/udp/239.77.0.168:5146
 「电信」汕头综合,http://ddns.cyruslee.top:8888/udp/239.77.1.130:5146
@@ -6308,7 +6311,6 @@ BRTV冬奥纪实,http://114.254.90.19:2222/rtp/239.3.1.121:8000
 「电信」广州影视,http://ddns.cyruslee.top:8888/udp/239.253.43.73:5146
 「电信」广州法治,http://ddns.cyruslee.top:8888/udp/239.253.43.74:5146
 「电信」广州竞赛,http://ddns.cyruslee.top:8888/udp/239.253.43.75:5146
-
 「移动1」汕头综合HD,http://120.234.49.38:7000/udp/239.21.0.101:3744
 「移动1」汕头生活HD,http://120.234.49.38:7000/udp/239.21.0.102:3748
 「移动1」汕头体育HD,http://120.234.49.38:7000/udp/239.21.0.103:3752
@@ -6328,7 +6330,6 @@ BRTV冬奥纪实,http://114.254.90.19:2222/rtp/239.3.1.121:8000
 「移动1」广东体育HD,http://120.234.49.38:7000/udp/239.20.0.103:2004
 「移动1」南国都市-4K,http://120.234.49.38:7000/udp/239.21.0.132:3872
 「移动1」广东综艺-4K1,http://120.234.49.38:7000/udp/239.20.0.59:3164
-
 「移动2」大湾区卫视HD,http://203.88.42.189:55555/udp/239.11.0.78:1025
 「移动2」广东科教FHD,http://203.88.42.189:55555/udp/239.10.0.46:1025
 「移动2」广东科教HD,http://203.88.42.189:55555/udp/239.10.0.112:1025
@@ -6375,7 +6376,6 @@ BRTV冬奥纪实,http://114.254.90.19:2222/rtp/239.3.1.121:8000
 「电信3」湖南娱乐,http://www.yao87.com:4022/udp/239.76.253.105:9000
 「电信3」湖南电影,http://www.yao87.com:4022/udp/239.76.253.106:9000
 「电信3」湖南电视剧,http://www.yao87.com:4022/udp/239.76.253.108:9000
-
 湖南经视,https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/hnmg.php?id=hnjs&token=a2f138b40a133684caa8f2de620239906315a68106c49065cd3b62a9c1297977
 湖南都市,https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/hnmg.php?id=hnds&token=a2f138b40a133684caa8f2de620239906315a68106c49065cd3b62a9c1297977
 湖南爱晚,https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/hnmg.php?id=hngg&token=a2f138b40a133684caa8f2de620239906315a68106c49065cd3b62a9c1297977
@@ -6391,7 +6391,6 @@ BRTV冬奥纪实,http://114.254.90.19:2222/rtp/239.3.1.121:8000
 长沙新闻,https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/hnmg.php?id=csxw&token=a2f138b40a133684caa8f2de620239906315a68106c49065cd3b62a9c1297977
 长沙政法,https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/hnmg.php?id=cszf&token=a2f138b40a133684caa8f2de620239906315a68106c49065cd3b62a9c1297977
 长沙女性,https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/hnmg.php?id=csnx&token=a2f138b40a133684caa8f2de620239906315a68106c49065cd3b62a9c1297977
-
 湖南经视高清,http://wuyuanlongguo186.asuscomm.com:20000/stream/channelid/1940162638?profile=pass
 湖南经视高清,http://wuyuanlongguo186.asuscomm.com:20000/stream/channelid/1041771917?profile=pass
 湖南都市高清,http://wuyuanlongguo186.asuscomm.com:20000/stream/channelid/952256007?profile=pass
@@ -6416,7 +6415,6 @@ BRTV冬奥纪实,http://114.254.90.19:2222/rtp/239.3.1.121:8000
 芒果热播高清,http://wuyuanlongguo186.asuscomm.com:20000/stream/channelid/409646541?profile=pass
 芒果热播高清,http://wuyuanlongguo186.asuscomm.com:20000/stream/channelid/947345778?profile=pass
 快乐垂钓高清,http://wuyuanlongguo186.asuscomm.com:20000/stream/channelid/1752792505?profile=pass
-
 湖南卫视,https://epg.pw/stream/fa1b3bb4fc54d2dbfaac1190fc6535d9902ce54b749c945cbe8aa021ecea9bc1.m3u8
 湖南经视,https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/mgtv/main/m3u8/hn01.m3u8
 湖南都市,https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/mgtv/main/m3u8/hn02.m3u8
@@ -6442,7 +6440,6 @@ BRTV冬奥纪实,http://114.254.90.19:2222/rtp/239.3.1.121:8000
 浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-
 南宁新闻综合,http://hls.nntv.cn/nnlive/XWZH_24.m3u8
 南宁都市生活,https://hls.nntv.cn/nnlive/WLSH_24.m3u8
 南宁影视娱乐,https://hls.nntv.cn/nnlive/YSYL_24.m3u8
@@ -6460,7 +6457,6 @@ BRTV冬奥纪实,http://114.254.90.19:2222/rtp/239.3.1.121:8000
 都安综合,https://lives.myun.tv:443/live/09em42ol.m3u8
 东兰综合,https://rtmp.gdlive.gdmain.com:443/live/09aony85.m3u8
 罗城综合,http://www.3jlc.cn:80/lctvlive/lcm.m3u8
-
 黑龙江卫视,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 文体频道,https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
 影视频道,https://idclive.hljtv.com:4430/live/hljys_hd.m3u8
@@ -6468,7 +6464,6 @@ BRTV冬奥纪实,http://114.254.90.19:2222/rtp/239.3.1.121:8000
 都市频道,https://idclive.hljtv.com:4430/live/dushi_hd.m3u8
 农业科教,https://idclive.hljtv.com:4430/live/hljgg_hd.m3u8
 少儿频道,https://idclive.hljtv.com:4430/live/hljse_hd.m3u8
-
 辽宁都市,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000610
 辽宁北方,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000071
 辽宁生活,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000073
@@ -6488,7 +6483,6 @@ BRTV冬奥纪实,http://114.254.90.19:2222/rtp/239.3.1.121:8000
 盘锦新闻综合,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000283
 铁岭新闻综合,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000281
 朝阳新闻综合,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000282
-
 内蒙新闻,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
 内蒙经济,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800
 内蒙少儿,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
@@ -6496,11 +6490,9 @@ BRTV冬奥纪实,http://114.254.90.19:2222/rtp/239.3.1.121:8000
 内蒙农牧,https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f17746112ad1b7&txTime=771E8800
 蒙语卫视,https://livestream-bt.nmtv.cn/nmtv/2315general.m3u8?txSecret=e2b255285dd119a92c8aa5cdf00f8b84&txTime=771EF880
 蒙语文化,https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
-
 天津卫视,http://111.160.17.2:59901/tsfile/live/1004_1.m3u8
 天津影视,http://111.160.17.2:59901/tsfile/live/1006_1.m3u8
 天津体育,http://111.160.17.2:59901/tsfile/live/0141_1.m3u8
-
 河北经济,http://live.hyxrmt.com:85/live/xwpd.m3u8
 石家庄新闻,http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8
 石家庄娱乐,http://pluslive1.sjzntv.cn/yule/playlist.m3u8
@@ -6514,18 +6506,41 @@ BRTV冬奥纪实,http://114.254.90.19:2222/rtp/239.3.1.121:8000
 保定生活,http://jwcdnqx.hebyun.com.cn/live/bddst/1500k/tzwj_video.m3u8
 承德公共生活,https://jwliveqxzb.hebyun.com.cn/cdsggshtv/cdsggshtv.m3u8
 承德新闻综合,https://jwliveqxzb.hebyun.com.cn/cdsxwzhtv/cdsxwzhtv.m3u8
-
-山东教育,http://39.77.3.5:8989/udp/239.253.254.59:8000
-山东农科,http://39.77.3.5:8989/udp/239.253.254.24:8000
-山东齐鲁,http://39.77.3.5:8989/udp/239.253.254.114:8000
-山东少儿,http://39.77.3.5:8989/udp/239.253.254.25:8000
-山东生活,http://39.77.3.5:8989/udp/239.253.254.151:8000
-山东体育,http://39.77.3.5:8989/udp/239.253.254.22:8000
-山东卫视,http://39.77.3.5:8989/udp/239.253.254.78:8000
-山东文旅,http://39.77.3.5:8989/udp/239.253.254.160:8000
-山东新闻,http://39.77.3.5:8989/udp/239.253.254.23:8000
-山东综艺,http://39.77.3.5:8989/udp/239.253.254.159:8000
-
+山东齐鲁,http://8.210.140.75:68/api/channel/y3fcx/sdql.m3u8
+山东新闻,http://8.210.140.75:68/api/channel/y3fcx/sdxw.m3u8
+山东体育,http://8.210.140.75:68/api/channel/y3fcx/sdty.m3u8
+山东综艺,http://8.210.140.75:68/api/channel/y3fcx/sdzy.m3u8
+山东少儿,http://8.210.140.75:68/api/channel/y3fcx/sdse.m3u8
+山东文旅,http://8.210.140.75:68/api/channel/y3fcx/sdwl.m3u8
+山东生活,http://8.210.140.75:68/api/channel/y3fcx/sdsh.m3u8
+青岛城阳,http://8.210.140.75:68/api/channel/y3fcx/qdcy.m3u8
+烟台新闻综合,http://8.210.140.75:68/api/channel/y3fcx/ytxw.m3u8
+烟台公共,http://8.210.140.75:68/api/channel/y3fcx/ytgg.m3u8
+烟台经济科技,http://8.210.140.75:68/api/channel/y3fcx/ytjj.m3u8
+烟台影视,http://8.210.140.75:68/api/channel/y3fcx/ytys.m3u8
+菏泽新闻综合,http://8.210.140.75:68/api/channel/y3fcx/hzxwzh.m3u8
+菏泽经济生活,http://8.210.140.75:68/api/channel/y3fcx/hzjjsh.m3u8
+枣庄新闻综合,http://8.210.140.75:68/api/channel/y3fcx/zzxwzh.m3u8
+枣庄教育,http://8.210.140.75:68/api/channel/y3fcx/zzjy.m3u8
+枣庄公共,http://8.210.140.75:68/api/channel/y3fcx/zzgg.m3u8
+东营综合,http://8.210.140.75:68/api/channel/y3fcx/dyzh.m3u8
+东营科教,http://8.210.140.75:68/api/channel/y3fcx/dykj.m3u8
+苏州新闻综合,http://8.210.140.75:68/api/channel/y3fcx/5p2X47.m3u8
+苏州社会经济,http://8.210.140.75:68/api/channel/y3fcx/6qs008.m3u8
+苏州4k,http://8.210.140.75:68/api/channel/y3fcx/sz4k.m3u8
+无锡新闻综合,http://8.210.140.75:68/api/channel/y3fcx/wxxwzh.m3u8
+无锡娱乐,http://8.210.140.75:68/api/channel/y3fcx/wxyl.m3u8
+无锡都市资讯,http://8.210.140.75:68/api/channel/y3fcx/wxds.m3u8
+无锡生活,http://8.210.140.75:68/api/channel/y3fcx/wxsh.m3u8
+无锡经济,http://8.210.140.75:68/api/channel/y3fcx/wxjj.m3u8
+张家港新闻综合,http://8.210.140.75:68/api/channel/y3fcx/zjgxw.m3u8
+大丰公共频道,http://8.210.140.75:68/api/channel/y3fcx/dfgg.m3u8
+东台综合频道,http://8.210.140.75:68/api/channel/y3fcx/dtzh.m3u8
+盐都综合频道,http://8.210.140.75:68/api/channel/y3fcx/ydzh.m3u8
+溧水新闻综合,http://8.210.140.75:68/api/channel/y3fcx/wsxw.m3u8
+金湖新闻综合,http://8.210.140.75:68/api/channel/y3fcx/jhxw.m3u8
+金坛新闻频道,http://8.210.140.75:68/api/channel/y3fcx/jwxw1.m3u8
+海安新闻综合,http://8.210.140.75:68/api/channel/y3fcx/haxw.m3u8
 
 🦄HBO&iHOT频道,#genre#
 iHOT爱悬疑,http://tvbox6.com/tv/dl/dl668/migu.php?3650
