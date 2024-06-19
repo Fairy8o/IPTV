@@ -34,6 +34,7 @@
 咪咕 4K 欧洲杯 3,http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive03
 
 CCTV5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=93742ae45d857eb76d5fde4280c09546
+NOW体育618,https://histar.zapi.us.kg/?id=now-sports-618
 NOW体育618,http://111.160.76.101:80/香蕉哥/now体育3.live.ts
 Now Sports 3,http://histar.zapi.us.kg/?id=now-sports-3
 Now Sports 3,http://cdn.1678520.xyz/xsj.php?id=now-sports-3
