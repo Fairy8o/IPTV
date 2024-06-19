@@ -44,6 +44,10 @@ ViuTV,http://m.glx008.com:8000/bysid/99.m3u8
 ViuTV,http://zsntlqj.xicp.net:8895/bysid/99.m3u8
 ViuTV,http://histar.zapi.us.kg/?id=viutv
 EURO FUSSBALL.TV1 4K「需魔法」,http://live.9528.eu.org/live.dmtn.com:8080/live/592881.m3u8?token=ed2ca82bc3bbcf7807c2cd42eb5c522c
+德国欧洲杯原声: FUSSBALL TV 1 FHD,http://extraott.com/7921751389/6097373662/26463
+德国欧洲杯原声: Fussball.TV 1 HD,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/344904
+德国欧洲杯原声: Fussball.TV 2 HD,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/344903
+德国欧洲杯原声: Fussball.TV 3 HD,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/344902
 
 
 🦄央视频道🐉,#genre#
