@@ -5442,17 +5442,6 @@ BTV科教,https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e4
 生活时尚,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000006/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000006&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 都市剧场,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000015/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000015&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 金色学堂,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000061/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000061&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-新闻综合,http://8.210.140.75:68/api/channel/y3fcx/shanghaixwzh.m3u8
-都市剧场,http://8.210.140.75:68/api/channel/y3fcx/shds.m3u8
-东方影视,http://8.210.140.75:68/api/channel/y3fcx/vw3kq5.m3u8
-五星体育,http://8.210.140.75:68/api/channel/y3fcx/wuxingtiyu.m3u8
-东方财经,http://8.210.140.75:68/api/channel/y3fcx/dongfangcaijing.m3u8
-第一财经,http://8.210.140.75:68/api/channel/y3fcx/diyicj.m3u8
-法治天地,http://8.210.140.75:68/api/channel/y3fcx/fazhitiandi.m3u8
-上海ICS,http://8.210.140.75:68/api/channel/y3fcx/shics.m3u8
-上海纪实,http://8.210.140.75:68/api/channel/y3fcx/jsrw.m3u8
-七彩戏剧,http://8.210.140.75:68/api/channel/y3fcx/qcxj.m3u8
-东方影视,http://8.210.140.75:68/api/channel/y3fcx/shdfys.m3u8
 「电信1」新闻综合,http://58.41.30.154:8001/udp/239.45.3.209:5140
 「电信1」上海都市,http://58.41.30.154:8001/udp/239.45.3.236:5140
 「电信1」东方影视,http://58.41.30.154:8001/udp/239.45.3.237:5140
@@ -5488,18 +5477,6 @@ BTV科教,https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e4
 
 
 🦄广东频道,#genre#
-珠江频道 ,http://8.210.140.75:68/api/channel/y3fcx/zhujiangws1.m3u8
-大湾区卫视 ,http://8.210.140.75:68/api/channel/y3fcx/dwq2.m3u8
-广东体育 ,http://8.210.140.75:68/api/channel/y3fcx/gdty1.m3u8
-广东经济 ,http://8.210.140.75:68/api/channel/y3fcx/jjjt.m3u8
-广东影视 ,http://8.210.140.75:68/api/channel/y3fcx/zLk044.m3u8
-广东民生,http://8.210.140.75:68/api/channel/y3fcx/G4y183.m3u8
-广东少儿 ,http://8.210.140.75:68/api/channel/y3fcx/82102k.m3u8
-广州新闻 ,http://8.210.140.75:68/api/channel/y3fcx/k8o2l7.m3u8
-广州影视 ,http://8.210.140.75:68/api/channel/y3fcx/29O01L.m3u8
-广州法治 ,http://8.210.140.75:68/api/channel/y3fcx/h29P0y.m3u8
-广州综合 ,http://8.210.140.75:68/api/channel/y3fcx/O5R110.m3u8
-广州南国都市 ,http://8.210.140.75:68/api/channel/y3fcx/hVI2c5.m3u8
 广州综合,https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/df.php?id=zhonghe&token=97e87ad51e378c60f5b6fad4443d5ce7fda52abf4c24dd77a0dfd9ee963a4dd3
 广州新闻,https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/df.php?id=xinwen&token=97e87ad51e378c60f5b6fad4443d5ce7fda52abf4c24dd77a0dfd9ee963a4dd3
 广州法制,https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e479faa57cd84db508ae6193688f567b6607f10da3f098d8e8b1d596330ef66b/df.php?id=fazhi&token=97e87ad51e378c60f5b6fad4443d5ce7fda52abf4c24dd77a0dfd9ee963a4dd3
@@ -5808,41 +5785,6 @@ BTV科教,https://www.tfiplaytv.vip:3344/PLTV/d576c9ff9034305c70e14eaa7df61759e4
 保定生活,http://jwcdnqx.hebyun.com.cn/live/bddst/1500k/tzwj_video.m3u8
 承德公共生活,https://jwliveqxzb.hebyun.com.cn/cdsggshtv/cdsggshtv.m3u8
 承德新闻综合,https://jwliveqxzb.hebyun.com.cn/cdsxwzhtv/cdsxwzhtv.m3u8
-山东齐鲁,http://8.210.140.75:68/api/channel/y3fcx/sdql.m3u8
-山东新闻,http://8.210.140.75:68/api/channel/y3fcx/sdxw.m3u8
-山东体育,http://8.210.140.75:68/api/channel/y3fcx/sdty.m3u8
-山东综艺,http://8.210.140.75:68/api/channel/y3fcx/sdzy.m3u8
-山东少儿,http://8.210.140.75:68/api/channel/y3fcx/sdse.m3u8
-山东文旅,http://8.210.140.75:68/api/channel/y3fcx/sdwl.m3u8
-山东生活,http://8.210.140.75:68/api/channel/y3fcx/sdsh.m3u8
-青岛城阳,http://8.210.140.75:68/api/channel/y3fcx/qdcy.m3u8
-烟台新闻综合,http://8.210.140.75:68/api/channel/y3fcx/ytxw.m3u8
-烟台公共,http://8.210.140.75:68/api/channel/y3fcx/ytgg.m3u8
-烟台经济科技,http://8.210.140.75:68/api/channel/y3fcx/ytjj.m3u8
-烟台影视,http://8.210.140.75:68/api/channel/y3fcx/ytys.m3u8
-菏泽新闻综合,http://8.210.140.75:68/api/channel/y3fcx/hzxwzh.m3u8
-菏泽经济生活,http://8.210.140.75:68/api/channel/y3fcx/hzjjsh.m3u8
-枣庄新闻综合,http://8.210.140.75:68/api/channel/y3fcx/zzxwzh.m3u8
-枣庄教育,http://8.210.140.75:68/api/channel/y3fcx/zzjy.m3u8
-枣庄公共,http://8.210.140.75:68/api/channel/y3fcx/zzgg.m3u8
-东营综合,http://8.210.140.75:68/api/channel/y3fcx/dyzh.m3u8
-东营科教,http://8.210.140.75:68/api/channel/y3fcx/dykj.m3u8
-苏州新闻综合,http://8.210.140.75:68/api/channel/y3fcx/5p2X47.m3u8
-苏州社会经济,http://8.210.140.75:68/api/channel/y3fcx/6qs008.m3u8
-苏州4k,http://8.210.140.75:68/api/channel/y3fcx/sz4k.m3u8
-无锡新闻综合,http://8.210.140.75:68/api/channel/y3fcx/wxxwzh.m3u8
-无锡娱乐,http://8.210.140.75:68/api/channel/y3fcx/wxyl.m3u8
-无锡都市资讯,http://8.210.140.75:68/api/channel/y3fcx/wxds.m3u8
-无锡生活,http://8.210.140.75:68/api/channel/y3fcx/wxsh.m3u8
-无锡经济,http://8.210.140.75:68/api/channel/y3fcx/wxjj.m3u8
-张家港新闻综合,http://8.210.140.75:68/api/channel/y3fcx/zjgxw.m3u8
-大丰公共频道,http://8.210.140.75:68/api/channel/y3fcx/dfgg.m3u8
-东台综合频道,http://8.210.140.75:68/api/channel/y3fcx/dtzh.m3u8
-盐都综合频道,http://8.210.140.75:68/api/channel/y3fcx/ydzh.m3u8
-溧水新闻综合,http://8.210.140.75:68/api/channel/y3fcx/wsxw.m3u8
-金湖新闻综合,http://8.210.140.75:68/api/channel/y3fcx/jhxw.m3u8
-金坛新闻频道,http://8.210.140.75:68/api/channel/y3fcx/jwxw1.m3u8
-海安新闻综合,http://8.210.140.75:68/api/channel/y3fcx/haxw.m3u8
 
 
 🦄iHOT频道,#genre#
