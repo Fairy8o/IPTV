@@ -29,29 +29,24 @@
 06/26 02:30 欧洲杯小组赛 丹麦vs塞尔维亚 赛场原声,https://livednow.com/migu/918679855?sign=gAAAAABmepgEcJa-xsbcE_K1yYHtJY80PGDHcJ5tsDS5umOR40jLjxE3yHy0lJarBfgA4JX-dWz0Y8pmZz9ZLh0_O5yJ7BA_M_zZB9rGx3W_I2AdNzZKj8_5RsFkwfR0JBXNAgbgLikH9kC6bAbaJ8nGW4ePCp2n48BV-YP7jvw1vXJcl0Nfcsmbf93FCPKj0zombKKUiqy6X-DavlgunavnBCRZKneNQA%3D%3D
 
 
-咪咕 4K 欧洲杯 1,http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive01
-咪咕 4K 欧洲杯 2,http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive02
-咪咕 4K 欧洲杯 3,http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive03
-咪咕 HD 欧洲杯 1,http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
-咪咕 HD 欧洲杯 2,http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
-咪咕 HD 欧洲杯 3,http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
-CCTV5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=93742ae45d857eb76d5fde4280c09546
-NOW体育618,https://histar.zapi.us.kg/?id=now-sports-618
-NOW体育618,http://111.160.76.101:80/香蕉哥/now体育3.live.ts
-Now Sports 618 欧洲杯,http://php.jdshipin.com:8880/xsj.php?id=now-sports-618
-Now Sports 619 欧洲杯,http://php.jdshipin.com:8880/xsj.php?id=now-sports-619
-Now Lucky 688 欧洲杯,http://php.jdshipin.com:8880/xsj.php?id=now-lucky-688
-Now Sports 3,http://histar.zapi.us.kg/?id=now-sports-3
+咪咕 欧洲杯 1,http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive01
+咪咕 欧洲杯 2,http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive02
+咪咕 欧洲杯 3,http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive03
+咪咕 HD 欧洲杯 1(ipv6),http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+咪咕 HD 欧洲杯 2(ipv6),http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+咪咕 HD 欧洲杯 3 (ipv6),http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
+CCTV-5 体育,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=93742ae45d857eb76d5fde4280c09546
+Nowe Sports 618（直连,https://histar.zapi.us.kg/?id=now-sports-618 
 Now Sports 3,http://cdn.1678520.xyz/xsj.php?id=now-sports-3
-ViuTV,http://m.glx008.com:8000/bysid/99.m3u8
 ViuTV,http://zsntlqj.xicp.net:8895/bysid/99.m3u8
-ViuTV,http://histar.zapi.us.kg/?id=viutv
-EURO FUSSBALL.TV1 4K「需魔法」,http://live.9528.eu.org/live.dmtn.com:8080/live/592881.m3u8?token=ed2ca82bc3bbcf7807c2cd42eb5c522c
-德国欧洲杯原声: FUSSBALL TV 1 FHD,http://extraott.com/7921751389/6097373662/26463
-德国欧洲杯原声: Fussball.TV 1 HD,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/344904
-德国欧洲杯原声: Fussball.TV 2 HD,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/344903
-德国欧洲杯原声: Fussball.TV 3 HD,http://clientbox.tv:80/dS9UVq4chH87174/uPuCyuP0Xn/344902
+德国欧洲杯原声: FUSSBALL.TV 1 FHD,http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/639321.m3u8
+德国欧洲杯原声: FUSSBALL.TV 1ᵁᴴᴰ,http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/639320.m3u8
+德国欧洲杯原声: FUSSBALL.TV 2 FHD,http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/639318.m3u8
+德国欧洲杯原声: FUSSBALL.TV 2ᵁᴴᴰ,http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/639317.m3u8
+德国欧洲杯原声: FUSSBALL.TV 3 FHD,http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/639316.m3u8
+德国欧洲杯原声: FUSSBALL.TV 3ᵁᴴᴰ,http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/639314.m3u8
 罗马尼亚 4K,http://doubleclicktv.live/70376812/52663544/325451
+beIN SPORTS 4K,http://doubleclicktv.live/70376812/52663544/327643
 beIN体育 4K,http://doubleclicktv.live/70376812/52663544/325450
 美国VIX+,http://doubleclicktv.live/70376812/52663544/250784
 波兰TVP 1 HD,http://doubleclicktv.live/70376812/52663544/325457
