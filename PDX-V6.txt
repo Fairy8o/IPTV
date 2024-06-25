@@ -36,7 +36,7 @@
 咪咕 HD 欧洲杯 2(ipv6),http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 咪咕 HD 欧洲杯 3 (ipv6),http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 CCTV-5 体育,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8?token=93742ae45d857eb76d5fde4280c09546
-Nowe Sports 618（直连,https://histar.zapi.us.kg/?id=now-sports-618 
+Nowe Sports 618（直连,https://cloud.wujiyan.cc/f/mw2sQ/1.mp4 
 Now Sports 3,http://cdn.1678520.xyz/xsj.php?id=now-sports-3
 ViuTV,http://zsntlqj.xicp.net:8895/bysid/99.m3u8
 德国欧洲杯原声: FUSSBALL.TV 1 FHD,http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/639321.m3u8
