@@ -3382,7 +3382,7 @@ ANTV(5G专线),http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 
 🐉美国频道🦅,#genre#
 👉此处以下频道需要魔法👈,https://7692.kstore.space/4.mp4
-US| ✦ 新闻 ✦,http://doubleclicktv.live:80/70376812/52663544/295937
+新闻频道,http://doubleclicktv.live:80/70376812/52663544/295937
 US| CNN News,http://doubleclicktv.live:80/70376812/52663544/1041
 US| CNBC News,http://doubleclicktv.live:80/70376812/52663544/1043
 US| NBC News NOW,http://doubleclicktv.live:80/70376812/52663544/992
@@ -3473,7 +3473,7 @@ USA Animal Planet UHD,http://doubleclicktv.live:80/70376812/52663544/269009
 USA Animal Planet East,http://doubleclicktv.live:80/70376812/52663544/508
 USA Animal Planet West,http://doubleclicktv.live:80/70376812/52663544/507
 UK: Animal Planet,http://doubleclicktv.live:80/70376812/52663544/277117
-US| ✦ 体育 ✦,http://doubleclicktv.live:80/70376812/52663544/295937
+体育频道,http://doubleclicktv.live:80/70376812/52663544/295937
 US| ESPN 1,http://doubleclicktv.live:80/70376812/52663544/919
 US| ESPN 2,http://doubleclicktv.live:80/70376812/52663544/932
 US| ESPN U,http://doubleclicktv.live:80/70376812/52663544/920
@@ -3618,7 +3618,7 @@ US| Poker Go,http://doubleclicktv.live:80/70376812/52663544/821
 US| YES Network,http://doubleclicktv.live:80/70376812/52663544/827
 US| NFL Red zone,http://doubleclicktv.live:80/70376812/52663544/867
 US| Olympic Channel,http://doubleclicktv.live:80/70376812/52663544/866
-US| ✦ 少儿 ✦,http://doubleclicktv.live:80/70376812/52663544/295937
+少儿频道,http://doubleclicktv.live:80/70376812/52663544/295937
 US| MeTV Toons,http://doubleclicktv.live:80/70376812/52663544/494103
 US| BET West,http://doubleclicktv.live:80/70376812/52663544/1153
 US| BET SOUL,http://doubleclicktv.live:80/70376812/52663544/1154
@@ -3670,7 +3670,7 @@ US| Travel Channel,http://doubleclicktv.live:80/70376812/52663544/363
 US| PBS (KQED) San Francisco,http://doubleclicktv.live:80/70376812/52663544/2228
 US| PBS (KRCB) CA | Rohnert Park,http://doubleclicktv.live:80/70376812/52663544/2227
 US| New York | PBS WNET,http://doubleclicktv.live:80/70376812/52663544/2172
-US| ✦ 娱乐 ✦,http://doubleclicktv.live:80/70376812/52663544/295937
+娱乐频道,http://doubleclicktv.live:80/70376812/52663544/295937
 US| Comedy Central,http://doubleclicktv.live:80/70376812/52663544/295936
 US| OWN West,http://doubleclicktv.live:80/70376812/52663544/295794
 US| Lifetime West,http://doubleclicktv.live:80/70376812/52663544/295793
@@ -3702,7 +3702,7 @@ US| CW,http://doubleclicktv.live:80/70376812/52663544/253199
 
 🐉英国频道🦁,#genre#
 👉此处以下频道需要魔法👈,https://7692.kstore.space/4.mp4
-UK| ✦ 新闻 ✦,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=229422&extension=ts&play_token=4hVhb6szir
+新闻频道,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=229422&extension=ts&play_token=4hVhb6szir
 UK| BBC NEWS HD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=45331&extension=ts&play_token=1RTf1HeX5t
 UK| BBC NEWS HEVC,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=111541&extension=ts&play_token=03nlAumNv7
 UK| BBC WORLD NEWS HD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1468854&extension=ts&play_token=yK6wNiBvFN
@@ -3752,7 +3752,7 @@ USA Animal Planet UHD,http://doubleclicktv.live:80/70376812/52663544/269009
 USA Animal Planet East,http://doubleclicktv.live:80/70376812/52663544/508
 USA Animal Planet West,http://doubleclicktv.live:80/70376812/52663544/507
 UK: Animal Planet,http://doubleclicktv.live:80/70376812/52663544/277117
-UK| ✦ 体育 ✦,,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=230681&extension=ts&play_token=jqyREeFuH6
+体育频道,,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=230681&extension=ts&play_token=jqyREeFuH6
 UK| TNT ULTIMATE 4K,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1379047&extension=ts&play_token=Lb13USFnqS
 UK| TNT BOX OFFICE FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1019933&extension=ts&play_token=O0ukIPHqsA
 UK| TNT SPORTS ESPN FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30564&extension=ts&play_token=AREMCGPY2F
@@ -3784,7 +3784,7 @@ UK| VIAPLAY 1 HEVC FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:B
 UK| VIAPLAY 2 HEVC FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1458645&extension=ts&play_token=5MWjg5O7fX
 UK| LFC HEVC FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1458774&extension=ts&play_token=6FgcftfuRU
 UK| MUTV HEVC FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1458773&extension=ts&play_token=vtEzCceUWB
-UK| ✦ 少儿 ✦,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=230673&extension=ts&play_token=RG5qI8UUwU
+少儿频道,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=230673&extension=ts&play_token=RG5qI8UUwU
 UK| BOOMERANG FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=45295&extension=ts&play_token=fXjA6ctRLx
 UK| CARTOON NETWORK FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30556&extension=ts&play_token=5FDkjqQDKs
 UK| NICKELODEON FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30524&extension=ts&play_token=VJw0YbfZnK
@@ -3805,7 +3805,7 @@ UK| POP MAX,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream
 UK| POP MAX+1,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=114750&extension=ts&play_token=mVaX1bPwZM
 UK| DISNEY CHANNEL FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=396314&extension=ts&play_token=60CzCisZBi
 UK| DAVE & AVA HD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1206422&extension=ts&play_token=21v01WWLRN
-UK| ✦ 娱乐 ✦,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=230675&extension=ts&play_token=19cW4ksAp2
+娱乐频道,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=230675&extension=ts&play_token=19cW4ksAp2
 UK| DAYSTAR HEVC,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=111552&extension=ts&play_token=z7YapwMvcp
 UK| EDEN FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30544&extension=ts&play_token=sLNqrv4Rk5
 UK| GOLD FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30537&extension=ts&play_token=TN5oj6t7FU
@@ -3825,7 +3825,7 @@ UK| STV FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream
 UK| COMEDY CENTRAL FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30552&extension=ts&play_token=JlW5cDeQkI
 UK| COMEDY CENT XTRA+1,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=45285&extension=ts&play_token=UvsgtIgqy1
 UK| YESTERDAY FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1393321&extension=ts&play_token=A7gZJwNAkV
-UK| ✦ 纪录片 ✦,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=230675&extension=ts&play_token=19cW4ksAp2
+纪录片频道,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=230675&extension=ts&play_token=19cW4ksAp2
 UK| SKY NATURE FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=164071&extension=ts&play_token=Tu9JxavvrA
 UK| DISCOVERY +1,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=164044&extension=ts&play_token=Wx548Wrnig
 UK| DISCOVERY FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30549&extension=ts&play_token=pZ1osCOiyZ
