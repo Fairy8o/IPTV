@@ -3612,6 +3612,10 @@ US| YES Network,http://doubleclicktv.live:80/70376812/52663544/827
 US| NFL Red zone,http://doubleclicktv.live:80/70376812/52663544/867
 US| Olympic Channel,http://doubleclicktv.live:80/70376812/52663544/866
 少儿频道,http://doubleclicktv.live:80/70376812/52663544/295937
+US| Star Movies,http://doubleclicktv.live/70376812/52663544/276996
+US| CBN News International,http://doubleclicktv.live/70376812/52663544/1058
+US| CNN INTERNATIONAL,http://doubleclicktv.live/70376812/52663544/1040
+US| Movies,http://doubleclicktv.live/70376812/52663544/291120
 US| MeTV Toons,http://doubleclicktv.live:80/70376812/52663544/494103
 US| BET West,http://doubleclicktv.live:80/70376812/52663544/1153
 US| BET SOUL,http://doubleclicktv.live:80/70376812/52663544/1154
