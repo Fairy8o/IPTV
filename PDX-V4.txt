@@ -3695,157 +3695,213 @@ US| CW,http://doubleclicktv.live:80/70376812/52663544/253199
 
 🐉英国频道🦁,#genre#
 👉此处以下频道需要魔法👈,https://7692.kstore.space/4.mp4
-新闻频道,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=229422&extension=ts&play_token=4hVhb6szir
-UK| BBC NEWS HD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=45331&extension=ts&play_token=1RTf1HeX5t
-UK| BBC NEWS HEVC,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=111541&extension=ts&play_token=03nlAumNv7
-UK| BBC WORLD NEWS HD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1468854&extension=ts&play_token=yK6wNiBvFN
-UK| BBC PARLIAMENT,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=317211&extension=ts&play_token=JfeFH70iCm
-UK| BBC ARABIC,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=459638&extension=ts&play_token=YRoIYQXybz
-UK| CNN FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30553&extension=ts&play_token=kSFiCebHgv
-UK| CNN INTERNATIONAL,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=459632&extension=ts&play_token=Ze3NJjmdyd
-UK| SKY NEWS HD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30504&extension=ts&play_token=SKU5ZzhWV0
-UK| SKY NEWS FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1081655&extension=ts&play_token=i2QKDAHIK1
-UK| BLOOMBERG HD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=49214&extension=ts&play_token=qkevBX3vNS
-UK| BLOOMBERG HEVC,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=111549&extension=ts&play_token=dvrrm01KOS
-UK| FRANCE 24,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=149653&extension=ts&play_token=rijOLCGCKC
-UK| RT AMERICA HD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=149646&extension=ts&play_token=Mbnilr77bX
-UK| RT DOCUMENTRY HD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=149647&extension=ts&play_token=3jnKofO4Q6
-UK| RT NEWS HD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=149648&extension=ts&play_token=6MgTFSIXty
-UK| RT UK HD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=149649&extension=ts&play_token=3MHSGfM1zw
-UK| AL JAZEERA EN HD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=229460&extension=ts&play_token=DZhBYTxV0H
-UK| TRT WORLD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=111539&extension=ts&play_token=icSUPa94RX
-UK| NBC NEWS NOW FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=875304&extension=ts&play_token=kSyp3O0yQT
-UK| NEW MEDIA FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=875303&extension=ts&play_token=3VBPLVWZs7
-UK| CNBC,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=164037&extension=ts&play_token=47esBJVCih
-UK| I24NEWS EN,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=459634&extension=ts&play_token=T88JaFNIMq
-UK| EURONEWS EN HD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=459631&extension=ts&play_token=0MrElfU186
-UK| GB NEWS FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=622483&extension=ts&play_token=jIYzGjC1Ar
-UK| EURONEWS,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=75866&extension=ts&play_token=nT893cIq9K
-UK| RT FHD RUSSIAN (Temp Off Air),http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1014209&extension=ts&play_token=msQlXa0bZk
-UK| PTV GLOBAL,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1014208&extension=ts&play_token=9LcXipbB9g
-UK| NHK WORLD FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1014207&extension=ts&play_token=k8LIoXDS1L
-UK| RTE NEWS NOW,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1014206&extension=ts&play_token=07PmvFh2g7
-UK| ARISE NEWS,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1014205&extension=ts&play_token=iH4A27f4cf
-UK| GEO NEWS,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1014203&extension=ts&play_token=a3fcPeCAYV
-UK| TVC NEWS,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1014202&extension=ts&play_token=QppLMRxsCF
-UK| BBC ONE NORTHERN IRELAND FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1014201&extension=ts&play_token=DBPpiqtTrZ
-UK| BBC ONE CI,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1014200&extension=ts&play_token=nsPndYtMO2
-UK| WION FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1014198&extension=ts&play_token=lpmgfSa3s5
-UK| DW NEWS,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=992267&extension=ts&play_token=pyrNwnT7mh
-16K | NATIONAL GEOGRAPHICᵁᴴᴰ,http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/323573.m3u8
-8K | NATIONAL GEOGRAPHIC,http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/150542.m3u8
-NL | NATIONAL GEOGRAPHICʳᵉᶜ,http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/18.m3u8
-UK | NATIONAL GEOGRAPHIC,http://mutant.arrox.top:80/live/iPKJmCy0r/krfwNE8z4h/12513.m3u8
-NL| NATIONAL GEOGRAPHIC FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1283043&extension=ts&play_token=4xf2oDtohJ
-NL| NATIONAL GEOGRAPHIC CHANNEL 4K,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1283272&extension=ts&play_token=yXn3RGHq5L
-PL| NATIONAL GEOGRAPHIC FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=880438&extension=ts&play_token=InHRSUchT4
-ARG | NATIONAL GEOGRAPHIC HD,http://doubleclicktv.live:80/70376812/52663544/325178
-|MX| National Geographic,http://doubleclicktv.live:80/70376812/52663544/7753
-USA Animal Planet UHD,http://doubleclicktv.live:80/70376812/52663544/269009
-USA Animal Planet East,http://doubleclicktv.live:80/70376812/52663544/508
-USA Animal Planet West,http://doubleclicktv.live:80/70376812/52663544/507
-UK: Animal Planet,http://doubleclicktv.live:80/70376812/52663544/277117
-体育频道,,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=230681&extension=ts&play_token=jqyREeFuH6
-UK| TNT ULTIMATE 4K,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1379047&extension=ts&play_token=Lb13USFnqS
-UK| TNT BOX OFFICE FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1019933&extension=ts&play_token=O0ukIPHqsA
-UK| TNT SPORTS ESPN FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30564&extension=ts&play_token=AREMCGPY2F
-UK| TNT SPORTS 1 FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30567&extension=ts&play_token=d6BfCT5l6S
-UK| TNT SPORTS 2 FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30566&extension=ts&play_token=t2U5HCRQcZ
-UK| TNT SPORTS 3 FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30565&extension=ts&play_token=B1XFvyAaFB
-UK| TNT SPORTS 4 FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1019935&extension=ts&play_token=85U8VzCJ1K
-UK| TNT SPORTS 5 FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1004548&extension=ts&play_token=m1sjGuuYIP
-UK| SKY SPORTS MAIN EVENT FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30496&extension=ts&play_token=ztk9Ibnfpc
-UK| SKY SPORTS PL FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30493&extension=ts&play_token=WDw1tiWoeC
-UK| SKY SPORTS FOOTBALL FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30498&extension=ts&play_token=ALYgMwaNwQ
-UK| SKY SPORTS ACTION FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30501&extension=ts&play_token=vow1UL9pID
-UK| SKY SPORTS ARENA FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30500&extension=ts&play_token=MbM9t8Au64
-UK| SKY SPORTS CRICKET FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30502&extension=ts&play_token=qlAkNtOzNt
-UK| SKY SPORTS F1 FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30499&extension=ts&play_token=NHZXWOvNlC
-UK| SKY SPORTS GOLF FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30497&extension=ts&play_token=F9VYgxZvYO
-UK| SKY SPORTS MIX FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30495&extension=ts&play_token=eESV3dq4UE
-UK| SKY SPORTS NEWS FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30494&extension=ts&play_token=7UxGO69D60
-UK| SKY SPORTS RACING FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=77373&extension=ts&play_token=4tRCTVaKjA
-UK| SKY SPORTS ACTION FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=929003&extension=ts&play_token=84SM1S9Uz5
-UK| SKY SPOIRTS TENNIS FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1454232&extension=ts&play_token=n5jJEgqSGW
-UK| TNT SPORTS BOX OFFICE HEVC,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1458650&extension=ts&play_token=3ZtrgXEK4y
-UK| EUROSPORTS 1  HEVC FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1458649&extension=ts&play_token=aOMguhMNmh
-UK| EUROSPORTS 2 HEVC FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1458648&extension=ts&play_token=rpJdytZIXp
-UK| PREMIER SPORTS 1 IRELAND HEVC FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1458647&extension=ts&play_token=L7S1Lr2ogQ
-UK| PREMIER SPORTS 2 IRELAND HEVC FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1458812&extension=ts&play_token=Non3xmADue
-UK| DAZN PPV HEVC FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1458638&extension=ts&play_token=i72D0ng96O
-UK| VIAPLAY 1 HEVC FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1458646&extension=ts&play_token=4Vom8WVoDx
-UK| VIAPLAY 2 HEVC FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1458645&extension=ts&play_token=5MWjg5O7fX
-UK| LFC HEVC FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1458774&extension=ts&play_token=6FgcftfuRU
-UK| MUTV HEVC FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1458773&extension=ts&play_token=vtEzCceUWB
-少儿频道,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=230673&extension=ts&play_token=RG5qI8UUwU
-UK| BOOMERANG FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=45295&extension=ts&play_token=fXjA6ctRLx
-UK| CARTOON NETWORK FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30556&extension=ts&play_token=5FDkjqQDKs
-UK| NICKELODEON FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30524&extension=ts&play_token=VJw0YbfZnK
-UK| SKY KIDS HD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=45328&extension=ts&play_token=qv03kAVfDX
-UK| BABY TV,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=45318&extension=ts&play_token=0YN7lYO9AZ
-UK| CARTOONITO,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=164013&extension=ts&play_token=VIKBZgJVA0
-UK| NICKELODEON HD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=228579&extension=ts&play_token=AZnHJ9f0ln
-UK| NICK JR FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1014233&extension=ts&play_token=Kdha05cMKg
-UK| NICK JUNIOR,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=45260&extension=ts&play_token=YpVaeQCf8J
-UK| NICK JUNIOR +1,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=45259&extension=ts&play_token=QMymfNKWrn
-UK| NICK JUNIOR TOO,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=45261&extension=ts&play_token=OkvYu5Wo4j
-UK| NICK TOONS,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=45258&extension=ts&play_token=LVlZMDQjdt
-UK| TINY POP,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=45240&extension=ts&play_token=x1hag4K08D
-UK| TINY POP +1,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=77374&extension=ts&play_token=uAUgKgu4xy
-UK| POP,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=45254&extension=ts&play_token=zkJkpEt88u
-UK| POP +1,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=79705&extension=ts&play_token=J8PffTg9Zr
-UK| POP MAX,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=114749&extension=ts&play_token=4EgVrqjVbx
-UK| POP MAX+1,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=114750&extension=ts&play_token=mVaX1bPwZM
-UK| DISNEY CHANNEL FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=396314&extension=ts&play_token=60CzCisZBi
-UK| DAVE & AVA HD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1206422&extension=ts&play_token=21v01WWLRN
-娱乐频道,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=230675&extension=ts&play_token=19cW4ksAp2
-UK| DAYSTAR HEVC,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=111552&extension=ts&play_token=z7YapwMvcp
-UK| EDEN FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30544&extension=ts&play_token=sLNqrv4Rk5
-UK| GOLD FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30537&extension=ts&play_token=TN5oj6t7FU
-UK| DAVE FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30550&extension=ts&play_token=EEYCbuCfmj
-UK| E! ENTERTAINMENT HD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=45278&extension=ts&play_token=nYrUhjtVZW
-UK| MORE 4 FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30528&extension=ts&play_token=B1KMDownm0
-UK| QUEST FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=45334&extension=ts&play_token=0SdysSPlxQ
-UK| UTV FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=230677&extension=ts&play_token=84MZuyequX
-UK| SYFY FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30492&extension=ts&play_token=aUCWQy8Rcd
-UK| SKY ARTS FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30519&extension=ts&play_token=Jz7hb0r5Wd
-UK| SKY ATLANTIC FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30518&extension=ts&play_token=7v8SEUazCo
-UK| SKY MAX FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=741954&extension=ts&play_token=6Uz6Q2yszy
-UK| SKY SHOWCASE FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=741952&extension=ts&play_token=cPLwkRf7jo
-UK| SKY WITNESS HD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=83704&extension=ts&play_token=0rCLNrZxXZ
-UK| TLC FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30489&extension=ts&play_token=qqCjNtvvDc
-UK| STV FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=45323&extension=ts&play_token=GrKoeY6ZuU
-UK| COMEDY CENTRAL FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30552&extension=ts&play_token=JlW5cDeQkI
-UK| COMEDY CENT XTRA+1,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=45285&extension=ts&play_token=UvsgtIgqy1
-UK| YESTERDAY FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1393321&extension=ts&play_token=A7gZJwNAkV
-纪录片频道,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=230675&extension=ts&play_token=19cW4ksAp2
-UK| SKY NATURE FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=164071&extension=ts&play_token=Tu9JxavvrA
-UK| DISCOVERY +1,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=164044&extension=ts&play_token=Wx548Wrnig
-UK| DISCOVERY FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30549&extension=ts&play_token=pZ1osCOiyZ
-UK| DISCOVERY SCIENCE,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=45281&extension=ts&play_token=LhHgybrwuT
-UK| DISCOVERY TURBO,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=45279&extension=ts&play_token=zmQ4hNWwiK
-UK| EARTHX TV,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1283923&extension=ts&play_token=axIlQVzba7
-UK| CRIME INVESTIGATION FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30551&extension=ts&play_token=qQedvNSGMH
-UK| SKY DOCUMENTARIES FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=164072&extension=ts&play_token=qG5om8VU9l
-UK| NAT GEO WILD FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30525&extension=ts&play_token=Q8R7RRZivK
-UK| NAT GEO FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30526&extension=ts&play_token=05kigXVnd3
-UK| HISTORY FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30534&extension=ts&play_token=dtsdMP4QpW
-UK| HISTORY 2 FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30535&extension=ts&play_token=59L7xt0tGf
-UK| ANIMAL PLANET FHD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=30582&extension=ts&play_token=Bl6JaK5nwi
-UK| ANIMAL PLNT +1,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=164033&extension=ts&play_token=4mzup2FTkr
-UK| INVESTIGATION DISCOVERY,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=45270&extension=ts&play_token=bIHG4FeOYO
-UK| ID +1,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=164051&extension=ts&play_token=NBZKLSuzS0
-UK| 5ACTION HD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=79737&extension=ts&play_token=CQEatHFSJZ
-UK| DMAX,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=164004&extension=ts&play_token=Y9r83r4vze
-UK| DMAX +1,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=164042&extension=ts&play_token=L2EhZYhQDn
-UK| DISCOVERY TURBO +1,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1014338&extension=ts&play_token=m8ZgOvLZBu
-UK| INVESTIGATION DISCOVERY +1,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1014337&extension=ts&play_token=cOYtGI8LYJ
-UK| SKY HISTORY/H2 HD,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1014336&extension=ts&play_token=kf1C7c9uDQ
-UK| NAT GEO +1,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1014334&extension=ts&play_token=oPxznEiJmv
-UK| CRIME INVESTIGATION +1,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=1014333&extension=ts&play_token=OsVpTZiXSD
-UK| 5 SELECT,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=164005&extension=ts&play_token=TSTcwlBEXP
-UK| TRAVEL CHANNEL,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:C1:BF:64&stream=79718&extension=ts&play_token=CyIdNH2W9t
-
+新闻频道,http://doubleclicktv.live/70376812/52663544/277194
+UK: BBC NEWS FHD,http://doubleclicktv.live/70376812/52663544/277195
+UK: BBC News,http://doubleclicktv.live/70376812/52663544/277194
+UK: CNN UK,http://doubleclicktv.live/70376812/52663544/277193
+UK: Euronews,http://doubleclicktv.live/70376812/52663544/277192
+UK: London Live,http://doubleclicktv.live/70376812/52663544/277191
+UK: Sky News HD,http://doubleclicktv.live/70376812/52663544/277190
+UK: Sky News,http://doubleclicktv.live/70376812/52663544/277189
+UK: Dunya News,http://doubleclicktv.live/70376812/52663544/277188
+UK: FRANCE 24 FHD,http://doubleclicktv.live/70376812/52663544/277187
+UK: GEO News,http://doubleclicktv.live/70376812/52663544/277186
+UK: IRE  RTE News,http://doubleclicktv.live/70376812/52663544/277185
+UK: CNBC HD,http://doubleclicktv.live/70376812/52663544/277184
+UK: PBS America,http://doubleclicktv.live/70376812/52663544/277183
+UK: GB News,http://doubleclicktv.live/70376812/52663544/277182
+UK: CNN HD,http://doubleclicktv.live/70376812/52663544/277181
+UK: TRT World HD,http://doubleclicktv.live/70376812/52663544/277180
+UK: Russia Today HD,http://doubleclicktv.live/70376812/52663544/277179
+UK: Sky News FHD,http://doubleclicktv.live/70376812/52663544/277178
+UK: France 24 HD,http://doubleclicktv.live/70376812/52663544/277177
+UK: Bloomberg HD,http://doubleclicktv.live/70376812/52663544/277176
+UK: BBC News HD,http://doubleclicktv.live/70376812/52663544/277175
+UK: Al Jazeera HD,http://doubleclicktv.live/70376812/52663544/277174
+UK: Info Wars,http://doubleclicktv.live/70376812/52663544/277173
+UK: Talk TV,http://doubleclicktv.live/70376812/52663544/277172
+UK: Court TV,http://doubleclicktv.live/70376812/52663544/277171
+UK: Hum Europe,http://doubleclicktv.live/70376812/52663544/277170
+体育频道,http://doubleclicktv.live/70376812/52663544/277194
+UK: Sky Sports Main Event FHD 50fps,http://doubleclicktv.live/70376812/52663544/276918
+UK: Sky Sports F1 FHD 50fps,http://doubleclicktv.live/70376812/52663544/276927
+UK: Sky Sports Tennis FHD 50fps,http://doubleclicktv.live/70376812/52663544/318045
+UK: Sky Sports Arena FHD 50fps,http://doubleclicktv.live/70376812/52663544/276933
+UK: Sky Sports Cricket FHD 50fps,http://doubleclicktv.live/70376812/52663544/276930
+UK: Sky Sports Football FHD 50fps,http://doubleclicktv.live/70376812/52663544/276924
+UK: Sky Sports Golf FHD 50fps,http://doubleclicktv.live/70376812/52663544/276921
+UK: Sky Sports Mix FHD 50fps,http://doubleclicktv.live/70376812/52663544/276915
+UK: Sky Sports News FHD 50fps,http://doubleclicktv.live/70376812/52663544/276912
+UK: Sky Sports Action FHD 50fps,http://doubleclicktv.live/70376812/52663544/276909
+UK: Sky Sports Premier League FHD 50fps,http://doubleclicktv.live/70376812/52663544/276906
+UK: Sky Sports Racing FHD 50fps,http://doubleclicktv.live/70376812/52663544/276903
+UK: TNT Sport Ultimate 4K,http://doubleclicktv.live/70376812/52663544/276789
+UK: TNT Sport 1 50FPS,http://doubleclicktv.live/70376812/52663544/276802
+UK: TNT Sport 2 50FPS,http://doubleclicktv.live/70376812/52663544/276801
+UK: TNT Sport 3 50FPS,http://doubleclicktv.live/70376812/52663544/276800
+UK: TNT Sport 4 50FPS,http://doubleclicktv.live/70376812/52663544/276799
+UK: TNT Sport 5,http://doubleclicktv.live/70376812/52663544/276890
+UK: TNT Sport 6,http://doubleclicktv.live/70376812/52663544/276889
+UK: TNT Sport 7,http://doubleclicktv.live/70376812/52663544/276888
+UK: TNT Sport 8,http://doubleclicktv.live/70376812/52663544/276887
+UK: TNT Sport 9,http://doubleclicktv.live/70376812/52663544/276886
+UK: TNT Sport 10,http://doubleclicktv.live/70376812/52663544/276885
+UK: DAZN1 FHD,http://doubleclicktv.live/70376812/52663544/276786
+UK: Boxnation HD,http://doubleclicktv.live/70376812/52663544/276884
+UK: BoxNation,http://doubleclicktv.live/70376812/52663544/276883
+UK: Sporty Stuff HD,http://doubleclicktv.live/70376812/52663544/276882
+UK: Eurosport 1 FHD,http://doubleclicktv.live/70376812/52663544/276881
+UK: Eurosport 2 FHD,http://doubleclicktv.live/70376812/52663544/276879
+UK: Viaplay Xtra  FHD,http://doubleclicktv.live/70376812/52663544/276877
+UK: LaLigaTV FHD,http://doubleclicktv.live/70376812/52663544/276875
+UK: MUTV FHD,http://doubleclicktv.live/70376812/52663544/276873
+UK: Viaplay Sports 1 FHD,http://doubleclicktv.live/70376812/52663544/276870
+UK: Viaplay Sports UK 1 HD,http://doubleclicktv.live/70376812/52663544/276869
+UK: Viaplay Sports 2  FHD,http://doubleclicktv.live/70376812/52663544/276866
+UK: Viaplay Sports UK 2 HD,http://doubleclicktv.live/70376812/52663544/276865
+UK: Racing TV  FHD,http://doubleclicktv.live/70376812/52663544/276862
+UK: Racing TV HD,http://doubleclicktv.live/70376812/52663544/276861
+UK: Eurosport 1 SD,http://doubleclicktv.live/70376812/52663544/276860
+BBC Red Button 1,http://doubleclicktv.live/70376812/52663544/276858
+BBC Red Button 2,http://doubleclicktv.live/70376812/52663544/276857
+BBC Red Button 3,http://doubleclicktv.live/70376812/52663544/276856
+BBC Red Button 4,http://doubleclicktv.live/70376812/52663544/276855
+BBC Red Button 5,http://doubleclicktv.live/70376812/52663544/276854
+BBC Red Button 6,http://doubleclicktv.live/70376812/52663544/276853
+BBC Red Button 7,http://doubleclicktv.live/70376812/52663544/276852
+BBC Red Button 8,http://doubleclicktv.live/70376812/52663544/276851
+BBC Red Button 9,http://doubleclicktv.live/70376812/52663544/276850
+BBC Red Button 10,http://doubleclicktv.live/70376812/52663544/276849
+BBC Red Button 11,http://doubleclicktv.live/70376812/52663544/276848
+BBC Red Button 12,http://doubleclicktv.live/70376812/52663544/276847
+BBC Red Button 13,http://doubleclicktv.live/70376812/52663544/276846
+BBC Red Button 14,http://doubleclicktv.live/70376812/52663544/276845
+BBC Red Button 15,http://doubleclicktv.live/70376812/52663544/276844
+UK: LFC TV FHD,http://doubleclicktv.live/70376812/52663544/276843
+UK: BT Sport Mosaic 1,http://doubleclicktv.live/70376812/52663544/276840
+UK: BT Sport Mosaic 2,http://doubleclicktv.live/70376812/52663544/276835
+WWE Network:,http://doubleclicktv.live/70376812/52663544/276834
+CBS Sports Network,http://doubleclicktv.live/70376812/52663544/276833
+Willow Cricket,http://doubleclicktv.live/70376812/52663544/276832
+UFC FIGHT PASS,http://doubleclicktv.live/70376812/52663544/276831
+UK: Sky Sports Arena FHD HEVC 25fps,http://doubleclicktv.live/70376812/52663544/276830
+UK: Sky Sports Cricket FHD HEVC 25fps,http://doubleclicktv.live/70376812/52663544/276829
+UK: Sky Sports F1 FHD HEVC 25fps,http://doubleclicktv.live/70376812/52663544/276828
+UK: Sky Sports Football FHD HEVC 25fps,http://doubleclicktv.live/70376812/52663544/276827
+UK: Sky Sports Golf FHD HEVC 25fps,http://doubleclicktv.live/70376812/52663544/276826
+UK: Sky Sports Main Event FHD HEVC 25fps,http://doubleclicktv.live/70376812/52663544/276825
+UK: Sky Sports Mix FHD HEVC 25fps,http://doubleclicktv.live/70376812/52663544/276824
+UK: Sky Sports News FHD HEVC 25fps,http://doubleclicktv.live/70376812/52663544/276823
+UK: Sky Sports NFL/ACTION FHD HEVC 25fps,http://doubleclicktv.live/70376812/52663544/276822
+UK: Sky Sports Premier League FHD HEVC 25fps,http://doubleclicktv.live/70376812/52663544/276821
+UK: Sky Sports Racing FHD HEVC 25fps,http://doubleclicktv.live/70376812/52663544/276820
+UK: Eurosport 3,http://doubleclicktv.live/70376812/52663544/276819
+UK: Eurosport 4,http://doubleclicktv.live/70376812/52663544/276818
+UK: Eurosport 5,http://doubleclicktv.live/70376812/52663544/276817
+Sky Red Button 01,http://doubleclicktv.live/70376812/52663544/276816
+Sky Red Button 02,http://doubleclicktv.live/70376812/52663544/276815
+Sky Red Button 03,http://doubleclicktv.live/70376812/52663544/276814
+Sky Red Button 04,http://doubleclicktv.live/70376812/52663544/276813
+Sky Red Button 05,http://doubleclicktv.live/70376812/52663544/276812
+Sky Red Button 06,http://doubleclicktv.live/70376812/52663544/276811
+Sky Red Button 07,http://doubleclicktv.live/70376812/52663544/276810
+Sky Red Button 08,http://doubleclicktv.live/70376812/52663544/276809
+Sky Red Button 09,http://doubleclicktv.live/70376812/52663544/276808
+Sky Red Button 10,http://doubleclicktv.live/70376812/52663544/276807
+Sky Red Button 11,http://doubleclicktv.live/70376812/52663544/276798
+Sky Red Button 12,http://doubleclicktv.live/70376812/52663544/276797
+Sky Red Button 13,http://doubleclicktv.live/70376812/52663544/276796
+Sky Red Button 14,http://doubleclicktv.live/70376812/52663544/276795
+Sky Red Button 15,http://doubleclicktv.live/70376812/52663544/276794
+Sky Red Button 16,http://doubleclicktv.live/70376812/52663544/276793
+Sky Red Button 17,http://doubleclicktv.live/70376812/52663544/276792
+Sky Red Button 18,http://doubleclicktv.live/70376812/52663544/276791
+Sky Red Button 19,http://doubleclicktv.live/70376812/52663544/276790
+UK: Premier Sport 1 (IRE),http://doubleclicktv.live/70376812/52663544/276788
+UK: Premier Sport 2 (IRE),http://doubleclicktv.live/70376812/52663544/276787
+少儿频道,http://doubleclicktv.live/70376812/52663544/277194
+UK: BabyTV,http://doubleclicktv.live/70376812/52663544/277152
+UK: Boomerang,http://doubleclicktv.live/70376812/52663544/277151
+UK: Boomerang+1,http://doubleclicktv.live/70376812/52663544/277150
+UK: Boomerang FHD,http://doubleclicktv.live/70376812/52663544/277149
+UK: Cartoon Network FHD,http://doubleclicktv.live/70376812/52663544/277148
+UK: Cartoon Network,http://doubleclicktv.live/70376812/52663544/277147
+UK: Cartoonito,http://doubleclicktv.live/70376812/52663544/277146
+UK: CBBC FHD,http://doubleclicktv.live/70376812/52663544/277145
+UK: CBeebies FHD,http://doubleclicktv.live/70376812/52663544/277144
+UK: Nick Jr. FHD,http://doubleclicktv.live/70376812/52663544/277143
+UK: Nick Jr.,http://doubleclicktv.live/70376812/52663544/277142
+UK: Nick Jr. +1,http://doubleclicktv.live/70376812/52663544/277141
+UK: Nick  Jr. Too,http://doubleclicktv.live/70376812/52663544/277140
+UK: Nickelodeon FHD,http://doubleclicktv.live/70376812/52663544/277139
+UK: Nickelodeon +1,http://doubleclicktv.live/70376812/52663544/277138
+UK: Nickelodeon,http://doubleclicktv.live/70376812/52663544/277137
+UK: Nicktoons,http://doubleclicktv.live/70376812/52663544/277136
+UK: POP,http://doubleclicktv.live/70376812/52663544/277135
+UK: POP+1,http://doubleclicktv.live/70376812/52663544/277134
+UK: POP Max,http://doubleclicktv.live/70376812/52663544/277133
+UK: POP Max+1,http://doubleclicktv.live/70376812/52663544/277132
+UK: Tiny Pop,http://doubleclicktv.live/70376812/52663544/277131
+UK: Tiny Pop+1,http://doubleclicktv.live/70376812/52663544/277130
+UK: Sky Kids FHD,http://doubleclicktv.live/70376812/52663544/277120
+UK: Discovery FHD,http://doubleclicktv.live/70376812/52663544/277114
+UK: Discovery+1,http://doubleclicktv.live/70376812/52663544/277112
+UK: Disc.History+1,http://doubleclicktv.live/70376812/52663544/277110
+UK: Disc.Sci+1,http://doubleclicktv.live/70376812/52663544/277108
+UK: Disc.Turbo+1,http://doubleclicktv.live/70376812/52663544/277106
+UK: Nat Geo FHD,http://doubleclicktv.live/70376812/52663544/277101
+UK: Nat Geo Wild FHD,http://doubleclicktv.live/70376812/52663544/277100
+UK: Sky Crime FHD,http://doubleclicktv.live/70376812/52663544/277097
+UK: Sky Documentries FHD,http://doubleclicktv.live/70376812/52663544/277095
+UK: Sky History FHD,http://doubleclicktv.live/70376812/52663544/277094
+UK: Sky History 2 FHD,http://doubleclicktv.live/70376812/52663544/277093
+UK: Sky Nature FHD,http://doubleclicktv.live/70376812/52663544/277092
+娱乐综合,http://doubleclicktv.live/70376812/52663544/277194
+UK: Animal Planet,http://doubleclicktv.live/70376812/52663544/277117
+UK: Animal Planet +1,http://doubleclicktv.live/70376812/52663544/277116
+UK: Crime & Investigation FHD,http://doubleclicktv.live/70376812/52663544/277115
+UK: Food Network,http://doubleclicktv.live/70376812/52663544/277105
+UK: Food Network+1,http://doubleclicktv.live/70376812/52663544/277104
+UK: Investigation Discovery,http://doubleclicktv.live/70376812/52663544/277103
+UK: Investigation Discovery +1,http://doubleclicktv.live/70376812/52663544/277102
+UK: BBC One South East,http://doubleclicktv.live/70376812/52663544/276783
+UK: BBC One NI FHD,http://doubleclicktv.live/70376812/52663544/276782
+UK: BBC One Wal FHD,http://doubleclicktv.live/70376812/52663544/276781
+UK: BBC Two Wal FHD,http://doubleclicktv.live/70376812/52663544/276780
+UK: BBC One ScotFHD,http://doubleclicktv.live/70376812/52663544/276778
+UK: ITV Anglia East HD,http://doubleclicktv.live/70376812/52663544/276777
+UK: ITV Meridian North HD,http://doubleclicktv.live/70376812/52663544/276774
+UK: ITV Meridian South HD,http://doubleclicktv.live/70376812/52663544/276773
+UK: ITV Tyne Tees HD,http://doubleclicktv.live/70376812/52663544/276772
+UK: ITV Wales HD,http://doubleclicktv.live/70376812/52663544/276771
+UK: ITV West Country West HD,http://doubleclicktv.live/70376812/52663544/276770
+UK: STV Central East Region (UK Regional),http://doubleclicktv.live/70376812/52663544/276769
+UK: STV Central West Region (UK Regional),http://doubleclicktv.live/70376812/52663544/276768
+UK: STV North Region (UK Regional),http://doubleclicktv.live/70376812/52663544/276767
+UK: ITV Ireland,http://doubleclicktv.live/70376812/52663544/276766
+UK: ITV Scotland,http://doubleclicktv.live/70376812/52663544/276765
+UK: BBC One London,http://doubleclicktv.live/70376812/52663544/276764
+UK: BBC One North West,http://doubleclicktv.live/70376812/52663544/276763
+UK: ITV London,http://doubleclicktv.live/70376812/52663544/276762
+UK: BBC Two NI,http://doubleclicktv.live/70376812/52663544/276761
+UK: ITV Central West,http://doubleclicktv.live/70376812/52663544/276760
+UK: BBC Alba,http://doubleclicktv.live/70376812/52663544/276759
+UK: BBC One West Midlands,http://doubleclicktv.live/70376812/52663544/276758
+UK: BBC One East Midlands,http://doubleclicktv.live/70376812/52663544/276757
+UK: BBC One North East & Cumbria,http://doubleclicktv.live/70376812/52663544/276756
+UK: BBC One FHD,http://doubleclicktv.live/70376812/52663544/276755
+UK: BBC Two FHD,http://doubleclicktv.live/70376812/52663544/276752
+UK: BBC Three HD,http://doubleclicktv.live/70376812/52663544/276749
+UK: BBC Entertainment,http://doubleclicktv.live/70376812/52663544/276748
+UK: ITV FHD,http://doubleclicktv.live/70376812/52663544/276747
+UK: ITV+1,http://doubleclicktv.live/70376812/52663544/276744
+UK: Channel 4 FHD,http://doubleclicktv.live/70376812/52663544/276743
+UK: Channel 4+1,http://doubleclicktv.live/70376812/52663544/276740
+UK: Channel 5 FHD,http://doubleclicktv.live/70376812/52663544/276739
+UK: Channel 5+1,http://doubleclicktv.live/70376812/52663544/276736
+UK: ITV2 FHD,http://doubleclicktv.live/70376812/52663544/276735
+UK: ITV3 FHD,http://doubleclicktv.live/70376812/52663544/276731
+UK: ITV4 FHD,http://doubleclicktv.live/70376812/52663544/276727
 
 🐉电影频道🎥,#genre#
 👉请添加售后唯一微信👈,https://cloud.lxweb.cn/f/W6OOfB/WXSP.mp4
